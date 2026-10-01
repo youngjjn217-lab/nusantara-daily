@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nusantara-daily
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    envVars:
+      - key: NUSANTARA_GNEWS_API_KEY
+        sync: false

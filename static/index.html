@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nusantara Daily</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;700;800;900&family=Noto+Sans+KR:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/static/styles.css?v=1.0.0">
+</head>
+<body>
+
+<div class="sky"><div class="blob blob1"></div><div class="blob blob2"></div><div class="blob blob3"></div></div>
+
+<div class="wrap">
+  <header class="masthead glass">
+    <div class="brand">Nusantara <em>Daily</em></div>
+    <div class="life-strip">
+      <span class="chip"><span class="live-dot" id="liveDot"></span><span id="lastUpdated">불러오는 중…</span></span>
+    </div>
+  </header>
+
+  <section class="dashboard glass">
+    <div class="clocks">
+      <div class="clock"><span class="city">자카르타</span><span class="tz">WIB</span><span class="time" id="clockWIB">—</span></div>
+      <div class="clock"><span class="city">발리</span><span class="tz">WITA</span><span class="time" id="clockWITA">—</span></div>
+      <div class="clock"><span class="city">서울</span><span class="tz">KST</span><span class="time" id="clockKST">—</span></div>
+    </div>
+    <div class="dash-divider"></div>
+    <div class="markets" id="marketTickers"></div>
+  </section>
+
+  <section class="hero glass">
+    <div class="hero-top">
+      <span class="hero-eyebrow"><span class="live-dot"></span>오늘의 핵심 브리핑</span>
+      <span class="hero-date" id="heroDate"></span>
+    </div>
+    <div class="hero-grid" id="heroGrid"></div>
+  </section>
+
+  <div id="errorBanner" class="error-banner" hidden></div>
+
+  <div class="controls glass">
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="searchInput" type="text" placeholder="제목·요약·매체로 검색 (영어 키워드 권장) — 예: rupiah, Jakarta, nickel" autocomplete="off">
+    </div>
+    <label class="fact-toggle">
+      <span id="switchEl" class="switch" data-on="true" role="switch" aria-checked="true" tabindex="0"><span class="knob"></span></span>
+      사실 보도만 보기
+    </label>
+    <button class="scrap-btn" id="scrapBtn" data-active="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 3H7a2 2 0 0 0-2 2v16l7-4 7 4V5a2 2 0 0 0-2-2z"/></svg>
+      스크랩 <span id="scrapCount">0</span>
+    </button>
+    <button class="refresh-btn" id="refreshBtn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
+      새로고침
+    </button>
+  </div>
+
+  <nav class="tabs" id="tabs"></nav>
+  <div class="scrap-heading" id="scrapHeading" hidden></div>
+  <div id="viewNotice" class="view-notice" hidden></div>
+
+  <div class="layout">
+    <main class="feed" id="feed"></main>
+
+    <aside class="rail">
+      <div class="panel glass">
+        <h3>오늘의 팩트체크 현황</h3>
+        <div class="fact-stats">
+          <div class="fact-row"><span>수집된 기사</span><span class="n" id="statTotal">0</span></div>
+          <div class="fact-row verified"><span>사실 보도로 확인</span><span class="n" id="statNews">0</span></div>
+          <div class="fact-row excluded"><span>오피니언 제외</span><span class="n" id="statOpinion">0</span></div>
+        </div>
+        <div class="bar-track"><div class="bar-fill" id="statBar"></div></div>
+      </div>
+      <div class="panel glass">
+        <h3>카테고리 분포</h3>
+        <div id="statList"></div>
+      </div>
+      <div class="panel glass">
+        <h3>연동 매체</h3>
+        <ul class="src-list" id="srcList"></ul>
+      </div>
+      <div class="note">
+        GNews.io(실제 요약) 또는 Google News RSS(인도네시아 에디션)에서 카테고리별로 기사를 가져와 제목에 "인도네시아 신호어 + 카테고리 키워드"가 있는 것만 통과시킵니다. 같은 사건을 여러 매체가 보도하면 하나의 카드로 묶어 "교차 확인"으로 표시합니다. 뉴스/오피니언 구분과 번역은 모두 자동 처리된 참고용이며, 정확한 내용은 항상 "원문 보기"로 확인하세요.
+      </div>
+    </aside>
+  </div>
+
+  <footer class="app-footer">
+    <span>Nusantara Daily <span class="accent">v1.0.0</span></span>
+    <span class="sep">·</span>
+    <span>제작 Kim Young Jin</span>
+    <span class="sep">·</span>
+    <span>Copyright © 2026 Kim Young Jin. All rights reserved.</span>
+  </footer>
+</div>
+
+<script src="/static/app.js?v=1.0.0"></script>
+</body>
+</html>
