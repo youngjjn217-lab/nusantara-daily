@@ -27,6 +27,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import sys
 import threading
 import time
 import xml.etree.ElementTree as ET
@@ -37,9 +38,20 @@ from typing import Any
 
 import requests
 
+
+def _app_dir() -> Path:
+    """Directory to look for config.json in. A PyInstaller --onefile build
+    extracts to a fresh temp folder every run, so a config.json placed there
+    would be invisible next time; read it from beside the actual .exe
+    instead. Running from source, this is just the project folder."""
+    if getattr(sys, "frozen", False):
+        return Path(sys.executable).resolve().parent
+    return Path(__file__).resolve().parent
+
+
 CACHE_DIR = Path.home() / ".nusantara_daily"
 CACHE_PATH = CACHE_DIR / "news_cache.json"
-CONFIG_PATH = Path(__file__).resolve().parent / "config.json"
+CONFIG_PATH = _app_dir() / "config.json"
 
 REQUEST_TIMEOUT = 12
 GNEWS_MAX_ITEMS_PER_CATEGORY = 6

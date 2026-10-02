@@ -1,0 +1,5 @@
+# Extra packages needed only to build/run the Windows desktop app
+# (NusantaraDaily.exe). Kept separate from requirements.txt so the web/cloud
+# deployment never tries to install GUI toolkit dependencies.
+pywebview>=5.3
+pyinstaller>=6.0.0

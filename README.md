@@ -1,10 +1,10 @@
 # Nusantara Daily
 
-인도네시아 거주 한국인을 위한 로컬 웹앱입니다. 인도네시아 매체 뉴스를 카테고리별로 모아 한국어로 요약하고, 사실 보도와 오피니언을 구분하며, 환율·증시·세계시각을 한 화면에서 보여줍니다.
+인도네시아 거주 한국인을 위한 뉴스 브리핑 앱입니다. 인도네시아 매체 뉴스를 카테고리별로 모아 한국어로 요약하고, 사실 보도와 오피니언을 구분하며, 환율·증시·세계시각을 한 화면에서 보여줍니다. 세 가지 방식으로 쓸 수 있습니다: **로컬 웹앱**, **Windows 실행 파일(.exe)**, **GitHub Pages 공개 링크**.
 
 **버전:** v1.0.0 · **제작:** Kim Young Jin · **Copyright (c) 2026 Kim Young Jin. All rights reserved.**
 
-## 실행
+## 1. 로컬 웹앱으로 실행
 
 1. Python 3.10 이상 설치
 2. `run.bat` 더블클릭 (첫 실행 시 `requirements.txt` 기준으로 패키지 자동 설치)
@@ -16,6 +16,31 @@
 python -m pip install -r requirements.txt
 python server.py
 ```
+
+## 2. Windows 실행 파일(.exe)로 만들기
+
+Python 설치 없이 다른 사람에게 파일을 건네 바로 실행하게 하고 싶을 때 씁니다. Nusantara Market Desk와 같은 방식(PyInstaller + PyWebView 전용 창)입니다.
+
+1. `build_exe.bat` 더블클릭 — `requirements.txt`·`requirements-desktop.txt`를 설치하고 `dist\NusantaraDaily.exe`를 만듭니다(처음엔 1~2분 걸릴 수 있습니다). 이 폴더의 `config.json`이 있으면 `dist` 폴더에 자동으로 복사됩니다.
+2. `dist` 폴더 전체(또는 `NusantaraDaily.exe` + 그 옆의 `config.json`)를 다른 사람에게 전달하면, 더블클릭만으로 전용 창에서 실행됩니다.
+3. `config.json`을 안 넣고 배포해도 동작합니다 — GNews 키가 없으면 자동으로 Google News RSS(요약 없음) 방식으로 대체됩니다.
+
+같은 와이파이에 있는 핸드폰에서 보려면, PC의 내부 IP(예: `192.168.0.5`)로 `http://192.168.0.5:8766`에 접속하면 됩니다(exe가 실행 중일 때만).
+
+## 3. GitHub Pages로 공개 링크 만들기 (서버 없음, 무료)
+
+Render 같은 별도 호스팅 없이 GitHub만으로 동작합니다. `.github/workflows`의 두 Action이 주기적으로 뉴스(3시간마다)·환율/증시(30분마다)를 가져와 `docs/data/*.json`에 커밋하고, GitHub Pages가 `docs/` 폴더를 정적 웹사이트로 서빙합니다. 카드 인증이나 별도 서버 계정이 필요 없습니다.
+
+저장소에는 이미 다음이 설정되어 있습니다:
+- Actions 비밀값 `NUSANTARA_GNEWS_API_KEY` (GNews 키, 이미 등록됨)
+- `docs/data/news.json`, `docs/data/markets.json` 초기 데이터
+
+**GitHub Pages만 켜면 됩니다** (딱 한 번):
+1. 저장소 → **Settings** → **Pages**
+2. **Source**를 **Deploy from a branch**로, **Branch**를 **main** / **docs** 폴더로 선택 → **Save**
+3. 1~2분 후 `https://youngjjn217-lab.github.io/nusantara-daily/` 에서 열립니다
+
+이후로는 완전히 자동입니다. Actions 탭에서 "Update news data"/"Update market data" 워크플로가 주기적으로 실행되는 것을 볼 수 있고, 필요하면 **Run workflow** 버튼으로 즉시 갱신할 수도 있습니다.
 
 ## 동작 방식
 
@@ -52,9 +77,16 @@ python server.py
 
 ```
 Nusantara Daily/
-  server.py           FastAPI 서버, API 엔드포인트, 정적 파일 서빙
-  news_fetcher.py      뉴스 수집·분류·교차확인·번역·캐싱
-  market_fetcher.py    환율·증시 시세 수집·캐싱 (yfinance)
-  static/              프론트엔드 (index.html, app.js, styles.css)
-  run.bat              패키지 설치 + 서버 실행
+  server.py                   FastAPI 서버 (로컬 웹앱·exe 공용)
+  app_desktop.py               PyWebView 데스크톱 진입점 (exe용)
+  news_fetcher.py               뉴스 수집·분류·교차확인·번역·캐싱
+  market_fetcher.py             환율·증시 시세 수집·캐싱 (yfinance)
+  build_static_data.py          GitHub Pages용 정적 JSON 생성 스크립트
+  static/                       로컬 웹앱·exe 프론트엔드
+  docs/                         GitHub Pages 프론트엔드 + data/*.json
+  .github/workflows/            뉴스·환율 자동 갱신 Action
+  run.bat                       로컬 웹앱 실행
+  build_exe.bat                 .exe 빌드
+  requirements.txt               웹앱/exe/Pages 공용 의존성
+  requirements-desktop.txt       exe 빌드 전용 의존성 (pywebview, pyinstaller)
 ```

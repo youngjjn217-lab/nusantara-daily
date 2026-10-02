@@ -1,0 +1,460 @@
+{
+  "items": [
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 대통령, 새 외무장관 임명",
+      "summary": "JAKARTA (Reuters) -- 인도네시아의 대통령 Prabowo Subianto는 목요일에 외무장관을 경력 외교관으로 교체했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/indonesia-president-appoints-new-foreign-minister2"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-president-appoints-new-foreign-minister-ce785ad3df88f621"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3984994-indonesia-president-appoints-new-foreign-minister"
+        }
+      ],
+      "published_at": "2026-10-01 10:03",
+      "sort_key": 1790849004.0,
+      "id": "1777186697273262845"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "ICJ? 아세안? 민사 소송? 인도네시아의 질식 연무에 대해 말레이시아, 다른 사람들은 무엇을 할 수 있습니까?",
+      "summary": "쿠알라룸푸르, 10월 1일 — 인도네시아 산불로 인한 안개가 말레이시아와 싱가포르 인근 지역을 한 달 이상 뒤덮고 학교를 폐쇄하고 호흡기 불만을 보내고 있습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/icj-asean-civil-suits-what-can-malaysia-others-do-about-indonesias-choking-haze/237242"
+        }
+      ],
+      "published_at": "2026-10-01 06:14",
+      "sort_key": 1790835282.0,
+      "id": "3851222268880559477"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "쁘라보보 대통령, 인도네시아 경찰청장 리스트요 시짓 (Listyo Sigit) 을 마약단속국장으로 교체",
+      "summary": "국립 마약 청장 수유디 아리오 세토 (Suyudi Ario Seto) 는 인도네시아의 새로운 경찰청장이 될 예정입니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-new-police-chief-suyudi-ario-seto-6423421"
+        }
+      ],
+      "published_at": "2026-10-01 06:12",
+      "sort_key": 1790835155.0,
+      "id": "1330370005588254763"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "9월 인도네시아 소비자 인플레이션 가속화",
+      "summary": "잉 시안 웡 (Ying Xian Wong)\n9월 인도네시아의 소비자 인플레이션은 식품 가격 상승으로 인해 상승했다.\n9월 소비자물가지수는 1년 전보다 3.28% 상승해 8월의 3.19% 보다 상승했다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-s-consumer-inflation-accelerated-in-september-ce785ad3dd88f027"
+        }
+      ],
+      "published_at": "2026-10-01 04:40",
+      "sort_key": 1790829632.0,
+      "id": "2676110423578322243"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아, 2단계 다운스트림에서 전기차 배터리, BESS 확장 목표",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2QtX2NSbFg3aGFaUHd5eDZuSlM4MGtSZFBFdVJBdlVWQTg3ZWlmYWhVR3Zfd29TcEFHdkU5LXR0RENtbjlHSTFSUWNUbUw5OHpXcGpBbjRVSkxzc1FSZnYzVjkxNUhNSm9zQXJ5S3NuUkl3WDFDaGRaaFZ6VzFrZUJWRVRBVnBnUmRfemM5MzQ0S3JpVEZfMmI4WE1LR2FSZEpMN2hQTDBMeDjSAasBQVVfeXFMUHdkLV9jUmxYN2hhWlB3eXg2bkpTODBrUmRQRXVSQXZVVkE4N2VpZmFoVUd2X3dvU3BBR3ZFOS10dERDbW45R0kxUlFjVG1MOTh6V3BqQW40VUpMc3NRUmZ2M1Y5MTVITUpvc0FyeUtzblJJd1gxQ2hkWmhWelcxa2VCVkVUQVZwZ1JkX3pjOTM0NEtyaVRGXzJiOFhNS0dhUmRKTDdoUEwwTHg4?oc=5"
+        },
+        {
+          "name": "IDNFinancials",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1AtdFZ2RWRyVDRLSDlIelpFWm9LYkF5cHgyQ01tQmtTdENkX3BwYlJSZEJrSWo4Y1dsbUQzcU1iOEVxeEU0UEFDOGJPU1NxWk1pUkcwNVhkZ05WamM2NjFoWU9fQUVHVEtVVjdFTW5qa1dmeEZtMDMwOU00cDFDUkNpd0JHWXN4bDU5a0FjMEFjbkliclZJaW5XQlpYSmxfa3lRSkVEYXhwOWZ6OUJZ?oc=5"
+        },
+        {
+          "name": "RRI.co.id",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFNnblh4dGZiaHFXVEZHNUFjRmk1YTFWdGJ4SVZPTGVwNWVscXRnamVkUGdSQ2VrZDEwLXNVTWdodnZWenN1NU91QllRcXpUZTBNUVp6dHFiczRpaW1UR0Jud3FERW5uT3hYbXlhdklLWXJTbHFmTUVlVDV6dDJRdDlBeWVLYmk0VFN6NFFWejdHa1lud20yQ3ZLM01sSmtOWTNqMmZwN3lfdkIx?oc=5"
+        }
+      ],
+      "published_at": "2026-10-01 03:40",
+      "sort_key": 1790826000.0,
+      "id": "2035153972303214569"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아 보건부 장관 부디 사디킨 (Budi Sadikin) 은 세계보건기구 (WHO) 의 첫 번째 동남아시아 총책임자가 되기를",
+      "summary": "자카르타: 동남아시아는 세계보건기구 (WHO) 의 수장을 배출한 적이 없으며 인도네시아의 부디 구나디 사디킨 (Budi Gunadi Sadikin) 은 이를 바꾸고 싶어합니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/30/indonesias-health-minister-budi-sadikin-hopes-to-be-first-south-east-asian-chief-at-who"
+        }
+      ],
+      "published_at": "2026-09-30 11:27",
+      "sort_key": 1790767620.0,
+      "id": "784998383548290205"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "반독점 사례의 행동 변화를 제공하는 인도네시아 자동차 시장",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MLex",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjVtb2ZiMzJqX1MtY1RUQ3ZqRGUta25CcG5ZSmdvYVoxR2VrLW1kREU4SVZsQmJ0UzRlbzk0ellPSlBLVFhJZkZWbklNWFdJdmViT3Jielp1cWNuQ3prT2E5eDdJQzl0YXF1R01TNDZPTFlYczZ1b3VmeEVBSm9PRFNXT2Vpcm5pbHBtWlZzeWYtdWExYXBiUlVGZGdzWjI0ZDFIZE9YTmZNaEd2b3N3U2tUNTU0OWt3TXY0LU5Md9IBWkFVX3lxTE5EMjZTczgzTDRUVEUzWU1ra2hNdDBjX1dNN3gxeXlVdkp3ZFU5RE9GUkdoYTQ1MlpoczdaUEN1VF9JdEVsb0tUbDBLVVR2MVZka3FhODJvSEd3Zw?oc=5"
+        }
+      ],
+      "published_at": "2026-09-30 06:00",
+      "sort_key": 1790748007.0,
+      "id": "3902110423705229616"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "피파 아세안 컵: 쿨스는 말레이시아가 싱가포르 쇼다운에서 인도네시아 드로우를 구축하기를 원합니다.",
+      "summary": "9월 29일, 자카르타 — 말레이시아 주장 디온 쿨스는 하리마우 말라야가 겔로라 붕 카르노 (GBK) 스타디움을 3점차로 떠나지 못해 실망했다고 인정했다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/sports/2026/09/29/fifa-asean-cup-cools-wants-malaysia-to-build-on-indonesia-draw-in-singapore-showdown/236975"
+        }
+      ],
+      "published_at": "2026-09-29 05:37",
+      "sort_key": 1790660222.0,
+      "id": "8637458774052285093"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아, 건강 보험사 BPJS Kesehatan에 $ 11억 투자",
+      "summary": "정부 성명서에 따르면 인도네시아 정부는 2026년 국가 기관이 적자를 충당할 수 있도록 건강 보험사 BPJS Kesehatan에 20조 루피아를 투입할 예정이다.\no BPJS...\n- 2026년 9월 28일 오후 10시 59분 (동부 일광절약시)\n- MarketScreener",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-to-inject-1-1-billion-into-health-insurer-bpjs-kesehatan-ce785addd888f426"
+        }
+      ],
+      "published_at": "2026-09-29 02:59",
+      "sort_key": 1790650766.0,
+      "id": "3160520602826119208"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "말레이시아는 아세안컵에서 10인 인도네시아를 상대로 돌파구를 찾지 못했다.",
+      "summary": "페탈링 자야: 말레이시아는 월요일 (9월 28일) 자카르타의 겔로라 붕 카르노 스타디움에서 열린 국제축구연맹 (FIFA) 아세안컵 A조 2차전에서 호스트 인도네시아에 0-0 무승부를 거두면서 1인 이점을 활용하지 못했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/sport/football/2026/09/28/malaysia-fail-to-find-breakthrough-against-10-man-indonesia-in-asean-cup"
+        }
+      ],
+      "published_at": "2026-09-28 15:33",
+      "sort_key": 1790609580.0,
+      "id": "7035475372990341318"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아의 재난 완화 마스터플랜은 시행과 지역사회 대비에 달려 있습니다.",
+      "summary": "일련의 재난으로 인해 인도네시아는 완화 마스터플랜을 작성해야 했습니다. 전문가들은 CNA에 17,000개 이상의 섬이 있는 국가에서 기능이 일관되게 연결되고 유지되도록 하는 것이 당면 과제 중 하나라고 말합니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-disaster-mitigation-plan-prevention-6408086"
+        }
+      ],
+      "published_at": "2026-09-27 22:00",
+      "sort_key": 1790546400.0,
+      "id": "1434981983496478621"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "아세안 컵에서 말레이시아가 인도네시아와 싸우는 동안 파이살은 겔로라에서 폭풍우를 진정시킬 준비가 되었습니다.",
+      "summary": "페탈링 자야: 축구 국가대표팀 윙어 파이살 할림은 겔로라 붕 카르노 스타디움의 적대적인 분위기에 동요하지 않으며, 월요일 (9월 28일) 에 열리는 FIFA 아세안 컵 A조 경기에서 말레이시아가 인도네시아를 상대할 때 정신적으로나 육체적으로 준비를 해야 한다고 팀원들에게 촉구했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/sport/football/2026/09/27/faisal-ready-to-calm-storm-at-gelora-as-malaysia-battle-indonesia-in-asean-cup"
+        }
+      ],
+      "published_at": "2026-09-27 11:51",
+      "sort_key": 1790509860.0,
+      "id": "524087986332306772"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "국제축구연맹 (FIFA) 아세안컵 개막전에서 외국 태생의 XI를 영입하기로 한 인도네시아의 결정은 논쟁을 불러일으킨다",
+      "summary": "인도네시아는 국제축구연맹 (FIFA) 아세안컵 개막전에서 모두 외국 출신으로 XI를 시작하며 귀화 선수와 현지 인재 개발에 대한 논쟁을 불러일으켰다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/sport/football/we-are-indonesian-coach-defends-foreign-born-xi-in-fifa-asean-cup-opener-against-singapore"
+        }
+      ],
+      "published_at": "2026-09-26 09:18",
+      "sort_key": 1790414328.0,
+      "id": "2913004641417772524"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "Cheng Hoe는 Harimau Malaya에게 아세안 컵에서 인도네시아를 상대로 ’함성을 질러라' 고 말합니다.",
+      "summary": "9월 26일, 자카르타 — 하리마우 말라야 임시 수석 코치 탄 청 회 (Tan Cheng Hoe) 는 겔로라 붕 카르노 스타디움 (Gelora Bung Karno Stadium, GBK) 에서 호스트 인도네시아를 상대할 때 선수들이 ’함성을 지르길' 원합니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/sports/2026/09/26/cheng-hoe-tells-harimau-malaya-to-ride-the-roar-against-indonesia-in-asean-cup/236582"
+        }
+      ],
+      "published_at": "2026-09-26 05:27",
+      "sort_key": 1790400472.0,
+      "id": "6341522721997071054"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아는 협동 조합 제도 대출에 대한 상환을 준비하고 있지만 기금은 아직 공개되지 않았습니다. 정부 문서에 따르면",
+      "summary": "인도네시아 재무부는 금요일에 대출 상환을 위해 $ 20억을 주 은행의 보유 계좌에 예치했으며, 대출이...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-readies-repayment-for-cooperative-scheme-loans-but-funds-not-yet-released-government-docu-ce785adfdd8dff2c"
+        }
+      ],
+      "published_at": "2026-09-25 08:53",
+      "sort_key": 1790326425.0,
+      "id": "2409858160735735845"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 중앙은행은 예상대로 금리를 안정적으로 유지하고 있다.",
+      "summary": "자카르타 (로이터) -- 인도네시아 중앙은행은 수요일 데스트리 다마얀티의 정부 임명 이후 첫 회의에서 금리를 안정적으로 유지했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/economy/indonesia-s-central-bank-holds-rates-steady-as-expected"
+        }
+      ],
+      "published_at": "2026-09-23 08:38",
+      "sort_key": 1790152695.0,
+      "id": "5077027287896103867"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아 페리 사고: 120명 이상의 실종 승객에 대한 수색이 계속됨에 따라 사망자 증가",
+      "summary": "인도네시아 페리 사고로 인한 사망자 수는 20명에 이릅니다. 여객선 처녀자리의 비극적인 전복 이후 자바해에서 비극적인 사건 수색 및 구조 작업이 계속되고 있습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1417245-indonesia-ferry-disaster-death-toll-rises-as-search-continues-for-over-120-missing-passengers"
+        }
+      ],
+      "published_at": "2026-09-23 05:42",
+      "sort_key": 1790142120.0,
+      "id": "6158088088445233444"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "ROI-인도네시아의 니켈 생산 커브는 시장에 확신을 주지 못합니다: 앤디 홈",
+      "summary": "ROI-인도네시아의 니켈 생산 연석에 대해 자세히 알아보기: Andy Home on Devdiscourse",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3981005-roi-indonesias-nickel-production-curbs-leave-market-unconvinced-andy-home"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/commentary/reuters-open-interest/indonesias-nickel-production-curbs-leave-market-unconvinced-2026-09-22/"
+        }
+      ],
+      "published_at": "2026-09-23 05:00",
+      "sort_key": 1790139633.0,
+      "id": "8052923894692004180"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아, 10년 만에 최대 규모의 아세안 주도의 방위 및 재난 대응 훈련 개최",
+      "summary": "자카르타: 19개국에서 약 2,200명의 군인과 민간인이 인도네시아에서 대규모 재난 대응 훈련에 참여하고 있습니다. 이 훈련은 아세안 국방장관 회의 플러스 (ADMM-Plus) 체제 하에서 10년 만에 가장 큰 규모의 훈련입니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/23/indonesia-hosts-largest-asean-led-defence-and-disaster-response-exercise-in-a-decade"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-hosts-largest-asean-led-defence-and-disaster-response-exercise-in-a-decade"
+        }
+      ],
+      "published_at": "2026-09-23 02:48",
+      "sort_key": 1790131680.0,
+      "id": "3151421866770265189"
+    },
+    {
+      "category": "tek",
+      "category_label": "테크·산업",
+      "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/business/01f-group-announces-investment-in-dana-indonesias-leading-digital-financial-company-reinforcing-long-term-confidence-in-asias-fintech-opportunity20260921100242/"
+        }
+      ],
+      "published_at": "2026-09-21 04:32",
+      "sort_key": 1789965162.0,
+      "id": "3588669590695929048"
+    },
+    {
+      "category": "tek",
+      "category_label": "테크·산업",
+      "title": "인도네시아의 무역 범위 및 기술 기회를 증진하기 위한 BRICS 멤버십 - 공식",
+      "summary": "인도네시아 정부 통신국 (BAKOM) 의 무하마드 코다리 (Muhammad Qodari) 국장은 스푸트니크에게 \"인도네시아는 브릭스를 다른 회원국과의 경제 관계를 확장하기 위한 다자간 플랫폼으로 보고 있다\" 고 말했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Sputnik News",
+          "url": "https://sputnikglobe.com/20260908/brics-membership-to-boost-indonesias-trade-reach-and-tech-opportunities--official-1124695117.html"
+        }
+      ],
+      "published_at": "2026-09-08 08:00",
+      "sort_key": 1788854400.0,
+      "id": "1661368035209982826"
+    }
+  ],
+  "categories": [
+    {
+      "id": "eco",
+      "label": "경제·증시",
+      "count": 3
+    },
+    {
+      "id": "pol",
+      "label": "정치·사회",
+      "count": 3
+    },
+    {
+      "id": "tek",
+      "label": "테크·산업",
+      "count": 2
+    },
+    {
+      "id": "car",
+      "label": "자동차",
+      "count": 2
+    },
+    {
+      "id": "int",
+      "label": "국제",
+      "count": 6
+    },
+    {
+      "id": "liv",
+      "label": "생활·환경",
+      "count": 5
+    }
+  ],
+  "sources": [
+    {
+      "name": "MarketScreener",
+      "count": 4
+    },
+    {
+      "name": "The Star",
+      "count": 4
+    },
+    {
+      "name": "Malay Mail",
+      "count": 3
+    },
+    {
+      "name": "Nikkei Asia",
+      "count": 2
+    },
+    {
+      "name": "Devdiscourse",
+      "count": 2
+    },
+    {
+      "name": "CNA",
+      "count": 2
+    },
+    {
+      "name": "The Straits Times",
+      "count": 2
+    },
+    {
+      "name": "ANTARA News",
+      "count": 1
+    },
+    {
+      "name": "IDNFinancials",
+      "count": 1
+    },
+    {
+      "name": "RRI.co.id",
+      "count": 1
+    },
+    {
+      "name": "MLex",
+      "count": 1
+    },
+    {
+      "name": "The News International",
+      "count": 1
+    },
+    {
+      "name": "Reuters",
+      "count": 1
+    },
+    {
+      "name": "ANI (Asian News International)",
+      "count": 1
+    },
+    {
+      "name": "Sputnik News",
+      "count": 1
+    }
+  ],
+  "last_updated": "2026-10-02 10:46:03",
+  "errors": {}
+}
