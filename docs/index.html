@@ -52,10 +52,14 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 3H7a2 2 0 0 0-2 2v16l7-4 7 4V5a2 2 0 0 0-2-2z"/></svg>
       스크랩 <span id="scrapCount">0</span>
     </button>
-    <button class="refresh-btn" id="refreshBtn">
+    <button class="refresh-btn" id="refreshBtn" title="가장 최근 자동 갱신 결과를 다시 불러옵니다">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
       새로고침
     </button>
+    <a class="refresh-btn" href="https://github.com/youngjjn217-lab/nusantara-daily/actions/workflows/update-news.yml" target="_blank" rel="noopener noreferrer" title="GitHub에 로그인된 소유자만 즉시 실행할 수 있습니다">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h7l-1 8 10-12h-7l1-8z"/></svg>
+      지금 바로 갱신
+    </a>
   </div>
 
   <nav class="tabs" id="tabs"></nav>
@@ -84,7 +88,7 @@
         <ul class="src-list" id="srcList"></ul>
       </div>
       <div class="note">
-        이 페이지는 GitHub Pages로 호스팅되는 정적 버전입니다. 뉴스는 3시간마다, 환율·증시는 30분마다 GitHub Actions가 자동으로 갱신합니다(서버 없음). "새로고침" 버튼은 즉시 다시 가져오지 않고, 가장 최근에 자동 갱신된 데이터를 다시 불러옵니다.
+        이 페이지는 GitHub Pages로 호스팅되는 정적 버전입니다. 뉴스는 20분마다, 환율·증시는 15분마다 GitHub Actions가 자동으로 갱신합니다(서버 없음). "새로고침"은 그 최신 결과를 다시 불러오고, "지금 바로 갱신"은 GitHub Actions를 즉시 실행하는 페이지로 이동합니다(저장소 소유자로 로그인되어 있어야 실행 버튼이 보입니다).
       </div>
     </aside>
   </div>
