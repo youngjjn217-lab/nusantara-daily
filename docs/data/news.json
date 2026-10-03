@@ -9,12 +9,12 @@
       "sources": [
         {
           "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXByZTNtNjBwQnUwWmFTMXlJNFdRcW9UbzJOMWRTMU1pTWFHQjBjclQxbTBPODFlN0tiNEV2MW1HTU5tcVlQR2haQTFTaXQ4SDNndV9OXzltZFR4S2VESThKaERKZFZScnRWSmd0SnJnWE55SFlzZUZJMnQwazdUakJfbElMcDN1d3JsQWx2OWxYTDc1dFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2V4LXg4S1RGektqT3FTa0pRSWJlTFhXYW1jSURTaU1LRGs1Y3VGaE8tMnFQZHpyUy1KWTc4WXJRVXNERmxldF9QSzFFRmgyMHNsaGNjeEZvZWNoSU9WWUFYczlMajlCUi11dGE3bWxOVnh4ZXdMSUhKY1hOSzd2WUt0cFo2SmlRWS1GWHNNRXk5SEdWMndR?oc=5"
         }
       ],
-      "published_at": "2026-10-03 07:48",
-      "sort_key": 1791013695.0,
-      "id": "8383587657115866334"
+      "published_at": "2026-10-03 07:45",
+      "sort_key": 1791013519.0,
+      "id": "8307220817698227006"
     },
     {
       "category": "car",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-03 00:16",
       "sort_key": 1790986560.0,
-      "id": "826367456006985608"
+      "id": "5707567676866010362"
     },
     {
       "category": "pol",
@@ -46,7 +46,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "1168974367428390666"
+      "id": "8369502020167209661"
     },
     {
       "category": "car",
@@ -62,7 +62,7 @@
       ],
       "published_at": "2026-10-02 07:14",
       "sort_key": 1790925273.0,
-      "id": "7624797373179327878"
+      "id": "5130978351040435001"
     },
     {
       "category": "pol",
@@ -86,7 +86,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "5431755748260967794"
+      "id": "5805250771724071694"
     },
     {
       "category": "int",
@@ -102,7 +102,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "239407260012064372"
+      "id": "3894415922634532415"
     },
     {
       "category": "pol",
@@ -118,7 +118,7 @@
       ],
       "published_at": "2026-10-01 06:12",
       "sort_key": 1790835155.0,
-      "id": "7333312180043364334"
+      "id": "5706048038764276732"
     },
     {
       "category": "eco",
@@ -134,7 +134,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "5512685566667814507"
+      "id": "2550581830019035836"
     },
     {
       "category": "liv",
@@ -150,7 +150,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "939548793825525137"
+      "id": "6593513780921629600"
     },
     {
       "category": "int",
@@ -166,7 +166,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "857047258246933181"
+      "id": "5764531205565994068"
     },
     {
       "category": "liv",
@@ -182,7 +182,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "4815621059108769413"
+      "id": "8522719804656364011"
     },
     {
       "category": "int",
@@ -198,7 +198,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "6382551748156788861"
+      "id": "3612003484380886765"
     },
     {
       "category": "liv",
@@ -214,7 +214,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "9059655799251603645"
+      "id": "1059700983734821482"
     },
     {
       "category": "int",
@@ -230,7 +230,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "311086199576220723"
+      "id": "8420345472513226707"
     },
     {
       "category": "int",
@@ -246,7 +246,7 @@
       ],
       "published_at": "2026-09-26 09:18",
       "sort_key": 1790414328.0,
-      "id": "1478089955287736284"
+      "id": "1710885801946216017"
     },
     {
       "category": "int",
@@ -262,7 +262,7 @@
       ],
       "published_at": "2026-09-26 05:27",
       "sort_key": 1790400472.0,
-      "id": "423451425792728854"
+      "id": "702099539726046186"
     },
     {
       "category": "pol",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-09-25 08:53",
       "sort_key": 1790326425.0,
-      "id": "5088632006591888311"
+      "id": "5375767361483158182"
     },
     {
       "category": "eco",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "1572799435681655708"
+      "id": "3689984029079592021"
     },
     {
       "category": "liv",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "7533141582809848064"
+      "id": "4505345038127725171"
     },
     {
       "category": "eco",
@@ -330,7 +330,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "3336758791072857620"
+      "id": "6394392309530388028"
     },
     {
       "category": "liv",
@@ -350,7 +350,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "7437712702513293076"
+      "id": "3944561612974499747"
     },
     {
       "category": "tek",
@@ -366,7 +366,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "2760063592241901119"
+      "id": "3188980226081771113"
     },
     {
       "category": "tek",
@@ -382,7 +382,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "5806955224925082531"
+      "id": "1183475499200569808"
     }
   ],
   "categories": [
@@ -479,6 +479,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-03 15:49:07",
+  "last_updated": "2026-10-03 18:55:04",
   "errors": {}
 }
