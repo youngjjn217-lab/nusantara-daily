@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아에서 독일 자동차를 더 저렴하게 만들기 위한 EU 관세 협정",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Jakarta Globe",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVVvRG9JTjJQaGRua0lIN2xhQVVjRGlvZzducThKbFJxNXhwV19PYUQzOXA2UVNqTnFJWE1KUnpXUzVKNHc4clk3Rkh4NDF6WHE4b1JXbW41Z2tjeHZvRlp2TncycnN3RklscGZSTmNIZDNHTU0xQlpiZnRwOTNjNVRnT1pfMUdCODAwMXdMSi1aaWZFODBGR1VLYlE?oc=5"
+        }
+      ],
+      "published_at": "2026-10-03 00:16",
+      "sort_key": 1790986560.0,
+      "id": "1806965644639755882"
+    },
+    {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아 대통령, 자문위원회를 위해 억만장자와 이슬람 지도자 선정",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "2495272219653935616"
+      "id": "7803778640776256230"
     },
     {
       "category": "car",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-10-02 07:14",
       "sort_key": 1790925273.0,
-      "id": "6669162920551593810"
+      "id": "5298504229307705558"
     },
     {
       "category": "pol",
@@ -54,7 +70,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "1943024128470654329"
+      "id": "886568868061569029"
     },
     {
       "category": "int",
@@ -70,7 +86,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3616163247758046975"
+      "id": "1901909923098102654"
     },
     {
       "category": "pol",
@@ -86,7 +102,7 @@
       ],
       "published_at": "2026-10-01 06:12",
       "sort_key": 1790835155.0,
-      "id": "4443924776968245554"
+      "id": "3069186718749109207"
     },
     {
       "category": "eco",
@@ -102,7 +118,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "8246177328221958157"
+      "id": "3812970771150744667"
     },
     {
       "category": "car",
@@ -112,13 +128,13 @@
       "type": "news",
       "sources": [
         {
-          "name": "idnfinancials.com",
+          "name": "IDNFinancials",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1AtdFZ2RWRyVDRLSDlIelpFWm9LYkF5cHgyQ01tQmtTdENkX3BwYlJSZEJrSWo4Y1dsbUQzcU1iOEVxeEU0UEFDOGJPU1NxWk1pUkcwNVhkZ05WamM2NjFoWU9fQUVHVEtVVjdFTW5qa1dmeEZtMDMwOU00cDFDUkNpd0JHWXN4bDU5a0FjMEFjbkliclZJaW5XQlpYSmxfa3lRSkVEYXhwOWZ6OUJZ?oc=5"
         }
       ],
       "published_at": "2026-10-01 03:40",
       "sort_key": 1790826000.0,
-      "id": "6016149865121292812"
+      "id": "282315650264810524"
     },
     {
       "category": "liv",
@@ -134,7 +150,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "7456187213739583747"
+      "id": "4843509076007048771"
     },
     {
       "category": "int",
@@ -150,7 +166,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "3879232876789855258"
+      "id": "7195210987918383326"
     },
     {
       "category": "liv",
@@ -166,7 +182,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "8552687159947696336"
+      "id": "8432516579466518672"
     },
     {
       "category": "int",
@@ -182,7 +198,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "6838090368792503961"
+      "id": "1507143826017773031"
     },
     {
       "category": "liv",
@@ -198,7 +214,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "2925558333269514314"
+      "id": "4932854277240332451"
     },
     {
       "category": "int",
@@ -214,7 +230,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "7240750927175610160"
+      "id": "8261609341529170716"
     },
     {
       "category": "int",
@@ -230,7 +246,7 @@
       ],
       "published_at": "2026-09-26 09:18",
       "sort_key": 1790414328.0,
-      "id": "2621224385982423779"
+      "id": "2028586653497574596"
     },
     {
       "category": "int",
@@ -246,7 +262,7 @@
       ],
       "published_at": "2026-09-26 05:27",
       "sort_key": 1790400472.0,
-      "id": "6260503279906055512"
+      "id": "2556702874751720549"
     },
     {
       "category": "pol",
@@ -262,7 +278,7 @@
       ],
       "published_at": "2026-09-25 08:53",
       "sort_key": 1790326425.0,
-      "id": "9195655003244069861"
+      "id": "2863666191325990130"
     },
     {
       "category": "eco",
@@ -278,7 +294,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "8088195802726928868"
+      "id": "1642864643611709805"
     },
     {
       "category": "liv",
@@ -294,7 +310,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "1365019534538460086"
+      "id": "2529373661523817342"
     },
     {
       "category": "eco",
@@ -314,7 +330,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "3112189093304167523"
+      "id": "8732127138484684233"
     },
     {
       "category": "liv",
@@ -334,7 +350,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "6327442632361513939"
+      "id": "6714545249971357522"
     },
     {
       "category": "tek",
@@ -350,7 +366,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "1422932036351713228"
+      "id": "1928564758309193430"
     },
     {
       "category": "tek",
@@ -366,7 +382,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "9138671806936170238"
+      "id": "5583532648216496457"
     }
   ],
   "categories": [
@@ -388,7 +404,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 2
+      "count": 3
     },
     {
       "id": "int",
@@ -431,6 +447,10 @@
       "count": 2
     },
     {
+      "name": "Jakarta Globe",
+      "count": 1
+    },
+    {
       "name": "U.S. News & World Report",
       "count": 1
     },
@@ -439,7 +459,7 @@
       "count": 1
     },
     {
-      "name": "idnfinancials.com",
+      "name": "IDNFinancials",
       "count": 1
     },
     {
@@ -459,6 +479,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-02 22:17:12",
+  "last_updated": "2026-10-03 01:14:10",
   "errors": {}
 }
