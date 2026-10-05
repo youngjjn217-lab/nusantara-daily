@@ -3,18 +3,70 @@
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "발리 호스피탈리티 베뉴 페레레난에서 무모한 오토바이에 맞서 단결 -- Pt Supper Social Group",
+      "title": "마크 마르케스 (Marc Márquez) 가 호르헤 마르틴 (Jorge Martín) 에서 모토그프 (motogp) 가 인도네시아 대결로 향하면서 문을 닫습니다.",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "PRLog",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHpoRHdDUE95NHJXVzZoOFNYaERCRzNsdXlKYnVnZUJkWXpDVm5ZbmRVWWNoYlduR0F4TzBmdEhaNDdwcWI3RnlYY0I5ek9odlNoRGVPVFJjM2lLZk5JNmhoRDk0azlVYlRUcXVJYUJyRjIyZ2p0SEtZRDFscWN6RTlGQ21HZG9kSEJaS0dCT3ZjN2ZxMWFScV9MalZoMm11X0VGVzhLR1ZJdw?oc=5"
+          "name": "Motorcycle Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHFReFNuWXZoVjROSHZBWTBEMGFjYUMteC1jYl9wcFpYclZsVy00RGdJdHB1UW1UX3l1dnFUcnhqdlRxT0JyMkRBYmRDME5nakE0ejAtWjQtREs4Qk1wNElsVXJSQW40Z0lrY0JVRmVwa0hPMjhFalZobmxPeU5GMnlPdE5PTTJUNXFRSlNKd0ZqcV9hYnJBVm1VeUdSZDFaNEVBUUJfY0MzUQ?oc=5"
         }
       ],
-      "published_at": "2026-10-04 03:33",
-      "sort_key": 1791084825.0,
-      "id": "8151377410325162816"
+      "published_at": "2026-10-05 13:16",
+      "sort_key": 1791206215.0,
+      "id": "8807174790087211780"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "JCB, MNC Bank, 인도네시아에서 신용카드 3종 출시",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Paypers",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmNfd1FJQzFzdUJ3YkZKc3R1cU5FSWtXMVRpVy1VU21EVWNxYlc5WXdlcDF1d2tvYVFRcW1YZzZ5Wnk1blBiWk1IaHpRclpXT0ZRSEo2NGVHcVZwOExGeTJZZWFVc1VBYlh5ZmVPQ1NrVVcwTWxBSDgtZmU5RlVSUkhiWjRfa3ZjbnNIcTlMOFZKUQ?oc=5"
+        }
+      ],
+      "published_at": "2026-10-05 12:03",
+      "sort_key": 1791201829.0,
+      "id": "4117393274198726814"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "미국 제재 이란의 자동차 부문, 인도네시아 회사 영향",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "IDNFinancials",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEdwWi1Id3RsUlI0cmxpQTB5c3JkQ09haG9pUGhnckhKUWFndmlBc3NiWTc2T0pmSmFkY3BsbHhybko5M0tWX3M5TG0yd1luYk4xYnpoZzJOTEVoSzA1YzR3TE9fbW1hS3l1U3hzQ1hjWmQxTk45RlRUdFlqaUtVMEFrQUVabVFiaDZIUjVPZzk4Z3lBV19oTmtmYkl0cHBFREwwQmlVcTc?oc=5"
+        }
+      ],
+      "published_at": "2026-10-05 03:00",
+      "sort_key": 1791169200.0,
+      "id": "8814051359095262947"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도-인도네시아 무역에서 상당한 미개척 잠재력; 더 많은 일이 필요합니다: 인도네시아 대통령 특사",
+      "summary": "마리 엘카 판게스투 (Mari Elka Pangestu) 인도네시아 국제 무역 및 다자간 협력을 위한 대통령 특사는 인도와 인도네시아 간의 무역 및 투자에서 미개척된 상당한 잠재력을 강조하면서 양국 간의 기회를 실현하기 위해 더 많은 것이 필요하다고 말했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3986796-significant-untapped-potential-in-india-indonesia-trade-more-needs-to-be-done-special-envoy-of-indonesian-president"
+        },
+        {
+          "name": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/world/asia/significant-untapped-potential-in-india-indonesia-trade-more-needs-to-be-done-special-envoy-of-indonesian-president20261005014515/"
+        }
+      ],
+      "published_at": "2026-10-05 01:48",
+      "sort_key": 1791164931.0,
+      "id": "4698752254781971620"
     },
     {
       "category": "car",
@@ -24,29 +76,13 @@
       "type": "news",
       "sources": [
         {
-          "name": "Aktualita.co",
+          "name": "aktualita.co",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmd0XzVTVjFEY0wwWlJmLWJGc1FOV3g1WUF2a1hqaEVNZE1HOWFJQ2E5N21GZ2FMSXZ4cm12VTdPNzdTT2h1YjY4eXVrTlp5UUFlR0FjaUlXcDRZNzBjTkxwcVpNM2VaQUtjWVJhaW4tSTBkbUNEWnV2N0d4TEF6QUp0clc1M25pdHRTV2V2Z1ZBNnVLQnRkZENvaGRuckw5RTNZ?oc=5"
         }
       ],
       "published_at": "2026-10-04 03:11",
       "sort_key": 1791083477.0,
-      "id": "7594218576826959822"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "MotoGP Mandalika 2026에 대비하는 인도네시아 공항 3곳",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2V4LXg4S1RGektqT3FTa0pRSWJlTFhXYW1jSURTaU1LRGs1Y3VGaE8tMnFQZHpyUy1KWTc4WXJRVXNERmxldF9QSzFFRmgyMHNsaGNjeEZvZWNoSU9WWUFYczlMajlCUi11dGE3bWxOVnh4ZXdMSUhKY1hOSzd2WUt0cFo2SmlRWS1GWHNNRXk5SEdWMndR?oc=5"
-        }
-      ],
-      "published_at": "2026-10-03 07:45",
-      "sort_key": 1791013519.0,
-      "id": "4727030176422781444"
+      "id": "2419672816869930295"
     },
     {
       "category": "pol",
@@ -62,7 +98,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "5323579516332312282"
+      "id": "3162735781954776472"
     },
     {
       "category": "pol",
@@ -86,7 +122,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "780969333468951770"
+      "id": "5889924395082287764"
     },
     {
       "category": "int",
@@ -102,23 +138,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3381025722919363609"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "쁘라보보 대통령, 인도네시아 경찰청장 리스트요 시짓 (Listyo Sigit) 을 마약단속국장으로 교체",
-      "summary": "국립 마약 청장 수유디 아리오 세토 (Suyudi Ario Seto) 는 인도네시아의 새로운 경찰청장이 될 예정입니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-new-police-chief-suyudi-ario-seto-6423421"
-        }
-      ],
-      "published_at": "2026-10-01 06:12",
-      "sort_key": 1790835155.0,
-      "id": "105699058122551213"
+      "id": "2618044402133007442"
     },
     {
       "category": "eco",
@@ -134,7 +154,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "6743253334345203470"
+      "id": "7129293499845896740"
     },
     {
       "category": "liv",
@@ -150,7 +170,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "8051665300532276205"
+      "id": "4393548951584877498"
     },
     {
       "category": "int",
@@ -166,7 +186,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7540918789582768591"
+      "id": "985536557100686135"
     },
     {
       "category": "liv",
@@ -182,7 +202,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "6304110140139227423"
+      "id": "2684265654079721519"
     },
     {
       "category": "int",
@@ -198,7 +218,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "702596907193688508"
+      "id": "2001081393231952808"
     },
     {
       "category": "liv",
@@ -214,7 +234,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "5343057610090199841"
+      "id": "7240188176088156660"
     },
     {
       "category": "int",
@@ -230,7 +250,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "6595907913655192873"
+      "id": "3851143993278580703"
     },
     {
       "category": "int",
@@ -246,7 +266,7 @@
       ],
       "published_at": "2026-09-26 09:18",
       "sort_key": 1790414328.0,
-      "id": "7578424804468158550"
+      "id": "554706655181541326"
     },
     {
       "category": "int",
@@ -262,23 +282,7 @@
       ],
       "published_at": "2026-09-26 05:27",
       "sort_key": 1790400472.0,
-      "id": "278524978237993825"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아는 협동 조합 제도 대출에 대한 상환을 준비하고 있지만 기금은 아직 공개되지 않았습니다. 정부 문서에 따르면",
-      "summary": "인도네시아 재무부는 금요일에 대출 상환을 위해 $ 20억을 주 은행의 보유 계좌에 예치했으며, 대출이...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-readies-repayment-for-cooperative-scheme-loans-but-funds-not-yet-released-government-docu-ce785adfdd8dff2c"
-        }
-      ],
-      "published_at": "2026-09-25 08:53",
-      "sort_key": 1790326425.0,
-      "id": "8119419361497692644"
+      "id": "1708529498759282504"
     },
     {
       "category": "eco",
@@ -294,7 +298,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "8397466835831820456"
+      "id": "9175776870133604895"
     },
     {
       "category": "liv",
@@ -310,7 +314,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "5711904819797105057"
+      "id": "7574900239894429565"
     },
     {
       "category": "eco",
@@ -330,7 +334,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "1876371140646411537"
+      "id": "5348003377106354566"
     },
     {
       "category": "liv",
@@ -350,7 +354,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "6859810682494256164"
+      "id": "5306700026503634330"
     },
     {
       "category": "tek",
@@ -366,7 +370,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "697730227096889049"
+      "id": "9166620385054719118"
     },
     {
       "category": "tek",
@@ -382,7 +386,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "4183087024572922625"
+      "id": "3276652596416579678"
     }
   ],
   "categories": [
@@ -394,7 +398,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 4
+      "count": 3
     },
     {
       "id": "tek",
@@ -404,7 +408,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 3
+      "count": 4
     },
     {
       "id": "int",
@@ -419,27 +423,27 @@
   ],
   "sources": [
     {
-      "name": "MarketScreener",
+      "name": "The Star",
       "count": 4
     },
     {
-      "name": "The Star",
-      "count": 4
+      "name": "Devdiscourse",
+      "count": 3
+    },
+    {
+      "name": "MarketScreener",
+      "count": 3
     },
     {
       "name": "Malay Mail",
       "count": 3
     },
     {
+      "name": "ANI (Asian News International)",
+      "count": 2
+    },
+    {
       "name": "Nikkei Asia",
-      "count": 2
-    },
-    {
-      "name": "Devdiscourse",
-      "count": 2
-    },
-    {
-      "name": "CNA",
       "count": 2
     },
     {
@@ -447,19 +451,27 @@
       "count": 2
     },
     {
-      "name": "PRLog",
+      "name": "Motorcycle Sports",
       "count": 1
     },
     {
-      "name": "Aktualita.co",
+      "name": "The Paypers",
       "count": 1
     },
     {
-      "name": "Tempo.co English",
+      "name": "IDNFinancials",
+      "count": 1
+    },
+    {
+      "name": "aktualita.co",
       "count": 1
     },
     {
       "name": "U.S. News & World Report",
+      "count": 1
+    },
+    {
+      "name": "CNA",
       "count": 1
     },
     {
@@ -471,14 +483,10 @@
       "count": 1
     },
     {
-      "name": "ANI (Asian News International)",
-      "count": 1
-    },
-    {
       "name": "Sputnik News",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-05 07:07:13",
+  "last_updated": "2026-10-05 16:04:34",
   "errors": {}
 }
