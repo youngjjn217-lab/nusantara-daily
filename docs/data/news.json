@@ -3,6 +3,22 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "발리 호스피탈리티 베뉴 페레레난에서 무모한 오토바이에 맞서 단결 -- Pt Supper Social Group",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "PRLog",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHpoRHdDUE95NHJXVzZoOFNYaERCRzNsdXlKYnVnZUJkWXpDVm5ZbmRVWWNoYlduR0F4TzBmdEhaNDdwcWI3RnlYY0I5ek9odlNoRGVPVFJjM2lLZk5JNmhoRDk0azlVYlRUcXVJYUJyRjIyZ2p0SEtZRDFscWN6RTlGQ21HZG9kSEJaS0dCT3ZjN2ZxMWFScV9MalZoMm11X0VGVzhLR1ZJdw?oc=5"
+        }
+      ],
+      "published_at": "2026-10-04 03:33",
+      "sort_key": 1791084825.0,
+      "id": "2332390923715209535"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "Mandalika MotoGP 2026 접근법: 페르타미나가 연료와 항공편을 향상시킵니다",
       "summary": "",
       "type": "news",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-04 03:11",
       "sort_key": 1791083477.0,
-      "id": "4917589041641387621"
+      "id": "2570914523304773304"
     },
     {
       "category": "car",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-10-03 07:45",
       "sort_key": 1791013519.0,
-      "id": "7265508988062043395"
+      "id": "4436844044867574156"
     },
     {
       "category": "car",
@@ -46,23 +62,7 @@
       ],
       "published_at": "2026-10-03 01:58",
       "sort_key": 1790992729.0,
-      "id": "7663991317242500943"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아에서 독일 자동차를 더 저렴하게 만들기 위한 EU 관세 협정",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Jakarta Globe",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVVvRG9JTjJQaGRua0lIN2xhQVVjRGlvZzducThKbFJxNXhwV19PYUQzOXA2UVNqTnFJWE1KUnpXUzVKNHc4clk3Rkh4NDF6WHE4b1JXbW41Z2tjeHZvRlp2TncycnN3RklscGZSTmNIZDNHTU0xQlpiZnRwOTNjNVRnT1pfMUdCODAwMXdMSi1aaWZFODBGR1VLYlE?oc=5"
-        }
-      ],
-      "published_at": "2026-10-03 00:16",
-      "sort_key": 1790986560.0,
-      "id": "3089089664256832828"
+      "id": "1615196800421823595"
     },
     {
       "category": "pol",
@@ -78,7 +78,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "6982713103547217268"
+      "id": "5879820773838790877"
     },
     {
       "category": "pol",
@@ -102,7 +102,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "3190318532927630699"
+      "id": "4222914651498352585"
     },
     {
       "category": "int",
@@ -118,7 +118,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1352363892532716271"
+      "id": "1268643036550301362"
     },
     {
       "category": "pol",
@@ -134,7 +134,7 @@
       ],
       "published_at": "2026-10-01 06:12",
       "sort_key": 1790835155.0,
-      "id": "263630304052155695"
+      "id": "8339032441621024100"
     },
     {
       "category": "eco",
@@ -150,7 +150,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "1218225323574587018"
+      "id": "646111048007092781"
     },
     {
       "category": "liv",
@@ -166,7 +166,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "3830531306355768324"
+      "id": "7565900054961693948"
     },
     {
       "category": "int",
@@ -182,7 +182,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "1570225229816512359"
+      "id": "5849957132809983332"
     },
     {
       "category": "liv",
@@ -198,7 +198,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "5500231346138046743"
+      "id": "4276684770540317081"
     },
     {
       "category": "int",
@@ -214,7 +214,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "7240036254768549102"
+      "id": "317653803162817579"
     },
     {
       "category": "liv",
@@ -230,7 +230,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "955323989347743724"
+      "id": "6756871585280253486"
     },
     {
       "category": "int",
@@ -246,7 +246,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "4690492004653193778"
+      "id": "334010775586873631"
     },
     {
       "category": "int",
@@ -262,7 +262,7 @@
       ],
       "published_at": "2026-09-26 09:18",
       "sort_key": 1790414328.0,
-      "id": "6175573171441494248"
+      "id": "2245015442408009557"
     },
     {
       "category": "int",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-09-26 05:27",
       "sort_key": 1790400472.0,
-      "id": "4974551240422497645"
+      "id": "842436489047988964"
     },
     {
       "category": "pol",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-09-25 08:53",
       "sort_key": 1790326425.0,
-      "id": "7747872411677421664"
+      "id": "4419608213144169370"
     },
     {
       "category": "eco",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "2732331831728678061"
+      "id": "939895200740115857"
     },
     {
       "category": "liv",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "1141414032680926932"
+      "id": "2028335622261780337"
     },
     {
       "category": "eco",
@@ -346,7 +346,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "7917198425857400276"
+      "id": "6735818593851281529"
     },
     {
       "category": "liv",
@@ -366,7 +366,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "6020703572956325512"
+      "id": "4839299841809714619"
     },
     {
       "category": "tek",
@@ -382,7 +382,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "433722189829504667"
+      "id": "8153622946626865953"
     },
     {
       "category": "tek",
@@ -398,7 +398,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "8744582331476490566"
+      "id": "3840353975217257580"
     }
   ],
   "categories": [
@@ -463,6 +463,10 @@
       "count": 2
     },
     {
+      "name": "PRLog",
+      "count": 1
+    },
+    {
       "name": "Aktualita.co",
       "count": 1
     },
@@ -472,10 +476,6 @@
     },
     {
       "name": "The Bali Times",
-      "count": 1
-    },
-    {
-      "name": "Jakarta Globe",
       "count": 1
     },
     {
@@ -499,6 +499,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-04 22:38:22",
+  "last_updated": "2026-10-05 01:15:51",
   "errors": {}
 }
