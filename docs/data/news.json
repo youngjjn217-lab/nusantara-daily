@@ -3,6 +3,22 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "가톨릭 오토바이 그룹이 자바 중부의 가뭄 피해 지역사회에 깨끗한 물을 공급합니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Herald Malaysia Online",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGZKT2R3bUQ5bW1RX3laZV9LcDBibnUtWml0VnhqTVJDOV9yejVfdm5LX2M3NEF0VEZZaW9wU2hZR2dicDZOWGdQOHlqRXZ2V2FlUFRpcmZWcVN0WUU1U1FCU0xwZEFhVEtwbm1oMTRyVDczS3h3ajl0S2ZqVDM1M3gzUVpCU00tWWRNX1JvX1FYc2ZFYnFZclV0SWZZTlU2V3dUYWdlbDl5dm9BWVQ2cHB2VFRvVmk0SEVfem9PT2dHeFU5b3FVRng1VQ?oc=5"
+        }
+      ],
+      "published_at": "2026-10-06 12:45",
+      "sort_key": 1791290730.0,
+      "id": "5808249347613857306"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "MotoGP, VR46 팀 두카티 자전거가 인도네시아의 불새로 변신하다",
       "summary": "",
       "type": "news",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "7245692544035867505"
+      "id": "704519759008327210"
     },
     {
       "category": "car",
@@ -25,12 +41,28 @@
       "sources": [
         {
           "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR25UZTNpc0JJLS1UTE8ybzkzX0dZNWZLYjFwR01SdG9WUGw4X01yakhqZmQ1RkdFOWdnWmpVNHVwN0I0djQ4TDVQU21OalRqVlM2Y3E5TFMwNkFjX0VZN2dRQWhMeWF0cmEyVnMyWVlQYzZydzR6ZjI2azB3YUVRaE16ZzRtbDkzV29GZ0VXMkVBa3M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVcxdlV3OTZmNDNxQmZNVWlJaEl4S0FGYmpDU1I4QWJDQnpoYVQ1S1Q1WkRNQjE1emZVeFk1MUcyNy05N2FkR1NFR01oNmE1MnlMNTFQcDI0U055Q0JDRmt3OUJuS25Xb25pajNVWHMxM2pwZ3JvRGFzZENLSlJ2OHBxODVGQ1JCNkZNT3l1OTljUQ?oc=5"
         }
       ],
-      "published_at": "2026-10-06 07:27",
-      "sort_key": 1791271667.0,
-      "id": "6258219723699914048"
+      "published_at": "2026-10-06 07:30",
+      "sort_key": 1791271839.0,
+      "id": "7161744858035021664"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "인도네시아, 페널티킥으로 태국 꺾고 아세안컵 첫 우승",
+      "summary": "인도네시아는 페널티킥 결승전에서 10명의 태국을 꺾고 첫 번째 아세안 컵을 차지했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/sport/indonesia-thailand-asean-cup-final-football-6434906"
+        }
+      ],
+      "published_at": "2026-10-06 03:10",
+      "sort_key": 1791256203.0,
+      "id": "7279855985451240762"
     },
     {
       "category": "car",
@@ -46,7 +78,7 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "5131277375617198386"
+      "id": "9170752386471421635"
     },
     {
       "category": "car",
@@ -66,7 +98,7 @@
       ],
       "published_at": "2026-10-05 20:19",
       "sort_key": 1791231563.0,
-      "id": "5876929130341933596"
+      "id": "5278220473407129342"
     },
     {
       "category": "car",
@@ -82,7 +114,7 @@
       ],
       "published_at": "2026-10-05 03:00",
       "sort_key": 1791169200.0,
-      "id": "5678491864205164844"
+      "id": "4105912641959581999"
     },
     {
       "category": "pol",
@@ -102,7 +134,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "8136444300323763045"
+      "id": "7119468407636208942"
     },
     {
       "category": "pol",
@@ -118,7 +150,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "6202611864683899169"
+      "id": "3565649477929020046"
     },
     {
       "category": "pol",
@@ -142,7 +174,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "771543886719895735"
+      "id": "3896379239720034652"
     },
     {
       "category": "int",
@@ -158,7 +190,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1289801081864932597"
+      "id": "2751667333783342512"
     },
     {
       "category": "eco",
@@ -174,7 +206,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "1852869757370581908"
+      "id": "7742585572403294879"
     },
     {
       "category": "liv",
@@ -190,7 +222,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "4926437214156037003"
+      "id": "3954647773809792954"
     },
     {
       "category": "int",
@@ -206,7 +238,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "8812093736834929987"
+      "id": "9030631033440767295"
     },
     {
       "category": "liv",
@@ -222,7 +254,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "8622091912926797534"
+      "id": "3297782508139036123"
     },
     {
       "category": "int",
@@ -238,7 +270,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "1228705079479272176"
+      "id": "7918014379671704925"
     },
     {
       "category": "liv",
@@ -254,7 +286,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "2910360607587290103"
+      "id": "8822735644583949208"
     },
     {
       "category": "int",
@@ -270,7 +302,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "3247068070224994124"
+      "id": "6980544363662041838"
     },
     {
       "category": "int",
@@ -286,23 +318,7 @@
       ],
       "published_at": "2026-09-26 09:18",
       "sort_key": 1790414328.0,
-      "id": "2034361930860400484"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "Cheng Hoe는 Harimau Malaya에게 아세안 컵에서 인도네시아를 상대로 ’함성을 질러라' 고 말합니다.",
-      "summary": "9월 26일, 자카르타 — 하리마우 말라야 임시 수석 코치 탄 청 회 (Tan Cheng Hoe) 는 겔로라 붕 카르노 스타디움 (Gelora Bung Karno Stadium, GBK) 에서 호스트 인도네시아를 상대할 때 선수들이 ’함성을 지르길' 원합니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/sports/2026/09/26/cheng-hoe-tells-harimau-malaya-to-ride-the-roar-against-indonesia-in-asean-cup/236582"
-        }
-      ],
-      "published_at": "2026-09-26 05:27",
-      "sort_key": 1790400472.0,
-      "id": "6418216018948169001"
+      "id": "2093797681971804348"
     },
     {
       "category": "eco",
@@ -318,7 +334,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "6691860804503579864"
+      "id": "6386446037231736744"
     },
     {
       "category": "liv",
@@ -334,7 +350,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "3499910324542441495"
+      "id": "3835427541757763704"
     },
     {
       "category": "eco",
@@ -354,7 +370,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "598178863664409469"
+      "id": "2065396272390145545"
     },
     {
       "category": "liv",
@@ -374,7 +390,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "7917964893508747058"
+      "id": "1552269031163370961"
     },
     {
       "category": "tek",
@@ -390,7 +406,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "4535154694724182158"
+      "id": "4622256244901461090"
     },
     {
       "category": "tek",
@@ -406,7 +422,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "9188436403648303762"
+      "id": "6682582617295841551"
     }
   ],
   "categories": [
@@ -428,7 +444,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 5
+      "count": 6
     },
     {
       "id": "int",
@@ -455,11 +471,11 @@
       "count": 3
     },
     {
-      "name": "Malay Mail",
-      "count": 3
+      "name": "Tempo.co English",
+      "count": 2
     },
     {
-      "name": "Tempo.co English",
+      "name": "CNA",
       "count": 2
     },
     {
@@ -471,8 +487,16 @@
       "count": 2
     },
     {
+      "name": "Malay Mail",
+      "count": 2
+    },
+    {
       "name": "The Straits Times",
       "count": 2
+    },
+    {
+      "name": "Herald Malaysia Online",
+      "count": 1
     },
     {
       "name": "GPOne.com",
@@ -495,10 +519,6 @@
       "count": 1
     },
     {
-      "name": "CNA",
-      "count": 1
-    },
-    {
       "name": "The News International",
       "count": 1
     },
@@ -511,6 +531,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-06 09:23:45",
+  "last_updated": "2026-10-06 16:14:29",
   "errors": {}
 }
