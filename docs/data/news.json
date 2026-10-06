@@ -14,7 +14,7 @@
       ],
       "published_at": "2026-10-06 12:45",
       "sort_key": 1791290730.0,
-      "id": "5808249347613857306"
+      "id": "6303577003616680295"
     },
     {
       "category": "car",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "704519759008327210"
+      "id": "1777750711772066654"
     },
     {
       "category": "car",
@@ -46,7 +46,27 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "7161744858035021664"
+      "id": "1679629572223042504"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 법원, Annul 부통령 선거 승리에 대한 입찰 결정",
+      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위에서 인정받는 리더입니다. 선출직 공무원을 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육에서 사용할 수있는 뉴스를 찾으십시오.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "U.S. News & World Report",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-06/indonesia-court-to-rule-on-bid-to-annul-vice-presidents-election-win"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3987431-indonesia-court-to-rule-on-bid-to-annul-vice-presidents-election-win"
+        }
+      ],
+      "published_at": "2026-10-06 06:44",
+      "sort_key": 1791269040.0,
+      "id": "6550615574972930753"
     },
     {
       "category": "int",
@@ -62,7 +82,7 @@
       ],
       "published_at": "2026-10-06 03:10",
       "sort_key": 1791256203.0,
-      "id": "7279855985451240762"
+      "id": "7959622727740909699"
     },
     {
       "category": "car",
@@ -78,7 +98,7 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "9170752386471421635"
+      "id": "7284417757978332658"
     },
     {
       "category": "car",
@@ -98,7 +118,7 @@
       ],
       "published_at": "2026-10-05 20:19",
       "sort_key": 1791231563.0,
-      "id": "5278220473407129342"
+      "id": "2132059024406393214"
     },
     {
       "category": "car",
@@ -114,7 +134,7 @@
       ],
       "published_at": "2026-10-05 03:00",
       "sort_key": 1791169200.0,
-      "id": "4105912641959581999"
+      "id": "1601893621389506960"
     },
     {
       "category": "pol",
@@ -134,7 +154,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "7119468407636208942"
+      "id": "5987653501029169657"
     },
     {
       "category": "pol",
@@ -150,7 +170,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "3565649477929020046"
+      "id": "5923270953196027508"
     },
     {
       "category": "pol",
@@ -162,19 +182,11 @@
         {
           "name": "Nikkei Asia",
           "url": "https://asia.nikkei.com/politics/indonesia-president-appoints-new-foreign-minister2"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-president-appoints-new-foreign-minister-ce785ad3df88f621"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3984994-indonesia-president-appoints-new-foreign-minister"
         }
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "3896379239720034652"
+      "id": "2341577879536062327"
     },
     {
       "category": "int",
@@ -190,7 +202,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "2751667333783342512"
+      "id": "7014827094525222727"
     },
     {
       "category": "eco",
@@ -206,7 +218,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "7742585572403294879"
+      "id": "1983071005805868603"
     },
     {
       "category": "liv",
@@ -222,7 +234,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "3954647773809792954"
+      "id": "8913156159352259776"
     },
     {
       "category": "int",
@@ -238,7 +250,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "9030631033440767295"
+      "id": "5286135908947263048"
     },
     {
       "category": "liv",
@@ -254,7 +266,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "3297782508139036123"
+      "id": "156153769360364195"
     },
     {
       "category": "int",
@@ -270,7 +282,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "7918014379671704925"
+      "id": "2194407303827654784"
     },
     {
       "category": "liv",
@@ -286,7 +298,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "8822735644583949208"
+      "id": "4553113580443197129"
     },
     {
       "category": "int",
@@ -302,7 +314,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "6980544363662041838"
+      "id": "8609566169139023434"
     },
     {
       "category": "int",
@@ -318,7 +330,7 @@
       ],
       "published_at": "2026-09-26 09:18",
       "sort_key": 1790414328.0,
-      "id": "2093797681971804348"
+      "id": "2943703181981130234"
     },
     {
       "category": "eco",
@@ -334,7 +346,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "6386446037231736744"
+      "id": "6144671573579629618"
     },
     {
       "category": "liv",
@@ -350,7 +362,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "3835427541757763704"
+      "id": "211362059759397527"
     },
     {
       "category": "eco",
@@ -370,7 +382,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "2065396272390145545"
+      "id": "8087765207271953480"
     },
     {
       "category": "liv",
@@ -390,7 +402,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "1552269031163370961"
+      "id": "630155472650070931"
     },
     {
       "category": "tek",
@@ -406,7 +418,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "4622256244901461090"
+      "id": "7044428481292046057"
     },
     {
       "category": "tek",
@@ -422,7 +434,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "6682582617295841551"
+      "id": "1464535539972813626"
     }
   ],
   "categories": [
@@ -434,7 +446,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 3
+      "count": 4
     },
     {
       "id": "tek",
@@ -467,11 +479,11 @@
       "count": 3
     },
     {
-      "name": "MarketScreener",
-      "count": 3
+      "name": "Tempo.co English",
+      "count": 2
     },
     {
-      "name": "Tempo.co English",
+      "name": "U.S. News & World Report",
       "count": 2
     },
     {
@@ -488,6 +500,10 @@
     },
     {
       "name": "Malay Mail",
+      "count": 2
+    },
+    {
+      "name": "MarketScreener",
       "count": 2
     },
     {
@@ -515,10 +531,6 @@
       "count": 1
     },
     {
-      "name": "U.S. News & World Report",
-      "count": 1
-    },
-    {
       "name": "The News International",
       "count": 1
     },
@@ -531,6 +543,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-06 16:14:29",
+  "last_updated": "2026-10-06 21:00:44",
   "errors": {}
 }
