@@ -14,7 +14,7 @@
       ],
       "published_at": "2026-10-07 09:42",
       "sort_key": 1791366146.0,
-      "id": "8303956015084015164"
+      "id": "5608404537011764169"
     },
     {
       "category": "car",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-07 08:27",
       "sort_key": 1791361665.0,
-      "id": "8595929039584377967"
+      "id": "9016275664288500156"
     },
     {
       "category": "car",
@@ -46,23 +46,43 @@
       ],
       "published_at": "2026-10-07 05:00",
       "sort_key": 1791349200.0,
-      "id": "3710004562121714982"
+      "id": "909262519365136509"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아 시장으로 돌아와서 스마트카는 젊은이들에게 관심이 있다고 주장합니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsUE5BcWF2YmlRalpuc2EyLTZIaEhna0tWNncxN0hSeWRLa29zeUtNNnpMbmM1ai1mbGZaQlBOZGRneXh50gFCQVVfeXFMTUxPUlVDTEZic3JVQ3plUFhpY044bHd2UWFzbWVWNDhsZ1pLeW1vSDB3SElVRHA4X0NtQ1NGS09RMTR3?oc=5"
+        }
+      ],
+      "published_at": "2026-10-07 03:25",
+      "sort_key": 1791343515.0,
+      "id": "8793829274114085861"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아 헌법재판소는 교육 자격에 대한 부통령의 도전을 기각합니다.",
-      "summary": "인도네시아 헌법재판소가 Devdiscourse에 대한 교육 자격에 대한 부통령의 도전을 기각하는 것에 대해 자세히 알아보기",
+      "summary": "자카르타: 인도네시아 헌법재판소는 지브란 라카부밍 라카 (Gibran Rakabuming Raka) 부통령의 2024년 대선 후보자 교육 문서가 불완전했지만, 그의 공직 자격을 박탈하지 않았고 그의 자격에 대한 평가를 다른 기관에 맡겼다고 밝혔다.",
       "type": "news",
       "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/07/indonesia039s-constitutional-court-dismisses-challenge-to-vice-president-over-education-credentials"
+        },
         {
           "name": "Devdiscourse",
           "url": "https://www.devdiscourse.com/article/international/3987969-indonesias-constitutional-court-dismisses-challenge-to-vice-president-over-education-credentials"
         }
       ],
-      "published_at": "2026-10-07 01:28",
-      "sort_key": 1791336520.0,
-      "id": "6656540230343082784"
+      "published_at": "2026-10-07 02:28",
+      "sort_key": 1791340080.0,
+      "id": "5169047170506876734"
     },
     {
       "category": "liv",
@@ -78,7 +98,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "5885627883594210247"
+      "id": "3731609260438841370"
     },
     {
       "category": "car",
@@ -94,7 +114,7 @@
       ],
       "published_at": "2026-10-06 12:45",
       "sort_key": 1791290730.0,
-      "id": "508630883634901036"
+      "id": "124172880523990127"
     },
     {
       "category": "int",
@@ -114,7 +134,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8489255339358300659"
+      "id": "3407887771081748867"
     },
     {
       "category": "car",
@@ -130,7 +150,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "622775459493487686"
+      "id": "87162987735360160"
     },
     {
       "category": "car",
@@ -146,7 +166,7 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "1769198876495255951"
+      "id": "656754841840179707"
     },
     {
       "category": "pol",
@@ -166,7 +186,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "5569409228478094179"
+      "id": "1786822263761361233"
     },
     {
       "category": "car",
@@ -182,7 +202,7 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "6044505065741307077"
+      "id": "6777232919144632900"
     },
     {
       "category": "car",
@@ -198,7 +218,7 @@
       ],
       "published_at": "2026-10-05 20:19",
       "sort_key": 1791231563.0,
-      "id": "5053015161011854935"
+      "id": "7954739990080526346"
     },
     {
       "category": "liv",
@@ -214,7 +234,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "8011626080891723535"
+      "id": "3022223744917432611"
     },
     {
       "category": "pol",
@@ -234,23 +254,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "6413621581993860486"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 대통령, 자문위원회를 위해 억만장자와 이슬람 지도자 선정",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위에서 인정받는 리더입니다. 선출직 공무원을 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육에서 사용할 수있는 뉴스를 찾으십시오.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/news/world/articles/2026-10-02/indonesia-president-picks-billionaires-and-islamic-leaders-for-advisory-council"
-        }
-      ],
-      "published_at": "2026-10-02 10:13",
-      "sort_key": 1790935980.0,
-      "id": "8585574877263926883"
+      "id": "8523032241559340430"
     },
     {
       "category": "int",
@@ -266,7 +270,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1107974102469555010"
+      "id": "1136481644687627762"
     },
     {
       "category": "eco",
@@ -282,7 +286,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "181401011785361730"
+      "id": "7551441613271859896"
     },
     {
       "category": "liv",
@@ -298,7 +302,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "3059046040104994494"
+      "id": "5204052192929566041"
     },
     {
       "category": "int",
@@ -314,7 +318,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "4709996758964893061"
+      "id": "3406868059565827981"
     },
     {
       "category": "liv",
@@ -330,7 +334,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "2352310605389742694"
+      "id": "4617263231876173596"
     },
     {
       "category": "int",
@@ -346,7 +350,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "4430771082311816156"
+      "id": "6359262256032234314"
     },
     {
       "category": "liv",
@@ -362,7 +366,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "116642101808750771"
+      "id": "976157162147328978"
     },
     {
       "category": "int",
@@ -378,7 +382,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "7619127205886482649"
+      "id": "6570131550314280746"
     },
     {
       "category": "eco",
@@ -394,7 +398,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "3861577291152855196"
+      "id": "6956141146446391793"
     },
     {
       "category": "liv",
@@ -410,7 +414,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "4203239624721782900"
+      "id": "7304357736677726829"
     },
     {
       "category": "eco",
@@ -430,7 +434,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "2191211889576571342"
+      "id": "9157432238703412303"
     },
     {
       "category": "tek",
@@ -446,7 +450,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "8364826664579354851"
+      "id": "7639330472222532779"
     },
     {
       "category": "tek",
@@ -462,7 +466,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "6499184962405823649"
+      "id": "3403105241718162645"
     }
   ],
   "categories": [
@@ -474,7 +478,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 4
+      "count": 3
     },
     {
       "id": "tek",
@@ -484,7 +488,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 8
+      "count": 9
     },
     {
       "id": "int",
@@ -499,12 +503,12 @@
   ],
   "sources": [
     {
-      "name": "Devdiscourse",
+      "name": "The Star",
       "count": 4
     },
     {
-      "name": "The Star",
-      "count": 3
+      "name": "Devdiscourse",
+      "count": 4
     },
     {
       "name": "CNA",
@@ -512,10 +516,6 @@
     },
     {
       "name": "Tempo.co English",
-      "count": 2
-    },
-    {
-      "name": "U.S. News & World Report",
       "count": 2
     },
     {
@@ -547,6 +547,10 @@
       "count": 1
     },
     {
+      "name": "VOI.ID",
+      "count": 1
+    },
+    {
       "name": "Phys.org",
       "count": 1
     },
@@ -560,6 +564,10 @@
     },
     {
       "name": "GPOne.com",
+      "count": 1
+    },
+    {
+      "name": "U.S. News & World Report",
       "count": 1
     },
     {
@@ -579,6 +587,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-07 14:05:50",
+  "last_updated": "2026-10-07 20:00:45",
   "errors": {}
 }
