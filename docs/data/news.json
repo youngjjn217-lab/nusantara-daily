@@ -14,7 +14,23 @@
       ],
       "published_at": "2026-10-06 12:45",
       "sort_key": 1791290730.0,
-      "id": "3966416355839162544"
+      "id": "8853160664570142776"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Aleix Espargaro는 부상당한 혼다 라이더를 대체하기 위해 인도네시아 GP의 MotoGP로 돌아갑니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Motorcycle Sports",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3BRbnJwbVlDSk0yVFFPMUdqellNRXpDRnNvUnZjMWVnSHVVMm80eWZmUVRTdDNUSHV1dkhKYVl6Um1oemlkWWcxV3dZMEVWX09KR3FIakQ0U3lVNVNyTjVDT3FaWVB3NzdUVVVzRjMtMzlrQ0FpcDl2S0ZWUVFEN3dHYmlIYTZ6TmR1XzlPUUFnODVWQ0M5aXdfdWNObC1COWdyNGoxMzRPd0g4Z1lyblBB?oc=5"
+        }
+      ],
+      "published_at": "2026-10-06 11:50",
+      "sort_key": 1791287424.0,
+      "id": "6981945091399293251"
     },
     {
       "category": "int",
@@ -34,7 +50,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1659305025310487876"
+      "id": "6219114072685490684"
     },
     {
       "category": "car",
@@ -50,7 +66,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "6569326194491100235"
+      "id": "7909387277265131363"
     },
     {
       "category": "car",
@@ -66,7 +82,7 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "3253333063067944646"
+      "id": "4455172788771129752"
     },
     {
       "category": "pol",
@@ -86,7 +102,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "8433953598516411000"
+      "id": "7503899659174097830"
     },
     {
       "category": "car",
@@ -102,43 +118,27 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "6825861729427587734"
+      "id": "1533463268845984202"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "JCB, MNC Bank, 인도네시아에서 신용카드 3종 출시",
+      "title": "인도네시아 JCB 신용 카드는 국내 라이벌이 수수료를 인하하기 전에 시장에 진입합니다.",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "The Paypers",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmNfd1FJQzFzdUJ3YkZKc3R1cU5FSWtXMVRpVy1VU21EVWNxYlc5WXdlcDF1d2tvYVFRcW1YZzZ5Wnk1blBiWk1IaHpRclpXT0ZRSEo2NGVHcVZwOExGeTJZZWFVc1VBYlh5ZmVPQ1NrVVcwTWxBSDgtZmU5RlVSUkhiWjRfa3ZjbnNIcTlMOFZKUQ?oc=5"
-        },
-        {
           "name": "Tech Times",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUd1NEVrbm1xeXZlVndWczA5NDk2NmtveDhzRVJETkg3WDRYN09JVFh5NXNjRzNFYkxLVEJVX0dqNjItTE5GbDIySWlNVkFQd1V3QjQzWVQ3cXNneVBLRkx3MXlCRHNIV1FzLTBzaWRKS3RHUHhaaFpHYVJzXzFvNEtxaEw3VHI4S1RRaDFZRkh4UmttTTdINXdaN2czRXdEUWtSOEJiY0NMMWFoNTFvZ0RaSU5ZMnByY1VZOWF4SGZRbmVnSWRuM3JjRQ?oc=5"
+        },
+        {
+          "name": "The Paypers",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmNfd1FJQzFzdUJ3YkZKc3R1cU5FSWtXMVRpVy1VU21EVWNxYlc5WXdlcDF1d2tvYVFRcW1YZzZ5Wnk1blBiWk1IaHpRclpXT0ZRSEo2NGVHcVZwOExGeTJZZWFVc1VBYlh5ZmVPQ1NrVVcwTWxBSDgtZmU5RlVSUkhiWjRfa3ZjbnNIcTlMOFZKUQ?oc=5"
         }
       ],
       "published_at": "2026-10-05 20:19",
       "sort_key": 1791231563.0,
-      "id": "269072842442881209"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "미국 제재 이란의 자동차 부문, 인도네시아 회사 영향",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "IDNFinancials",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEdwWi1Id3RsUlI0cmxpQTB5c3JkQ09haG9pUGhnckhKUWFndmlBc3NiWTc2T0pmSmFkY3BsbHhybko5M0tWX3M5TG0yd1luYk4xYnpoZzJOTEVoSzA1YzR3TE9fbW1hS3l1U3hzQ1hjWmQxTk45RlRUdFlqaUtVMEFrQUVabVFiaDZIUjVPZzk4Z3lBV19oTmtmYkl0cHBFREwwQmlVcTc?oc=5"
-        }
-      ],
-      "published_at": "2026-10-05 03:00",
-      "sort_key": 1791169200.0,
-      "id": "8005639444985928684"
+      "id": "8353300113775273271"
     },
     {
       "category": "pol",
@@ -158,7 +158,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "293569482182086234"
+      "id": "5952112586262472432"
     },
     {
       "category": "pol",
@@ -174,7 +174,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "3877066060090780614"
+      "id": "2414223575632578010"
     },
     {
       "category": "pol",
@@ -190,7 +190,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "8488019592890547426"
+      "id": "3942441476939386376"
     },
     {
       "category": "int",
@@ -206,7 +206,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3428735169639249939"
+      "id": "3516475570618977399"
     },
     {
       "category": "eco",
@@ -222,7 +222,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "9079714034646882167"
+      "id": "561432747209446127"
     },
     {
       "category": "liv",
@@ -238,7 +238,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "4638501064320409290"
+      "id": "3433245869208665826"
     },
     {
       "category": "int",
@@ -254,7 +254,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "3953049251256075728"
+      "id": "8103899317561713679"
     },
     {
       "category": "liv",
@@ -270,7 +270,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "6397127270673992203"
+      "id": "587082697392705075"
     },
     {
       "category": "int",
@@ -286,7 +286,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "645177061410635453"
+      "id": "8113521934350078405"
     },
     {
       "category": "liv",
@@ -302,7 +302,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "8844662167435206384"
+      "id": "997966006316981281"
     },
     {
       "category": "int",
@@ -318,7 +318,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "6333639211905099657"
+      "id": "8098670406075918778"
     },
     {
       "category": "eco",
@@ -334,7 +334,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "8677153849606077092"
+      "id": "511745580921022449"
     },
     {
       "category": "liv",
@@ -350,7 +350,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "1647618951061443178"
+      "id": "4082179445097750979"
     },
     {
       "category": "eco",
@@ -370,7 +370,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "9001308276330648446"
+      "id": "396998461044973036"
     },
     {
       "category": "liv",
@@ -390,7 +390,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "6860679558168470251"
+      "id": "1823466437360613051"
     },
     {
       "category": "tek",
@@ -406,7 +406,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "7823238536753878598"
+      "id": "3597129539934908208"
     },
     {
       "category": "tek",
@@ -422,7 +422,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "6354938427435072968"
+      "id": "246190692484464006"
     }
   ],
   "categories": [
@@ -499,6 +499,10 @@
       "count": 1
     },
     {
+      "name": "Motorcycle Sports",
+      "count": 1
+    },
+    {
       "name": "Yardbarker",
       "count": 1
     },
@@ -507,15 +511,11 @@
       "count": 1
     },
     {
-      "name": "The Paypers",
-      "count": 1
-    },
-    {
       "name": "Tech Times",
       "count": 1
     },
     {
-      "name": "IDNFinancials",
+      "name": "The Paypers",
       "count": 1
     },
     {
@@ -535,6 +535,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-07 00:45:19",
+  "last_updated": "2026-10-07 06:44:12",
   "errors": {}
 }
