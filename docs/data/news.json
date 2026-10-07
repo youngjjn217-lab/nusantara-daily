@@ -3,6 +3,86 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "Mandalika MotoGP 2026이 이번 주에 시작되며, Garuda는 14,000개의 좌석을",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Aktualita.co",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2M3Rmd5a1VIQXdsRnplWGd5Mk9hN2hRTzcwYnVoSnNzcEtQYTBnYWZJblFCTFNTNUJQck5kbFVRODJ5Qjl1UllSUmhmV0FGQXBxRGY0aG9HRnExNVNDXzM5WXNIXy1zTEdpZ3lWcVBqRms4aXRoQVJGa01PekN4QnMyTWV4UFYxWmh4bWJkYnpPZ01aT1VOUUhleGNvc2p4b0E?oc=5"
+        }
+      ],
+      "published_at": "2026-10-07 09:42",
+      "sort_key": 1791366146.0,
+      "id": "8303956015084015164"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "VinFast VF 3, 인도네시아에서 전기 자동차 타이틀 획득 - 베트남 투자 검토",
+      "summary": "VinFast VF 3, 인도네시아에서 전기 자동차 타이틀 획득 베트남 투자 검토 - VIR",
+      "type": "news",
+      "sources": [
+        {
+          "name": "VIR",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRwWXgyY2RNWDBLQ0ZCVExwTUFBY1BrQzVOYUR0UEc5U2Y0SF9fWGhHY1pBajlRLXBlYjFZODZOelRCblJsV3lwQzZuNmREWWRDWnVSTVNwYTIxQmpxUVNmMGljZGNwajAyZF9pUHNIZW00WjRUSWxPYVRTelRlcWFDYm5hNnpfT3VZRA?oc=5"
+        }
+      ],
+      "published_at": "2026-10-07 08:27",
+      "sort_key": 1791361665.0,
+      "id": "8595929039584377967"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "MotoGP at Mandalika: 신비한 동상과 권력의 상징",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Corsedimoto",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUhROUNZNjFDOTI1WGJyT1hlaUxQOG5WY1pkZkxXUGdBTXBFMkhVbDRaODVDOGFVcXhvaHNnVkx2YVByb190RzgzSmE1R0RUOEQzWkVkS1J5TUhJVTYtRC1HWTN6WlpqOElwaHVyMmJGcUR5T3VvZ3FDSFMyNW5NQWtEcmdLTVZSY09hWEZHMjlkNUZpQy1DdkhzbmdTUzdXbU5FN3B3?oc=5"
+        }
+      ],
+      "published_at": "2026-10-07 05:00",
+      "sort_key": 1791349200.0,
+      "id": "3710004562121714982"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 헌법재판소는 교육 자격에 대한 부통령의 도전을 기각합니다.",
+      "summary": "인도네시아 헌법재판소가 Devdiscourse에 대한 교육 자격에 대한 부통령의 도전을 기각하는 것에 대해 자세히 알아보기",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3987969-indonesias-constitutional-court-dismisses-challenge-to-vice-president-over-education-credentials"
+        }
+      ],
+      "published_at": "2026-10-07 01:28",
+      "sort_key": 1791336520.0,
+      "id": "6656540230343082784"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "url": "https://phys.org/news/2026-10-coral-reef-climate-resilience-indonesia.html"
+        }
+      ],
+      "published_at": "2026-10-06 23:00",
+      "sort_key": 1791327601.0,
+      "id": "5885627883594210247"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "가톨릭 오토바이 그룹이 자바 중부의 가뭄 피해 지역사회에 깨끗한 물을 공급합니다.",
       "summary": "",
       "type": "news",
@@ -14,23 +94,7 @@
       ],
       "published_at": "2026-10-06 12:45",
       "sort_key": 1791290730.0,
-      "id": "8853160664570142776"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Aleix Espargaro는 부상당한 혼다 라이더를 대체하기 위해 인도네시아 GP의 MotoGP로 돌아갑니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3BRbnJwbVlDSk0yVFFPMUdqellNRXpDRnNvUnZjMWVnSHVVMm80eWZmUVRTdDNUSHV1dkhKYVl6Um1oemlkWWcxV3dZMEVWX09KR3FIakQ0U3lVNVNyTjVDT3FaWVB3NzdUVVVzRjMtMzlrQ0FpcDl2S0ZWUVFEN3dHYmlIYTZ6TmR1XzlPUUFnODVWQ0M5aXdfdWNObC1COWdyNGoxMzRPd0g4Z1lyblBB?oc=5"
-        }
-      ],
-      "published_at": "2026-10-06 11:50",
-      "sort_key": 1791287424.0,
-      "id": "6981945091399293251"
+      "id": "508630883634901036"
     },
     {
       "category": "int",
@@ -50,7 +114,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6219114072685490684"
+      "id": "8489255339358300659"
     },
     {
       "category": "car",
@@ -66,7 +130,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "7909387277265131363"
+      "id": "622775459493487686"
     },
     {
       "category": "car",
@@ -82,7 +146,7 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "4455172788771129752"
+      "id": "1769198876495255951"
     },
     {
       "category": "pol",
@@ -102,7 +166,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "7503899659174097830"
+      "id": "5569409228478094179"
     },
     {
       "category": "car",
@@ -118,7 +182,7 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "1533463268845984202"
+      "id": "6044505065741307077"
     },
     {
       "category": "car",
@@ -130,15 +194,27 @@
         {
           "name": "Tech Times",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUd1NEVrbm1xeXZlVndWczA5NDk2NmtveDhzRVJETkg3WDRYN09JVFh5NXNjRzNFYkxLVEJVX0dqNjItTE5GbDIySWlNVkFQd1V3QjQzWVQ3cXNneVBLRkx3MXlCRHNIV1FzLTBzaWRKS3RHUHhaaFpHYVJzXzFvNEtxaEw3VHI4S1RRaDFZRkh4UmttTTdINXdaN2czRXdEUWtSOEJiY0NMMWFoNTFvZ0RaSU5ZMnByY1VZOWF4SGZRbmVnSWRuM3JjRQ?oc=5"
-        },
-        {
-          "name": "The Paypers",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmNfd1FJQzFzdUJ3YkZKc3R1cU5FSWtXMVRpVy1VU21EVWNxYlc5WXdlcDF1d2tvYVFRcW1YZzZ5Wnk1blBiWk1IaHpRclpXT0ZRSEo2NGVHcVZwOExGeTJZZWFVc1VBYlh5ZmVPQ1NrVVcwTWxBSDgtZmU5RlVSUkhiWjRfa3ZjbnNIcTlMOFZKUQ?oc=5"
         }
       ],
       "published_at": "2026-10-05 20:19",
       "sort_key": 1791231563.0,
-      "id": "8353300113775273271"
+      "id": "5053015161011854935"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아는 핫스팟이 떨어졌음에도 불구하고 산불을 경계해야 한다고 환경 단체들은 경고한다.",
+      "summary": "인도네시아 정부는 최근 핫스팟 수가 감소했음에도 불구하고 지속적으로 덥고 건조한 날씨 속에서 여전히 이탄지 화재가 발생하기 쉽기 때문에 산불을 경계해야 한다고 환경 단체들이 월요일 밝혔다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/environment/indonesia-must-keep-its-guard-up-against-wildfire-despite-drop-hotspots-2026-10-05/"
+        }
+      ],
+      "published_at": "2026-10-05 11:14",
+      "sort_key": 1791198879.0,
+      "id": "8011626080891723535"
     },
     {
       "category": "pol",
@@ -158,7 +234,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "5952112586262472432"
+      "id": "6413621581993860486"
     },
     {
       "category": "pol",
@@ -174,23 +250,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "2414223575632578010"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 대통령, 새 외무장관 임명",
-      "summary": "JAKARTA (Reuters) -- 인도네시아의 대통령 Prabowo Subianto는 목요일에 외무장관을 경력 외교관으로 교체했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/indonesia-president-appoints-new-foreign-minister2"
-        }
-      ],
-      "published_at": "2026-10-01 10:03",
-      "sort_key": 1790849004.0,
-      "id": "3942441476939386376"
+      "id": "8585574877263926883"
     },
     {
       "category": "int",
@@ -206,7 +266,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3516475570618977399"
+      "id": "1107974102469555010"
     },
     {
       "category": "eco",
@@ -222,7 +282,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "561432747209446127"
+      "id": "181401011785361730"
     },
     {
       "category": "liv",
@@ -238,7 +298,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "3433245869208665826"
+      "id": "3059046040104994494"
     },
     {
       "category": "int",
@@ -254,7 +314,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "8103899317561713679"
+      "id": "4709996758964893061"
     },
     {
       "category": "liv",
@@ -270,7 +330,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "587082697392705075"
+      "id": "2352310605389742694"
     },
     {
       "category": "int",
@@ -286,7 +346,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "8113521934350078405"
+      "id": "4430771082311816156"
     },
     {
       "category": "liv",
@@ -302,7 +362,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "997966006316981281"
+      "id": "116642101808750771"
     },
     {
       "category": "int",
@@ -318,7 +378,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "8098670406075918778"
+      "id": "7619127205886482649"
     },
     {
       "category": "eco",
@@ -334,7 +394,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "511745580921022449"
+      "id": "3861577291152855196"
     },
     {
       "category": "liv",
@@ -350,7 +410,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "4082179445097750979"
+      "id": "4203239624721782900"
     },
     {
       "category": "eco",
@@ -370,27 +430,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "396998461044973036"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아, 10년 만에 최대 규모의 아세안 주도의 방위 및 재난 대응 훈련 개최",
-      "summary": "자카르타: 19개국에서 약 2,200명의 군인과 민간인이 인도네시아에서 대규모 재난 대응 훈련에 참여하고 있습니다. 이 훈련은 아세안 국방장관 회의 플러스 (ADMM-Plus) 체제 하에서 10년 만에 가장 큰 규모의 훈련입니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/23/indonesia-hosts-largest-asean-led-defence-and-disaster-response-exercise-in-a-decade"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-hosts-largest-asean-led-defence-and-disaster-response-exercise-in-a-decade"
-        }
-      ],
-      "published_at": "2026-09-23 02:48",
-      "sort_key": 1790131680.0,
-      "id": "1823466437360613051"
+      "id": "2191211889576571342"
     },
     {
       "category": "tek",
@@ -406,7 +446,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "3597129539934908208"
+      "id": "8364826664579354851"
     },
     {
       "category": "tek",
@@ -422,7 +462,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "246190692484464006"
+      "id": "6499184962405823649"
     }
   ],
   "categories": [
@@ -444,7 +484,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 6
+      "count": 8
     },
     {
       "id": "int",
@@ -454,16 +494,16 @@
     {
       "id": "liv",
       "label": "생활·환경",
-      "count": 5
+      "count": 6
     }
   ],
   "sources": [
     {
-      "name": "The Star",
+      "name": "Devdiscourse",
       "count": 4
     },
     {
-      "name": "Devdiscourse",
+      "name": "The Star",
       "count": 3
     },
     {
@@ -479,11 +519,11 @@
       "count": 2
     },
     {
-      "name": "ANI (Asian News International)",
+      "name": "Reuters",
       "count": 2
     },
     {
-      "name": "Nikkei Asia",
+      "name": "ANI (Asian News International)",
       "count": 2
     },
     {
@@ -495,11 +535,23 @@
       "count": 2
     },
     {
-      "name": "Herald Malaysia Online",
+      "name": "Aktualita.co",
       "count": 1
     },
     {
-      "name": "Motorcycle Sports",
+      "name": "VIR",
+      "count": 1
+    },
+    {
+      "name": "Corsedimoto",
+      "count": 1
+    },
+    {
+      "name": "Phys.org",
+      "count": 1
+    },
+    {
+      "name": "Herald Malaysia Online",
       "count": 1
     },
     {
@@ -515,7 +567,7 @@
       "count": 1
     },
     {
-      "name": "The Paypers",
+      "name": "Nikkei Asia",
       "count": 1
     },
     {
@@ -523,18 +575,10 @@
       "count": 1
     },
     {
-      "name": "Reuters",
-      "count": 1
-    },
-    {
-      "name": "The Straits Times",
-      "count": 1
-    },
-    {
       "name": "Sputnik News",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-07 06:44:12",
+  "last_updated": "2026-10-07 14:05:50",
   "errors": {}
 }
