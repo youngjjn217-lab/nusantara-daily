@@ -14,7 +14,27 @@
       ],
       "published_at": "2026-10-06 12:45",
       "sort_key": 1791290730.0,
-      "id": "6303577003616680295"
+      "id": "3966416355839162544"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "인도네시아 역사 속의 에밀 아우데로: 아세안컵 결승전에서 태국을 상대로 페널티킥을 기록한 결정적 사례",
+      "summary": "에밀 오데로 (Emil Audero) 는 인도네시아의 아세안 컵 우승에 자신의 이름을 썼습니다. 새로운 FIFA 토너먼트는 국제 휴식 기간 동안 열렸으며 동남아시아 국가 대표팀을 위해 준비되었습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/soccer/articles/emil_audero_in_indonesias_history_decisive_in_the_asean_cup_final_with_a_penalty_saved_against_thailand/s1_17790_44393021"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/sport/indonesia-thailand-asean-cup-final-football-6434906"
+        }
+      ],
+      "published_at": "2026-10-06 09:40",
+      "sort_key": 1791279623.0,
+      "id": "1659305025310487876"
     },
     {
       "category": "car",
@@ -30,7 +50,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "1777750711772066654"
+      "id": "6569326194491100235"
     },
     {
       "category": "car",
@@ -46,7 +66,7 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "1679629572223042504"
+      "id": "3253333063067944646"
     },
     {
       "category": "pol",
@@ -66,23 +86,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "6550615574972930753"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "인도네시아, 페널티킥으로 태국 꺾고 아세안컵 첫 우승",
-      "summary": "인도네시아는 페널티킥 결승전에서 10명의 태국을 꺾고 첫 번째 아세안 컵을 차지했습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/sport/indonesia-thailand-asean-cup-final-football-6434906"
-        }
-      ],
-      "published_at": "2026-10-06 03:10",
-      "sort_key": 1791256203.0,
-      "id": "7959622727740909699"
+      "id": "8433953598516411000"
     },
     {
       "category": "car",
@@ -98,27 +102,27 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "7284417757978332658"
+      "id": "6825861729427587734"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "인도네시아 JCB 신용 카드는 국내 라이벌이 수수료를 인하하기 전에 시장에 진입합니다.",
+      "title": "JCB, MNC Bank, 인도네시아에서 신용카드 3종 출시",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUd1NEVrbm1xeXZlVndWczA5NDk2NmtveDhzRVJETkg3WDRYN09JVFh5NXNjRzNFYkxLVEJVX0dqNjItTE5GbDIySWlNVkFQd1V3QjQzWVQ3cXNneVBLRkx3MXlCRHNIV1FzLTBzaWRKS3RHUHhaaFpHYVJzXzFvNEtxaEw3VHI4S1RRaDFZRkh4UmttTTdINXdaN2czRXdEUWtSOEJiY0NMMWFoNTFvZ0RaSU5ZMnByY1VZOWF4SGZRbmVnSWRuM3JjRQ?oc=5"
-        },
-        {
           "name": "The Paypers",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmNfd1FJQzFzdUJ3YkZKc3R1cU5FSWtXMVRpVy1VU21EVWNxYlc5WXdlcDF1d2tvYVFRcW1YZzZ5Wnk1blBiWk1IaHpRclpXT0ZRSEo2NGVHcVZwOExGeTJZZWFVc1VBYlh5ZmVPQ1NrVVcwTWxBSDgtZmU5RlVSUkhiWjRfa3ZjbnNIcTlMOFZKUQ?oc=5"
+        },
+        {
+          "name": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUd1NEVrbm1xeXZlVndWczA5NDk2NmtveDhzRVJETkg3WDRYN09JVFh5NXNjRzNFYkxLVEJVX0dqNjItTE5GbDIySWlNVkFQd1V3QjQzWVQ3cXNneVBLRkx3MXlCRHNIV1FzLTBzaWRKS3RHUHhaaFpHYVJzXzFvNEtxaEw3VHI4S1RRaDFZRkh4UmttTTdINXdaN2czRXdEUWtSOEJiY0NMMWFoNTFvZ0RaSU5ZMnByY1VZOWF4SGZRbmVnSWRuM3JjRQ?oc=5"
         }
       ],
       "published_at": "2026-10-05 20:19",
       "sort_key": 1791231563.0,
-      "id": "2132059024406393214"
+      "id": "269072842442881209"
     },
     {
       "category": "car",
@@ -134,7 +138,7 @@
       ],
       "published_at": "2026-10-05 03:00",
       "sort_key": 1791169200.0,
-      "id": "1601893621389506960"
+      "id": "8005639444985928684"
     },
     {
       "category": "pol",
@@ -154,7 +158,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "5987653501029169657"
+      "id": "293569482182086234"
     },
     {
       "category": "pol",
@@ -170,7 +174,7 @@
       ],
       "published_at": "2026-10-02 10:13",
       "sort_key": 1790935980.0,
-      "id": "5923270953196027508"
+      "id": "3877066060090780614"
     },
     {
       "category": "pol",
@@ -186,7 +190,7 @@
       ],
       "published_at": "2026-10-01 10:03",
       "sort_key": 1790849004.0,
-      "id": "2341577879536062327"
+      "id": "8488019592890547426"
     },
     {
       "category": "int",
@@ -202,7 +206,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7014827094525222727"
+      "id": "3428735169639249939"
     },
     {
       "category": "eco",
@@ -218,7 +222,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "1983071005805868603"
+      "id": "9079714034646882167"
     },
     {
       "category": "liv",
@@ -234,7 +238,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "8913156159352259776"
+      "id": "4638501064320409290"
     },
     {
       "category": "int",
@@ -250,7 +254,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5286135908947263048"
+      "id": "3953049251256075728"
     },
     {
       "category": "liv",
@@ -266,7 +270,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "156153769360364195"
+      "id": "6397127270673992203"
     },
     {
       "category": "int",
@@ -282,7 +286,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "2194407303827654784"
+      "id": "645177061410635453"
     },
     {
       "category": "liv",
@@ -298,7 +302,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "4553113580443197129"
+      "id": "8844662167435206384"
     },
     {
       "category": "int",
@@ -314,23 +318,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "8609566169139023434"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "국제축구연맹 (FIFA) 아세안컵 개막전에서 외국 태생의 XI를 영입하기로 한 인도네시아의 결정은 논쟁을 불러일으킨다",
-      "summary": "인도네시아는 국제축구연맹 (FIFA) 아세안컵 개막전에서 모두 외국 출신으로 XI를 시작하며 귀화 선수와 현지 인재 개발에 대한 논쟁을 불러일으켰다. 자세한 내용은 straitstimes.com에서 확인하세요.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/sport/football/we-are-indonesian-coach-defends-foreign-born-xi-in-fifa-asean-cup-opener-against-singapore"
-        }
-      ],
-      "published_at": "2026-09-26 09:18",
-      "sort_key": 1790414328.0,
-      "id": "2943703181981130234"
+      "id": "6333639211905099657"
     },
     {
       "category": "eco",
@@ -346,7 +334,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "6144671573579629618"
+      "id": "8677153849606077092"
     },
     {
       "category": "liv",
@@ -362,7 +350,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "211362059759397527"
+      "id": "1647618951061443178"
     },
     {
       "category": "eco",
@@ -382,7 +370,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "8087765207271953480"
+      "id": "9001308276330648446"
     },
     {
       "category": "liv",
@@ -402,7 +390,7 @@
       ],
       "published_at": "2026-09-23 02:48",
       "sort_key": 1790131680.0,
-      "id": "630155472650070931"
+      "id": "6860679558168470251"
     },
     {
       "category": "tek",
@@ -418,7 +406,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "7044428481292046057"
+      "id": "7823238536753878598"
     },
     {
       "category": "tek",
@@ -434,7 +422,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "1464535539972813626"
+      "id": "6354938427435072968"
     }
   ],
   "categories": [
@@ -461,7 +449,7 @@
     {
       "id": "int",
       "label": "국제",
-      "count": 6
+      "count": 5
     },
     {
       "id": "liv",
@@ -479,15 +467,15 @@
       "count": 3
     },
     {
+      "name": "CNA",
+      "count": 2
+    },
+    {
       "name": "Tempo.co English",
       "count": 2
     },
     {
       "name": "U.S. News & World Report",
-      "count": 2
-    },
-    {
-      "name": "CNA",
       "count": 2
     },
     {
@@ -507,11 +495,11 @@
       "count": 2
     },
     {
-      "name": "The Straits Times",
-      "count": 2
+      "name": "Herald Malaysia Online",
+      "count": 1
     },
     {
-      "name": "Herald Malaysia Online",
+      "name": "Yardbarker",
       "count": 1
     },
     {
@@ -519,11 +507,11 @@
       "count": 1
     },
     {
-      "name": "Tech Times",
+      "name": "The Paypers",
       "count": 1
     },
     {
-      "name": "The Paypers",
+      "name": "Tech Times",
       "count": 1
     },
     {
@@ -539,10 +527,14 @@
       "count": 1
     },
     {
+      "name": "The Straits Times",
+      "count": 1
+    },
+    {
       "name": "Sputnik News",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-06 21:00:44",
+  "last_updated": "2026-10-07 00:45:19",
   "errors": {}
 }
