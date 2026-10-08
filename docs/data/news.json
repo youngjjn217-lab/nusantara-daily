@@ -3,23 +3,79 @@
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "Prabowo, 인도네시아 최초의 전기차 배터리 수출 개시",
+      "title": "Prabowo launches first EV battery export from Indonesia",
       "summary": "",
       "type": "news",
       "sources": [
         {
+          "name": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYTZMWGJmalB6VmF0eGp3OWpWNzYwRWF2b3VDYWpONE8ycFg3NzZ0Q2xYSVhmUmE2dXluaUZPRVpUQ0NKSHlRZ1FNWHBJY3JJdlFGLVBKd0Nuby1vdVUyaUVRbFVveEhCQjhWallyQjNBc2lVbGJmSVZyMmVqcE1LVjA4MmJ3WmxTaEUwYkJmbXEzWGVTd2dBeWVYcEpxUdIBngFBVV95cUxQYTZMWGJmalB6VmF0eGp3OWpWNzYwRWF2b3VDYWpONE8ycFg3NzZ0Q2xYSVhmUmE2dXluaUZPRVpUQ0NKSHlRZ1FNWHBJY3JJdlFGLVBKd0Nuby1vdVUyaUVRbFVveEhCQjhWallyQjNBc2lVbGJmSVZyMmVqcE1LVjA4MmJ3WmxTaEUwYkJmbXEzWGVTd2dBeWVYcEpxUQ?oc=5"
+        },
+        {
           "name": "Jakarta Globe",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko1NW5qOUdpQ2RhN2xXOUtBSnFTYzRsVUZPWkdCSmgzeVdKUFVVVmVWLUpMYkU3ZVo2WG9VVlpacHFCTHJOZGxvQ2lCUERHMk5ldmx6OEY3YU8xVjlYWjAxbGFDR1RwbFNUaFdxSV9QbnE5d24zZGxKenNCM2JfbjZ1OWozNlAyYUFzMUJMdWFsTk92VWhKUmo0a3duU3pL?oc=5"
+        },
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPek5oc0wwN1Q3OVQ3VkNreFEzamxXWE9FRmlkV0hScmFfYTBSMXcyWl8yZXVud1VDaHBmaENvZlNxd9IBQkFVX3lxTFBPek5oc0wwN1Q3OVQ3VkNreFEzamxXWE9FRmlkV0hScmFfYTBSMXcyWl8yZXVud1VDaHBmaENvZlNxdw?oc=5"
         }
       ],
-      "published_at": "2026-10-08 02:40",
-      "sort_key": 1791427200.0,
-      "id": "3711427107402955864"
+      "published_at": "2026-10-08 11:25",
+      "sort_key": 1791458744.0,
+      "id": "3324654663817452723"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "9월 인도네시아 자동차 판매 급증 28.1%",
+      "title": "Marc Marquez vows to 'attack' Martin's lead at Indonesian MotoGP",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Jakarta Post",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZGN3bXJ5SUJZbWtoclg4LUl6YmVqQjd4Rm1rTWdtNWZJSWEyU2ZwdVhvVmFKRW1MUGpleGNhWUJTNl9kOXcwQnhyN3VjMk5ac3hUZHdTMmZtMkdVb3poYktiYjlEaEtDQzVFeHd5ZVRxWjZNMlE3UlF4NXE0dUZxY1czM0k5T0xIOGFiNllLalpOWHlsMW0wVEM0X3N6by1Xc3R1SjBia2lUWmdGVmloRUh1Q0xjQ2xNVE1jakFWLUVKaTVwYXFVZUZaOWNjU0Nxb0Q2Y0duS1pqd2QtdWt0cUdxelFqT2dxYkdZ?oc=5"
+        }
+      ],
+      "published_at": "2026-10-08 09:27",
+      "sort_key": 1791451636.0,
+      "id": "2708140067993861773"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Indonesia Motorbike Sales Growth Hits 4-Month High",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjh0b1JMX0hkMTltZVFLYVlNT1ZtYjBZVnFZVHBHTEFMSGtScEdta090aTEzM2Z2LVV3UUJVUkdTQjBDWHRJNDduZTEtMno2U1R0WDcwQXE1c3FfcmdEOG50NDI4M21WSHpDZk9LSTVEQVlvX3MwYzZjTUhqMi1PVEpYVy00aDJuTHVZdHJ5S2dxcS1oaFZDN2dpb1hmWEdFbXdn?oc=5"
+        }
+      ],
+      "published_at": "2026-10-08 07:20",
+      "sort_key": 1791444047.0,
+      "id": "6244435538952187459"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Indonesia launches regulation on online motorcycle taxi services",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWVQZmgwYklpUjNzeHplX2ZQZlM3S3Z5b1o2a3RKcFVCQ0ZuRS0xUGhZZmJ4R1pRdE1hN181ZGNaRUFPeUJEazcyamtVc0U3WllhMGNtNEpkR3V3QlpySlNYdFpHanBnYzJRb1F1OS1WVHhuUlEtbDE3MFFadkV0QmhhRWpDbmFxRzJpUHFxOEtGVTZDTXZ3Z09rSGNFb1JmcVdWRtIBqgFBVV95cUxONnc3RjNBSmVnSVJGVGlucVRaUTJtSjBpbHhFTE5nMGRDQzNNLU5jRVpUSEdCU0l0dG55Z1NzV3ZhdHVWZVZDMkJPM2owY0kyeFBtczRzSGJicnREUnB5M1lhaEVmVDBrTU54Wm5oYlhoNXZ2VjJuODBYbHRSUzlhdS1SNGp5ZU9SYjZweW1pbWdoR2lKaWN5ZWRaV3ZNdERYbS1BM3JRdkVJZw?oc=5"
+        }
+      ],
+      "published_at": "2026-10-08 05:58",
+      "sort_key": 1791439088.0,
+      "id": "4203352589250536985"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Indonesia Car Sales Surge 28.1% in September",
       "summary": "",
       "type": "news",
       "sources": [
@@ -30,12 +86,12 @@
       ],
       "published_at": "2026-10-08 01:49",
       "sort_key": 1791424140.0,
-      "id": "2133653957137912000"
+      "id": "7413298485611004874"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "자동차 관광 허브로 탈바꿈한 만달리카",
+      "title": "Mandalika Transforms into an Automotive Tourism Hub",
       "summary": "",
       "type": "news",
       "sources": [
@@ -46,28 +102,12 @@
       ],
       "published_at": "2026-10-07 23:46",
       "sort_key": 1791416760.0,
-      "id": "983119658300283372"
+      "id": "8395898801419156651"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "GIIAS 인도네시아 자동차 시장에 활력을 불어넣을 준비가 된 후 첫 번째 글로벌 데뷔 무대",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE90d1VucjZ1dzcxZzkwanNnekxwSFdXRjFpYXJaczhDSm9xa0REQVBOcUVXOFpZWklCNmY4VzktM1ZkWWcteTY00gFCQVVfeXFMTndDQ1E5Wk9KeWd0ZDJqRWstS1JrODljVFh5TnhLUnp4ZXd3cVdEU0pJeEx3NnlMNFJEcmxUcGlQRTRR?oc=5"
-        }
-      ],
-      "published_at": "2026-10-07 20:33",
-      "sort_key": 1791405206.0,
-      "id": "5750716535586619611"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Mandalika MotoGP 2026이 이번 주에 시작되며, Garuda는 14,000개의 좌석을",
+      "title": "Mandalika MotoGP 2026 Starts This Week, Garuda Adds 14,000 Seats to",
       "summary": "",
       "type": "news",
       "sources": [
@@ -78,13 +118,13 @@
       ],
       "published_at": "2026-10-07 09:42",
       "sort_key": 1791366146.0,
-      "id": "8748053472351213509"
+      "id": "6565720322600617081"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아 정부는 보르네오 안개에 대한 ‘중과실’ 소송에 직면해 있습니다.",
-      "summary": "폰티아낙, 10월 7일 — 인도네시아 정부가 오늘 대통령과 다른 관리들을 상대로 유독한 연무로 열린 법정에서 \"중과실\" 혐의로 기소되었습니다...",
+      "title": "Indonesia government faces ‘gross negligence’ lawsuit over Borneo haze",
+      "summary": "PONTIANAK, Oct 7 — Indonesia’s government was accused of “gross negligence” in a court case that opened today against the president and other officials over a toxic haze...",
       "type": "news",
       "sources": [
         {
@@ -94,28 +134,12 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "7514283081380562071"
+      "id": "4167115148128061876"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "VinFast VF 3, 인도네시아에서 전기 자동차 타이틀 획득 - 베트남 투자 검토",
-      "summary": "VinFast VF 3, 인도네시아에서 전기 자동차 타이틀 획득 베트남 투자 검토 - VIR",
-      "type": "news",
-      "sources": [
-        {
-          "name": "VIR",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRwWXgyY2RNWDBLQ0ZCVExwTUFBY1BrQzVOYUR0UEc5U2Y0SF9fWGhHY1pBajlRLXBlYjFZODZOelRCblJsV3lwQzZuNmREWWRDWnVSTVNwYTIxQmpxUVNmMGljZGNwajAyZF9pUHNIZW00WjRUSWxPYVRTelRlcWFDYm5hNnpfT3VZRA?oc=5"
-        }
-      ],
-      "published_at": "2026-10-07 08:27",
-      "sort_key": 1791361665.0,
-      "id": "3616684603213453025"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 시장으로 돌아와서 스마트카는 젊은이들에게 관심이 있다고 주장합니다.",
+      "title": "Returning To The Indonesian Market, Smart Cars Are Claimed To Be Interested In Young People",
       "summary": "",
       "type": "news",
       "sources": [
@@ -126,13 +150,13 @@
       ],
       "published_at": "2026-10-07 03:25",
       "sort_key": 1791343515.0,
-      "id": "5522683280622460192"
+      "id": "4611126199066441101"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아 헌법재판소는 교육 자격에 대한 부통령의 도전을 기각합니다.",
-      "summary": "자카르타: 인도네시아 헌법재판소는 지브란 라카부밍 라카 (Gibran Rakabuming Raka) 부통령의 2024년 대선 후보자 교육 문서가 불완전했지만, 그의 공직 자격을 박탈하지 않았고 그의 자격에 대한 평가를 다른 기관에 맡겼다고 밝혔다.",
+      "title": "Indonesia's Constitutional Court dismisses challenge to Vice President over education credentials",
+      "summary": "JAKARTA: Indonesia's Constitutional Court has found that while Vice President Gibran Rakabuming Raka's education documentation for his candidacy in the 2024 election was incomplete, it did not disqualify him from office and left the assessment of his eligibility to other institutions.",
       "type": "news",
       "sources": [
         {
@@ -146,7 +170,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "918911564878008018"
+      "id": "2461416917852747456"
     },
     {
       "category": "liv",
@@ -162,13 +186,13 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "4065921403377075893"
+      "id": "2142650275082029572"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "인도네시아 역사 속의 에밀 아우데로: 아세안컵 결승전에서 태국을 상대로 페널티킥을 기록한 결정적 사례",
-      "summary": "에밀 오데로 (Emil Audero) 는 인도네시아의 아세안 컵 우승에 자신의 이름을 썼습니다. 새로운 FIFA 토너먼트는 국제 휴식 기간 동안 열렸으며 동남아시아 국가 대표팀을 위해 준비되었습니다.",
+      "title": "Emil Audero in Indonesia’s history: decisive in the ASEAN Cup final with a penalty saved against Thailand",
+      "summary": "Emil Audero wrote his name into Indonesia's ASEAN Cup triumph, the new FIFA tournament played during the international break and reserved for the national teams of South-east Asia.",
       "type": "news",
       "sources": [
         {
@@ -182,45 +206,13 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "5521193119928660384"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "MotoGP, VR46 팀 두카티 자전거가 인도네시아의 불새로 변신하다",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "GPOne.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM19xaWxObVFUZUJFVE5yYWc0M1EtT0V5VzNRZDU1WXRpRUVEcUlhc0lIRnk4aDY4d2pIYXlMa1RjOUYweWtCX3I1NmI5TVJIbTFaNTlRaUYzNlVtMnRzMlZjSUNYWXVqczU2WHNaV3RmMnVRR1Z6Ynk3T3VqQ2ZGU01iczZwdWx3QTgtczZNcV9CQ1ZiN25wUW53Z0gwWVN4UHlzQnRIdWtJcDdqdnc?oc=5"
-        }
-      ],
-      "published_at": "2026-10-06 08:47",
-      "sort_key": 1791276463.0,
-      "id": "7199581657729461511"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Prabowo 장관, 인도네시아산 마웅 자동차 사용 시작",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVcxdlV3OTZmNDNxQmZNVWlJaEl4S0FGYmpDU1I4QWJDQnpoYVQ1S1Q1WkRNQjE1emZVeFk1MUcyNy05N2FkR1NFR01oNmE1MnlMNTFQcDI0U055Q0JDRmt3OUJuS25Xb25pajNVWHMxM2pwZ3JvRGFzZENLSlJ2OHBxODVGQ1JCNkZNT3l1OTljUQ?oc=5"
-        }
-      ],
-      "published_at": "2026-10-06 07:30",
-      "sort_key": 1791271839.0,
-      "id": "4219049271389163036"
+      "id": "4853715231917601246"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아 법원, Annul 부통령 선거 승리에 대한 입찰 결정",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위에서 인정받는 리더입니다. 선출직 공무원을 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육에서 사용할 수있는 뉴스를 찾으십시오.",
+      "title": "Indonesia Court to Rule on Bid to Annul Vice President's Election Win",
+      "summary": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
       "type": "news",
       "sources": [
         {
@@ -234,13 +226,13 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "2978310890355794519"
+      "id": "6406385547575405953"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "인도네시아는 핫스팟이 떨어졌음에도 불구하고 산불을 경계해야 한다고 환경 단체들은 경고한다.",
-      "summary": "인도네시아 정부는 최근 핫스팟 수가 감소했음에도 불구하고 지속적으로 덥고 건조한 날씨 속에서 여전히 이탄지 화재가 발생하기 쉽기 때문에 산불을 경계해야 한다고 환경 단체들이 월요일 밝혔다.",
+      "title": "Indonesia must keep its guard up against wildfire despite drop in hotspots, environment groups warn",
+      "summary": "The Indonesian government must keep its guard up against ​wildfires despite a recent decline in the number of hotspots, with peatland fires still prone to ‌flare up amid persistently hot and dry weather, environmental groups said on Monday.",
       "type": "news",
       "sources": [
         {
@@ -250,13 +242,13 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "5267353625710488903"
+      "id": "1093399734631505677"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도-인도네시아 무역에서 상당한 미개척 잠재력; 더 많은 일이 필요합니다: 인도네시아 대통령 특사",
-      "summary": "마리 엘카 판게스투 (Mari Elka Pangestu) 인도네시아 국제 무역 및 다자간 협력을 위한 대통령 특사는 인도와 인도네시아 간의 무역 및 투자에서 미개척된 상당한 잠재력을 강조하면서 양국 간의 기회를 실현하기 위해 더 많은 것이 필요하다고 말했다.",
+      "title": "Significant untapped potential in India-Indonesia trade; more needs to be done: Special Envoy of Indonesian President",
+      "summary": "Special Envoy of the President of Indonesia for International Trade and Multilateral Cooperation Mari Elka Pangestu highlighted the significant untapped potential in trade and investment between India and Indonesia, saying more needs to be done to realise the opportunities between the two countries.",
       "type": "news",
       "sources": [
         {
@@ -266,13 +258,13 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "6439682994002852118"
+      "id": "7061948804954491758"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "ICJ? 아세안? 민사 소송? 인도네시아의 질식 연무에 대해 말레이시아, 다른 사람들은 무엇을 할 수 있습니까?",
-      "summary": "쿠알라룸푸르, 10월 1일 — 인도네시아 산불로 인한 안개가 말레이시아와 싱가포르 인근 지역을 한 달 이상 뒤덮고 학교를 폐쇄하고 호흡기 불만을 보내고 있습니다...",
+      "title": "ICJ? Asean? Civil suits? What can Malaysia, others do about Indonesia’s choking haze?",
+      "summary": "KUALA LUMPUR, Oct 1 — Haze from Indonesian wildfires has blanketed neighbouring Malaysia and Singapore for more than a month, closing schools and sending respiratory complaints...",
       "type": "news",
       "sources": [
         {
@@ -282,13 +274,13 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3231023905139128074"
+      "id": "6192545456187601229"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "9월 인도네시아 소비자 인플레이션 가속화",
-      "summary": "잉 시안 웡 (Ying Xian Wong)\n9월 인도네시아의 소비자 인플레이션은 식품 가격 상승으로 인해 상승했다.\n9월 소비자물가지수는 1년 전보다 3.28% 상승해 8월의 3.19% 보다 상승했다...",
+      "title": "Indonesia's Consumer Inflation Accelerated in September",
+      "summary": "By Ying Xian Wong\nIndonesia's consumer inflation picked up in September due to higher food prices.\nThe consumer-price index rose 3.28% in September from a year earlier, up from August's 3.19%...",
       "type": "news",
       "sources": [
         {
@@ -298,13 +290,13 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "3314225564784857589"
+      "id": "3333198946906102349"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "인도네시아 보건부 장관 부디 사디킨 (Budi Sadikin) 은 세계보건기구 (WHO) 의 첫 번째 동남아시아 총책임자가 되기를",
-      "summary": "자카르타: 동남아시아는 세계보건기구 (WHO) 의 수장을 배출한 적이 없으며 인도네시아의 부디 구나디 사디킨 (Budi Gunadi Sadikin) 은 이를 바꾸고 싶어합니다.",
+      "title": "Indonesia’s health minister Budi Sadikin hopes to be first South-East Asian chief at WHO",
+      "summary": "JAKARTA: South-East Asia has never produced a World Health Organization (WHO) chief, and Indonesia's Budi Gunadi Sadikin wants to change that..",
       "type": "news",
       "sources": [
         {
@@ -314,13 +306,13 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "1533195987108834159"
+      "id": "6927427860566798164"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "피파 아세안 컵: 쿨스는 말레이시아가 싱가포르 쇼다운에서 인도네시아 드로우를 구축하기를 원합니다.",
-      "summary": "9월 29일, 자카르타 — 말레이시아 주장 디온 쿨스는 하리마우 말라야가 겔로라 붕 카르노 (GBK) 스타디움을 3점차로 떠나지 못해 실망했다고 인정했다...",
+      "title": "Fifa Asean Cup: Cools wants Malaysia to build on Indonesia draw in Singapore showdown",
+      "summary": "JAKARTA, Sept 29 — Malaysia captain Dion Cools admitted he was disappointed that Harimau Malaya could not leave Gelora Bung Karno (GBK) Stadium here with all three points after...",
       "type": "news",
       "sources": [
         {
@@ -330,13 +322,13 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "991198935716255647"
+      "id": "3337338481630721940"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "인도네시아, 건강 보험사 BPJS Kesehatan에 $ 11억 투자",
-      "summary": "정부 성명서에 따르면 인도네시아 정부는 2026년 국가 기관이 적자를 충당할 수 있도록 건강 보험사 BPJS Kesehatan에 20조 루피아를 투입할 예정이다.\no BPJS...\n- 2026년 9월 28일 오후 10시 59분 (동부 일광절약시)\n- MarketScreener",
+      "title": "Indonesia to inject $1.1 billion into health insurer BPJS Kesehatan",
+      "summary": "Indonesia's government will inject 20 trillion rupiah into health insurer BPJS Kesehatan to help the state agency cover its deficit in 2026, according to a government statement.\no BPJS...\n-September 28, 2026 at 10:59 pm EDT\n- MarketScreener",
       "type": "news",
       "sources": [
         {
@@ -346,13 +338,13 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "411454241789108229"
+      "id": "6314740936469457985"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "말레이시아는 아세안컵에서 10인 인도네시아를 상대로 돌파구를 찾지 못했다.",
-      "summary": "페탈링 자야: 말레이시아는 월요일 (9월 28일) 자카르타의 겔로라 붕 카르노 스타디움에서 열린 국제축구연맹 (FIFA) 아세안컵 A조 2차전에서 호스트 인도네시아에 0-0 무승부를 거두면서 1인 이점을 활용하지 못했습니다.",
+      "title": "Malaysia fail to find breakthrough against 10-man Indonesia in Asean Cup",
+      "summary": "PETALING JAYA: Malaysia failed to capitalise on a one-man advantage as they were held to a 0-0 draw by hosts Indonesia in their second Group A match of the FIFA Asean Cup at the Gelora Bung Karno Stadium in Jakarta on Monday (Sept 28).",
       "type": "news",
       "sources": [
         {
@@ -362,13 +354,13 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "7881324333043416089"
+      "id": "2040377314041540682"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "인도네시아의 재난 완화 마스터플랜은 시행과 지역사회 대비에 달려 있습니다.",
-      "summary": "일련의 재난으로 인해 인도네시아는 완화 마스터플랜을 작성해야 했습니다. 전문가들은 CNA에 17,000개 이상의 섬이 있는 국가에서 기능이 일관되게 연결되고 유지되도록 하는 것이 당면 과제 중 하나라고 말합니다.",
+      "title": "Indonesia’s disaster mitigation masterplan hinges on enforcement, community preparedness",
+      "summary": "A string of disasters has prompted Indonesia to draw up a mitigation masterplan. Experts tell CNA that one of the challenges is ensuring the capabilities are consistently connected and maintained across a country of more than 17,000 islands.",
       "type": "news",
       "sources": [
         {
@@ -378,13 +370,13 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "3132938719682482023"
+      "id": "3953753366115351563"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "아세안 컵에서 말레이시아가 인도네시아와 싸우는 동안 파이살은 겔로라에서 폭풍우를 진정시킬 준비가 되었습니다.",
-      "summary": "페탈링 자야: 축구 국가대표팀 윙어 파이살 할림은 겔로라 붕 카르노 스타디움의 적대적인 분위기에 동요하지 않으며, 월요일 (9월 28일) 에 열리는 FIFA 아세안 컵 A조 경기에서 말레이시아가 인도네시아를 상대할 때 정신적으로나 육체적으로 준비를 해야 한다고 팀원들에게 촉구했습니다.",
+      "title": "Faisal ready to calm storm at Gelora as Malaysia battle Indonesia in Asean Cup",
+      "summary": "PETALING JAYA: National football team winger Faisal Halim says he is unfazed by the hostile atmosphere at the Gelora Bung Karno Stadium and has urged his teammates to be ready both mentally and physically when Malaysia take on Indonesia in their FIFA Asean Cup Group A match on Monday (Sept 28).",
       "type": "news",
       "sources": [
         {
@@ -394,13 +386,13 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "4516621518725580534"
+      "id": "3584229726840875216"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "인도네시아 중앙은행은 예상대로 금리를 안정적으로 유지하고 있다.",
-      "summary": "자카르타 (로이터) -- 인도네시아 중앙은행은 수요일 데스트리 다마얀티의 정부 임명 이후 첫 회의에서 금리를 안정적으로 유지했다.",
+      "title": "Indonesia's central bank holds rates steady, as expected",
+      "summary": "JAKARTA (Reuters) -- Indonesia's central bank on Wednesday held interest rates steady at its first meeting after Destry Damayanti's appointment as gov",
       "type": "news",
       "sources": [
         {
@@ -410,13 +402,13 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "1104555529942362154"
+      "id": "8943683817184823942"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "인도네시아 페리 사고: 120명 이상의 실종 승객에 대한 수색이 계속됨에 따라 사망자 증가",
-      "summary": "인도네시아 페리 사고로 인한 사망자 수는 20명에 이릅니다. 여객선 처녀자리의 비극적인 전복 이후 자바해에서 비극적인 사건 수색 및 구조 작업이 계속되고 있습니다...",
+      "title": "Indonesia ferry disaster: Death toll rises as search continues for over 120 missing passengers",
+      "summary": "Death toll in Indonesia ferry disaster reaches 20. Following the tragic incident search and rescue operations continue in the Java Sea following the tragic capsizing of the passenger ferry Virgo...",
       "type": "news",
       "sources": [
         {
@@ -426,13 +418,13 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "3643157059980207306"
+      "id": "7876977564682226777"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "ROI-인도네시아의 니켈 생산 커브는 시장에 확신을 주지 못합니다: 앤디 홈",
-      "summary": "ROI-인도네시아의 니켈 생산 연석에 대해 자세히 알아보기: Andy Home on Devdiscourse",
+      "title": "ROI-Indonesia's nickel production curbs leave market unconvinced: Andy Home",
+      "summary": "Read more about ROI-Indonesia's nickel production curbs leave market unconvinced: Andy Home on Devdiscourse",
       "type": "news",
       "sources": [
         {
@@ -446,7 +438,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "7284138208411447147"
+      "id": "9125218284335591113"
     },
     {
       "category": "tek",
@@ -462,13 +454,13 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "4723148881908602112"
+      "id": "487275489482774335"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "인도네시아의 무역 범위 및 기술 기회를 증진하기 위한 BRICS 멤버십 - 공식",
-      "summary": "인도네시아 정부 통신국 (BAKOM) 의 무하마드 코다리 (Muhammad Qodari) 국장은 스푸트니크에게 \"인도네시아는 브릭스를 다른 회원국과의 경제 관계를 확장하기 위한 다자간 플랫폼으로 보고 있다\" 고 말했다.",
+      "title": "BRICS Membership to Boost Indonesia’s Trade Reach and Tech Opportunities - Official",
+      "summary": "\"Indonesia views BRICS as a multilateral platform for expanding our economic relations with other member states,\" head of the nation's Government Communications Agency (BAKOM) Muhammad Qodari tells Sputnik.",
       "type": "news",
       "sources": [
         {
@@ -478,7 +470,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "7022464274348036397"
+      "id": "2266774647480512872"
     }
   ],
   "categories": [
@@ -500,7 +492,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 9
+      "count": 8
     },
     {
       "id": "int",
@@ -527,7 +519,15 @@
       "count": 3
     },
     {
+      "name": "ANTARA News",
+      "count": 2
+    },
+    {
       "name": "VOI.ID",
+      "count": 2
+    },
+    {
+      "name": "TradingView",
       "count": 2
     },
     {
@@ -547,7 +547,7 @@
       "count": 1
     },
     {
-      "name": "TradingView",
+      "name": "The Jakarta Post",
       "count": 1
     },
     {
@@ -559,23 +559,11 @@
       "count": 1
     },
     {
-      "name": "VIR",
-      "count": 1
-    },
-    {
       "name": "Phys.org",
       "count": 1
     },
     {
       "name": "Yardbarker",
-      "count": 1
-    },
-    {
-      "name": "GPOne.com",
-      "count": 1
-    },
-    {
-      "name": "Tempo.co English",
       "count": 1
     },
     {
@@ -599,6 +587,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-08 06:09:47",
+  "last_updated": "2026-10-08 13:35:03",
   "errors": {}
 }
