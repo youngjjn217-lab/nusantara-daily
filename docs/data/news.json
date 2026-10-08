@@ -3,6 +3,22 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "자동차 관광 허브로 탈바꿈한 만달리카",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "RRI.co.id",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmNMNGEzTHZDR2cxVUlJTXBjb05paTVhMGpLc2tYUHd5TDczcTNPR2hVSnQ1WmhXRjJaYzRnb1VKSDBWQXNjS1g1WVNuQVZfRGkycHB3U3VocE41bTJzUGdjR2lLM1AyM2RWNlM3SWV4d0FKcTc1TnMycFJ3TkRqZ2QtSEhPd1UwczFoTmhsTmJsTVFDdzVjWm1fdHZBUEc3a0UteQ?oc=5"
+        }
+      ],
+      "published_at": "2026-10-07 23:46",
+      "sort_key": 1791416760.0,
+      "id": "3944870875983742611"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "Mandalika MotoGP 2026이 이번 주에 시작되며, Garuda는 14,000개의 좌석을",
       "summary": "",
       "type": "news",
@@ -14,7 +30,23 @@
       ],
       "published_at": "2026-10-07 09:42",
       "sort_key": 1791366146.0,
-      "id": "5608404537011764169"
+      "id": "8093716250881065820"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 정부는 보르네오 안개에 대한 ‘중과실’ 소송에 직면해 있습니다.",
+      "summary": "폰티아낙, 10월 7일 — 인도네시아 정부가 오늘 대통령과 다른 관리들을 상대로 유독한 연무로 열린 법정에서 \"중과실\" 혐의로 기소되었습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/10/07/indonesia-government-faces-gross-negligence-lawsuit-over-borneo-haze/238115"
+        }
+      ],
+      "published_at": "2026-10-07 08:39",
+      "sort_key": 1791362394.0,
+      "id": "459871324403847701"
     },
     {
       "category": "car",
@@ -30,7 +62,7 @@
       ],
       "published_at": "2026-10-07 08:27",
       "sort_key": 1791361665.0,
-      "id": "9016275664288500156"
+      "id": "8445126954542539831"
     },
     {
       "category": "car",
@@ -46,7 +78,7 @@
       ],
       "published_at": "2026-10-07 05:00",
       "sort_key": 1791349200.0,
-      "id": "909262519365136509"
+      "id": "6322937671580568587"
     },
     {
       "category": "car",
@@ -62,7 +94,7 @@
       ],
       "published_at": "2026-10-07 03:25",
       "sort_key": 1791343515.0,
-      "id": "8793829274114085861"
+      "id": "3566597378076467708"
     },
     {
       "category": "pol",
@@ -82,7 +114,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "5169047170506876734"
+      "id": "6911555115925128674"
     },
     {
       "category": "liv",
@@ -98,7 +130,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "3731609260438841370"
+      "id": "1162835770901141400"
     },
     {
       "category": "car",
@@ -114,7 +146,7 @@
       ],
       "published_at": "2026-10-06 12:45",
       "sort_key": 1791290730.0,
-      "id": "124172880523990127"
+      "id": "4319449387400750526"
     },
     {
       "category": "int",
@@ -134,7 +166,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "3407887771081748867"
+      "id": "2055981668832767893"
     },
     {
       "category": "car",
@@ -150,7 +182,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "87162987735360160"
+      "id": "9055378062269865820"
     },
     {
       "category": "car",
@@ -166,7 +198,7 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "656754841840179707"
+      "id": "5452904452738595865"
     },
     {
       "category": "pol",
@@ -186,7 +218,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "1786822263761361233"
+      "id": "4901543504030633438"
     },
     {
       "category": "car",
@@ -202,23 +234,7 @@
       ],
       "published_at": "2026-10-06 01:16",
       "sort_key": 1791249384.0,
-      "id": "6777232919144632900"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 JCB 신용 카드는 국내 라이벌이 수수료를 인하하기 전에 시장에 진입합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUd1NEVrbm1xeXZlVndWczA5NDk2NmtveDhzRVJETkg3WDRYN09JVFh5NXNjRzNFYkxLVEJVX0dqNjItTE5GbDIySWlNVkFQd1V3QjQzWVQ3cXNneVBLRkx3MXlCRHNIV1FzLTBzaWRKS3RHUHhaaFpHYVJzXzFvNEtxaEw3VHI4S1RRaDFZRkh4UmttTTdINXdaN2czRXdEUWtSOEJiY0NMMWFoNTFvZ0RaSU5ZMnByY1VZOWF4SGZRbmVnSWRuM3JjRQ?oc=5"
-        }
-      ],
-      "published_at": "2026-10-05 20:19",
-      "sort_key": 1791231563.0,
-      "id": "7954739990080526346"
+      "id": "3922959075348747807"
     },
     {
       "category": "liv",
@@ -234,7 +250,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "3022223744917432611"
+      "id": "2914798154897776185"
     },
     {
       "category": "pol",
@@ -246,15 +262,11 @@
         {
           "name": "Devdiscourse",
           "url": "https://www.devdiscourse.com/article/international/3986796-significant-untapped-potential-in-india-indonesia-trade-more-needs-to-be-done-special-envoy-of-indonesian-president"
-        },
-        {
-          "name": "ANI (Asian News International)",
-          "url": "https://www.aninews.in/news/world/asia/significant-untapped-potential-in-india-indonesia-trade-more-needs-to-be-done-special-envoy-of-indonesian-president20261005014515/"
         }
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "8523032241559340430"
+      "id": "8328018485299763430"
     },
     {
       "category": "int",
@@ -270,7 +282,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1136481644687627762"
+      "id": "7706611655106070906"
     },
     {
       "category": "eco",
@@ -286,7 +298,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "7551441613271859896"
+      "id": "6872834599933249432"
     },
     {
       "category": "liv",
@@ -302,7 +314,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "5204052192929566041"
+      "id": "4109649683628629292"
     },
     {
       "category": "int",
@@ -318,7 +330,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "3406868059565827981"
+      "id": "5577086464927275451"
     },
     {
       "category": "liv",
@@ -334,7 +346,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "4617263231876173596"
+      "id": "6402100734151766387"
     },
     {
       "category": "int",
@@ -350,7 +362,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "6359262256032234314"
+      "id": "4146780133167491592"
     },
     {
       "category": "liv",
@@ -366,7 +378,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "976157162147328978"
+      "id": "6556153491512605147"
     },
     {
       "category": "int",
@@ -382,7 +394,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "6570131550314280746"
+      "id": "7900663676634543026"
     },
     {
       "category": "eco",
@@ -398,7 +410,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "6956141146446391793"
+      "id": "8320843353720897897"
     },
     {
       "category": "liv",
@@ -414,7 +426,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "7304357736677726829"
+      "id": "5362276750076655763"
     },
     {
       "category": "eco",
@@ -434,7 +446,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "9157432238703412303"
+      "id": "942712091163020505"
     },
     {
       "category": "tek",
@@ -450,7 +462,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "7639330472222532779"
+      "id": "8859217579241232452"
     },
     {
       "category": "tek",
@@ -466,7 +478,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "3403105241718162645"
+      "id": "5724199036542359504"
     }
   ],
   "categories": [
@@ -478,7 +490,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 3
+      "count": 4
     },
     {
       "id": "tek",
@@ -511,6 +523,10 @@
       "count": 4
     },
     {
+      "name": "Malay Mail",
+      "count": 3
+    },
+    {
       "name": "CNA",
       "count": 2
     },
@@ -523,16 +539,12 @@
       "count": 2
     },
     {
-      "name": "ANI (Asian News International)",
-      "count": 2
-    },
-    {
-      "name": "Malay Mail",
-      "count": 2
-    },
-    {
       "name": "MarketScreener",
       "count": 2
+    },
+    {
+      "name": "RRI.co.id",
+      "count": 1
     },
     {
       "name": "Aktualita.co",
@@ -571,10 +583,6 @@
       "count": 1
     },
     {
-      "name": "Tech Times",
-      "count": 1
-    },
-    {
       "name": "Nikkei Asia",
       "count": 1
     },
@@ -583,10 +591,14 @@
       "count": 1
     },
     {
+      "name": "ANI (Asian News International)",
+      "count": 1
+    },
+    {
       "name": "Sputnik News",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-07 20:00:45",
+  "last_updated": "2026-10-08 00:13:52",
   "errors": {}
 }
