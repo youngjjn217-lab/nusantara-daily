@@ -3,6 +3,38 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "Prabowo, 인도네시아 최초의 전기차 배터리 수출 개시",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Jakarta Globe",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko1NW5qOUdpQ2RhN2xXOUtBSnFTYzRsVUZPWkdCSmgzeVdKUFVVVmVWLUpMYkU3ZVo2WG9VVlpacHFCTHJOZGxvQ2lCUERHMk5ldmx6OEY3YU8xVjlYWjAxbGFDR1RwbFNUaFdxSV9QbnE5d24zZGxKenNCM2JfbjZ1OWozNlAyYUFzMUJMdWFsTk92VWhKUmo0a3duU3pL?oc=5"
+        }
+      ],
+      "published_at": "2026-10-08 02:40",
+      "sort_key": 1791427200.0,
+      "id": "3711427107402955864"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "9월 인도네시아 자동차 판매 급증 28.1%",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjBrTm5UTGphWXlDamowRjNWeVpYS3ZVNXpVRGQ1QWthN2R6aFZ1NF9XNGc3Vl9xdTZpZDZpMkhSZWtudko3YmRnMFJUb0VNdnRpSlhRRk11c2FqTmhlazRtcUp2bGpUV0kzQjJtLUNjV2w1b3hsZzJRbmRWdmJkY3pWaElHcWxYQklPanl0dmY4LWwxd0w0NFRn?oc=5"
+        }
+      ],
+      "published_at": "2026-10-08 01:49",
+      "sort_key": 1791424140.0,
+      "id": "2133653957137912000"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "자동차 관광 허브로 탈바꿈한 만달리카",
       "summary": "",
       "type": "news",
@@ -14,7 +46,23 @@
       ],
       "published_at": "2026-10-07 23:46",
       "sort_key": 1791416760.0,
-      "id": "3944870875983742611"
+      "id": "983119658300283372"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "GIIAS 인도네시아 자동차 시장에 활력을 불어넣을 준비가 된 후 첫 번째 글로벌 데뷔 무대",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE90d1VucjZ1dzcxZzkwanNnekxwSFdXRjFpYXJaczhDSm9xa0REQVBOcUVXOFpZWklCNmY4VzktM1ZkWWcteTY00gFCQVVfeXFMTndDQ1E5Wk9KeWd0ZDJqRWstS1JrODljVFh5TnhLUnp4ZXd3cVdEU0pJeEx3NnlMNFJEcmxUcGlQRTRR?oc=5"
+        }
+      ],
+      "published_at": "2026-10-07 20:33",
+      "sort_key": 1791405206.0,
+      "id": "5750716535586619611"
     },
     {
       "category": "car",
@@ -30,7 +78,7 @@
       ],
       "published_at": "2026-10-07 09:42",
       "sort_key": 1791366146.0,
-      "id": "8093716250881065820"
+      "id": "8748053472351213509"
     },
     {
       "category": "pol",
@@ -46,7 +94,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "459871324403847701"
+      "id": "7514283081380562071"
     },
     {
       "category": "car",
@@ -62,23 +110,7 @@
       ],
       "published_at": "2026-10-07 08:27",
       "sort_key": 1791361665.0,
-      "id": "8445126954542539831"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "MotoGP at Mandalika: 신비한 동상과 권력의 상징",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Corsedimoto",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUhROUNZNjFDOTI1WGJyT1hlaUxQOG5WY1pkZkxXUGdBTXBFMkhVbDRaODVDOGFVcXhvaHNnVkx2YVByb190RzgzSmE1R0RUOEQzWkVkS1J5TUhJVTYtRC1HWTN6WlpqOElwaHVyMmJGcUR5T3VvZ3FDSFMyNW5NQWtEcmdLTVZSY09hWEZHMjlkNUZpQy1DdkhzbmdTUzdXbU5FN3B3?oc=5"
-        }
-      ],
-      "published_at": "2026-10-07 05:00",
-      "sort_key": 1791349200.0,
-      "id": "6322937671580568587"
+      "id": "3616684603213453025"
     },
     {
       "category": "car",
@@ -94,7 +126,7 @@
       ],
       "published_at": "2026-10-07 03:25",
       "sort_key": 1791343515.0,
-      "id": "3566597378076467708"
+      "id": "5522683280622460192"
     },
     {
       "category": "pol",
@@ -114,7 +146,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "6911555115925128674"
+      "id": "918911564878008018"
     },
     {
       "category": "liv",
@@ -130,23 +162,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "1162835770901141400"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "가톨릭 오토바이 그룹이 자바 중부의 가뭄 피해 지역사회에 깨끗한 물을 공급합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Herald Malaysia Online",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGZKT2R3bUQ5bW1RX3laZV9LcDBibnUtWml0VnhqTVJDOV9yejVfdm5LX2M3NEF0VEZZaW9wU2hZR2dicDZOWGdQOHlqRXZ2V2FlUFRpcmZWcVN0WUU1U1FCU0xwZEFhVEtwbm1oMTRyVDczS3h3ajl0S2ZqVDM1M3gzUVpCU00tWWRNX1JvX1FYc2ZFYnFZclV0SWZZTlU2V3dUYWdlbDl5dm9BWVQ2cHB2VFRvVmk0SEVfem9PT2dHeFU5b3FVRng1VQ?oc=5"
-        }
-      ],
-      "published_at": "2026-10-06 12:45",
-      "sort_key": 1791290730.0,
-      "id": "4319449387400750526"
+      "id": "4065921403377075893"
     },
     {
       "category": "int",
@@ -166,7 +182,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "2055981668832767893"
+      "id": "5521193119928660384"
     },
     {
       "category": "car",
@@ -182,7 +198,7 @@
       ],
       "published_at": "2026-10-06 08:47",
       "sort_key": 1791276463.0,
-      "id": "9055378062269865820"
+      "id": "7199581657729461511"
     },
     {
       "category": "car",
@@ -198,7 +214,7 @@
       ],
       "published_at": "2026-10-06 07:30",
       "sort_key": 1791271839.0,
-      "id": "5452904452738595865"
+      "id": "4219049271389163036"
     },
     {
       "category": "pol",
@@ -218,23 +234,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "4901543504030633438"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "팩트 체크: 이제 인도네시아에서 차량 유형별로 연료 구매가 제한됩니까?",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDJpSWNBbFhVRnllY1FMRU13Q3NOcFlwa3N6VEhHTkZkWnB3LWlFMmJGZ1dPeHRtZ0pBcTAzYi1hdmgzMVVCRTdGYVh6T1I5WkpRd3NqQ2ZYNEJodWRnSklqclIzZEVobzB1WVZpX1ZKVTlxYnk1RUdmZ1BmN1Z5aENJaDYtYW8yWEhqbXhXakJFSHh1TUxJd0JjWFQxLVZTX0hj?oc=5"
-        }
-      ],
-      "published_at": "2026-10-06 01:16",
-      "sort_key": 1791249384.0,
-      "id": "3922959075348747807"
+      "id": "2978310890355794519"
     },
     {
       "category": "liv",
@@ -250,7 +250,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "2914798154897776185"
+      "id": "5267353625710488903"
     },
     {
       "category": "pol",
@@ -266,7 +266,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "8328018485299763430"
+      "id": "6439682994002852118"
     },
     {
       "category": "int",
@@ -282,7 +282,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7706611655106070906"
+      "id": "3231023905139128074"
     },
     {
       "category": "eco",
@@ -298,7 +298,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "6872834599933249432"
+      "id": "3314225564784857589"
     },
     {
       "category": "liv",
@@ -314,7 +314,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "4109649683628629292"
+      "id": "1533195987108834159"
     },
     {
       "category": "int",
@@ -330,7 +330,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5577086464927275451"
+      "id": "991198935716255647"
     },
     {
       "category": "liv",
@@ -346,7 +346,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "6402100734151766387"
+      "id": "411454241789108229"
     },
     {
       "category": "int",
@@ -362,7 +362,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "4146780133167491592"
+      "id": "7881324333043416089"
     },
     {
       "category": "liv",
@@ -378,7 +378,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "6556153491512605147"
+      "id": "3132938719682482023"
     },
     {
       "category": "int",
@@ -394,7 +394,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "7900663676634543026"
+      "id": "4516621518725580534"
     },
     {
       "category": "eco",
@@ -410,7 +410,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "8320843353720897897"
+      "id": "1104555529942362154"
     },
     {
       "category": "liv",
@@ -426,7 +426,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "5362276750076655763"
+      "id": "3643157059980207306"
     },
     {
       "category": "eco",
@@ -446,7 +446,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "942712091163020505"
+      "id": "7284138208411447147"
     },
     {
       "category": "tek",
@@ -462,7 +462,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "8859217579241232452"
+      "id": "4723148881908602112"
     },
     {
       "category": "tek",
@@ -478,7 +478,7 @@
       ],
       "published_at": "2026-09-08 08:00",
       "sort_key": 1788854400.0,
-      "id": "5724199036542359504"
+      "id": "7022464274348036397"
     }
   ],
   "categories": [
@@ -527,11 +527,11 @@
       "count": 3
     },
     {
-      "name": "CNA",
+      "name": "VOI.ID",
       "count": 2
     },
     {
-      "name": "Tempo.co English",
+      "name": "CNA",
       "count": 2
     },
     {
@@ -541,6 +541,14 @@
     {
       "name": "MarketScreener",
       "count": 2
+    },
+    {
+      "name": "Jakarta Globe",
+      "count": 1
+    },
+    {
+      "name": "TradingView",
+      "count": 1
     },
     {
       "name": "RRI.co.id",
@@ -555,19 +563,7 @@
       "count": 1
     },
     {
-      "name": "Corsedimoto",
-      "count": 1
-    },
-    {
-      "name": "VOI.ID",
-      "count": 1
-    },
-    {
       "name": "Phys.org",
-      "count": 1
-    },
-    {
-      "name": "Herald Malaysia Online",
       "count": 1
     },
     {
@@ -576,6 +572,10 @@
     },
     {
       "name": "GPOne.com",
+      "count": 1
+    },
+    {
+      "name": "Tempo.co English",
       "count": 1
     },
     {
@@ -599,6 +599,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-08 00:13:52",
+  "last_updated": "2026-10-08 06:09:47",
   "errors": {}
 }
