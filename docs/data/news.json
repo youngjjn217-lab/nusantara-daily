@@ -18,7 +18,43 @@
       ],
       "published_at": "2026-10-09 13:38",
       "sort_key": 1791553109.0,
-      "id": "7131942153038104834"
+      "id": "1709079222872500358"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아의 다난타라 (Danantara) 는 밸류에이션이 매력적이라면 시장 매도 중에 개입할 수 있다고 말합니다.",
+      "summary": "인도네시아의 국채 펀드는 투자가 타당할 경우 스트레스가 있을 때 현지 주식 시장에 발을 들여놓을 것이며, AI 노출을 신중하게 구매하고 있으며 즉시 수익을 송금할 필요가 없을 수도 있다고 말했습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-s-danantara-says-it-could-step-in-during-market-selloffs-if-valuations-attractive-ce785ddfde8ff225"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesias-danantara-says-it-could-step-during-market-selloffs-if-valuations-2026-10-09/"
+        }
+      ],
+      "published_at": "2026-10-09 07:09",
+      "sort_key": 1791529778.0,
+      "id": "5610496277295551687"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "prabowosubianto.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
+        }
+      ],
+      "published_at": "2026-10-08 15:38",
+      "sort_key": 1791473930.0,
+      "id": "6045301497395129947"
     },
     {
       "category": "car",
@@ -36,33 +72,13 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko1NW5qOUdpQ2RhN2xXOUtBSnFTYzRsVUZPWkdCSmgzeVdKUFVVVmVWLUpMYkU3ZVo2WG9VVlpacHFCTHJOZGxvQ2lCUERHMk5ldmx6OEY3YU8xVjlYWjAxbGFDR1RwbFNUaFdxSV9QbnE5d24zZGxKenNCM2JfbjZ1OWozNlAyYUFzMUJMdWFsTk92VWhKUmo0a3duU3pL?oc=5"
         },
         {
-          "name": "Just Auto",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5"
-        },
-        {
           "name": "prabowosubianto.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXV6VzZucFBhNUs3MTRhQ0RGdjNiNXZ3cG1SOHg1aDE5RWV2dzRTOHJwTUFzSDRqUDJLYjlNenF1akxPd19oZ0xFaFB1U3AtNlpVcjVlVkdvWEVENWRhdm5ZdF9fZGRUdkxNU1I2VW5UWmlnUEtVc0ppdWZHRXh1TXZxSjFjd0VGNkNqMWhRTDlzMXNLelpxSG9rUWxoQjUwd1VmbEhyMTdyMFJadkRocTRabkV5b0JrV1BnMg?oc=5"
         }
       ],
-      "published_at": "2026-10-09 11:07",
-      "sort_key": 1791544067.0,
-      "id": "374627692972000885"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "prabowosubianto.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
-        }
-      ],
-      "published_at": "2026-10-08 15:38",
-      "sort_key": 1791473930.0,
-      "id": "2113234417144438263"
+      "published_at": "2026-10-08 15:20",
+      "sort_key": 1791472802.0,
+      "id": "7974514802468139035"
     },
     {
       "category": "car",
@@ -78,7 +94,7 @@
       ],
       "published_at": "2026-10-08 05:58",
       "sort_key": 1791439088.0,
-      "id": "633517420209318532"
+      "id": "92889558245793999"
     },
     {
       "category": "car",
@@ -94,7 +110,7 @@
       ],
       "published_at": "2026-10-08 01:49",
       "sort_key": 1791424140.0,
-      "id": "5394218167623351259"
+      "id": "5823415365521151719"
     },
     {
       "category": "pol",
@@ -110,7 +126,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "3429796511073142048"
+      "id": "7788419476792781115"
     },
     {
       "category": "pol",
@@ -130,7 +146,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "2972645246525888175"
+      "id": "7598735456032324608"
     },
     {
       "category": "liv",
@@ -146,7 +162,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "4658627733879879415"
+      "id": "5003202944771501062"
     },
     {
       "category": "int",
@@ -166,7 +182,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "7420402545419582504"
+      "id": "994968260730576246"
     },
     {
       "category": "pol",
@@ -186,7 +202,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "738819817685263308"
+      "id": "7649290097869919681"
     },
     {
       "category": "liv",
@@ -202,7 +218,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "6424373352735346406"
+      "id": "5391483672537977638"
     },
     {
       "category": "pol",
@@ -218,7 +234,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "8250948050266942045"
+      "id": "582096454276824065"
     },
     {
       "category": "int",
@@ -234,7 +250,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "607956699364277865"
+      "id": "1593142521062853774"
     },
     {
       "category": "eco",
@@ -250,7 +266,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "4393687611003954621"
+      "id": "614675404182401793"
     },
     {
       "category": "liv",
@@ -266,7 +282,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "6166878183199817103"
+      "id": "7182755807135531187"
     },
     {
       "category": "int",
@@ -282,7 +298,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "815462918465891870"
+      "id": "6017214038652540822"
     },
     {
       "category": "liv",
@@ -298,7 +314,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "6761196453592809744"
+      "id": "5135389455868629738"
     },
     {
       "category": "int",
@@ -314,7 +330,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "3329301077622352895"
+      "id": "4619740960005405182"
     },
     {
       "category": "liv",
@@ -330,7 +346,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "5699947436193903275"
+      "id": "9066842618673179127"
     },
     {
       "category": "int",
@@ -346,7 +362,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "6047272040756005499"
+      "id": "4986039930326758269"
     },
     {
       "category": "eco",
@@ -362,7 +378,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "3223745341260426573"
+      "id": "3042003559697386722"
     },
     {
       "category": "liv",
@@ -378,7 +394,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "6252339236452440483"
+      "id": "4020163131407928788"
     },
     {
       "category": "eco",
@@ -390,15 +406,11 @@
         {
           "name": "Devdiscourse",
           "url": "https://www.devdiscourse.com/article/international/3981005-roi-indonesias-nickel-production-curbs-leave-market-unconvinced-andy-home"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/indonesias-nickel-production-curbs-leave-market-unconvinced-2026-09-22/"
         }
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "8352163360157364413"
+      "id": "7673444358591017352"
     },
     {
       "category": "tek",
@@ -414,14 +426,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "7221535408368186677"
+      "id": "6789681373855162956"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 3
+      "count": 4
     },
     {
       "id": "pol",
@@ -459,11 +471,15 @@
       "count": 4
     },
     {
+      "name": "MarketScreener",
+      "count": 3
+    },
+    {
       "name": "Malay Mail",
       "count": 3
     },
     {
-      "name": "ANTARA News",
+      "name": "Reuters",
       "count": 2
     },
     {
@@ -471,15 +487,11 @@
       "count": 2
     },
     {
+      "name": "ANTARA News",
+      "count": 2
+    },
+    {
       "name": "CNA",
-      "count": 2
-    },
-    {
-      "name": "Reuters",
-      "count": 2
-    },
-    {
-      "name": "MarketScreener",
       "count": 2
     },
     {
@@ -492,10 +504,6 @@
     },
     {
       "name": "Jakarta Globe",
-      "count": 1
-    },
-    {
-      "name": "Just Auto",
       "count": 1
     },
     {
@@ -527,6 +535,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-09 17:27:46",
+  "last_updated": "2026-10-09 21:52:14",
   "errors": {}
 }
