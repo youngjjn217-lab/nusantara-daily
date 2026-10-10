@@ -3,6 +3,22 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "피터 봄과 함께하는 2026년 인도네시아 MotoGP 첫째 날",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Australian Motorcycle News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81bUc5c3pYOXhsMnN5dERwNzYzcG1Ha3pwOGZSRFRGVk90ZkdsQkw0LXVKUE5UT1E3WVFPLVVKTGtIT2RzRk5JS3dxQ1F4Z1JkMWlQUDYwbjhLYUVFRndqNVRUQ2V0Ukh5QWotYnR3a3lSaGJ2aTU5aQ?oc=5"
+        }
+      ],
+      "published_at": "2026-10-09 23:29",
+      "sort_key": 1791588546.0,
+      "id": "3355839741369512829"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "인도네시아 자동차 개조 산업 전시회 2026",
       "summary": "",
       "type": "news",
@@ -18,7 +34,51 @@
       ],
       "published_at": "2026-10-09 13:38",
       "sort_key": 1791553109.0,
-      "id": "1709079222872500358"
+      "id": "9183423675439017548"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "prabowosubianto.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
+        },
+        {
+          "name": "Jakarta Globe",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko1NW5qOUdpQ2RhN2xXOUtBSnFTYzRsVUZPWkdCSmgzeVdKUFVVVmVWLUpMYkU3ZVo2WG9VVlpacHFCTHJOZGxvQ2lCUERHMk5ldmx6OEY3YU8xVjlYWjAxbGFDR1RwbFNUaFdxSV9QbnE5d24zZGxKenNCM2JfbjZ1OWozNlAyYUFzMUJMdWFsTk92VWhKUmo0a3duU3pL?oc=5"
+        },
+        {
+          "name": "Just Auto",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5"
+        },
+        {
+          "name": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0EtQmo0NXQ2cGY2ejBabFlBOXVKejdQdW5rVHFIVENWY2VFZHNGZDg4WWd3eDdVZGVHUWhrUUFVWUJXQ19wd3BmZUJja3FPZmdzWHpIcjJ2U00xSUZMNmdYeDRlTGdjcGw2LWZ4bnE5VlN4bndFcVRYeVlFcUFIOHk5aFNBWmFRSERKeF8xN1gzN0J2WnFfbg?oc=5"
+        }
+      ],
+      "published_at": "2026-10-09 11:07",
+      "sort_key": 1791544067.0,
+      "id": "6954922419427903299"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Mandalika MotoGP Practice LIVE: 금요일 세션이 인도네시아에서 다시 지연됨",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Auto India Daily",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxV3VaVXhRWDR1c1psME5LT1RSSHJDZkFrai1mS3pYZDd6VjZKY2hlNHBFV3ZlQWxidjFudXFHQ2h6WGswV3lGX1N1QjdXUUIycDQzb1VMUUZ5dzJDZFBkaVJhV05KTWZfYl9EOXRVaDRrVGJ3eHdn?oc=5"
+        }
+      ],
+      "published_at": "2026-10-09 07:47",
+      "sort_key": 1791532046.0,
+      "id": "4711374970050930592"
     },
     {
       "category": "eco",
@@ -38,47 +98,23 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "5610496277295551687"
+      "id": "2157281042483569052"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
+      "title": "인도네시아 오토바이 판매 증가율, 4개월 만에 최고 기록",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "prabowosubianto.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjh0b1JMX0hkMTltZVFLYVlNT1ZtYjBZVnFZVHBHTEFMSGtScEdta090aTEzM2Z2LVV3UUJVUkdTQjBDWHRJNDduZTEtMno2U1R0WDcwQXE1c3FfcmdEOG50NDI4M21WSHpDZk9LSTVEQVlvX3MwYzZjTUhqMi1PVEpYVy00aDJuTHVZdHJ5S2dxcS1oaFZDN2dpb1hmWEdFbXdn?oc=5"
         }
       ],
-      "published_at": "2026-10-08 15:38",
-      "sort_key": 1791473930.0,
-      "id": "6045301497395129947"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Prabowo, 인도네시아에서 최초의 전기차 배터리 수출 개시",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ANTARA News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0EtQmo0NXQ2cGY2ejBabFlBOXVKejdQdW5rVHFIVENWY2VFZHNGZDg4WWd3eDdVZGVHUWhrUUFVWUJXQ19wd3BmZUJja3FPZmdzWHpIcjJ2U00xSUZMNmdYeDRlTGdjcGw2LWZ4bnE5VlN4bndFcVRYeVlFcUFIOHk5aFNBWmFRSERKeF8xN1gzN0J2WnFfbtIBngFBVV95cUxQYTZMWGJmalB6VmF0eGp3OWpWNzYwRWF2b3VDYWpONE8ycFg3NzZ0Q2xYSVhmUmE2dXluaUZPRVpUQ0NKSHlRZ1FNWHBJY3JJdlFGLVBKd0Nuby1vdVUyaUVRbFVveEhCQjhWallyQjNBc2lVbGJmSVZyMmVqcE1LVjA4MmJ3WmxTaEUwYkJmbXEzWGVTd2dBeWVYcEpxUQ?oc=5"
-        },
-        {
-          "name": "Jakarta Globe",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko1NW5qOUdpQ2RhN2xXOUtBSnFTYzRsVUZPWkdCSmgzeVdKUFVVVmVWLUpMYkU3ZVo2WG9VVlpacHFCTHJOZGxvQ2lCUERHMk5ldmx6OEY3YU8xVjlYWjAxbGFDR1RwbFNUaFdxSV9QbnE5d24zZGxKenNCM2JfbjZ1OWozNlAyYUFzMUJMdWFsTk92VWhKUmo0a3duU3pL?oc=5"
-        },
-        {
-          "name": "prabowosubianto.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXV6VzZucFBhNUs3MTRhQ0RGdjNiNXZ3cG1SOHg1aDE5RWV2dzRTOHJwTUFzSDRqUDJLYjlNenF1akxPd19oZ0xFaFB1U3AtNlpVcjVlVkdvWEVENWRhdm5ZdF9fZGRUdkxNU1I2VW5UWmlnUEtVc0ppdWZHRXh1TXZxSjFjd0VGNkNqMWhRTDlzMXNLelpxSG9rUWxoQjUwd1VmbEhyMTdyMFJadkRocTRabkV5b0JrV1BnMg?oc=5"
-        }
-      ],
-      "published_at": "2026-10-08 15:20",
-      "sort_key": 1791472802.0,
-      "id": "7974514802468139035"
+      "published_at": "2026-10-08 07:20",
+      "sort_key": 1791444047.0,
+      "id": "4083607563779166011"
     },
     {
       "category": "car",
@@ -94,7 +130,7 @@
       ],
       "published_at": "2026-10-08 05:58",
       "sort_key": 1791439088.0,
-      "id": "92889558245793999"
+      "id": "1593743081616383685"
     },
     {
       "category": "car",
@@ -110,7 +146,7 @@
       ],
       "published_at": "2026-10-08 01:49",
       "sort_key": 1791424140.0,
-      "id": "5823415365521151719"
+      "id": "4654327155492692164"
     },
     {
       "category": "pol",
@@ -126,7 +162,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "7788419476792781115"
+      "id": "6129394553269122358"
     },
     {
       "category": "pol",
@@ -146,7 +182,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "7598735456032324608"
+      "id": "8669225325187846885"
     },
     {
       "category": "liv",
@@ -162,7 +198,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "5003202944771501062"
+      "id": "1790952546350181437"
     },
     {
       "category": "int",
@@ -182,7 +218,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "994968260730576246"
+      "id": "8126813730730933221"
     },
     {
       "category": "pol",
@@ -202,7 +238,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "7649290097869919681"
+      "id": "3028588596795133830"
     },
     {
       "category": "liv",
@@ -218,7 +254,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "5391483672537977638"
+      "id": "2854786065670652861"
     },
     {
       "category": "pol",
@@ -234,7 +270,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "582096454276824065"
+      "id": "3341347335062563655"
     },
     {
       "category": "int",
@@ -250,7 +286,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1593142521062853774"
+      "id": "4016945612706156831"
     },
     {
       "category": "eco",
@@ -266,7 +302,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "614675404182401793"
+      "id": "8218796311913337984"
     },
     {
       "category": "liv",
@@ -282,7 +318,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "7182755807135531187"
+      "id": "8917465944950855952"
     },
     {
       "category": "int",
@@ -298,7 +334,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6017214038652540822"
+      "id": "4014358203989484549"
     },
     {
       "category": "liv",
@@ -314,7 +350,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "5135389455868629738"
+      "id": "7139556734189170401"
     },
     {
       "category": "int",
@@ -330,7 +366,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "4619740960005405182"
+      "id": "1467151725048854090"
     },
     {
       "category": "liv",
@@ -346,7 +382,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "9066842618673179127"
+      "id": "1732575805817360136"
     },
     {
       "category": "int",
@@ -362,7 +398,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "4986039930326758269"
+      "id": "3679225238998592885"
     },
     {
       "category": "eco",
@@ -378,7 +414,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "3042003559697386722"
+      "id": "3348027132066222552"
     },
     {
       "category": "liv",
@@ -394,7 +430,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "4020163131407928788"
+      "id": "9010873456639061406"
     },
     {
       "category": "eco",
@@ -410,7 +446,7 @@
       ],
       "published_at": "2026-09-23 05:00",
       "sort_key": 1790139633.0,
-      "id": "7673444358591017352"
+      "id": "8923142897187827469"
     },
     {
       "category": "tek",
@@ -426,7 +462,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "6789681373855162956"
+      "id": "5669483988878659426"
     }
   ],
   "categories": [
@@ -448,7 +484,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 5
+      "count": 7
     },
     {
       "id": "int",
@@ -479,20 +515,24 @@
       "count": 3
     },
     {
+      "name": "ANTARA News",
+      "count": 2
+    },
+    {
       "name": "Reuters",
       "count": 2
     },
     {
-      "name": "prabowosubianto.com",
-      "count": 2
-    },
-    {
-      "name": "ANTARA News",
+      "name": "TradingView",
       "count": 2
     },
     {
       "name": "CNA",
       "count": 2
+    },
+    {
+      "name": "Australian Motorcycle News",
+      "count": 1
     },
     {
       "name": "ANTARA Foto",
@@ -503,11 +543,19 @@
       "count": 1
     },
     {
+      "name": "prabowosubianto.com",
+      "count": 1
+    },
+    {
       "name": "Jakarta Globe",
       "count": 1
     },
     {
-      "name": "TradingView",
+      "name": "Just Auto",
+      "count": 1
+    },
+    {
+      "name": "Auto India Daily",
       "count": 1
     },
     {
@@ -535,6 +583,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-09 21:52:14",
+  "last_updated": "2026-10-10 01:25:23",
   "errors": {}
 }
