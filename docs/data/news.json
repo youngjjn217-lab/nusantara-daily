@@ -1,40 +1,40 @@
 {
   "items": [
     {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "피터 봄과 함께하는 2026년 인도네시아 MotoGP 첫째 날",
-      "summary": "",
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "환경부 장관은 연무가 심해지는 가운데 인도네시아가 산불에 맞서 싸울 수 있도록 도울 준비가 되어 있다고 말합니다.",
+      "summary": "싱가포르, 10 월 10 일 — 싱가포르는이 지역의 안개 상태가 악화되는 가운데 인도네시아를 도울 준비가되어 있습니다. 미디어 오늘, 지속 가능성 장관과...",
       "type": "news",
       "sources": [
         {
-          "name": "Australian Motorcycle News",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81bUc5c3pYOXhsMnN5dERwNzYzcG1Ha3pwOGZSRFRGVk90ZkdsQkw0LXVKUE5UT1E3WVFPLVVKTGtIT2RzRk5JS3dxQ1F4Z1JkMWlQUDYwbjhLYUVFRndqNVRUQ2V0Ukh5QWotYnR3a3lSaGJ2aTU5aQ?oc=5"
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/singapore/2026/10/10/singapore-ready-to-help-indonesia-fight-forest-fires-amid-worsening-haze-says-environment-minister/238564"
         }
       ],
-      "published_at": "2026-10-09 23:29",
-      "sort_key": 1791588546.0,
-      "id": "5242964298850777330"
+      "published_at": "2026-10-10 06:16",
+      "sort_key": 1791613015.0,
+      "id": "5520250904287313456"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "IWIP가 니켈 가공의 새로운 단계에 접어든 인도네시아 대통령은 11개의 프로젝트를 시작하고 전기차 배터리 첫 수출을 시작합니다.",
+      "title": "인도네시아, 첫 배터리 수출로 새로운 전기차 산업 시대 진입",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Yblgyd181RXdMaW1YOHBER1FGSUlSLVZzMUtXX2V6WDJac3hNUnhZX0hCV0RETjE5QzlmM0NKbDNRNE1FOFRN0gFCQVVfeXFMTlFTUGt6Z0ZITDVZTzBtT2hMYW10d3llc2ZzUWE4YTlrZ0xFR0JsUHdnWlJlTTdabXN3TlpVU1JoTDN3?oc=5"
+          "name": "Jakarta Globe",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkptWHdXSVlFYktfRG5HSWhLRkxoMkZPWWJEWHIxWnlmNmRCREVjbjYzTkJndDFuSm5yeUc5SldXNjZCdFhQek5iWi1la1RkUWdDYjFMN3hQRlJSeUQ3SFFnR0NaUmY5Y1BUXzFTRGJzNG9PdGdlZVJPN0JoaUlpRXUyUE9ETEtNdGNDYTVNM2VKVGdhOUI3MmdiWUs?oc=5"
         },
         {
-          "name": "Just Auto",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5"
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Yblgyd181RXdMaW1YOHBER1FGSUlSLVZzMUtXX2V6WDJac3hNUnhZX0hCV0RETjE5QzlmM0NKbDNRNE1FOFRN0gFCQVVfeXFMTlFTUGt6Z0ZITDVZTzBtT2hMYW10d3llc2ZzUWE4YTlrZ0xFR0JsUHdnWlJlTTdabXN3TlpVU1JoTDN3?oc=5"
         }
       ],
       "published_at": "2026-10-09 16:25",
       "sort_key": 1791563142.0,
-      "id": "3374715636175073830"
+      "id": "763625497029431803"
     },
     {
       "category": "eco",
@@ -50,7 +50,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "776964667144092178"
+      "id": "3638199801699552733"
     },
     {
       "category": "car",
@@ -70,23 +70,7 @@
       ],
       "published_at": "2026-10-09 13:38",
       "sort_key": 1791553109.0,
-      "id": "2522508662011310114"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Mandalika MotoGP Practice LIVE: 금요일 세션이 인도네시아에서 다시 지연됨",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Auto India Daily",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxV3VaVXhRWDR1c1psME5LT1RSSHJDZkFrai1mS3pYZDd6VjZKY2hlNHBFV3ZlQWxidjFudXFHQ2h6WGswV3lGX1N1QjdXUUIycDQzb1VMUUZ5dzJDZFBkaVJhV05KTWZfYl9EOXRVaDRrVGJ3eHdn?oc=5"
-        }
-      ],
-      "published_at": "2026-10-09 07:47",
-      "sort_key": 1791532046.0,
-      "id": "7600190855563972416"
+      "id": "3664373141611752037"
     },
     {
       "category": "eco",
@@ -106,23 +90,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "954264212847706152"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "prabowosubianto.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
-        }
-      ],
-      "published_at": "2026-10-08 15:38",
-      "sort_key": 1791473930.0,
-      "id": "1248708381269919769"
+      "id": "7241616470964675322"
     },
     {
       "category": "pol",
@@ -138,7 +106,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4169464241423096377"
+      "id": "4680647418626904524"
     },
     {
       "category": "pol",
@@ -158,7 +126,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "6856292618840444818"
+      "id": "1889462960919810748"
     },
     {
       "category": "liv",
@@ -174,7 +142,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "5629710086494370251"
+      "id": "8955843750762707635"
     },
     {
       "category": "int",
@@ -194,7 +162,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "414727738558666168"
+      "id": "8479013349965816552"
     },
     {
       "category": "pol",
@@ -214,7 +182,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "2733602653235094927"
+      "id": "459173809504827705"
     },
     {
       "category": "liv",
@@ -230,7 +198,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "7696786537588263301"
+      "id": "5420382022446116066"
     },
     {
       "category": "pol",
@@ -246,7 +214,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "5654505783205222829"
+      "id": "5077164720562115832"
     },
     {
       "category": "int",
@@ -262,7 +230,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "658858618190337414"
+      "id": "2150750384650754000"
     },
     {
       "category": "eco",
@@ -278,7 +246,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "9035734484335691288"
+      "id": "4801847330647312173"
     },
     {
       "category": "liv",
@@ -294,7 +262,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "8532613719045324439"
+      "id": "6242017151200194270"
     },
     {
       "category": "int",
@@ -310,7 +278,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7128050314102056732"
+      "id": "4314179014911072845"
     },
     {
       "category": "liv",
@@ -326,7 +294,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "2578934513537339375"
+      "id": "6424490611654914121"
     },
     {
       "category": "int",
@@ -342,7 +310,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "205525241253380650"
+      "id": "6973536431292757385"
     },
     {
       "category": "liv",
@@ -358,7 +326,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "400677330970624203"
+      "id": "6527829265552560695"
     },
     {
       "category": "int",
@@ -374,7 +342,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "2654855722842495938"
+      "id": "5407150363753898928"
     },
     {
       "category": "eco",
@@ -390,23 +358,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "4402785531520099960"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아 페리 사고: 120명 이상의 실종 승객에 대한 수색이 계속됨에 따라 사망자 증가",
-      "summary": "인도네시아 페리 사고로 인한 사망자 수는 20명에 이릅니다. 여객선 처녀자리의 비극적인 전복 이후 자바해에서 비극적인 사건 수색 및 구조 작업이 계속되고 있습니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The News International",
-          "url": "https://www.thenews.com.pk/latest/1417245-indonesia-ferry-disaster-death-toll-rises-as-search-continues-for-over-120-missing-passengers"
-        }
-      ],
-      "published_at": "2026-09-23 05:42",
-      "sort_key": 1790142120.0,
-      "id": "3288734507399569229"
+      "id": "5208309262856771365"
     },
     {
       "category": "tek",
@@ -422,7 +374,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "6419437870467088156"
+      "id": "258071915863834079"
     }
   ],
   "categories": [
@@ -444,7 +396,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 5
+      "count": 2
     },
     {
       "id": "int",
@@ -459,15 +411,15 @@
   ],
   "sources": [
     {
+      "name": "Malay Mail",
+      "count": 4
+    },
+    {
       "name": "The Star",
       "count": 4
     },
     {
       "name": "MarketScreener",
-      "count": 3
-    },
-    {
-      "name": "Malay Mail",
       "count": 3
     },
     {
@@ -483,15 +435,11 @@
       "count": 2
     },
     {
-      "name": "Australian Motorcycle News",
+      "name": "Jakarta Globe",
       "count": 1
     },
     {
       "name": "VOI.ID",
-      "count": 1
-    },
-    {
-      "name": "Just Auto",
       "count": 1
     },
     {
@@ -504,14 +452,6 @@
     },
     {
       "name": "RRI.co.id",
-      "count": 1
-    },
-    {
-      "name": "Auto India Daily",
-      "count": 1
-    },
-    {
-      "name": "prabowosubianto.com",
       "count": 1
     },
     {
@@ -531,14 +471,10 @@
       "count": 1
     },
     {
-      "name": "The News International",
-      "count": 1
-    },
-    {
       "name": "ANI (Asian News International)",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-10 14:07:10",
+  "last_updated": "2026-10-10 18:39:05",
   "errors": {}
 }
