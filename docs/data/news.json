@@ -14,7 +14,47 @@
       ],
       "published_at": "2026-10-09 23:29",
       "sort_key": 1791588546.0,
-      "id": "3355839741369512829"
+      "id": "3707653725359561025"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Prabowo, 인도네시아에서 최초의 전기차 배터리 수출 개시",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0EtQmo0NXQ2cGY2ejBabFlBOXVKejdQdW5rVHFIVENWY2VFZHNGZDg4WWd3eDdVZGVHUWhrUUFVWUJXQ19wd3BmZUJja3FPZmdzWHpIcjJ2U00xSUZMNmdYeDRlTGdjcGw2LWZ4bnE5VlN4bndFcVRYeVlFcUFIOHk5aFNBWmFRSERKeF8xN1gzN0J2WnFfbg?oc=5"
+        },
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Yblgyd181RXdMaW1YOHBER1FGSUlSLVZzMUtXX2V6WDJac3hNUnhZX0hCV0RETjE5QzlmM0NKbDNRNE1FOFRN0gFCQVVfeXFMTlFTUGt6Z0ZITDVZTzBtT2hMYW10d3llc2ZzUWE4YTlrZ0xFR0JsUHdnWlJlTTdabXN3TlpVU1JoTDN3?oc=5"
+        },
+        {
+          "name": "Just Auto",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5"
+        }
+      ],
+      "published_at": "2026-10-09 16:25",
+      "sort_key": 1791563142.0,
+      "id": "7975568365806446671"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도, 인도네시아, 중국이 빠르게 성장함에 따라 경제 성장이 두 갈래로 갈라짐: UNCTAD",
+      "summary": "글로벌 성장률은 2026년 2.6%, 2027년 2.7% 로 둔화될 것으로 예측: 보고서",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/nation/developing-economy-growth-bifurcate-as-india-indonesia-china-grow-faster-unctad-1994454"
+        }
+      ],
+      "published_at": "2026-10-09 14:40",
+      "sort_key": 1791556824.0,
+      "id": "3103651340285617001"
     },
     {
       "category": "car",
@@ -34,35 +74,7 @@
       ],
       "published_at": "2026-10-09 13:38",
       "sort_key": 1791553109.0,
-      "id": "9183423675439017548"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "prabowosubianto.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
-        },
-        {
-          "name": "Jakarta Globe",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko1NW5qOUdpQ2RhN2xXOUtBSnFTYzRsVUZPWkdCSmgzeVdKUFVVVmVWLUpMYkU3ZVo2WG9VVlpacHFCTHJOZGxvQ2lCUERHMk5ldmx6OEY3YU8xVjlYWjAxbGFDR1RwbFNUaFdxSV9QbnE5d24zZGxKenNCM2JfbjZ1OWozNlAyYUFzMUJMdWFsTk92VWhKUmo0a3duU3pL?oc=5"
-        },
-        {
-          "name": "Just Auto",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5"
-        },
-        {
-          "name": "ANTARA News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0EtQmo0NXQ2cGY2ejBabFlBOXVKejdQdW5rVHFIVENWY2VFZHNGZDg4WWd3eDdVZGVHUWhrUUFVWUJXQ19wd3BmZUJja3FPZmdzWHpIcjJ2U00xSUZMNmdYeDRlTGdjcGw2LWZ4bnE5VlN4bndFcVRYeVlFcUFIOHk5aFNBWmFRSERKeF8xN1gzN0J2WnFfbg?oc=5"
-        }
-      ],
-      "published_at": "2026-10-09 11:07",
-      "sort_key": 1791544067.0,
-      "id": "6954922419427903299"
+      "id": "8750701866182222021"
     },
     {
       "category": "car",
@@ -78,7 +90,7 @@
       ],
       "published_at": "2026-10-09 07:47",
       "sort_key": 1791532046.0,
-      "id": "4711374970050930592"
+      "id": "8455267064595216794"
     },
     {
       "category": "eco",
@@ -98,55 +110,23 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "2157281042483569052"
+      "id": "5362840212075526202"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "인도네시아 오토바이 판매 증가율, 4개월 만에 최고 기록",
+      "title": "인도네시아는 전기 자동차 배터리의 글로벌 공급망이 될 준비가 되었습니다",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjh0b1JMX0hkMTltZVFLYVlNT1ZtYjBZVnFZVHBHTEFMSGtScEdta090aTEzM2Z2LVV3UUJVUkdTQjBDWHRJNDduZTEtMno2U1R0WDcwQXE1c3FfcmdEOG50NDI4M21WSHpDZk9LSTVEQVlvX3MwYzZjTUhqMi1PVEpYVy00aDJuTHVZdHJ5S2dxcS1oaFZDN2dpb1hmWEdFbXdn?oc=5"
+          "name": "prabowosubianto.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZ0Wml5QTZacXVONy1NdTZQVkkxZHgxenRBY3VOWDlybmltNnR5YnNJcGVSamIwVDFJU0hOWHI4Sm8zVjlBb3RRTl9RSTRLZ2dCZVJlOVM0NzlJajl0WEVHb2VHNlY3cldlN2dDejM5UGxGZTl6TFlfcXdqMFh0d3FpbHlXeEJYRUgxcWEzWGVkTFc1STBNSVRzbTdtSGlnTlctcTZLT3VUVWpaenc?oc=5"
         }
       ],
-      "published_at": "2026-10-08 07:20",
-      "sort_key": 1791444047.0,
-      "id": "4083607563779166011"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아, 온라인 오토바이 택시 서비스 규제 시행",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ANTARA News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWVQZmgwYklpUjNzeHplX2ZQZlM3S3Z5b1o2a3RKcFVCQ0ZuRS0xUGhZZmJ4R1pRdE1hN181ZGNaRUFPeUJEazcyamtVc0U3WllhMGNtNEpkR3V3QlpySlNYdFpHanBnYzJRb1F1OS1WVHhuUlEtbDE3MFFadkV0QmhhRWpDbmFxRzJpUHFxOEtGVTZDTXZ3Z09rSGNFb1JmcVdWRtIBqgFBVV95cUxONnc3RjNBSmVnSVJGVGlucVRaUTJtSjBpbHhFTE5nMGRDQzNNLU5jRVpUSEdCU0l0dG55Z1NzV3ZhdHVWZVZDMkJPM2owY0kyeFBtczRzSGJicnREUnB5M1lhaEVmVDBrTU54Wm5oYlhoNXZ2VjJuODBYbHRSUzlhdS1SNGp5ZU9SYjZweW1pbWdoR2lKaWN5ZWRaV3ZNdERYbS1BM3JRdkVJZw?oc=5"
-        }
-      ],
-      "published_at": "2026-10-08 05:58",
-      "sort_key": 1791439088.0,
-      "id": "1593743081616383685"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "9월 인도네시아 자동차 판매 급증 28.1%",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjBrTm5UTGphWXlDamowRjNWeVpYS3ZVNXpVRGQ1QWthN2R6aFZ1NF9XNGc3Vl9xdTZpZDZpMkhSZWtudko3YmRnMFJUb0VNdnRpSlhRRk11c2FqTmhlazRtcUp2bGpUV0kzQjJtLUNjV2w1b3hsZzJRbmRWdmJkY3pWaElHcWxYQklPanl0dmY4LWwxd0w0NFRn?oc=5"
-        }
-      ],
-      "published_at": "2026-10-08 01:49",
-      "sort_key": 1791424140.0,
-      "id": "4654327155492692164"
+      "published_at": "2026-10-08 15:38",
+      "sort_key": 1791473930.0,
+      "id": "4831818633709213200"
     },
     {
       "category": "pol",
@@ -162,7 +142,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "6129394553269122358"
+      "id": "2215506858584596994"
     },
     {
       "category": "pol",
@@ -182,7 +162,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "8669225325187846885"
+      "id": "2040800150913032337"
     },
     {
       "category": "liv",
@@ -198,7 +178,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "1790952546350181437"
+      "id": "417832393691929441"
     },
     {
       "category": "int",
@@ -218,7 +198,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8126813730730933221"
+      "id": "6864701779466739106"
     },
     {
       "category": "pol",
@@ -238,7 +218,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "3028588596795133830"
+      "id": "4030891897012523355"
     },
     {
       "category": "liv",
@@ -254,7 +234,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "2854786065670652861"
+      "id": "2659047815320355089"
     },
     {
       "category": "pol",
@@ -270,7 +250,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "3341347335062563655"
+      "id": "1946892241046510080"
     },
     {
       "category": "int",
@@ -286,7 +266,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4016945612706156831"
+      "id": "4158105790564647303"
     },
     {
       "category": "eco",
@@ -302,7 +282,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "8218796311913337984"
+      "id": "4345607512171872446"
     },
     {
       "category": "liv",
@@ -318,7 +298,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "8917465944950855952"
+      "id": "2603842936426264464"
     },
     {
       "category": "int",
@@ -334,7 +314,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "4014358203989484549"
+      "id": "4910422203957136267"
     },
     {
       "category": "liv",
@@ -350,7 +330,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "7139556734189170401"
+      "id": "2404735041992722753"
     },
     {
       "category": "int",
@@ -366,7 +346,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "1467151725048854090"
+      "id": "7538920331312601104"
     },
     {
       "category": "liv",
@@ -382,7 +362,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "1732575805817360136"
+      "id": "656993428732035274"
     },
     {
       "category": "int",
@@ -398,7 +378,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "3679225238998592885"
+      "id": "3424672964931120438"
     },
     {
       "category": "eco",
@@ -414,7 +394,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "3348027132066222552"
+      "id": "9183553033610271330"
     },
     {
       "category": "liv",
@@ -430,23 +410,7 @@
       ],
       "published_at": "2026-09-23 05:42",
       "sort_key": 1790142120.0,
-      "id": "9010873456639061406"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "ROI-인도네시아의 니켈 생산 커브는 시장에 확신을 주지 못합니다: 앤디 홈",
-      "summary": "ROI-인도네시아의 니켈 생산 연석에 대해 자세히 알아보기: Andy Home on Devdiscourse",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3981005-roi-indonesias-nickel-production-curbs-leave-market-unconvinced-andy-home"
-        }
-      ],
-      "published_at": "2026-09-23 05:00",
-      "sort_key": 1790139633.0,
-      "id": "8923142897187827469"
+      "id": "6001571531269050426"
     },
     {
       "category": "tek",
@@ -462,7 +426,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5669483988878659426"
+      "id": "6806938951898479191"
     }
   ],
   "categories": [
@@ -484,7 +448,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 7
+      "count": 5
     },
     {
       "id": "int",
@@ -503,10 +467,6 @@
       "count": 4
     },
     {
-      "name": "Devdiscourse",
-      "count": 4
-    },
-    {
       "name": "MarketScreener",
       "count": 3
     },
@@ -515,15 +475,11 @@
       "count": 3
     },
     {
-      "name": "ANTARA News",
-      "count": 2
+      "name": "Devdiscourse",
+      "count": 3
     },
     {
       "name": "Reuters",
-      "count": 2
-    },
-    {
-      "name": "TradingView",
       "count": 2
     },
     {
@@ -535,6 +491,22 @@
       "count": 1
     },
     {
+      "name": "ANTARA News",
+      "count": 1
+    },
+    {
+      "name": "VOI.ID",
+      "count": 1
+    },
+    {
+      "name": "Just Auto",
+      "count": 1
+    },
+    {
+      "name": "Deccan Chronicle",
+      "count": 1
+    },
+    {
       "name": "ANTARA Foto",
       "count": 1
     },
@@ -543,19 +515,11 @@
       "count": 1
     },
     {
-      "name": "prabowosubianto.com",
-      "count": 1
-    },
-    {
-      "name": "Jakarta Globe",
-      "count": 1
-    },
-    {
-      "name": "Just Auto",
-      "count": 1
-    },
-    {
       "name": "Auto India Daily",
+      "count": 1
+    },
+    {
+      "name": "prabowosubianto.com",
       "count": 1
     },
     {
@@ -583,6 +547,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-10 01:25:23",
+  "last_updated": "2026-10-10 07:42:53",
   "errors": {}
 }
