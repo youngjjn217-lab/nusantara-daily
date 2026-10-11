@@ -12,29 +12,13 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3Q0Z1NwU3N4c04zMkxQQWtob0x0WmpIWmtaWlhfTWJTaTNjNXdndmFiRGpfZHNkM1ZteHdpUWNyTnRPbjkyaTA0TlZMblp2c0wwYkNYblVCWC1lTzlnTlRsbjBxSVZVMlg2b0VTTkpLS2Zac1ExMjdUcTYtcU52ZWRQN2xzUDZqX0duc01vQ0pvXzNWU05XTmRhUGhyNUJOUUJYWEU1bW1sa3JxM0NsMEFqSzZTZUhlVWo5YmFEUTRVMGc?oc=5"
         },
         {
-          "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVFtRGd0MkpxLXVfblVHN3JYdlF1SENoNWJ4aE1Ma0x6VjlCZFF2eTZERWw4dEJJZ21Mc1ROM2g2ODZ2ZjgxUzJTU2pGZm9pY0RGNWJRV056MTdWR3pqR0Fwdy1mcDlqcXVkQWpxVnlBa2t4bFE1Y25WeDFmYnBrSjhoYUZlc2UyUFloVTY4YmF6SGJ5X182Sw?oc=5"
-        }
-      ],
-      "published_at": "2026-10-11 09:07",
-      "sort_key": 1791709631.0,
-      "id": "2419221578986325324"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 MotoGP 2026 결과: Aprilia가 상위 4 위를 휩쓸면서 Bezzecchi가 승리했습니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
           "name": "Auto India Daily",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRVGNMVmdGWXVFTl9QNE1zSkxUU3hJX1k1enE0TFBYNHltY1pBSmc3UURxWDBHenFkVUotbUpuUlZOMl9UR0o4c1hsZC0tM0c0NHREcElMLWZYTkd6d0RmTmdZSDMwd0MwLVRqU1pVNDF5clBGZ21N?oc=5"
         }
       ],
-      "published_at": "2026-10-11 08:05",
-      "sort_key": 1791705900.0,
-      "id": "7108970551857479154"
+      "published_at": "2026-10-11 09:07",
+      "sort_key": 1791709631.0,
+      "id": "2360986558739050503"
     },
     {
       "category": "car",
@@ -50,7 +34,7 @@
       ],
       "published_at": "2026-10-11 06:47",
       "sort_key": 1791701227.0,
-      "id": "6401991831892795542"
+      "id": "3069254139927115036"
     },
     {
       "category": "car",
@@ -62,11 +46,15 @@
         {
           "name": "Aktualita.co",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjBtWmpSQURhN3V6UlJ0MjE1RVJDc3JQdGRjNXlFbHpBOXdFRUdpeHNrVk1ZSXgwVXhGamtRcllUWHBLTTJtX3dybVU1SXZQVlA5dklFWmNHWGRNdjFFa1FYTUFacHppMHV4Qk1lLVhvcXM2cmJ5QW1yZ3pla2dHZzQ0NXlOUmZsWVkxdkdXbUlKZmJwSTY1cXlnTFc?oc=5"
+        },
+        {
+          "name": "Tempo.co English",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVFtRGd0MkpxLXVfblVHN3JYdlF1SENoNWJ4aE1Ma0x6VjlCZFF2eTZERWw4dEJJZ21Mc1ROM2g2ODZ2ZjgxUzJTU2pGZm9pY0RGNWJRV056MTdWR3pqR0Fwdy1mcDlqcXVkQWpxVnlBa2t4bFE1Y25WeDFmYnBrSjhoYUZlc2UyUFloVTY4YmF6SGJ5X182Sw?oc=5"
         }
       ],
       "published_at": "2026-10-11 01:13",
       "sort_key": 1791681214.0,
-      "id": "5613737621067054630"
+      "id": "8732609726059426931"
     },
     {
       "category": "car",
@@ -82,7 +70,7 @@
       ],
       "published_at": "2026-10-10 23:34",
       "sort_key": 1791675260.0,
-      "id": "9034565846300047729"
+      "id": "8354381246584477316"
     },
     {
       "category": "liv",
@@ -98,7 +86,7 @@
       ],
       "published_at": "2026-10-10 06:16",
       "sort_key": 1791613015.0,
-      "id": "702028258442000607"
+      "id": "266787487041727302"
     },
     {
       "category": "car",
@@ -114,23 +102,7 @@
       ],
       "published_at": "2026-10-10 05:34",
       "sort_key": 1791610499.0,
-      "id": "4233587345716199877"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "IWIP가 니켈 가공의 새로운 단계에 접어든 인도네시아 대통령은 11개의 프로젝트를 시작하고 전기차 배터리 첫 수출을 시작합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Yblgyd181RXdMaW1YOHBER1FGSUlSLVZzMUtXX2V6WDJac3hNUnhZX0hCV0RETjE5QzlmM0NKbDNRNE1FOFRN0gFCQVVfeXFMTlFTUGt6Z0ZITDVZTzBtT2hMYW10d3llc2ZzUWE4YTlrZ0xFR0JsUHdnWlJlTTdabXN3TlpVU1JoTDN3?oc=5"
-        }
-      ],
-      "published_at": "2026-10-09 16:25",
-      "sort_key": 1791563142.0,
-      "id": "6500939446015312520"
+      "id": "1762533139003677898"
     },
     {
       "category": "eco",
@@ -146,23 +118,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "7262452640476079084"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 자동차 개조 산업 전시회 2026",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ANTARA Foto",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYm0tQ2pGdklYaWQzUmdhTk9CQUtEZUtwVU9NQmRLcVFzcC15R1E0c19sMk5GWlByWUNSS3EtSGg1WTJJOEtMTWpMYW8wcWNuckJTQnlFV2E4SFQyX0F3RTNuWUpmbEhjTjBzR3psbEdjcVJna0NpY3NVZ0JuTnF3bDB2ZmR3NXpleGVvOHBQTUw5bnB0RTNEM1ppc0F0Wm80ekFtb9IBpAFBVV95cUxPYm0tQ2pGdklYaWQzUmdhTk9CQUtEZUtwVU9NQmRLcVFzcC15R1E0c19sMk5GWlByWUNSS3EtSGg1WTJJOEtMTWpMYW8wcWNuckJTQnlFV2E4SFQyX0F3RTNuWUpmbEhjTjBzR3psbEdjcVJna0NpY3NVZ0JuTnF3bDB2ZmR3NXpleGVvOHBQTUw5bnB0RTNEM1ppc0F0Wm80ekFtbw?oc=5"
-        }
-      ],
-      "published_at": "2026-10-09 13:38",
-      "sort_key": 1791553109.0,
-      "id": "4355106246965154980"
+      "id": "4733860306059024329"
     },
     {
       "category": "eco",
@@ -182,7 +138,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "1676649677666810674"
+      "id": "3916784772477110442"
     },
     {
       "category": "pol",
@@ -198,7 +154,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "1680906366611097389"
+      "id": "364210547683603564"
     },
     {
       "category": "pol",
@@ -218,7 +174,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "3100829292542649871"
+      "id": "1289652472539329010"
     },
     {
       "category": "liv",
@@ -234,7 +190,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "6385651281931191646"
+      "id": "6769484518234661025"
     },
     {
       "category": "int",
@@ -254,7 +210,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "3201960750927728876"
+      "id": "9070236464709841239"
     },
     {
       "category": "pol",
@@ -274,7 +230,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "4322188789918111599"
+      "id": "2070445539498990007"
     },
     {
       "category": "liv",
@@ -290,7 +246,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "5823506097813769286"
+      "id": "4466884249861076350"
     },
     {
       "category": "pol",
@@ -306,7 +262,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "6952544455665617890"
+      "id": "1030149809485725773"
     },
     {
       "category": "int",
@@ -322,7 +278,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "6290169126595006267"
+      "id": "4092841113964977983"
     },
     {
       "category": "eco",
@@ -338,7 +294,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "869495918807323329"
+      "id": "8218220823323665155"
     },
     {
       "category": "liv",
@@ -354,7 +310,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "5841641665887171463"
+      "id": "4486728305720103605"
     },
     {
       "category": "int",
@@ -370,7 +326,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7182832635580469872"
+      "id": "3922371745569932626"
     },
     {
       "category": "liv",
@@ -386,7 +342,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "3889020205215900795"
+      "id": "3779077987138609394"
     },
     {
       "category": "int",
@@ -402,7 +358,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "8746027297075753680"
+      "id": "477703142287511471"
     },
     {
       "category": "liv",
@@ -418,7 +374,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "4056442305853399560"
+      "id": "2552813110124377621"
     },
     {
       "category": "int",
@@ -434,7 +390,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "5113652492032416998"
+      "id": "3223537921774552052"
     },
     {
       "category": "eco",
@@ -450,7 +406,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "2738675795142593742"
+      "id": "4058752496237415666"
     },
     {
       "category": "tek",
@@ -466,7 +422,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5844757456907772883"
+      "id": "6729660515425726278"
     }
   ],
   "categories": [
@@ -488,7 +444,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 8
+      "count": 5
     },
     {
       "id": "int",
@@ -523,10 +479,6 @@
       "count": 2
     },
     {
-      "name": "VOI.ID",
-      "count": 2
-    },
-    {
       "name": "Reuters",
       "count": 2
     },
@@ -539,11 +491,11 @@
       "count": 1
     },
     {
-      "name": "Tempo.co English",
+      "name": "Aktualita.co",
       "count": 1
     },
     {
-      "name": "Aktualita.co",
+      "name": "Tempo.co English",
       "count": 1
     },
     {
@@ -551,11 +503,11 @@
       "count": 1
     },
     {
-      "name": "Deccan Chronicle",
+      "name": "VOI.ID",
       "count": 1
     },
     {
-      "name": "ANTARA Foto",
+      "name": "Deccan Chronicle",
       "count": 1
     },
     {
@@ -579,6 +531,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-11 13:31:20",
+  "last_updated": "2026-10-11 18:25:20",
   "errors": {}
 }
