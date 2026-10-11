@@ -3,6 +3,22 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "피터 봄과 함께하는 인도네시아 2026년 MotoGP 2일차",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Australian Motorcycle News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tbTh3X1hXWUV2QlhpNF9oM3ZsY1BIT2cxOEVRZUlBZUE5cW5HYjVHTG0yUlk3RGx1aXRaejA5OFhnaW53V1hpa0N3YnpBTW9UZXBici05ak1KaUFsSzFzYmllakVMcFZ3SUNib3ZubHBISWp0MUR5Qw?oc=5"
+        }
+      ],
+      "published_at": "2026-10-10 23:34",
+      "sort_key": 1791675260.0,
+      "id": "2573958879585879622"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "Marc Marquez, Mandalika에서 인도네시아 MotoGP 스프린트 레이스 우승",
       "summary": "",
       "type": "news",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-10 09:38",
       "sort_key": 1791625087.0,
-      "id": "1996843584678933759"
+      "id": "7044602696370489590"
     },
     {
       "category": "liv",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-10-10 06:16",
       "sort_key": 1791613015.0,
-      "id": "1456453281378979750"
+      "id": "8390100962988389406"
     },
     {
       "category": "car",
@@ -42,11 +58,15 @@
         {
           "name": "VOI.ID",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Yblgyd181RXdMaW1YOHBER1FGSUlSLVZzMUtXX2V6WDJac3hNUnhZX0hCV0RETjE5QzlmM0NKbDNRNE1FOFRN0gFCQVVfeXFMTlFTUGt6Z0ZITDVZTzBtT2hMYW10d3llc2ZzUWE4YTlrZ0xFR0JsUHdnWlJlTTdabXN3TlpVU1JoTDN3?oc=5"
+        },
+        {
+          "name": "Just Auto",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5"
         }
       ],
       "published_at": "2026-10-09 16:25",
       "sort_key": 1791563142.0,
-      "id": "6445735454722755512"
+      "id": "1649166660399549617"
     },
     {
       "category": "eco",
@@ -62,7 +82,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "5459757410041838532"
+      "id": "784813966336526478"
     },
     {
       "category": "car",
@@ -82,7 +102,7 @@
       ],
       "published_at": "2026-10-09 13:38",
       "sort_key": 1791553109.0,
-      "id": "2203875383409718899"
+      "id": "6892967870554651473"
     },
     {
       "category": "eco",
@@ -102,7 +122,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "6000499402413374714"
+      "id": "6093550615496375522"
     },
     {
       "category": "pol",
@@ -118,7 +138,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "5541419014291975733"
+      "id": "8552665008279931669"
     },
     {
       "category": "pol",
@@ -138,7 +158,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "6825656413047548561"
+      "id": "886961448983897869"
     },
     {
       "category": "liv",
@@ -154,7 +174,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "5213611476890535670"
+      "id": "7763282312431585140"
     },
     {
       "category": "int",
@@ -174,7 +194,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "3104931205814777527"
+      "id": "2912558786605617357"
     },
     {
       "category": "pol",
@@ -194,7 +214,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "9087226627124542667"
+      "id": "4439330125397136378"
     },
     {
       "category": "liv",
@@ -210,7 +230,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "5063894440213469534"
+      "id": "4949047862853366422"
     },
     {
       "category": "pol",
@@ -226,7 +246,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "764209410930552905"
+      "id": "297378401415475483"
     },
     {
       "category": "int",
@@ -242,7 +262,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4372915307491886467"
+      "id": "6997909424387389737"
     },
     {
       "category": "eco",
@@ -258,7 +278,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "4102943990651403183"
+      "id": "4959870023372682276"
     },
     {
       "category": "liv",
@@ -274,7 +294,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "8858141155625103243"
+      "id": "1188029826123743371"
     },
     {
       "category": "int",
@@ -290,7 +310,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7589890040998855232"
+      "id": "144791905461593234"
     },
     {
       "category": "liv",
@@ -306,7 +326,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "3062408326929862547"
+      "id": "4582495234425731702"
     },
     {
       "category": "int",
@@ -322,7 +342,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "5982895160761523908"
+      "id": "4990432429658331367"
     },
     {
       "category": "liv",
@@ -338,7 +358,7 @@
       ],
       "published_at": "2026-09-27 22:00",
       "sort_key": 1790546400.0,
-      "id": "6230623931400135747"
+      "id": "6035990665019283977"
     },
     {
       "category": "int",
@@ -354,7 +374,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "2444558737065704446"
+      "id": "4150950637110236725"
     },
     {
       "category": "eco",
@@ -370,7 +390,7 @@
       ],
       "published_at": "2026-09-23 08:38",
       "sort_key": 1790152695.0,
-      "id": "7062580420193983972"
+      "id": "6032163679038278519"
     },
     {
       "category": "tek",
@@ -386,7 +406,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5288160201438622322"
+      "id": "6772032329631612403"
     }
   ],
   "categories": [
@@ -408,7 +428,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 3
+      "count": 4
     },
     {
       "id": "int",
@@ -447,11 +467,19 @@
       "count": 2
     },
     {
+      "name": "Australian Motorcycle News",
+      "count": 1
+    },
+    {
       "name": "Tempo.co English",
       "count": 1
     },
     {
       "name": "VOI.ID",
+      "count": 1
+    },
+    {
+      "name": "Just Auto",
       "count": 1
     },
     {
@@ -487,6 +515,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-10 21:59:03",
+  "last_updated": "2026-10-11 06:40:17",
   "errors": {}
 }
