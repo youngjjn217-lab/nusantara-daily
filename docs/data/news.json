@@ -3,6 +3,42 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "호르헤 마틴, 인도네시아 MotoGP 이후 점프 스타트 주장에 직면",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "iMotorbike News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckxjdms5TnNRTGxkTHh6djFvazZudEp2b3NETnJRM2I3ckwyM3kzdWd5UGdMc280X3owcUhvamU3ZDRhQXJlRXBIb2FwUVc1QnFEekVGNjUzN082a1A3TUhPNlg3dDNpSWFSd0xHN3VSOENGUloxdDlvMDVOZ3VOa3dHYldqc1kxRDktOGhYQndiLVNvejZkd28wV2pFMENhT0E?oc=5"
+        },
+        {
+          "name": "Motorcycle Sports",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSldrbE54eTd2QUFwblZBUTJpQzNUV3RkU1BUM29NQzRtclFJSmZtTW12ZWw0MWNLLWFfZGhfME1OOERMX3pOOFlXM194SHE1aDU4ZnQ4WEdzS1hKVmRkT3gyelBRemRVekVFZk1iRUlQUkRBcUtvNDdwRS1lbFg3S0RGcGdPdDlENms3SGhaTEhJSDBQZmZaV2VLX25ENjAwbVlJYy1hWUMyUFIxdFF2QzBiRVNtOU1IUUk0?oc=5"
+        }
+      ],
+      "published_at": "2026-10-14 07:04",
+      "sort_key": 1791961493.0,
+      "id": "7290507668845414445"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "발리 연료 중단은 운전자가 시간을 기다리고 주지사가 침착하게 운전할 때 엄청난 오토바이 대기열을 유발합니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Wake Up Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDM3Q5bHZrVlNaalFlQThLZkZMaXB3TVU2S2ZqLXczQlBpZE9sclBDazFFM3ZGTDJldnpwd3JFLXlGTjExT1B3amRlSjhBNWFORlpvS1JlXzc3ZlNLbExpTnEzTWJpVTE5MVE?oc=5"
+        }
+      ],
+      "published_at": "2026-10-14 05:30",
+      "sort_key": 1791955858.0,
+      "id": "3958616976732733082"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "마르코 베체키 (Marco Bezzecchi) 가 인도네시아 MotoGP에서 페퍼 그라인더 축하 행사를 가진 비하인드 스토리를 공개합니다.",
       "summary": "",
       "type": "news",
@@ -14,7 +50,7 @@
       ],
       "published_at": "2026-10-13 16:42",
       "sort_key": 1791909768.0,
-      "id": "783919514795352182"
+      "id": "3434266100131323196"
     },
     {
       "category": "car",
@@ -30,7 +66,7 @@
       ],
       "published_at": "2026-10-13 16:40",
       "sort_key": 1791909628.0,
-      "id": "8699832761870424716"
+      "id": "4763645266714367658"
     },
     {
       "category": "car",
@@ -58,7 +94,7 @@
       ],
       "published_at": "2026-10-13 14:40",
       "sort_key": 1791902408.0,
-      "id": "4063090812869270846"
+      "id": "6036270849853480946"
     },
     {
       "category": "car",
@@ -74,23 +110,7 @@
       ],
       "published_at": "2026-10-13 09:02",
       "sort_key": 1791882127.0,
-      "id": "2485038958603269821"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "마르코 베체키 (Marco Bezzecchi) 는 인도네시아 gp에서 우승했지만 motoGP에서 마르케스와 마틴에게 막대한 적자에 직면해 있습니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSldrbE54eTd2QUFwblZBUTJpQzNUV3RkU1BUM29NQzRtclFJSmZtTW12ZWw0MWNLLWFfZGhfME1OOERMX3pOOFlXM194SHE1aDU4ZnQ4WEdzS1hKVmRkT3gyelBRemRVekVFZk1iRUlQUkRBcUtvNDdwRS1lbFg3S0RGcGdPdDlENms3SGhaTEhJSDBQZmZaV2VLX25ENjAwbVlJYy1hWUMyUFIxdFF2QzBiRVNtOU1IUUk0?oc=5"
-        }
-      ],
-      "published_at": "2026-10-13 08:12",
-      "sort_key": 1791879166.0,
-      "id": "5719418223719887331"
+      "id": "4231344480319568580"
     },
     {
       "category": "car",
@@ -106,7 +126,7 @@
       ],
       "published_at": "2026-10-13 03:02",
       "sort_key": 1791860545.0,
-      "id": "9100423719294404200"
+      "id": "1681486477602639354"
     },
     {
       "category": "liv",
@@ -122,23 +142,7 @@
       ],
       "published_at": "2026-10-12 15:10",
       "sort_key": 1791817800.0,
-      "id": "8006198327817543840"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "호르헤 마르틴 (Jorge Martín), 인도네시아 MotoGP 레이스에서 점프 스타트 가능성 조사 중",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUG04MFBSd0RrYUNydDdONzU0bExVMzBnS0tTQ1o1WlM2U0tveDdLZ0JINWx5SENPZmM5Nk9zdEtWb0xYRi1zV1BZdEJPT3lzX1lXRWxZakx4Rmd4dUx5WldFdk5xVVlxamJ1WXY4Zzk2VTFZQzlfYUFpRFloenhaUG1IT1Yxanp6QjFrRGg4cEpla0ltRXVacWpEZVQ5NHFscWxJSWlsT3JsQQ?oc=5"
-        }
-      ],
-      "published_at": "2026-10-12 12:47",
-      "sort_key": 1791809245.0,
-      "id": "5139935918524238707"
+      "id": "4799493725862390385"
     },
     {
       "category": "eco",
@@ -154,23 +158,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "2366499218660397408"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "MotoGP Mandalika 2026, 인도네시아 스포츠 관광 활성화",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "RRI.co.id",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREIwV2VKN1J2VHFLTUlOQWlqQlpMdFBBR0NYU1h3cm5xZi1MVXdYZV9MTDBDN0hQbXZmMTEtU3BxTDc4UGxQQ2pZbnVfSS1TOEVSakpfNEFCN2FHd1hCU1haLWZKS1BFRkdxOW1fdXRKSktMT0dkOFpBXzNQQTMwN2RMcl9KWUdTZlNuV0dMTU9Wd3Jt?oc=5"
-        }
-      ],
-      "published_at": "2026-10-12 06:07",
-      "sort_key": 1791785220.0,
-      "id": "2011778337548381563"
+      "id": "723296476922199772"
     },
     {
       "category": "liv",
@@ -186,7 +174,7 @@
       ],
       "published_at": "2026-10-10 06:16",
       "sort_key": 1791613015.0,
-      "id": "7937008008109286817"
+      "id": "3112539628466055810"
     },
     {
       "category": "eco",
@@ -202,7 +190,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "8193851170820152341"
+      "id": "8648453079329694784"
     },
     {
       "category": "eco",
@@ -222,7 +210,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "2045272241321426193"
+      "id": "6587808717502630385"
     },
     {
       "category": "pol",
@@ -238,7 +226,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "2753708924754297055"
+      "id": "1213094873959816658"
     },
     {
       "category": "pol",
@@ -258,7 +246,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "2409613967545202201"
+      "id": "7365724693188494925"
     },
     {
       "category": "liv",
@@ -274,7 +262,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "1035115232887501629"
+      "id": "6273488269848267752"
     },
     {
       "category": "int",
@@ -294,7 +282,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8451558033228708708"
+      "id": "524946859888557060"
     },
     {
       "category": "pol",
@@ -314,7 +302,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "3390007603537233557"
+      "id": "1373201881666161272"
     },
     {
       "category": "liv",
@@ -330,7 +318,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "4358550587861741146"
+      "id": "3746589626138299495"
     },
     {
       "category": "pol",
@@ -346,7 +334,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "9071527436745971812"
+      "id": "6437309601753456589"
     },
     {
       "category": "int",
@@ -362,7 +350,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "583094167600620052"
+      "id": "2451164620047291754"
     },
     {
       "category": "eco",
@@ -378,7 +366,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "4653987067863387937"
+      "id": "7240540479503761259"
     },
     {
       "category": "liv",
@@ -394,7 +382,7 @@
       ],
       "published_at": "2026-09-30 11:27",
       "sort_key": 1790767620.0,
-      "id": "5130644075158038530"
+      "id": "3118794260606134297"
     },
     {
       "category": "int",
@@ -410,7 +398,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "4611680713556121247"
+      "id": "4684252799864662010"
     },
     {
       "category": "liv",
@@ -426,7 +414,7 @@
       ],
       "published_at": "2026-09-29 02:59",
       "sort_key": 1790650766.0,
-      "id": "6376804864701181058"
+      "id": "6569931787336055286"
     },
     {
       "category": "int",
@@ -442,7 +430,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "6287474876849251412"
+      "id": "289881087350586608"
     },
     {
       "category": "int",
@@ -458,7 +446,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "8654917765399063981"
+      "id": "5501672973724854387"
     },
     {
       "category": "tek",
@@ -474,7 +462,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "6589082298471898583"
+      "id": "7275468088345139737"
     }
   ],
   "categories": [
@@ -496,7 +484,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 8
+      "count": 7
     },
     {
       "id": "int",
@@ -511,12 +499,12 @@
   ],
   "sources": [
     {
-      "name": "Motorcycle Sports",
+      "name": "The Star",
       "count": 5
     },
     {
-      "name": "The Star",
-      "count": 5
+      "name": "Motorcycle Sports",
+      "count": 4
     },
     {
       "name": "MarketScreener",
@@ -533,6 +521,14 @@
     {
       "name": "Reuters",
       "count": 2
+    },
+    {
+      "name": "iMotorbike News",
+      "count": 1
+    },
+    {
+      "name": "Wake Up Singapore",
+      "count": 1
     },
     {
       "name": "Indovizka.com",
@@ -552,10 +548,6 @@
     },
     {
       "name": "Automotive Industry Portal MarkLines",
-      "count": 1
-    },
-    {
-      "name": "RRI.co.id",
       "count": 1
     },
     {
@@ -583,6 +575,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-14 04:58:02",
+  "last_updated": "2026-10-14 09:55:48",
   "errors": {}
 }
