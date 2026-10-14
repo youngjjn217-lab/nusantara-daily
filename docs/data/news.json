@@ -14,7 +14,7 @@
       ],
       "published_at": "2026-10-14 13:23",
       "sort_key": 1791984203.0,
-      "id": "531235149395332747"
+      "id": "294414144401845009"
     },
     {
       "category": "car",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "5368219058546914367"
+      "id": "4832572752092233507"
     },
     {
       "category": "car",
@@ -46,7 +46,23 @@
       ],
       "published_at": "2026-10-14 07:04",
       "sort_key": 1791961493.0,
-      "id": "5117421250741946015"
+      "id": "4770793910877500867"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아가 재난 상태를 거부함에 따라 지역적 낙진이 커지고 있습니다.",
+      "summary": "자카르타: 인도네시아가 장기간 지속된 산불을 국가적 재난으로 선포하는 것을 거부하면서 말레이시아 항공사들이 항공편을 취소하고 싱가포르가 10여 년 만에 처음으로 건강 보조금 제도를 부활시키면서 HAE가 국내외 수백만 명에게 영향을 미치고 있다는 비판이 쏟아지고 있습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/14/regional-fallout-grows-as-indonesia-rejects-disaster-status"
+        }
+      ],
+      "published_at": "2026-10-14 06:55",
+      "sort_key": 1791960900.0,
+      "id": "5397632850727894621"
     },
     {
       "category": "car",
@@ -62,7 +78,43 @@
       ],
       "published_at": "2026-10-14 05:30",
       "sort_key": 1791955858.0,
-      "id": "8397456775374194465"
+      "id": "1183041023158976622"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아의 산불은 한 달 이내에 소멸될 것이라고 환경부 장관이 밝혔습니다.",
+      "summary": "자카르타: 인도네시아가 한 달 이내에 산불을 진압할 것으로 예상된다고 Jumhur Hidayat 환경부 장관이 수요일 (10월 13일) 밝혔다. 정부가 인접 국가의 소방 지원 제안을 수용할지 여부를 결정하기 전에 이를 고려하고 있기 때문이다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/14/indonesias-forest-fires-will-be-extinguished-within-a-month-environment-minister-says"
+        },
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/singapore/2026/10/10/singapore-ready-to-help-indonesia-fight-forest-fires-amid-worsening-haze-says-environment-minister/238564"
+        }
+      ],
+      "published_at": "2026-10-14 05:04",
+      "sort_key": 1791954240.0,
+      "id": "3974108978733253961"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "마르코 베체키 (Marco Bezzecchi) 가 인도네시아 MotoGP에서 페퍼 그라인더 축하 행사를 가진 비하인드 스토리를 공개합니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Motorcycle Sports",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW00WHRPalZDbVhzbGFtMFpwVUNzcWZfYWNVaWxpc2pxb3ppaEpJVG1qOEM3VVlIM3laR3RfUUlYWEZSN1BNS19JendpMEJucTVTU2ZPMElwYURmMV8weGZpQ0EzSUVZclBnX2hRSTVrQ2p6OUdRNzB4Rk5UOHRqclQwNlBCNndrMWJqd3BXYllSa1kxUG5HUk5ha2N0bUhoblFWendRQWdzVlpraWJHX1dBZlRTUjhWajZZemltYw?oc=5"
+        }
+      ],
+      "published_at": "2026-10-13 16:42",
+      "sort_key": 1791909768.0,
+      "id": "2489243578154155007"
     },
     {
       "category": "car",
@@ -78,7 +130,7 @@
       ],
       "published_at": "2026-10-13 16:40",
       "sort_key": 1791909628.0,
-      "id": "3137855404422753893"
+      "id": "1775609930911531218"
     },
     {
       "category": "car",
@@ -106,7 +158,7 @@
       ],
       "published_at": "2026-10-13 14:40",
       "sort_key": 1791902408.0,
-      "id": "9026883816337309283"
+      "id": "7394493103484233043"
     },
     {
       "category": "car",
@@ -122,7 +174,7 @@
       ],
       "published_at": "2026-10-13 09:02",
       "sort_key": 1791882127.0,
-      "id": "5220613763758435814"
+      "id": "1209298028939397619"
     },
     {
       "category": "car",
@@ -138,7 +190,7 @@
       ],
       "published_at": "2026-10-13 03:02",
       "sort_key": 1791860545.0,
-      "id": "1034618945332480910"
+      "id": "2725825457631424917"
     },
     {
       "category": "liv",
@@ -154,7 +206,7 @@
       ],
       "published_at": "2026-10-12 15:10",
       "sort_key": 1791817800.0,
-      "id": "4292748575692401649"
+      "id": "4320458703593253709"
     },
     {
       "category": "eco",
@@ -170,23 +222,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "3911534144368689920"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "환경부 장관은 연무가 심해지는 가운데 인도네시아가 산불에 맞서 싸울 수 있도록 도울 준비가 되어 있다고 말합니다.",
-      "summary": "싱가포르, 10 월 10 일 — 싱가포르는이 지역의 안개 상태가 악화되는 가운데 인도네시아를 도울 준비가되어 있습니다. 미디어 오늘, 지속 가능성 장관과...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/singapore/2026/10/10/singapore-ready-to-help-indonesia-fight-forest-fires-amid-worsening-haze-says-environment-minister/238564"
-        }
-      ],
-      "published_at": "2026-10-10 06:16",
-      "sort_key": 1791613015.0,
-      "id": "4031884692487074351"
+      "id": "1488387399858326205"
     },
     {
       "category": "eco",
@@ -202,7 +238,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "52725995197878651"
+      "id": "6561292629409714133"
     },
     {
       "category": "eco",
@@ -222,7 +258,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "2317713809668127555"
+      "id": "1979056732689080334"
     },
     {
       "category": "pol",
@@ -238,7 +274,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4477517525919998087"
+      "id": "1517960013391297212"
     },
     {
       "category": "pol",
@@ -258,7 +294,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "679249731140230353"
+      "id": "55311903787378405"
     },
     {
       "category": "liv",
@@ -274,7 +310,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "8553366815353461815"
+      "id": "7507650993092953111"
     },
     {
       "category": "int",
@@ -294,7 +330,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6973828484776931473"
+      "id": "8816598305332241865"
     },
     {
       "category": "pol",
@@ -314,7 +350,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "1384224985478818790"
+      "id": "1823174362882445988"
     },
     {
       "category": "liv",
@@ -330,7 +366,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "3037380195202301194"
+      "id": "3681709190482449149"
     },
     {
       "category": "pol",
@@ -346,7 +382,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "3065474593889914969"
+      "id": "5744925092456007726"
     },
     {
       "category": "int",
@@ -362,7 +398,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4550985265996944281"
+      "id": "4075835051505673897"
     },
     {
       "category": "eco",
@@ -378,23 +414,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "7550761110980905154"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아 보건부 장관 부디 사디킨 (Budi Sadikin) 은 세계보건기구 (WHO) 의 첫 번째 동남아시아 총책임자가 되기를",
-      "summary": "자카르타: 동남아시아는 세계보건기구 (WHO) 의 수장을 배출한 적이 없으며 인도네시아의 부디 구나디 사디킨 (Budi Gunadi Sadikin) 은 이를 바꾸고 싶어합니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/30/indonesias-health-minister-budi-sadikin-hopes-to-be-first-south-east-asian-chief-at-who"
-        }
-      ],
-      "published_at": "2026-09-30 11:27",
-      "sort_key": 1790767620.0,
-      "id": "2526730124067740912"
+      "id": "6311304047140732065"
     },
     {
       "category": "int",
@@ -410,23 +430,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "3619416851632459481"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아, 건강 보험사 BPJS Kesehatan에 $ 11억 투자",
-      "summary": "정부 성명서에 따르면 인도네시아 정부는 2026년 국가 기관이 적자를 충당할 수 있도록 건강 보험사 BPJS Kesehatan에 20조 루피아를 투입할 예정이다.\no BPJS...\n- 2026년 9월 28일 오후 10시 59분 (동부 일광절약시)\n- MarketScreener",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-to-inject-1-1-billion-into-health-insurer-bpjs-kesehatan-ce785addd888f426"
-        }
-      ],
-      "published_at": "2026-09-29 02:59",
-      "sort_key": 1790650766.0,
-      "id": "8026955993431071311"
+      "id": "4866543669856938560"
     },
     {
       "category": "int",
@@ -442,7 +446,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "5198738875584504831"
+      "id": "6223489651859497361"
     },
     {
       "category": "int",
@@ -458,7 +462,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "494587063129353457"
+      "id": "6298233988137458511"
     },
     {
       "category": "tek",
@@ -474,7 +478,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "3062767156643815031"
+      "id": "5329492217958492000"
     }
   ],
   "categories": [
@@ -496,7 +500,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 8
+      "count": 9
     },
     {
       "id": "int",
@@ -506,16 +510,16 @@
     {
       "id": "liv",
       "label": "생활·환경",
-      "count": 6
+      "count": 5
     }
   ],
   "sources": [
     {
       "name": "The Star",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "MarketScreener",
+      "name": "Motorcycle Sports",
       "count": 4
     },
     {
@@ -523,7 +527,7 @@
       "count": 4
     },
     {
-      "name": "Motorcycle Sports",
+      "name": "MarketScreener",
       "count": 3
     },
     {
@@ -591,6 +595,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-14 14:49:05",
+  "last_updated": "2026-10-14 19:05:48",
   "errors": {}
 }
