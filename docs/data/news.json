@@ -14,7 +14,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "173872838355385781"
+      "id": "6252990266324406193"
     },
     {
       "category": "car",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-14 13:23",
       "sort_key": 1791984203.0,
-      "id": "9167991336638411178"
+      "id": "3216485590594485576"
     },
     {
       "category": "car",
@@ -46,7 +46,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "7016961361197798385"
+      "id": "7566281878278428575"
     },
     {
       "category": "car",
@@ -58,15 +58,11 @@
         {
           "name": "iMotorbike News",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckxjdms5TnNRTGxkTHh6djFvazZudEp2b3NETnJRM2I3ckwyM3kzdWd5UGdMc280X3owcUhvamU3ZDRhQXJlRXBIb2FwUVc1QnFEekVGNjUzN082a1A3TUhPNlg3dDNpSWFSd0xHN3VSOENGUloxdDlvMDVOZ3VOa3dHYldqc1kxRDktOGhYQndiLVNvejZkd28wV2pFMENhT0E?oc=5"
-        },
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSldrbE54eTd2QUFwblZBUTJpQzNUV3RkU1BUM29NQzRtclFJSmZtTW12ZWw0MWNLLWFfZGhfME1OOERMX3pOOFlXM194SHE1aDU4ZnQ4WEdzS1hKVmRkT3gyelBRemRVekVFZk1iRUlQUkRBcUtvNDdwRS1lbFg3S0RGcGdPdDlENms3SGhaTEhJSDBQZmZaV2VLX25ENjAwbVlJYy1hWUMyUFIxdFF2QzBiRVNtOU1IUUk0?oc=5"
         }
       ],
       "published_at": "2026-10-14 07:04",
       "sort_key": 1791961493.0,
-      "id": "8490578730437272168"
+      "id": "634136129605878599"
     },
     {
       "category": "liv",
@@ -82,23 +78,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "3227306815103062551"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "발리 연료 중단은 운전자가 시간을 기다리고 주지사가 침착하게 운전할 때 엄청난 오토바이 대기열을 유발합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Wake Up Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDM3Q5bHZrVlNaalFlQThLZkZMaXB3TVU2S2ZqLXczQlBpZE9sclBDazFFM3ZGTDJldnpwd3JFLXlGTjExT1B3amRlSjhBNWFORlpvS1JlXzc3ZlNLbExpTnEzTWJpVTE5MVE?oc=5"
-        }
-      ],
-      "published_at": "2026-10-14 05:30",
-      "sort_key": 1791955858.0,
-      "id": "6132831996844681160"
+      "id": "2185031256394705247"
     },
     {
       "category": "liv",
@@ -118,39 +98,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "5903963654592686922"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "마르코 베체키 (Marco Bezzecchi) 가 인도네시아 MotoGP에서 페퍼 그라인더 축하 행사를 가진 비하인드 스토리를 공개합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW00WHRPalZDbVhzbGFtMFpwVUNzcWZfYWNVaWxpc2pxb3ppaEpJVG1qOEM3VVlIM3laR3RfUUlYWEZSN1BNS19JendpMEJucTVTU2ZPMElwYURmMV8weGZpQ0EzSUVZclBnX2hRSTVrQ2p6OUdRNzB4Rk5UOHRqclQwNlBCNndrMWJqd3BXYllSa1kxUG5HUk5ha2N0bUhoblFWendRQWdzVlpraWJHX1dBZlRTUjhWajZZemltYw?oc=5"
-        }
-      ],
-      "published_at": "2026-10-13 16:42",
-      "sort_key": 1791909768.0,
-      "id": "1961258857476749967"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "라울 페르난데스 (Raul Fernandez) 는 MotoGP Indonesia에서 2위를 차지하기 위해 부러진 손가락을 무시합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUZPWEJ6S2N1NEFrbDNzZ2ZCZGVMMmh1ZlkwanhtSmpSNTJJRlBmLUlfTTdGVHpoWGdmYnFGWTRGNzd2d0x1X3dUSVNmbWVLS0RRd0lQTTV4dWNiU1oxNFY0OHlDQ1hFbV8xVWp1X1JsNUR6aTF4bmNfOHQyUWE2TlpFaWJ2ZDFBcGpKNHZySjRrOC1NMjg2cUJlUmJQOE5YX2FQZGZ4MXUxQlQ1?oc=5"
-        }
-      ],
-      "published_at": "2026-10-13 16:40",
-      "sort_key": 1791909628.0,
-      "id": "7219666979485108832"
+      "id": "5279686527691267517"
     },
     {
       "category": "car",
@@ -166,35 +114,11 @@
         {
           "name": "TNGlobal",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDNGZzBHbzR3MmQ1em1xM21EdEtiRW9fUHZ2YW9BNzJ5ZTJoLXFac0NEOWJjZzdXd1c5dFlNdG1tSTVIT2xqeXRDZVBoNWpZQ3g1eEtEZkk4V0pGd0hfY0k3ZUpEakFYUjhyUW9IWTBvRGJURjBVN1ZESkNaUkJGNE9ZdjF5dzBuZVJTZE42X0JzYThLaFVESElBYUN0NWdsTURJWlZjVHNLV3k3NU1SMjhrQU90NmhJbFE?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVWFjMHFoTm1VOWZmT0dxc2RRczBRSEx0dWRtRGpRMUFxOWM2RGhJQm1mVkZSQWVCa0haUkt0a1NMYlE2VEFMSWJad21rekk4MVpocHlsbzI4eGlpLVZrUWpsYnZUYnZ2ZHlVTXJBY2NXOEplTHJjQ2x3WGFSMkoyNm1uNnYwRU5RdzNjZjBuWkVha2loZklmYjYyQ0o5ZlRlTUthNzlaQXhhelI3UDhRdlFibFNpN2tVdk45Y09LdmxpNTVYc1oyeU5uaHBXdEQ2NHIxZHRoWWVFUEdONTdqNHc2YU1GdFRQS1ZfdzR3Y2NaTmFfa0ZFRUlSWHJqcWJaaXZwejZYVHI?oc=5"
-        },
-        {
-          "name": "Chronicle-Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNT2lZemExc3RIckp0bm8tOVo2Y1dma3diSVFZQUZUbE9kRS1iWDBFNEhaRkxDSXNEUm9xekdYc0RBRkhRU251c1RKNVFIVVFfZkdKdC1wbXNEdGhVRTJzdS0tRmNBQTg0MmwwNVh1Qi05S0hVZTFHVk9wcHJkQ25HcnZSVXNLb04zSGJ1WkZMbDBkRkhMd2twWW9nRWozSnhsSUxIQi1XRC1iNHFwWUdvQi1qSGtoTVlIdnhRdW50Q0dXMElTZF85amJuMTBKcTNmakMwVHFDSmRWZWVCd2VJaC1GNS1KUDhfX3hvaFRRUWZ6NkUyakR4U1dsUzAzS0FVWXR5TEZwQVI0blN5WGRTSUVQbzNDcWZrdGxXaXdsSDVYZjZUSUJQakNCUGNucmx2NUFQNm5VdHc0QQ?oc=5"
         }
       ],
       "published_at": "2026-10-13 14:40",
       "sort_key": 1791902408.0,
-      "id": "8756956675382219606"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "호르헤 마르틴 (Jorge Martín) 이 인도네시아에서 3위를 차지하고 마크 마르케스 (Marc Márquez) 의 MotoGP 선두 자리를 탈환했습니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnA0dGVnOXM1UFJiQXlPQV9lT0p0YXd6WGFrR04zUmJROWg5QjNENVVZRkNyVEVSXzRDQ1FIemVYUnJCaDhEcndCbHFWbGUtekUzWDdqTi1wc2FSWEJEeVpYYmZZNnFOZ2V5WlhhRU96VHBZU2EtRXc0bklUbVhReHlocUpzbmpPOXA2a0tXam5wQy1la2JDSXhUMk50MmhmMXFLbm94RXpjb2NSNk9CSUVEWUJZWEpE?oc=5"
-        }
-      ],
-      "published_at": "2026-10-13 09:02",
-      "sort_key": 1791882127.0,
-      "id": "6321432598656122729"
+      "id": "222028870601340917"
     },
     {
       "category": "car",
@@ -208,9 +132,9 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzgyNUlyRzRfUUlaV3dZLTNhUG1mT042QTJxVDFqa1BMMFVRbmVMWnhodlpjV3BNR3F6dThYcm1fZXFzX196dDcwOXlOWGptVkNCVnJSUXV4N0xLSFB1ZnZrVXBYa2k1aHZzVElPNWUzTkFhMk5QMzRFTGZDcm8zMlFVdVBDakw2eHpSMi13aE4zeEVu?oc=5"
         }
       ],
-      "published_at": "2026-10-13 03:02",
-      "sort_key": 1791860545.0,
-      "id": "323589214777927406"
+      "published_at": "2026-10-13 07:00",
+      "sort_key": 1791874800.0,
+      "id": "7675214124650632575"
     },
     {
       "category": "liv",
@@ -226,7 +150,7 @@
       ],
       "published_at": "2026-10-12 15:10",
       "sort_key": 1791817800.0,
-      "id": "3077673073717021157"
+      "id": "3383790330604552899"
     },
     {
       "category": "eco",
@@ -242,7 +166,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "8068094283248395353"
+      "id": "8607638561742915154"
     },
     {
       "category": "eco",
@@ -258,7 +182,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "5061353397715801866"
+      "id": "7034591991702442267"
     },
     {
       "category": "eco",
@@ -278,7 +202,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "9111176914575015340"
+      "id": "4659712808847316010"
     },
     {
       "category": "pol",
@@ -294,7 +218,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "5094226160358615763"
+      "id": "9222644890946262227"
     },
     {
       "category": "pol",
@@ -314,7 +238,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "8355872136475046712"
+      "id": "2673099875988777397"
     },
     {
       "category": "liv",
@@ -330,7 +254,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "375509305025968638"
+      "id": "9005565903480945419"
     },
     {
       "category": "int",
@@ -350,7 +274,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8892203625890684310"
+      "id": "4108530575235820726"
     },
     {
       "category": "pol",
@@ -370,7 +294,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "467591522843915194"
+      "id": "8998027596626136020"
     },
     {
       "category": "liv",
@@ -386,7 +310,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "8603437046838917455"
+      "id": "8888686714121595455"
     },
     {
       "category": "pol",
@@ -402,7 +326,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "8275691102596689351"
+      "id": "2615054238082772569"
     },
     {
       "category": "int",
@@ -418,7 +342,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "5160551609664974299"
+      "id": "3957849928192593395"
     },
     {
       "category": "eco",
@@ -434,7 +358,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "5604164117801822619"
+      "id": "1398613107938322756"
     },
     {
       "category": "int",
@@ -450,7 +374,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "3586765386028629612"
+      "id": "2829087634749191429"
     },
     {
       "category": "int",
@@ -466,7 +390,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "1351238703730719399"
+      "id": "8380055052804961972"
     },
     {
       "category": "int",
@@ -482,7 +406,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "4275112988077902801"
+      "id": "5850293347408486447"
     },
     {
       "category": "tek",
@@ -498,7 +422,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "7930041718669149759"
+      "id": "7306558092836150074"
     }
   ],
   "categories": [
@@ -520,7 +444,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 10
+      "count": 6
     },
     {
       "id": "int",
@@ -537,10 +461,6 @@
     {
       "name": "The Star",
       "count": 6
-    },
-    {
-      "name": "Motorcycle Sports",
-      "count": 5
     },
     {
       "name": "Malay Mail",
@@ -563,6 +483,10 @@
       "count": 1
     },
     {
+      "name": "Motorcycle Sports",
+      "count": 1
+    },
+    {
       "name": "VOI.ID",
       "count": 1
     },
@@ -571,23 +495,11 @@
       "count": 1
     },
     {
-      "name": "Wake Up Singapore",
-      "count": 1
-    },
-    {
       "name": "Indovizka.com",
       "count": 1
     },
     {
       "name": "TNGlobal",
-      "count": 1
-    },
-    {
-      "name": "TradingView",
-      "count": 1
-    },
-    {
-      "name": "Chronicle-Tribune",
       "count": 1
     },
     {
@@ -619,6 +531,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-15 00:36:02",
+  "last_updated": "2026-10-15 05:07:05",
   "errors": {}
 }
