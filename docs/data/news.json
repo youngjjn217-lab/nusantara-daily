@@ -14,7 +14,27 @@
       ],
       "published_at": "2026-10-15 08:03",
       "sort_key": 1792051401.0,
-      "id": "4586224497398319675"
+      "id": "68384820674477248"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아의 재난 책임자의 형제 5명이 안개 위기 상황에서 이식편 혐의로 체포되었습니다.",
+      "summary": "자카르타: 인도네시아의 반 이식 기관은 산불이 동남아시아의 일부 지역을 안개로 뒤덮고 재난 대응 노력에 압력을 가하면서 긴급 구호 기금과 관련된 부패 혐의로 재난 관리 책임자의 동생인 비마 세티아완 (Bima Setyawan) 을 포함한 5명을 체포했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/15/indonesias-disaster-chiefs-brother-among-five-arrested-over-alleged-graft-amid-haze-crisis"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesias-disaster-chiefs-brother-among-five-arrested-over-alleged-graft-amid-haze-crisis"
+        }
+      ],
+      "published_at": "2026-10-15 04:30",
+      "sort_key": 1792038600.0,
+      "id": "2716132990373624846"
     },
     {
       "category": "car",
@@ -30,7 +50,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "7545822896359839580"
+      "id": "1652495506842238140"
     },
     {
       "category": "car",
@@ -46,7 +66,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "2972493049300400277"
+      "id": "7801190430365855344"
     },
     {
       "category": "liv",
@@ -62,7 +82,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "4327733536035681513"
+      "id": "5980779216995442622"
     },
     {
       "category": "liv",
@@ -82,7 +102,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "4100002349667903848"
+      "id": "4166973912474208009"
     },
     {
       "category": "liv",
@@ -98,7 +118,7 @@
       ],
       "published_at": "2026-10-12 15:10",
       "sort_key": 1791817800.0,
-      "id": "5533124241189987956"
+      "id": "1335641432379073666"
     },
     {
       "category": "eco",
@@ -114,7 +134,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "1513261666296139634"
+      "id": "2084722995385882757"
     },
     {
       "category": "eco",
@@ -130,7 +150,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "319372954862768675"
+      "id": "6037045334875346777"
     },
     {
       "category": "eco",
@@ -150,7 +170,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "4655657233080597715"
+      "id": "8046164154149869305"
     },
     {
       "category": "pol",
@@ -166,7 +186,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "6188500577560477226"
+      "id": "6958925719576446194"
     },
     {
       "category": "pol",
@@ -186,23 +206,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "7221259052548512655"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "url": "https://phys.org/news/2026-10-coral-reef-climate-resilience-indonesia.html"
-        }
-      ],
-      "published_at": "2026-10-06 23:00",
-      "sort_key": 1791327601.0,
-      "id": "7199352847665931825"
+      "id": "73940145962516017"
     },
     {
       "category": "int",
@@ -222,7 +226,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "7440379784031143442"
+      "id": "6398417625088902135"
     },
     {
       "category": "pol",
@@ -242,23 +246,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "7198283920354592275"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아는 핫스팟이 떨어졌음에도 불구하고 산불을 경계해야 한다고 환경 단체들은 경고한다.",
-      "summary": "인도네시아 정부는 최근 핫스팟 수가 감소했음에도 불구하고 지속적으로 덥고 건조한 날씨 속에서 여전히 이탄지 화재가 발생하기 쉽기 때문에 산불을 경계해야 한다고 환경 단체들이 월요일 밝혔다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/environment/indonesia-must-keep-its-guard-up-against-wildfire-despite-drop-hotspots-2026-10-05/"
-        }
-      ],
-      "published_at": "2026-10-05 11:14",
-      "sort_key": 1791198879.0,
-      "id": "7719736456672179183"
+      "id": "8755373807050438043"
     },
     {
       "category": "pol",
@@ -274,7 +262,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "3258540836585142058"
+      "id": "1443832600037352606"
     },
     {
       "category": "int",
@@ -290,7 +278,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1315132553524101806"
+      "id": "7372514293922163105"
     },
     {
       "category": "eco",
@@ -306,7 +294,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "3339467509858560708"
+      "id": "7304792844006250623"
     },
     {
       "category": "int",
@@ -322,7 +310,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7212275998739191688"
+      "id": "1269586910851573114"
     },
     {
       "category": "int",
@@ -338,7 +326,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "2903972914861778521"
+      "id": "615106122142803497"
     },
     {
       "category": "int",
@@ -354,7 +342,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "1706604965963783542"
+      "id": "6778939011669721027"
     },
     {
       "category": "tek",
@@ -370,7 +358,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5867462021525415590"
+      "id": "5814736319695794826"
     }
   ],
   "categories": [
@@ -402,13 +390,13 @@
     {
       "id": "liv",
       "label": "생활·환경",
-      "count": 5
+      "count": 4
     }
   ],
   "sources": [
     {
       "name": "The Star",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Malay Mail",
@@ -423,11 +411,11 @@
       "count": 3
     },
     {
-      "name": "Reuters",
-      "count": 2
+      "name": "Just Auto",
+      "count": 1
     },
     {
-      "name": "Just Auto",
+      "name": "The Straits Times",
       "count": 1
     },
     {
@@ -443,7 +431,7 @@
       "count": 1
     },
     {
-      "name": "Phys.org",
+      "name": "Reuters",
       "count": 1
     },
     {
@@ -463,6 +451,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-15 14:42:27",
+  "last_updated": "2026-10-15 18:48:04",
   "errors": {}
 }
