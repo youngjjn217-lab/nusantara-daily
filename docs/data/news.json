@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "자금 문제로 인도네시아 재난 기관에서 부패 혐의로 체포된 5명",
+      "summary": "자카르타: 부패척결위원회 (KPK) 는 수요일 국가재난관리청 (BNPB) 의 조달 프로젝트에서 부패 혐의로 용의자 5명을 체포했는데, 이는 국가의 재난 대응에 대한 우려를 불러일으키는 스캔들입니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/15/five-arrested-over-alleged-corruption-at-indonesia-disaster-agency-amid-funding-concerns"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesias-disaster-chiefs-brother-among-five-arrested-over-alleged-graft-amid-haze-crisis"
+        }
+      ],
+      "published_at": "2026-10-15 09:08",
+      "sort_key": 1792055280.0,
+      "id": "5180351503566363838"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아, Prabowo 대통령의 세 번째 개편에서 한 달 만에 새로운 재난 기관장 임명",
+      "summary": "최근의 개편은 10월 1일에 새로운 외교 및 산업 장관과 다른 8명의 기관 및 경찰 고위 지도자의 임명을 본 개편에 따른 것입니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-disaster-agency-head-cabinet-reshuffle-prabowo-6461641"
+        }
+      ],
+      "published_at": "2026-10-15 08:39",
+      "sort_key": 1792053540.0,
+      "id": "2372621333082421301"
+    },
+    {
       "category": "car",
       "category_label": "자동차",
       "title": "9월 인도네시아 차량 판매 급증 28%",
@@ -14,27 +50,23 @@
       ],
       "published_at": "2026-10-15 08:03",
       "sort_key": 1792051401.0,
-      "id": "68384820674477248"
+      "id": "59682869999400517"
     },
     {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아의 재난 책임자의 형제 5명이 안개 위기 상황에서 이식편 혐의로 체포되었습니다.",
-      "summary": "자카르타: 인도네시아의 반 이식 기관은 산불이 동남아시아의 일부 지역을 안개로 뒤덮고 재난 대응 노력에 압력을 가하면서 긴급 구호 기금과 관련된 부패 혐의로 재난 관리 책임자의 동생인 비마 세티아완 (Bima Setyawan) 을 포함한 5명을 체포했습니다.",
+      "category": "int",
+      "category_label": "국제",
+      "title": "Lim Guan Eng은 자카르타가 아세안 소방 태스크 포스를 거부하면 말레이시아가 인도네시아를 안개로 고소 할 것을 촉구합니다.",
+      "summary": "쿠알라룸푸르, 10월 15일 — 바간 국회의원 림관엥은 말레이시아에 인도네시아에 대한 법적 조치를 고려하여 국경을 초월한 안개 위기가 악화될 경우 그에 대한 보상을 요청할 것을 촉구했다.",
       "type": "news",
       "sources": [
         {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/15/indonesias-disaster-chiefs-brother-among-five-arrested-over-alleged-graft-amid-haze-crisis"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/indonesias-disaster-chiefs-brother-among-five-arrested-over-alleged-graft-amid-haze-crisis"
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/15/lim-guan-eng-urges-malaysia-to-sue-indonesia-over-haze-if-jakarta-rejects-asean-firefighting-task-force/239199"
         }
       ],
-      "published_at": "2026-10-15 04:30",
-      "sort_key": 1792038600.0,
-      "id": "2716132990373624846"
+      "published_at": "2026-10-15 06:53",
+      "sort_key": 1792047221.0,
+      "id": "8607620633873086687"
     },
     {
       "category": "car",
@@ -50,7 +82,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "1652495506842238140"
+      "id": "8565950669203908206"
     },
     {
       "category": "car",
@@ -66,7 +98,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "7801190430365855344"
+      "id": "3591594935301193944"
     },
     {
       "category": "liv",
@@ -82,7 +114,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "5980779216995442622"
+      "id": "7122360490471501135"
     },
     {
       "category": "liv",
@@ -94,31 +126,11 @@
         {
           "name": "The Star",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/14/indonesias-forest-fires-will-be-extinguished-within-a-month-environment-minister-says"
-        },
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/singapore/2026/10/10/singapore-ready-to-help-indonesia-fight-forest-fires-amid-worsening-haze-says-environment-minister/238564"
         }
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "4166973912474208009"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아는 현재로서는 산불을 국가적 재난으로 선포하지 않을 것입니다.",
-      "summary": "자카르타: 인도네시아는 위기를 해결할 수 있다고 말하면서 현재로서는 장기간 지속되는 산림과 육지로 인한 화재를 국가적 재난으로 선언하지 않을 것입니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/nation/2026/10/12/indonesia-will-not-declare-forest-fires-a-national-disaster-for-now"
-        }
-      ],
-      "published_at": "2026-10-12 15:10",
-      "sort_key": 1791817800.0,
-      "id": "1335641432379073666"
+      "id": "4448693338041905250"
     },
     {
       "category": "eco",
@@ -134,7 +146,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "2084722995385882757"
+      "id": "8402508740453873967"
     },
     {
       "category": "eco",
@@ -150,7 +162,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "6037045334875346777"
+      "id": "7995577756578220107"
     },
     {
       "category": "eco",
@@ -170,7 +182,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "8046164154149869305"
+      "id": "5127831740618533171"
     },
     {
       "category": "pol",
@@ -186,7 +198,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "6958925719576446194"
+      "id": "3757102527838753056"
     },
     {
       "category": "pol",
@@ -206,7 +218,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "73940145962516017"
+      "id": "4494860648166914602"
     },
     {
       "category": "int",
@@ -226,7 +238,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6398417625088902135"
+      "id": "915874949995577583"
     },
     {
       "category": "pol",
@@ -246,23 +258,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "8755373807050438043"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도-인도네시아 무역에서 상당한 미개척 잠재력; 더 많은 일이 필요합니다: 인도네시아 대통령 특사",
-      "summary": "마리 엘카 판게스투 (Mari Elka Pangestu) 인도네시아 국제 무역 및 다자간 협력을 위한 대통령 특사는 인도와 인도네시아 간의 무역 및 투자에서 미개척된 상당한 잠재력을 강조하면서 양국 간의 기회를 실현하기 위해 더 많은 것이 필요하다고 말했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3986796-significant-untapped-potential-in-india-indonesia-trade-more-needs-to-be-done-special-envoy-of-indonesian-president"
-        }
-      ],
-      "published_at": "2026-10-05 01:48",
-      "sort_key": 1791164931.0,
-      "id": "1443832600037352606"
+      "id": "1230598921241881535"
     },
     {
       "category": "int",
@@ -278,7 +274,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7372514293922163105"
+      "id": "7491908946702438425"
     },
     {
       "category": "eco",
@@ -294,7 +290,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "7304792844006250623"
+      "id": "4713871138224565461"
     },
     {
       "category": "int",
@@ -310,7 +306,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "1269586910851573114"
+      "id": "4707638695377208043"
     },
     {
       "category": "int",
@@ -326,23 +322,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "615106122142803497"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "아세안 컵에서 말레이시아가 인도네시아와 싸우는 동안 파이살은 겔로라에서 폭풍우를 진정시킬 준비가 되었습니다.",
-      "summary": "페탈링 자야: 축구 국가대표팀 윙어 파이살 할림은 겔로라 붕 카르노 스타디움의 적대적인 분위기에 동요하지 않으며, 월요일 (9월 28일) 에 열리는 FIFA 아세안 컵 A조 경기에서 말레이시아가 인도네시아를 상대할 때 정신적으로나 육체적으로 준비를 해야 한다고 팀원들에게 촉구했습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/sport/football/2026/09/27/faisal-ready-to-calm-storm-at-gelora-as-malaysia-battle-indonesia-in-asean-cup"
-        }
-      ],
-      "published_at": "2026-09-27 11:51",
-      "sort_key": 1790509860.0,
-      "id": "6778939011669721027"
+      "id": "3382531321192514993"
     },
     {
       "category": "tek",
@@ -358,7 +338,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5814736319695794826"
+      "id": "5814300247101876569"
     }
   ],
   "categories": [
@@ -390,13 +370,13 @@
     {
       "id": "liv",
       "label": "생활·환경",
-      "count": 4
+      "count": 3
     }
   ],
   "sources": [
     {
       "name": "The Star",
-      "count": 7
+      "count": 5
     },
     {
       "name": "Malay Mail",
@@ -407,15 +387,19 @@
       "count": 3
     },
     {
-      "name": "Devdiscourse",
-      "count": 3
+      "name": "CNA",
+      "count": 2
     },
     {
-      "name": "Just Auto",
-      "count": 1
+      "name": "Devdiscourse",
+      "count": 2
     },
     {
       "name": "The Straits Times",
+      "count": 1
+    },
+    {
+      "name": "Just Auto",
       "count": 1
     },
     {
@@ -439,10 +423,6 @@
       "count": 1
     },
     {
-      "name": "CNA",
-      "count": 1
-    },
-    {
       "name": "U.S. News & World Report",
       "count": 1
     },
@@ -451,6 +431,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-15 18:48:04",
+  "last_updated": "2026-10-15 21:53:20",
   "errors": {}
 }
