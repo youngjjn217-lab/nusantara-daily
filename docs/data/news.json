@@ -3,6 +3,22 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "도요타, 인도네시아 자동차 수출 활성화",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Kompas.id",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnp6bFZoZFlRc1NlQ3NlQl9PUmcxbk0xc0RMQkh6ZnAwZEoyTTczSnBxc2F1d0lhdjFNQkNXVVFGMmMxYlN4LTJVckt5U1ZVbjg0enA0bGtZTDNxZEs0My12Wmw2MmgweERUbnEzMnMxbEktZU9mWGtUQXZzMklURFVncGZDWHdSRjlMeWZkS1B6M00?oc=5"
+        }
+      ],
+      "published_at": "2026-10-14 23:27",
+      "sort_key": 1792020436.0,
+      "id": "173872838355385781"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "파비오 콰르타로, 인도네시아에서 9위로 7월 이후 최고의 모토GP 피니시 확보",
       "summary": "",
       "type": "news",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-14 13:23",
       "sort_key": 1791984203.0,
-      "id": "1453618710672294148"
+      "id": "9167991336638411178"
     },
     {
       "category": "car",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "5836674053228947657"
+      "id": "7016961361197798385"
     },
     {
       "category": "car",
@@ -50,7 +66,7 @@
       ],
       "published_at": "2026-10-14 07:04",
       "sort_key": 1791961493.0,
-      "id": "594792202119334310"
+      "id": "8490578730437272168"
     },
     {
       "category": "liv",
@@ -66,7 +82,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "1571857077364181474"
+      "id": "3227306815103062551"
     },
     {
       "category": "car",
@@ -82,7 +98,7 @@
       ],
       "published_at": "2026-10-14 05:30",
       "sort_key": 1791955858.0,
-      "id": "1239999240889505248"
+      "id": "6132831996844681160"
     },
     {
       "category": "liv",
@@ -102,7 +118,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "5020403938377475639"
+      "id": "5903963654592686922"
     },
     {
       "category": "car",
@@ -118,7 +134,7 @@
       ],
       "published_at": "2026-10-13 16:42",
       "sort_key": 1791909768.0,
-      "id": "3924646161599494084"
+      "id": "1961258857476749967"
     },
     {
       "category": "car",
@@ -134,7 +150,7 @@
       ],
       "published_at": "2026-10-13 16:40",
       "sort_key": 1791909628.0,
-      "id": "5729607388524241272"
+      "id": "7219666979485108832"
     },
     {
       "category": "car",
@@ -162,7 +178,7 @@
       ],
       "published_at": "2026-10-13 14:40",
       "sort_key": 1791902408.0,
-      "id": "6793945988409304778"
+      "id": "8756956675382219606"
     },
     {
       "category": "car",
@@ -178,23 +194,7 @@
       ],
       "published_at": "2026-10-13 09:02",
       "sort_key": 1791882127.0,
-      "id": "6831325321935527106"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "페드로 아코스타 (Pedro Acosta) 는 인도네시아 모토GP (MotoGP) 에서 5위를 차지하며 4월이 아닌 최고의 라이더로 마무리했습니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3hXZG94T0dJLVNqdUNoYllFZUwzN096aGxBei1OaGtSNjRIdGNrbVNrdUtaTUxIc3N0VkFWMlpQZmpWejBfa2FZR3pVeTVaMnZTUGRYRTZfWlZUY04tTEwwNWZuUW9vZGd0azc3UVN6b2dMY0FYUFk5UXdYMVlsTEZtNlY5RjNVbi1GTnkzaGczU3dTT085QjZiWmdwZlBOZzVpdXU5ZU1qSENiNGVVY0V3NmtOaDVLWTlmcmRR?oc=5"
-        }
-      ],
-      "published_at": "2026-10-13 09:01",
-      "sort_key": 1791882105.0,
-      "id": "7571722773161825225"
+      "id": "6321432598656122729"
     },
     {
       "category": "car",
@@ -210,7 +210,7 @@
       ],
       "published_at": "2026-10-13 03:02",
       "sort_key": 1791860545.0,
-      "id": "5784601816724608592"
+      "id": "323589214777927406"
     },
     {
       "category": "liv",
@@ -226,7 +226,7 @@
       ],
       "published_at": "2026-10-12 15:10",
       "sort_key": 1791817800.0,
-      "id": "6460657966626139175"
+      "id": "3077673073717021157"
     },
     {
       "category": "eco",
@@ -242,7 +242,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "4070966094466180773"
+      "id": "8068094283248395353"
     },
     {
       "category": "eco",
@@ -258,7 +258,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "2524143419465784498"
+      "id": "5061353397715801866"
     },
     {
       "category": "eco",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "8042664266834908618"
+      "id": "9111176914575015340"
     },
     {
       "category": "pol",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "7207308376938423874"
+      "id": "5094226160358615763"
     },
     {
       "category": "pol",
@@ -314,7 +314,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "8299212788239041999"
+      "id": "8355872136475046712"
     },
     {
       "category": "liv",
@@ -330,7 +330,7 @@
       ],
       "published_at": "2026-10-06 23:00",
       "sort_key": 1791327601.0,
-      "id": "8564024683474684195"
+      "id": "375509305025968638"
     },
     {
       "category": "int",
@@ -350,7 +350,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "3496237309740462978"
+      "id": "8892203625890684310"
     },
     {
       "category": "pol",
@@ -370,7 +370,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "9186934185796412060"
+      "id": "467591522843915194"
     },
     {
       "category": "liv",
@@ -386,7 +386,7 @@
       ],
       "published_at": "2026-10-05 11:14",
       "sort_key": 1791198879.0,
-      "id": "6402796901999989770"
+      "id": "8603437046838917455"
     },
     {
       "category": "pol",
@@ -402,7 +402,7 @@
       ],
       "published_at": "2026-10-05 01:48",
       "sort_key": 1791164931.0,
-      "id": "4737156684766345195"
+      "id": "8275691102596689351"
     },
     {
       "category": "int",
@@ -418,7 +418,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3092033056780771484"
+      "id": "5160551609664974299"
     },
     {
       "category": "eco",
@@ -434,7 +434,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "8534927315771216192"
+      "id": "5604164117801822619"
     },
     {
       "category": "int",
@@ -450,7 +450,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7159218408870508214"
+      "id": "3586765386028629612"
     },
     {
       "category": "int",
@@ -466,7 +466,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "7923828209368593767"
+      "id": "1351238703730719399"
     },
     {
       "category": "int",
@@ -482,7 +482,7 @@
       ],
       "published_at": "2026-09-27 11:51",
       "sort_key": 1790509860.0,
-      "id": "3270658605606677369"
+      "id": "4275112988077902801"
     },
     {
       "category": "tek",
@@ -498,7 +498,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5092996088090759533"
+      "id": "7930041718669149759"
     }
   ],
   "categories": [
@@ -535,12 +535,12 @@
   ],
   "sources": [
     {
-      "name": "Motorcycle Sports",
+      "name": "The Star",
       "count": 6
     },
     {
-      "name": "The Star",
-      "count": 6
+      "name": "Motorcycle Sports",
+      "count": 5
     },
     {
       "name": "Malay Mail",
@@ -557,6 +557,10 @@
     {
       "name": "Reuters",
       "count": 2
+    },
+    {
+      "name": "Kompas.id",
+      "count": 1
     },
     {
       "name": "VOI.ID",
@@ -615,6 +619,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-14 22:19:27",
+  "last_updated": "2026-10-15 00:36:02",
   "errors": {}
 }
