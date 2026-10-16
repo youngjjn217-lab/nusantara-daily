@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아의 신성한 숲에서 폭스바겐의 전기 자동차까지: 더러운 니켈 트레일",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Voxeurop",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGotWVFqMkdmNUlLam9XUTNXTWFETjlMLVNzcTVuOUdBdjhMbjRRbWZMdW9DM0l6a3dIcTVpMTAxaUhiSDRfbFlrVGRrdklzX3pTM1ZMMk9XSjREQUt0S2FOekNvcXNxUWswSzFyWjJPaUVseFdYUHZOY0NDQ01sRjdKVFRlR0w3WG5CVkNB?oc=5"
+        }
+      ],
+      "published_at": "2026-10-16 07:00",
+      "sort_key": 1792134000.0,
+      "id": "8090421397867666217"
+    },
+    {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "자금 문제로 인도네시아 재난 기관에서 부패 혐의로 체포된 5명",
@@ -18,7 +34,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "8994540698120364697"
+      "id": "950406385622155932"
     },
     {
       "category": "pol",
@@ -34,7 +50,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "3245086717202576102"
+      "id": "4920861359621049030"
     },
     {
       "category": "car",
@@ -50,7 +66,7 @@
       ],
       "published_at": "2026-10-15 08:03",
       "sort_key": 1792051401.0,
-      "id": "2530039032030947107"
+      "id": "6571397373361017641"
     },
     {
       "category": "int",
@@ -66,7 +82,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5197490062436328878"
+      "id": "6761889706880690538"
     },
     {
       "category": "car",
@@ -82,7 +98,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "3454145152019787763"
+      "id": "6928109272741257708"
     },
     {
       "category": "car",
@@ -98,7 +114,7 @@
       ],
       "published_at": "2026-10-14 12:46",
       "sort_key": 1791981993.0,
-      "id": "2608964716995758859"
+      "id": "1091693023031468655"
     },
     {
       "category": "car",
@@ -114,23 +130,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "6700892871526991701"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "호르헤 마틴, 인도네시아 MotoGP 이후 점프 스타트 주장에 직면",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "iMotorbike News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckxjdms5TnNRTGxkTHh6djFvazZudEp2b3NETnJRM2I3ckwyM3kzdWd5UGdMc280X3owcUhvamU3ZDRhQXJlRXBIb2FwUVc1QnFEekVGNjUzN082a1A3TUhPNlg3dDNpSWFSd0xHN3VSOENGUloxdDlvMDVOZ3VOa3dHYldqc1kxRDktOGhYQndiLVNvejZkd28wV2pFMENhT0E?oc=5"
-        }
-      ],
-      "published_at": "2026-10-14 07:04",
-      "sort_key": 1791961493.0,
-      "id": "772719099758633616"
+      "id": "440667917476874353"
     },
     {
       "category": "liv",
@@ -146,7 +146,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "5529400151519803118"
+      "id": "9184955740859177458"
     },
     {
       "category": "liv",
@@ -162,7 +162,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "46273724066414701"
+      "id": "7923763885212445178"
     },
     {
       "category": "eco",
@@ -178,7 +178,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "3349038971588199394"
+      "id": "8409157725434857677"
     },
     {
       "category": "eco",
@@ -194,7 +194,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "130398415121686250"
+      "id": "5089625839779570814"
     },
     {
       "category": "eco",
@@ -214,7 +214,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "1272472232045083937"
+      "id": "4701463949186495055"
     },
     {
       "category": "pol",
@@ -230,7 +230,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "1425850326178063557"
+      "id": "4660552371295790130"
     },
     {
       "category": "pol",
@@ -250,7 +250,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "6795266605128602044"
+      "id": "3526451518504852008"
     },
     {
       "category": "int",
@@ -270,7 +270,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8103020938371340403"
+      "id": "2066082381171721665"
     },
     {
       "category": "pol",
@@ -290,7 +290,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "287330354084577257"
+      "id": "2741308147686239183"
     },
     {
       "category": "int",
@@ -306,7 +306,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3119753360628803565"
+      "id": "3296036735708943905"
     },
     {
       "category": "eco",
@@ -322,7 +322,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "7665419536414958870"
+      "id": "1674832804406835225"
     },
     {
       "category": "int",
@@ -338,7 +338,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "2165663660194207307"
+      "id": "6525539351352865823"
     },
     {
       "category": "int",
@@ -354,7 +354,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "1911240173327666699"
+      "id": "8072143239221582078"
     },
     {
       "category": "tek",
@@ -370,7 +370,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5226747823363509890"
+      "id": "5282046673682406811"
     }
   ],
   "categories": [
@@ -427,6 +427,10 @@
       "count": 2
     },
     {
+      "name": "Voxeurop",
+      "count": 1
+    },
+    {
       "name": "The Straits Times",
       "count": 1
     },
@@ -444,10 +448,6 @@
     },
     {
       "name": "VOI.ID",
-      "count": 1
-    },
-    {
-      "name": "iMotorbike News",
       "count": 1
     },
     {
@@ -471,6 +471,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-16 03:34:27",
+  "last_updated": "2026-10-16 08:28:31",
   "errors": {}
 }
