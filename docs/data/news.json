@@ -14,7 +14,67 @@
       ],
       "published_at": "2026-10-16 07:00",
       "sort_key": 1792134000.0,
-      "id": "8090421397867666217"
+      "id": "7754527937843084592"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아는 MSCI가 다운그레이드를 고려함에 따라 얼굴 압력을 재고, 애널리스트들은 경고",
+      "summary": "애널리스트와 투자자에 따르면 인도네시아 주식은 MSCI Inc. 의 최근 국가 하향 조정 제안에 따라 글로벌 주가 지수에서 잠재적 인 퇴출에 직면함에 따라 추가 유출을 볼 가능성이 높습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-outflows-to-worsen-as-msci-mulls-cut-analysts-say"
+        }
+      ],
+      "published_at": "2026-10-16 00:43",
+      "sort_key": 1792111397.0,
+      "id": "3726101865494889397"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "MSCI 플래그 '독립형' 다운그레이드 이후 1998년 이후 인도네시아 주식이 가장 많이 침몰",
+      "summary": "인도네시아 주식은 MSCI가 동남아시아 최대 경제에서 수십억 달러의 자본 유출을 위협하면서 더 이상 \"신흥 시장\" 지위에 합당하지 않다고 말한 후 금요일 거의 30 년 만에 가장 가파른 하락을 겪었습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/10/16/indonesia-stocks-sink-most-since-1998-after-msci-flags-039standalone039-downgrade"
+        }
+      ],
+      "published_at": "2026-10-16 00:00",
+      "sort_key": 1792108800.0,
+      "id": "8305456330448930885"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "MSCI, 인도네시아를 신흥 시장에서 독립 시장 상태로 재분류하기 위한 제안 협의 시작",
+      "summary": "MSCI, MSCI 인도네시아 지수를 독립 시장 지위로 재분류 제안 협의 MSCI 지수에서 인도네시아 증권에 대한 기존 동결",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Expositor",
+          "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
+        },
+        {
+          "name": "The North Bay Nugget",
+          "url": "https://www.nugget.ca/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
+        },
+        {
+          "name": "The London Free Press",
+          "url": "https://lfpress.com/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
+        },
+        {
+          "name": "The Kingston Whig-Standard",
+          "url": "https://www.thewhig.com/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
+        }
+      ],
+      "published_at": "2026-10-15 21:51",
+      "sort_key": 1792101102.0,
+      "id": "75715213467141018"
     },
     {
       "category": "liv",
@@ -34,7 +94,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "950406385622155932"
+      "id": "3785470763948575947"
     },
     {
       "category": "pol",
@@ -50,23 +110,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "4920861359621049030"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "9월 인도네시아 차량 판매 급증 28%",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Just Auto",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjNkNkFfVVhlR2NUUHF3VWM5b2FrcUpCdUE0QTNaeG14QmhhZkhkQlhnMG1lNEltd0gxMGpmT3Q0WUlSNVhwd3dSNEJac2lscDNNMjVROVpHQ0lZd1NmUE0zMjdKQXcyYUV3ZnAwTVpsM184UWZJMFFydUt0YV92bm44R18?oc=5"
-        }
-      ],
-      "published_at": "2026-10-15 08:03",
-      "sort_key": 1792051401.0,
-      "id": "6571397373361017641"
+      "id": "8618657821043093871"
     },
     {
       "category": "int",
@@ -82,7 +126,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "6761889706880690538"
+      "id": "4440234515175456448"
     },
     {
       "category": "car",
@@ -98,39 +142,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "6928109272741257708"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "VinFast, 인도네시아와 필리핀의 새로운 전기 오토바이 쇼룸에 대한 특별 인센티브 발표, 유통망 확장 가속화",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Times Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdzQ5MXhpUjB5c2NoVHh6UE5uWTRJV2tkUmtvY0xvQXNGRnQ4bTNic0I2M2d1U1htSVQ2UnZyQngzN0FJOS1OS3NEbkw3VXpLS2FDUnRleXhTMmtDZWJvWGowbUxuWndSSEVzNGpLRDE1bW1QYVlTODNVQm5FaEljWUxrM0pmejh1Zk1RcS1WYUk1Nnk3czZrcXpETmVKZC1RWjk5TW45SjdKSnpLNzdXblFvcnkyQVk3WU5oNlZYd3hsRTZBb29zM1ZTeEE2NnNDMjEwOG84REU0LW5VOXJrU2NxQkgyNjV4UFJBbVNEaXNjUE05Mm9lUVQ2S2VJVnd4MXBScXBlNnA1Ti05c202NHRDZkhoZGx0OGxLVnVmWTJJRm1qazh4RA?oc=5"
-        }
-      ],
-      "published_at": "2026-10-14 12:46",
-      "sort_key": 1791981993.0,
-      "id": "1091693023031468655"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Yamaha, 인도네시아 생산 오토바이 엔진에 재활용 알루미늄 사용",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtd3RfR0pOczFFV25oS2ZTRWVwVXRXVUdvNGVoSUUtWTl0QldIMXhtTEtVdkJqUmhydzNEbGlKbjRYd9IBQkFVX3lxTFAtd3RfR0pOczFFV25oS2ZTRWVwVXRXVUdvNGVoSUUtWTl0QldIMXhtTEtVdkJqUmhydzNEbGlKbjRYdw?oc=5"
-        }
-      ],
-      "published_at": "2026-10-14 11:51",
-      "sort_key": 1791978686.0,
-      "id": "440667917476874353"
+      "id": "2287600590003304766"
     },
     {
       "category": "liv",
@@ -146,7 +158,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "9184955740859177458"
+      "id": "371391609749089994"
     },
     {
       "category": "liv",
@@ -162,59 +174,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "7923763885212445178"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 중앙은행은 금리에 대한 완전한 자율권을 가지고 있다고 신임 수석이 말했다.",
-      "summary": "인도네시아 중앙은행은 정부와 더 긴밀히 협력하고 시너지 효과를 내면서도 정책 금리의 수준을 결정할 수 있는 완전한 자율권을 가지고 있다고 신임 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-central-bank-has-full-autonomy-over-interest-rates-new-chief-says-ce785ddcde80f123"
-        }
-      ],
-      "published_at": "2026-10-12 09:14",
-      "sort_key": 1791796463.0,
-      "id": "8409157725434857677"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도, 인도네시아, 중국이 빠르게 성장함에 따라 경제 성장이 두 갈래로 갈라짐: UNCTAD",
-      "summary": "글로벌 성장률은 2026년 2.6%, 2027년 2.7% 로 둔화될 것으로 예측: 보고서",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/nation/developing-economy-growth-bifurcate-as-india-indonesia-china-grow-faster-unctad-1994454"
-        }
-      ],
-      "published_at": "2026-10-09 14:40",
-      "sort_key": 1791556824.0,
-      "id": "5089625839779570814"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아의 다난타라 (Danantara) 는 밸류에이션이 매력적이라면 시장 매도 중에 개입할 수 있다고 말합니다.",
-      "summary": "인도네시아의 국채 펀드는 투자가 타당할 경우 스트레스가 있을 때 현지 주식 시장에 발을 들여놓을 것이며, AI 노출을 신중하게 구매하고 있으며 즉시 수익을 송금할 필요가 없을 수도 있다고 말했습니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-s-danantara-says-it-could-step-in-during-market-selloffs-if-valuations-attractive-ce785ddfde8ff225"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/indonesias-danantara-says-it-could-step-during-market-selloffs-if-valuations-2026-10-09/"
-        }
-      ],
-      "published_at": "2026-10-09 07:09",
-      "sort_key": 1791529778.0,
-      "id": "4701463949186495055"
+      "id": "1368683091515331440"
     },
     {
       "category": "pol",
@@ -230,7 +190,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4660552371295790130"
+      "id": "3688818675964112010"
     },
     {
       "category": "pol",
@@ -250,7 +210,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "3526451518504852008"
+      "id": "2031386037212989475"
     },
     {
       "category": "int",
@@ -270,7 +230,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "2066082381171721665"
+      "id": "6363805960413575868"
     },
     {
       "category": "pol",
@@ -290,7 +250,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "2741308147686239183"
+      "id": "7582107804776154629"
     },
     {
       "category": "int",
@@ -306,23 +266,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3296036735708943905"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "9월 인도네시아 소비자 인플레이션 가속화",
-      "summary": "잉 시안 웡 (Ying Xian Wong)\n9월 인도네시아의 소비자 인플레이션은 식품 가격 상승으로 인해 상승했다.\n9월 소비자물가지수는 1년 전보다 3.28% 상승해 8월의 3.19% 보다 상승했다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-s-consumer-inflation-accelerated-in-september-ce785ad3dd88f027"
-        }
-      ],
-      "published_at": "2026-10-01 04:40",
-      "sort_key": 1790829632.0,
-      "id": "1674832804406835225"
+      "id": "5234962088944058170"
     },
     {
       "category": "int",
@@ -338,7 +282,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6525539351352865823"
+      "id": "3157071762949614575"
     },
     {
       "category": "int",
@@ -354,7 +298,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "8072143239221582078"
+      "id": "2644554741090159834"
     },
     {
       "category": "tek",
@@ -370,14 +314,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5282046673682406811"
+      "id": "2728438829473134988"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 4
+      "count": 3
     },
     {
       "id": "pol",
@@ -392,7 +336,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 5
+      "count": 2
     },
     {
       "id": "int",
@@ -408,15 +352,11 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Malay Mail",
       "count": 4
-    },
-    {
-      "name": "MarketScreener",
-      "count": 3
     },
     {
       "name": "CNA",
@@ -431,31 +371,31 @@
       "count": 1
     },
     {
+      "name": "Bloomberg",
+      "count": 1
+    },
+    {
+      "name": "The Expositor",
+      "count": 1
+    },
+    {
+      "name": "The North Bay Nugget",
+      "count": 1
+    },
+    {
+      "name": "The London Free Press",
+      "count": 1
+    },
+    {
+      "name": "The Kingston Whig-Standard",
+      "count": 1
+    },
+    {
       "name": "The Straits Times",
       "count": 1
     },
     {
-      "name": "Just Auto",
-      "count": 1
-    },
-    {
       "name": "Kompas.id",
-      "count": 1
-    },
-    {
-      "name": "The Times Australia",
-      "count": 1
-    },
-    {
-      "name": "VOI.ID",
-      "count": 1
-    },
-    {
-      "name": "Deccan Chronicle",
-      "count": 1
-    },
-    {
-      "name": "Reuters",
       "count": 1
     },
     {
@@ -471,6 +411,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-16 08:28:31",
+  "last_updated": "2026-10-16 13:30:41",
   "errors": {}
 }
