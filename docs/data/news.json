@@ -14,67 +14,119 @@
       ],
       "published_at": "2026-10-16 07:00",
       "sort_key": 1792134000.0,
-      "id": "7754527937843084592"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아는 MSCI가 다운그레이드를 고려함에 따라 얼굴 압력을 재고, 애널리스트들은 경고",
-      "summary": "애널리스트와 투자자에 따르면 인도네시아 주식은 MSCI Inc. 의 최근 국가 하향 조정 제안에 따라 글로벌 주가 지수에서 잠재적 인 퇴출에 직면함에 따라 추가 유출을 볼 가능성이 높습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-outflows-to-worsen-as-msci-mulls-cut-analysts-say"
-        }
-      ],
-      "published_at": "2026-10-16 00:43",
-      "sort_key": 1792111397.0,
-      "id": "3726101865494889397"
+      "id": "9219328967992328955"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "MSCI 플래그 '독립형' 다운그레이드 이후 1998년 이후 인도네시아 주식이 가장 많이 침몰",
-      "summary": "인도네시아 주식은 MSCI가 동남아시아 최대 경제에서 수십억 달러의 자본 유출을 위협하면서 더 이상 \"신흥 시장\" 지위에 합당하지 않다고 말한 후 금요일 거의 30 년 만에 가장 가파른 하락을 겪었습니다.",
+      "summary": "MSCI는 인도네시아가 더 이상 신흥 시장 지위에 합당하지 않다고 말하면서 수십억 달러를 위협한 후 금요일에 거의 30 년 만에 가장 가파른 하락을 겪었습니다...",
       "type": "news",
       "sources": [
         {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/business/business-news/2026/10/16/indonesia-stocks-sink-most-since-1998-after-msci-flags-039standalone039-downgrade"
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-stocks-sink-most-since-1998-after-msci-flags-standalone-downgrade-ce785cdad98af727"
         }
       ],
-      "published_at": "2026-10-16 00:00",
-      "sort_key": 1792108800.0,
-      "id": "8305456330448930885"
+      "published_at": "2026-10-16 04:49",
+      "sort_key": 1792126184.0,
+      "id": "1000147362382727338"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "MSCI, 인도네시아를 신흥 시장에서 독립 시장 상태로 재분류하기 위한 제안 협의 시작",
-      "summary": "MSCI, MSCI 인도네시아 지수를 독립 시장 지위로 재분류 제안 협의 MSCI 지수에서 인도네시아 증권에 대한 기존 동결",
+      "title": "인도네시아는 2026년 일련의 시장 정서 차질에 시달리고 있다.",
+      "summary": "글로벌 인덱스에 따르면 인도네시아의 주식 시장은 더 이상 신흥 시장의 지위에 합당하지 않으며, 시장 역기능에 대한 우려로 인해 독립형 상태로의 하향 조정 사례가 구축되고 있습니다...",
       "type": "news",
       "sources": [
         {
-          "name": "The Expositor",
-          "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
-        },
-        {
-          "name": "The North Bay Nugget",
-          "url": "https://www.nugget.ca/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
-        },
-        {
-          "name": "The London Free Press",
-          "url": "https://lfpress.com/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
-        },
-        {
-          "name": "The Kingston Whig-Standard",
-          "url": "https://www.thewhig.com/press-releases/business-wire/msci-launches-a-consultation-on-a-proposal-to-reclassify-indonesia-from-emerging-market-to-standalone-market-status/"
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-suffers-a-series-of-market-sentiment-setbacks-in-2026-ce785cdad989f427"
         }
       ],
-      "published_at": "2026-10-15 21:51",
-      "sort_key": 1792101102.0,
-      "id": "75715213467141018"
+      "published_at": "2026-10-16 03:42",
+      "sort_key": 1792122126.0,
+      "id": "8331035098253917272"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "기술 매도 후 아시아 증시 반등, 인도네시아 시장 11% 급락",
+      "summary": "일본의 닛케이와 한국의 코스피는 AI 자금 조달에 대한 우려가 감정에 가중됨에 따라 가파른 손실을 입은 후 회복하는 반면, MSCI의 인도네시아 시장 지위 하향 조정 움직임은 급격한 매도를 촉발합니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
+        }
+      ],
+      "published_at": "2026-10-16 03:34",
+      "sort_key": 1792121690.0,
+      "id": "2312530426617103075"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "MSCI가 글로벌 지수에서 제거하는 데 무게를 두면서 인도네시아 주식이 폭락했습니다.",
+      "summary": "인도네시아 주식은 MSCI가 신흥 시장 지위를 박탈하고 외국 자본 비행을 위험에 빠뜨리며 시장 변동성을 높일 것을 제안한 후 부진했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/market/indonesia-stocks-crash-as-msci-weighs-removal-from-global-indexes-20013193.htm"
+        }
+      ],
+      "published_at": "2026-10-16 03:07",
+      "sort_key": 1792120028.0,
+      "id": "8204696278373387362"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 주식: MSCI가 신흥 시장 현황을 검토함에 따라 자카르타 복합소재가 11% 급락",
+      "summary": "MSCI는 2027년 6월 말까지 최종 결정을 발표할 예정이며 협의 기간 동안 시장 참여자 피드백에 대한 중간 업데이트를 제공할 수 있습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Business Today",
+          "url": "https://www.businesstoday.in/markets/stocks/story/indonesia-stocks-jakarta-composite-plunges-10-as-msci-reviews-emerging-market-status-561947-2026-10-16"
+        }
+      ],
+      "published_at": "2026-10-16 03:01",
+      "sort_key": 1792119708.0,
+      "id": "4161014719653480791"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 대통령이 화재 진압을 위한 대외 지원을 받아들일 준비가 되어 있다고 외무장관이 말했습니다.",
+      "summary": "인도네시아의 쁘라보우 수비안토 대통령은 10년 넘게 최악의 산불을 해결하기 위해 이웃 국가들의 지원을 받아들이기로 합의했다고 인도네시아 외무장관이 말했다.\n...\n- 2026년 10월 15일 오후 11시 (동부 일광절약시 기준)\n- MarketScreener",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says-ce785dd3d080f322"
+        }
+      ],
+      "published_at": "2026-10-16 03:00",
+      "sort_key": 1792119632.0,
+      "id": "4688855252028028649"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "대부분의 아시아 주식은 CoreWeave 쇼크 이후 평온한 수익을 거두면서 상승합니다. 인도네시아는 시장 하향 조정에 직면해 있습니다.",
+      "summary": "투자자들이 클라우드 회사 CoreWeave의 부채 더미에 대한 질문으로 기술 주식을 덤프했을 때 이전 세션에서 과도하게 매도 한 후 아시아 주식은 금요일에 반등했다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade-ce785dd3d080f422"
+        }
+      ],
+      "published_at": "2026-10-16 02:51",
+      "sort_key": 1792119084.0,
+      "id": "309611462468767064"
     },
     {
       "category": "liv",
@@ -94,7 +146,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3785470763948575947"
+      "id": "4726614246811492992"
     },
     {
       "category": "pol",
@@ -110,7 +162,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "8618657821043093871"
+      "id": "4061304780267169167"
     },
     {
       "category": "int",
@@ -126,7 +178,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "4440234515175456448"
+      "id": "8243069804213545470"
     },
     {
       "category": "car",
@@ -142,7 +194,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "2287600590003304766"
+      "id": "8695371382491506001"
     },
     {
       "category": "liv",
@@ -158,7 +210,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "371391609749089994"
+      "id": "8581789177804602556"
     },
     {
       "category": "liv",
@@ -174,7 +226,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "1368683091515331440"
+      "id": "8291175546896719028"
     },
     {
       "category": "pol",
@@ -190,7 +242,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "3688818675964112010"
+      "id": "732236644224062584"
     },
     {
       "category": "pol",
@@ -210,7 +262,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "2031386037212989475"
+      "id": "7540224095791102321"
     },
     {
       "category": "int",
@@ -230,7 +282,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6363805960413575868"
+      "id": "5617656738111335792"
     },
     {
       "category": "pol",
@@ -242,15 +294,11 @@
         {
           "name": "U.S. News & World Report",
           "url": "https://www.usnews.com/news/world/articles/2026-10-06/indonesia-court-to-rule-on-bid-to-annul-vice-presidents-election-win"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3987431-indonesia-court-to-rule-on-bid-to-annul-vice-presidents-election-win"
         }
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "7582107804776154629"
+      "id": "6984838989915710164"
     },
     {
       "category": "int",
@@ -266,7 +314,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "5234962088944058170"
+      "id": "5952139142670713762"
     },
     {
       "category": "int",
@@ -282,7 +330,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "3157071762949614575"
+      "id": "4896011521357878357"
     },
     {
       "category": "int",
@@ -298,7 +346,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "2644554741090159834"
+      "id": "3533598785077665390"
     },
     {
       "category": "tek",
@@ -314,19 +362,19 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "2728438829473134988"
+      "id": "3895767069990852800"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 3
+      "count": 6
     },
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tek",
@@ -352,7 +400,11 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "MarketScreener",
+      "count": 4
     },
     {
       "name": "Malay Mail",
@@ -363,31 +415,19 @@
       "count": 2
     },
     {
-      "name": "Devdiscourse",
-      "count": 2
-    },
-    {
       "name": "Voxeurop",
       "count": 1
     },
     {
-      "name": "Bloomberg",
+      "name": "Business Standard",
       "count": 1
     },
     {
-      "name": "The Expositor",
+      "name": "CNBC TV18",
       "count": 1
     },
     {
-      "name": "The North Bay Nugget",
-      "count": 1
-    },
-    {
-      "name": "The London Free Press",
-      "count": 1
-    },
-    {
-      "name": "The Kingston Whig-Standard",
+      "name": "Business Today",
       "count": 1
     },
     {
@@ -396,6 +436,10 @@
     },
     {
       "name": "Kompas.id",
+      "count": 1
+    },
+    {
+      "name": "Devdiscourse",
       "count": 1
     },
     {
@@ -411,6 +455,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-16 13:30:41",
+  "last_updated": "2026-10-16 17:40:47",
   "errors": {}
 }
