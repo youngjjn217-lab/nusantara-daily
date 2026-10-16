@@ -3,58 +3,18 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "인도네시아 주식은 거의 30년 만에 하루 만에 가장 큰 폭락을 겪습니다.",
-      "summary": "인도네시아의 벤치마크 주가지수는 금요일 11.4% 까지 급락하며 2020년 11월 초 이후 최저치를 기록했다. 이 하락은 1998년 1월 이후 최악의 하루 하락을 나타냈다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "India Today",
-          "url": "https://www.indiatoday.in/business/story/indonesia-stocks-suffer-biggest-one-day-fall-in-nearly-30-years-3018724-2026-10-16"
-        }
-      ],
-      "published_at": "2026-10-16 08:01",
-      "sort_key": 1792137715.0,
-      "id": "1934009368208532357"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 대통령의 지지율은 44.5% 로 미끄러졌습니다. 설문 조사에 따르면",
-      "summary": "프라보보 수비안토 인도네시아 대통령의 지지율은 취임 2주년을 앞두고 44.5% 로 더 떨어졌다. 금요일 여론조사에 따르면 경제에 대한 불만은...\n- 2026년 10월 16일 오전 3시 48분 (동부 일광절약시)\n- MarketScreener",
+      "title": "인도네시아 주식은 MSCI 다운그레이드 경고에서 1998년 이후 최악의 날을 겪습니다. -- 두 번째 업데이트",
+      "summary": "작성자: Amanda Lee, Ying Xian Wong\n인도네시아 주식은 1998년 아시아 금융 위기 이후 가장 가파른 하락을 기록했는데, 지수 제공자 MSCI는 인도네시아가 금융 위기에서 제거될 위험이 있다고 경고했다.",
       "type": "news",
       "sources": [
         {
           "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-president-s-approval-rating-slides-further-to-44-5-survey-shows-ce785cdad88df720"
-        }
-      ],
-      "published_at": "2026-10-16 07:48",
-      "sort_key": 1792136930.0,
-      "id": "9062631735984327709"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아의 신성한 숲에서 폭스바겐의 전기 자동차까지: 더러운 니켈 트레일",
-      "summary": "",
-      "type": "news",
-      "sources": [
+          "url": "https://www.marketscreener.com/news/indonesia-stocks-suffer-worst-day-since-1998-on-msci-downgrade-warning-2nd-update-ce785cdadb8cf523"
+        },
         {
-          "name": "Voxeurop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGotWVFqMkdmNUlLam9XUTNXTWFETjlMLVNzcTVuOUdBdjhMbjRRbWZMdW9DM0l6a3dIcTVpMTAxaUhiSDRfbFlrVGRrdklzX3pTM1ZMMk9XSjREQUt0S2FOekNvcXNxUWswSzFyWjJPaUVseFdYUHZOY0NDQ01sRjdKVFRlR0w3WG5CVkNB?oc=5"
-        }
-      ],
-      "published_at": "2026-10-16 07:00",
-      "sort_key": 1792134000.0,
-      "id": "4509369687598688008"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "꺼짐 및 인도네시아는 시장 다운그레이드 경고에서 싱크를 공유합니다.",
-      "summary": "아시아 주식은 대부분 월스트리트의 이익 이후 반등했고, 기술 매도세가 주가를 끌어 올린 지 하루 만에 반등했다. 홍콩 (AP) — 아시아 주식 대부분",
-      "type": "news",
-      "sources": [
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/indonesia-stocks-rupiah-tumble-as-msci-weighs-market-downgrade/articleshow/134990424.cms"
+        },
         {
           "name": "Breitbart News Network",
           "url": "https://www.breitbart.com/news/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
@@ -80,25 +40,93 @@
           "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
         }
       ],
-      "published_at": "2026-10-16 06:45",
-      "sort_key": 1792133155.0,
-      "id": "1911308378749454861"
+      "published_at": "2026-10-16 10:27",
+      "sort_key": 1792146443.0,
+      "id": "4793872882509240230"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "MSCI, 수개월의 경고 후 인도네시아 시장 재점화",
+      "summary": "주식 시장 인덱싱의 안정적이고 종종 예측 가능한 세계에서는 폭탄의 순간이었습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/msci-ignites-indonesia-market-reckoning-after-months-of-warnings"
+        }
+      ],
+      "published_at": "2026-10-16 09:39",
+      "sort_key": 1792143598.0,
+      "id": "1270113661576488664"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아 대통령이 화재 진압을 위한 대외 지원을 받아들일 준비가 되어 있다고 외무장관이 말했습니다.",
-      "summary": "인도네시아의 쁘라보우 수비안토 대통령은 10년 넘게 최악의 산불을 해결하기 위해 이웃 국가들의 지원을 받아들이기로 합의했다고 인도네시아 외무장관이 말했다.\n...\n- 2026년 10월 15일 오후 11시 (동부 일광절약시 기준)\n- MarketScreener",
+      "summary": "자카르타: 인도네시아의 Prabowo Subianto 대통령은 10 년 넘게 최악의 산불에 대처하기 위해 이웃 국가의 지원을 받기로 합의했다고 인도네시아 외무 장관이 말했다.",
       "type": "news",
       "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/16/indonesia039s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says"
+        },
         {
           "name": "MarketScreener",
           "url": "https://www.marketscreener.com/news/indonesia-s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says-ce785dd3d080f322"
         }
       ],
-      "published_at": "2026-10-16 03:00",
-      "sort_key": 1792119632.0,
-      "id": "6185745611583633662"
+      "published_at": "2026-10-16 09:13",
+      "sort_key": 1792141980.0,
+      "id": "6494853893128809597"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 주식은 거의 30년 만에 하루 만에 가장 큰 폭락을 겪습니다.",
+      "summary": "인도네시아의 벤치마크 주가지수는 금요일 11.4% 까지 급락하며 2020년 11월 초 이후 최저치를 기록했다. 이 하락은 1998년 1월 이후 최악의 하루 하락을 나타냈다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/business/story/indonesia-stocks-suffer-biggest-one-day-fall-in-nearly-30-years-3018724-2026-10-16"
+        }
+      ],
+      "published_at": "2026-10-16 08:01",
+      "sort_key": 1792137715.0,
+      "id": "1649759799848796067"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 대통령의 지지율은 44.5% 로 미끄러졌습니다. 설문 조사에 따르면",
+      "summary": "프라보보 수비안토 인도네시아 대통령의 지지율은 취임 2주년을 앞두고 44.5% 로 더 떨어졌다. 금요일 여론조사에 따르면 경제에 대한 불만은...\n- 2026년 10월 16일 오전 3시 48분 (동부 일광절약시)\n- MarketScreener",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-president-s-approval-rating-slides-further-to-44-5-survey-shows-ce785cdad88df720"
+        }
+      ],
+      "published_at": "2026-10-16 07:48",
+      "sort_key": 1792136930.0,
+      "id": "8240609103379803141"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아의 신성한 숲에서 폭스바겐의 전기 자동차까지: 더러운 니켈 트레일",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Voxeurop",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGotWVFqMkdmNUlLam9XUTNXTWFETjlMLVNzcTVuOUdBdjhMbjRRbWZMdW9DM0l6a3dIcTVpMTAxaUhiSDRfbFlrVGRrdklzX3pTM1ZMMk9XSjREQUt0S2FOekNvcXNxUWswSzFyWjJPaUVseFdYUHZOY0NDQ01sRjdKVFRlR0w3WG5CVkNB?oc=5"
+        }
+      ],
+      "published_at": "2026-10-16 07:00",
+      "sort_key": 1792134000.0,
+      "id": "5734861638394537860"
     },
     {
       "category": "liv",
@@ -118,7 +146,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "69227939595903809"
+      "id": "931957979500458983"
     },
     {
       "category": "pol",
@@ -134,7 +162,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "1402023163895007725"
+      "id": "4403779279425644737"
     },
     {
       "category": "car",
@@ -150,7 +178,7 @@
       ],
       "published_at": "2026-10-15 08:03",
       "sort_key": 1792051401.0,
-      "id": "1446417641400902529"
+      "id": "7532012688241583946"
     },
     {
       "category": "int",
@@ -166,7 +194,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "8226568190754910946"
+      "id": "1108794413550526850"
     },
     {
       "category": "car",
@@ -182,7 +210,7 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "2756017286470538817"
+      "id": "4594861132768392266"
     },
     {
       "category": "liv",
@@ -198,7 +226,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "4644334580265501959"
+      "id": "3594506785232488188"
     },
     {
       "category": "liv",
@@ -214,7 +242,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "8986293416448898365"
+      "id": "1381792781702563258"
     },
     {
       "category": "pol",
@@ -230,7 +258,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "2751805150155841280"
+      "id": "8215007439614517580"
     },
     {
       "category": "pol",
@@ -242,15 +270,11 @@
         {
           "name": "The Star",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/07/indonesia039s-constitutional-court-dismisses-challenge-to-vice-president-over-education-credentials"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3987969-indonesias-constitutional-court-dismisses-challenge-to-vice-president-over-education-credentials"
         }
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "2979554000475746499"
+      "id": "1918743291219460317"
     },
     {
       "category": "int",
@@ -270,7 +294,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8563719570565565193"
+      "id": "136215625679243911"
     },
     {
       "category": "int",
@@ -286,7 +310,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7513750569769049535"
+      "id": "3350527520378194778"
     },
     {
       "category": "int",
@@ -302,7 +326,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7591188080542376413"
+      "id": "8850346038210828623"
     },
     {
       "category": "int",
@@ -318,7 +342,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "3248679658117166074"
+      "id": "3623057975718842631"
     },
     {
       "category": "tek",
@@ -334,14 +358,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "8557619017899022876"
+      "id": "8451808750377613299"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 2
+      "count": 3
     },
     {
       "id": "pol",
@@ -372,7 +396,7 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Malay Mail",
@@ -380,18 +404,14 @@
     },
     {
       "name": "MarketScreener",
-      "count": 2
+      "count": 3
     },
     {
       "name": "CNA",
       "count": 2
     },
     {
-      "name": "India Today",
-      "count": 1
-    },
-    {
-      "name": "Voxeurop",
+      "name": "The Economic Times",
       "count": 1
     },
     {
@@ -419,6 +439,18 @@
       "count": 1
     },
     {
+      "name": "Bloomberg",
+      "count": 1
+    },
+    {
+      "name": "India Today",
+      "count": 1
+    },
+    {
+      "name": "Voxeurop",
+      "count": 1
+    },
+    {
       "name": "The Straits Times",
       "count": 1
     },
@@ -431,10 +463,6 @@
       "count": 1
     },
     {
-      "name": "Devdiscourse",
-      "count": 1
-    },
-    {
       "name": "Yardbarker",
       "count": 1
     },
@@ -443,6 +471,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-16 20:19:00",
+  "last_updated": "2026-10-16 22:54:10",
   "errors": {}
 }
