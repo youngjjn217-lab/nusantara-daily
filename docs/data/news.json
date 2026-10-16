@@ -18,7 +18,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "7832441894597993254"
+      "id": "8994540698120364697"
     },
     {
       "category": "pol",
@@ -34,7 +34,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "8238380708775175705"
+      "id": "3245086717202576102"
     },
     {
       "category": "car",
@@ -50,7 +50,7 @@
       ],
       "published_at": "2026-10-15 08:03",
       "sort_key": 1792051401.0,
-      "id": "338536116093077337"
+      "id": "2530039032030947107"
     },
     {
       "category": "int",
@@ -66,7 +66,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "6548244412472798202"
+      "id": "5197490062436328878"
     },
     {
       "category": "car",
@@ -82,7 +82,23 @@
       ],
       "published_at": "2026-10-14 23:27",
       "sort_key": 1792020436.0,
-      "id": "9176155295218019963"
+      "id": "3454145152019787763"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "VinFast, 인도네시아와 필리핀의 새로운 전기 오토바이 쇼룸에 대한 특별 인센티브 발표, 유통망 확장 가속화",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Times Australia",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQdzQ5MXhpUjB5c2NoVHh6UE5uWTRJV2tkUmtvY0xvQXNGRnQ4bTNic0I2M2d1U1htSVQ2UnZyQngzN0FJOS1OS3NEbkw3VXpLS2FDUnRleXhTMmtDZWJvWGowbUxuWndSSEVzNGpLRDE1bW1QYVlTODNVQm5FaEljWUxrM0pmejh1Zk1RcS1WYUk1Nnk3czZrcXpETmVKZC1RWjk5TW45SjdKSnpLNzdXblFvcnkyQVk3WU5oNlZYd3hsRTZBb29zM1ZTeEE2NnNDMjEwOG84REU0LW5VOXJrU2NxQkgyNjV4UFJBbVNEaXNjUE05Mm9lUVQ2S2VJVnd4MXBScXBlNnA1Ti05c202NHRDZkhoZGx0OGxLVnVmWTJJRm1qazh4RA?oc=5"
+        }
+      ],
+      "published_at": "2026-10-14 12:46",
+      "sort_key": 1791981993.0,
+      "id": "2608964716995758859"
     },
     {
       "category": "car",
@@ -98,7 +114,7 @@
       ],
       "published_at": "2026-10-14 11:51",
       "sort_key": 1791978686.0,
-      "id": "3117757274954272075"
+      "id": "6700892871526991701"
     },
     {
       "category": "car",
@@ -114,7 +130,7 @@
       ],
       "published_at": "2026-10-14 07:04",
       "sort_key": 1791961493.0,
-      "id": "2260494103469411362"
+      "id": "772719099758633616"
     },
     {
       "category": "liv",
@@ -130,7 +146,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6241372549390557721"
+      "id": "5529400151519803118"
     },
     {
       "category": "liv",
@@ -146,7 +162,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "1351816728893661675"
+      "id": "46273724066414701"
     },
     {
       "category": "eco",
@@ -162,7 +178,7 @@
       ],
       "published_at": "2026-10-12 09:14",
       "sort_key": 1791796463.0,
-      "id": "7445468981480478684"
+      "id": "3349038971588199394"
     },
     {
       "category": "eco",
@@ -178,7 +194,7 @@
       ],
       "published_at": "2026-10-09 14:40",
       "sort_key": 1791556824.0,
-      "id": "3195183525734053904"
+      "id": "130398415121686250"
     },
     {
       "category": "eco",
@@ -198,7 +214,7 @@
       ],
       "published_at": "2026-10-09 07:09",
       "sort_key": 1791529778.0,
-      "id": "2586103539915424110"
+      "id": "1272472232045083937"
     },
     {
       "category": "pol",
@@ -214,7 +230,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4957768443361940107"
+      "id": "1425850326178063557"
     },
     {
       "category": "pol",
@@ -234,7 +250,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "4917195025335759162"
+      "id": "6795266605128602044"
     },
     {
       "category": "int",
@@ -254,7 +270,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "9078168497927574396"
+      "id": "8103020938371340403"
     },
     {
       "category": "pol",
@@ -274,7 +290,7 @@
       ],
       "published_at": "2026-10-06 06:44",
       "sort_key": 1791269040.0,
-      "id": "1244418227631026026"
+      "id": "287330354084577257"
     },
     {
       "category": "int",
@@ -290,7 +306,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "6576263489666676700"
+      "id": "3119753360628803565"
     },
     {
       "category": "eco",
@@ -306,7 +322,7 @@
       ],
       "published_at": "2026-10-01 04:40",
       "sort_key": 1790829632.0,
-      "id": "4630561461604581931"
+      "id": "7665419536414958870"
     },
     {
       "category": "int",
@@ -322,7 +338,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6847528825861655768"
+      "id": "2165663660194207307"
     },
     {
       "category": "int",
@@ -338,7 +354,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "2321406940351309823"
+      "id": "1911240173327666699"
     },
     {
       "category": "tek",
@@ -354,7 +370,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "6229810998629711191"
+      "id": "5226747823363509890"
     }
   ],
   "categories": [
@@ -376,7 +392,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 4
+      "count": 5
     },
     {
       "id": "int",
@@ -423,6 +439,10 @@
       "count": 1
     },
     {
+      "name": "The Times Australia",
+      "count": 1
+    },
+    {
       "name": "VOI.ID",
       "count": 1
     },
@@ -451,6 +471,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-15 23:59:25",
+  "last_updated": "2026-10-16 03:34:27",
   "errors": {}
 }
