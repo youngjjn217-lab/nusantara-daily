@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "큰 속보! 새로운 미국 영주권 법안: 800만 이민자를 위한 영주권으로 가는 길! 인도네시아 (Fn7wJWltFM)",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wUFVtN3E0VGkzSkMxNV90bXBlZ05hLXVkRWNYU2dLOTNoY1hLbWphbmFrajBXVWxCeF9JZEhmRVNyZWEwdjJfRDJNZ21WRTdmMDhPWWQ2ZFM3ejVUX3lCVlFTMWJLdw?oc=5"
+        }
+      ],
+      "published_at": "2026-10-16 12:08",
+      "sort_key": 1792152502.0,
+      "id": "2762795699448528235"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 주식은 MSCI 다운그레이드 경고에서 1998년 이후 최악의 날을 겪습니다. -- 두 번째 업데이트",
@@ -42,7 +58,7 @@
       ],
       "published_at": "2026-10-16 10:27",
       "sort_key": 1792146443.0,
-      "id": "4579328985031734824"
+      "id": "8098319751085760787"
     },
     {
       "category": "eco",
@@ -58,7 +74,7 @@
       ],
       "published_at": "2026-10-16 09:39",
       "sort_key": 1792143598.0,
-      "id": "8272698460975745594"
+      "id": "3808422350509567874"
     },
     {
       "category": "pol",
@@ -78,7 +94,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "6744744818549403776"
+      "id": "4567684297213323306"
     },
     {
       "category": "eco",
@@ -94,7 +110,7 @@
       ],
       "published_at": "2026-10-16 08:01",
       "sort_key": 1792137715.0,
-      "id": "9097045314426724813"
+      "id": "8255515235593148092"
     },
     {
       "category": "pol",
@@ -110,7 +126,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "3102699963302187338"
+      "id": "1300704864201899185"
     },
     {
       "category": "car",
@@ -126,7 +142,23 @@
       ],
       "published_at": "2026-10-16 07:00",
       "sort_key": 1792134000.0,
-      "id": "8622098666374828117"
+      "id": "3144918522163501786"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "전기 자동차용 에너지 저장 재료로서의 잠재력을 지닌 인도네시아 천연 흑연 - BRIN",
+      "summary": "인도네시아 천연 흑연, 전기 자동차용 에너지 저장 재료로서의 잠재력 보유 BRIN - Badan Riset dan Inovasi Nasional",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Badan Riset dan Inovasi Nasional",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTdXbk1Lc0E2R1F2V0Q3X1Y2d2RmNERzd3RTbFJZZDJBSDg5R0hsTUhOWk1WNHFPLWExdzEwZVViWGhoR3Rqek9TMEhpbFhnTkE0MWVuVWtkZ3c5T28xVXJQcnZ5RmVXUW5ESmd1akZRRldOX0dNMjZmNzZ6bFVsQ28ydHJYQmg0eE1DSjlZT2Ewbmw3emFOMXk4M2NWbjBsUWhkMmtxeHFuVGwydjQ1QXRTaG5FeGlKcC1JU2lYUWVuUHF4OWFZUmNn?oc=5"
+        }
+      ],
+      "published_at": "2026-10-16 02:35",
+      "sort_key": 1792118140.0,
+      "id": "2683946653252178402"
     },
     {
       "category": "liv",
@@ -146,7 +178,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3010851485678032688"
+      "id": "6705582943049314513"
     },
     {
       "category": "pol",
@@ -162,7 +194,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "4169241302185021026"
+      "id": "1704832553844856857"
     },
     {
       "category": "car",
@@ -178,7 +210,7 @@
       ],
       "published_at": "2026-10-15 08:03",
       "sort_key": 1792051401.0,
-      "id": "5160254731448786277"
+      "id": "5419799917885047993"
     },
     {
       "category": "int",
@@ -194,7 +226,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5123524431552862477"
+      "id": "8560452505901988054"
     },
     {
       "category": "liv",
@@ -210,7 +242,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "3595210580633827208"
+      "id": "914694941973903966"
     },
     {
       "category": "liv",
@@ -226,7 +258,7 @@
       ],
       "published_at": "2026-10-14 05:04",
       "sort_key": 1791954240.0,
-      "id": "6628715070983184168"
+      "id": "5021065846864340493"
     },
     {
       "category": "pol",
@@ -242,7 +274,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "5401786019017258603"
+      "id": "4154348977912666272"
     },
     {
       "category": "pol",
@@ -258,7 +290,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "5979243770367071233"
+      "id": "6215730192778300"
     },
     {
       "category": "int",
@@ -278,7 +310,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6638806377786743616"
+      "id": "2411409906002706116"
     },
     {
       "category": "int",
@@ -294,7 +326,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4628206160682659033"
+      "id": "4767380076461650574"
     },
     {
       "category": "int",
@@ -310,7 +342,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5816667867586608628"
+      "id": "822853000110232307"
     },
     {
       "category": "int",
@@ -326,7 +358,7 @@
       ],
       "published_at": "2026-09-28 15:33",
       "sort_key": 1790609580.0,
-      "id": "8280863671359102734"
+      "id": "746461026202448665"
     },
     {
       "category": "tek",
@@ -342,7 +374,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "896863694615270159"
+      "id": "617158353720434777"
     }
   ],
   "categories": [
@@ -364,7 +396,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 2
+      "count": 4
     },
     {
       "id": "int",
@@ -393,6 +425,10 @@
     {
       "name": "CNA",
       "count": 2
+    },
+    {
+      "name": "Unisba Media",
+      "count": 1
     },
     {
       "name": "The Economic Times",
@@ -435,6 +471,10 @@
       "count": 1
     },
     {
+      "name": "Badan Riset dan Inovasi Nasional",
+      "count": 1
+    },
+    {
       "name": "The Straits Times",
       "count": 1
     },
@@ -451,6 +491,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-17 00:55:39",
+  "last_updated": "2026-10-17 05:13:28",
   "errors": {}
 }
