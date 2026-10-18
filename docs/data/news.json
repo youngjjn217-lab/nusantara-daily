@@ -14,7 +14,7 @@
       ],
       "published_at": "2026-10-18 08:55",
       "sort_key": 1792313722.0,
-      "id": "7900235133226485240"
+      "id": "2209074339499263939"
     },
     {
       "category": "eco",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-17 14:27",
       "sort_key": 1792247273.0,
-      "id": "7048220883188264384"
+      "id": "8890809548939882004"
     },
     {
       "category": "car",
@@ -46,7 +46,23 @@
       ],
       "published_at": "2026-10-17 08:15",
       "sort_key": 1792224945.0,
-      "id": "7916615098046780885"
+      "id": "6099673981094056718"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아 9개 지사, 2026년 아이치-나고야 아시안 파라 게임 사전 경기 일정 수행",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mRUxTeUUxb05NX0R5Z3JPZmQ2SDJTZFVpcEtCMXRsOVZPZzZocmxpWXM2LXRfUWc1UFRpMUE4Um1ZS1pYbmfSAUJBVV95cUxQbElTZk1SQ1l2YWdwN2FEWUFKU3hCeWwxcFg5OHBXVEJiazVqLW1Sd25fc094dHdpZ1ZLVmstcVQ1X2c?oc=5"
+        }
+      ],
+      "published_at": "2026-10-17 03:33",
+      "sort_key": 1792208016.0,
+      "id": "9122396796317731376"
     },
     {
       "category": "int",
@@ -62,23 +78,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "773477512015599497"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "큰 속보! 새로운 미국 영주권 법안: 800만 이민자를 위한 영주권으로 가는 길! 인도네시아 (Fn7wJWltFM)",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Unisba Media",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wUFVtN3E0VGkzSkMxNV90bXBlZ05hLXVkRWNYU2dLOTNoY1hLbWphbmFrajBXVWxCeF9JZEhmRVNyZWEwdjJfRDJNZ21WRTdmMDhPWWQ2ZFM3ejVUX3lCVlFTMWJLdw?oc=5"
-        }
-      ],
-      "published_at": "2026-10-16 12:08",
-      "sort_key": 1792152502.0,
-      "id": "5635830694339421256"
+      "id": "7588704351879470101"
     },
     {
       "category": "eco",
@@ -94,7 +94,7 @@
       ],
       "published_at": "2026-10-16 12:00",
       "sort_key": 1792152000.0,
-      "id": "6259339684261601572"
+      "id": "7196117372844051785"
     },
     {
       "category": "eco",
@@ -114,7 +114,7 @@
       ],
       "published_at": "2026-10-16 10:27",
       "sort_key": 1792146443.0,
-      "id": "5644233110787163047"
+      "id": "7021439705119196486"
     },
     {
       "category": "eco",
@@ -130,7 +130,7 @@
       ],
       "published_at": "2026-10-16 09:39",
       "sort_key": 1792143598.0,
-      "id": "7514038898308432225"
+      "id": "1620159749474429609"
     },
     {
       "category": "pol",
@@ -150,7 +150,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "446241310073922473"
+      "id": "2847605813179176296"
     },
     {
       "category": "eco",
@@ -166,7 +166,7 @@
       ],
       "published_at": "2026-10-16 08:01",
       "sort_key": 1792137715.0,
-      "id": "8135593416348682872"
+      "id": "4028384934622226789"
     },
     {
       "category": "pol",
@@ -182,7 +182,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "109779650469926170"
+      "id": "2883336042860094992"
     },
     {
       "category": "tek",
@@ -210,7 +210,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "5043434061667370"
+      "id": "2571678305131579459"
     },
     {
       "category": "liv",
@@ -230,7 +230,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "569871149116484588"
+      "id": "6576812847490594822"
     },
     {
       "category": "pol",
@@ -246,7 +246,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "6320131298447163153"
+      "id": "8003562555574966302"
     },
     {
       "category": "int",
@@ -262,7 +262,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "3931995549835732599"
+      "id": "1496021559233056740"
     },
     {
       "category": "liv",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "1068103184113006219"
+      "id": "2365856918559408027"
     },
     {
       "category": "liv",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "4092781624743015610"
+      "id": "6663801814802681795"
     },
     {
       "category": "pol",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "1748801099341756173"
+      "id": "2754690537100180375"
     },
     {
       "category": "pol",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "2931204765427690410"
+      "id": "5370312508084655438"
     },
     {
       "category": "int",
@@ -346,7 +346,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "3401962845993702521"
+      "id": "1765877954045781601"
     },
     {
       "category": "int",
@@ -362,7 +362,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "8519900364609304189"
+      "id": "5575795318318650582"
     },
     {
       "category": "int",
@@ -378,7 +378,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "1094014428722915436"
+      "id": "7319356390368409203"
     },
     {
       "category": "tek",
@@ -394,7 +394,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "674340709839126491"
+      "id": "959360155078299847"
     }
   ],
   "categories": [
@@ -459,7 +459,7 @@
       "count": 1
     },
     {
-      "name": "Unisba Media",
+      "name": "VOI.ID",
       "count": 1
     },
     {
@@ -511,6 +511,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-18 10:21:26",
+  "last_updated": "2026-10-18 14:08:40",
   "errors": {}
 }
