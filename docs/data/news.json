@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "투자자가 선호하는 것에서 투자 ‘백워터’ 로: 인도네시아 주식 시장이 추락하는 이유",
+      "summary": "인도네시아는 동남아시아에서 가장 큰 경제대국입니다. 얼마 전까지만 해도 투자자였다. 그러나 이제 글로벌 지수 제공 업체 인 MSCI는 주가 지수를 신흥 경제에서 짐바브웨와 같은 범주 인 '독립형' 으로 하향 조정할 계획입니다. 어떻게 이런 일이 일어났을까요?",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/explained/explained-economics/indonesia-stock-market-crash-msci-downgrade-explained-10925962/"
+        }
+      ],
+      "published_at": "2026-10-17 14:27",
+      "sort_key": 1792247273.0,
+      "id": "7006156811553224093"
+    },
+    {
       "category": "car",
       "category_label": "자동차",
       "title": "오늘의 3대 뉴스: NASA 이미지가 보여주는 인도네시아의 일산화탄소 수준",
@@ -14,7 +30,23 @@
       ],
       "published_at": "2026-10-17 08:15",
       "sort_key": 1792224945.0,
-      "id": "5213952024990194551"
+      "id": "833723100294432463"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아 9개 지사, 2026년 아이치-나고야 아시안 파라 게임 사전 경기 일정 수행",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mRUxTeUUxb05NX0R5Z3JPZmQ2SDJTZFVpcEtCMXRsOVZPZzZocmxpWXM2LXRfUWc1UFRpMUE4Um1ZS1pYbmfSAUJBVV95cUxQbElTZk1SQ1l2YWdwN2FEWUFKU3hCeWwxcFg5OHBXVEJiazVqLW1Sd25fc094dHdpZ1ZLVmstcVQ1X2c?oc=5"
+        }
+      ],
+      "published_at": "2026-10-17 03:33",
+      "sort_key": 1792208016.0,
+      "id": "3883998801718287004"
     },
     {
       "category": "int",
@@ -30,7 +62,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "7138994772699211025"
+      "id": "5160425498540291744"
     },
     {
       "category": "car",
@@ -46,7 +78,7 @@
       ],
       "published_at": "2026-10-16 12:08",
       "sort_key": 1792152502.0,
-      "id": "7285555346918439763"
+      "id": "1695411904643235363"
     },
     {
       "category": "eco",
@@ -62,7 +94,7 @@
       ],
       "published_at": "2026-10-16 12:00",
       "sort_key": 1792152000.0,
-      "id": "1770140339549434154"
+      "id": "4098031553581866594"
     },
     {
       "category": "eco",
@@ -78,31 +110,11 @@
         {
           "name": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/indonesia-stocks-rupiah-tumble-as-msci-weighs-market-downgrade/articleshow/134990424.cms"
-        },
-        {
-          "name": "Breitbart News Network",
-          "url": "https://www.breitbart.com/news/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
-        },
-        {
-          "name": "SFGATE",
-          "url": "https://www.sfgate.com/news/world/article/stocks-rebound-after-tech-sell-off-and-indonesia-22479734.php"
-        },
-        {
-          "name": "WDIV ClickOnDetroit",
-          "url": "https://www.clickondetroit.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
-        },
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/news/business/articles/2026-10-16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
         }
       ],
       "published_at": "2026-10-16 10:27",
       "sort_key": 1792146443.0,
-      "id": "2266309979203743863"
+      "id": "4899813704145053132"
     },
     {
       "category": "eco",
@@ -118,7 +130,7 @@
       ],
       "published_at": "2026-10-16 09:39",
       "sort_key": 1792143598.0,
-      "id": "2650838940792332440"
+      "id": "4690123113778840333"
     },
     {
       "category": "pol",
@@ -138,7 +150,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "3599487857369635434"
+      "id": "8315442136215082340"
     },
     {
       "category": "eco",
@@ -154,7 +166,7 @@
       ],
       "published_at": "2026-10-16 08:01",
       "sort_key": 1792137715.0,
-      "id": "8591966083238594160"
+      "id": "6823891247262024428"
     },
     {
       "category": "pol",
@@ -170,7 +182,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "553430903065792201"
+      "id": "3962919586255655513"
     },
     {
       "category": "car",
@@ -186,23 +198,35 @@
       ],
       "published_at": "2026-10-16 07:00",
       "sort_key": 1792134000.0,
-      "id": "8082064558817975212"
+      "id": "8705265794749569342"
     },
     {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "전기 자동차용 에너지 저장 재료로서의 잠재력을 지닌 인도네시아 천연 흑연 - BRIN",
-      "summary": "인도네시아 천연 흑연, 전기 자동차용 에너지 저장 재료로서의 잠재력 보유 BRIN - Badan Riset dan Inovasi Nasional",
+      "category": "tek",
+      "category_label": "테크·산업",
+      "title": "기술 매도 후 주가 반등 및 인도네시아 주식 시장 하향 조정 경고",
+      "summary": "아시아 주식은 대부분 월스트리트의 이익 이후 반등했고, 기술 매도세가 주가를 끌어 올린 지 하루 만에 반등했다. 지수 제공업체 MSCI가 경고한 후 인도네시아의 주식 시장은 금요일 급락했습니다...",
       "type": "news",
       "sources": [
         {
-          "name": "Badan Riset dan Inovasi Nasional",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTdXbk1Lc0E2R1F2V0Q3X1Y2d2RmNERzd3RTbFJZZDJBSDg5R0hsTUhOWk1WNHFPLWExdzEwZVViWGhoR3Rqek9TMEhpbFhnTkE0MWVuVWtkZ3c5T28xVXJQcnZ5RmVXUW5ESmd1akZRRldOX0dNMjZmNzZ6bFVsQ28ydHJYQmg0eE1DSjlZT2Ewbmw3emFOMXk4M2NWbjBsUWhkMmtxeHFuVGwydjQ1QXRTaG5FeGlKcC1JU2lYUWVuUHF4OWFZUmNn?oc=5"
+          "name": "SFGATE",
+          "url": "https://www.sfgate.com/news/world/article/stocks-rebound-after-tech-sell-off-and-indonesia-22479734.php"
+        },
+        {
+          "name": "WDIV ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
+        },
+        {
+          "name": "U.S. News & World Report",
+          "url": "https://www.usnews.com/news/business/articles/2026-10-16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
         }
       ],
-      "published_at": "2026-10-16 02:35",
-      "sort_key": 1792118140.0,
-      "id": "4137707410425252969"
+      "published_at": "2026-10-16 06:08",
+      "sort_key": 1792130898.0,
+      "id": "1380239086771009241"
     },
     {
       "category": "liv",
@@ -222,7 +246,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "8592901589244566427"
+      "id": "2047811041441333570"
     },
     {
       "category": "pol",
@@ -238,7 +262,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "7872277695459530641"
+      "id": "3550362577406787462"
     },
     {
       "category": "int",
@@ -254,7 +278,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "3113532696454839519"
+      "id": "1673953671144054307"
     },
     {
       "category": "liv",
@@ -270,7 +294,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "8071340324627165872"
+      "id": "4739323895546532708"
     },
     {
       "category": "liv",
@@ -286,7 +310,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "4046006958158188492"
+      "id": "4207436906879747895"
     },
     {
       "category": "pol",
@@ -302,7 +326,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4598623827090675129"
+      "id": "8379380998659784309"
     },
     {
       "category": "pol",
@@ -318,7 +342,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "1030001086632302910"
+      "id": "1367175568760881810"
     },
     {
       "category": "int",
@@ -338,7 +362,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6756858011396606318"
+      "id": "6899989187233835289"
     },
     {
       "category": "int",
@@ -354,7 +378,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "2317108444292240856"
+      "id": "7550859329820034252"
     },
     {
       "category": "int",
@@ -370,7 +394,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6401836116963479349"
+      "id": "8222970492875305698"
     },
     {
       "category": "tek",
@@ -386,14 +410,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "1322308279053779687"
+      "id": "8204951358718322186"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 4
+      "count": 5
     },
     {
       "id": "pol",
@@ -403,7 +427,7 @@
     {
       "id": "tek",
       "label": "테크·산업",
-      "count": 1
+      "count": 2
     },
     {
       "id": "car",
@@ -439,7 +463,15 @@
       "count": 3
     },
     {
+      "name": "The Indian Express",
+      "count": 1
+    },
+    {
       "name": "Tempo.co English",
+      "count": 1
+    },
+    {
+      "name": "VOI.ID",
       "count": 1
     },
     {
@@ -455,7 +487,15 @@
       "count": 1
     },
     {
-      "name": "Breitbart News Network",
+      "name": "Bloomberg",
+      "count": 1
+    },
+    {
+      "name": "India Today",
+      "count": 1
+    },
+    {
+      "name": "Voxeurop",
       "count": 1
     },
     {
@@ -475,22 +515,6 @@
       "count": 1
     },
     {
-      "name": "Bloomberg",
-      "count": 1
-    },
-    {
-      "name": "India Today",
-      "count": 1
-    },
-    {
-      "name": "Voxeurop",
-      "count": 1
-    },
-    {
-      "name": "Badan Riset dan Inovasi Nasional",
-      "count": 1
-    },
-    {
       "name": "The Straits Times",
       "count": 1
     },
@@ -507,6 +531,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-18 01:05:54",
+  "last_updated": "2026-10-18 05:57:31",
   "errors": {}
 }
