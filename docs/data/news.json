@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "자카르타의 경제적 압박과 갈수록 무모해지는 오토바이 절도",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Kompas.id",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9aU21oLW41dUhrUGloMGZOWkdlM3lRMnE4Y2JtNFp3enBiZVdoTkVWcFFSMUM1YzQtN2c3djNFV1VhVVI3Y0tZaWdPdHI2LUZFUEgwczlxeEs4TzhOTE9SUWpqX1NXd2dfZkpma2JuQzlmTWRiN1d3cGd6bGFTb0t6RlA1cS1LVFNhLUdqbGZZZ1R3MkIxMlFOMEFpY0FEbUY1WGFR?oc=5"
+        }
+      ],
+      "published_at": "2026-10-18 08:55",
+      "sort_key": 1792313722.0,
+      "id": "7900235133226485240"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "투자자가 선호하는 것에서 투자 ‘백워터’ 로: 인도네시아 주식 시장이 추락하는 이유",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-17 14:27",
       "sort_key": 1792247273.0,
-      "id": "7006156811553224093"
+      "id": "7048220883188264384"
     },
     {
       "category": "car",
@@ -30,23 +46,7 @@
       ],
       "published_at": "2026-10-17 08:15",
       "sort_key": 1792224945.0,
-      "id": "833723100294432463"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 9개 지사, 2026년 아이치-나고야 아시안 파라 게임 사전 경기 일정 수행",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mRUxTeUUxb05NX0R5Z3JPZmQ2SDJTZFVpcEtCMXRsOVZPZzZocmxpWXM2LXRfUWc1UFRpMUE4Um1ZS1pYbmfSAUJBVV95cUxQbElTZk1SQ1l2YWdwN2FEWUFKU3hCeWwxcFg5OHBXVEJiazVqLW1Sd25fc094dHdpZ1ZLVmstcVQ1X2c?oc=5"
-        }
-      ],
-      "published_at": "2026-10-17 03:33",
-      "sort_key": 1792208016.0,
-      "id": "3883998801718287004"
+      "id": "7916615098046780885"
     },
     {
       "category": "int",
@@ -62,7 +62,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "5160425498540291744"
+      "id": "773477512015599497"
     },
     {
       "category": "car",
@@ -78,7 +78,7 @@
       ],
       "published_at": "2026-10-16 12:08",
       "sort_key": 1792152502.0,
-      "id": "1695411904643235363"
+      "id": "5635830694339421256"
     },
     {
       "category": "eco",
@@ -94,7 +94,7 @@
       ],
       "published_at": "2026-10-16 12:00",
       "sort_key": 1792152000.0,
-      "id": "4098031553581866594"
+      "id": "6259339684261601572"
     },
     {
       "category": "eco",
@@ -114,7 +114,7 @@
       ],
       "published_at": "2026-10-16 10:27",
       "sort_key": 1792146443.0,
-      "id": "4899813704145053132"
+      "id": "5644233110787163047"
     },
     {
       "category": "eco",
@@ -130,7 +130,7 @@
       ],
       "published_at": "2026-10-16 09:39",
       "sort_key": 1792143598.0,
-      "id": "4690123113778840333"
+      "id": "7514038898308432225"
     },
     {
       "category": "pol",
@@ -150,7 +150,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "8315442136215082340"
+      "id": "446241310073922473"
     },
     {
       "category": "eco",
@@ -166,7 +166,7 @@
       ],
       "published_at": "2026-10-16 08:01",
       "sort_key": 1792137715.0,
-      "id": "6823891247262024428"
+      "id": "8135593416348682872"
     },
     {
       "category": "pol",
@@ -182,23 +182,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "3962919586255655513"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아의 신성한 숲에서 폭스바겐의 전기 자동차까지: 더러운 니켈 트레일",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Voxeurop",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGotWVFqMkdmNUlLam9XUTNXTWFETjlMLVNzcTVuOUdBdjhMbjRRbWZMdW9DM0l6a3dIcTVpMTAxaUhiSDRfbFlrVGRrdklzX3pTM1ZMMk9XSjREQUt0S2FOekNvcXNxUWswSzFyWjJPaUVseFdYUHZOY0NDQ01sRjdKVFRlR0w3WG5CVkNB?oc=5"
-        }
-      ],
-      "published_at": "2026-10-16 07:00",
-      "sort_key": 1792134000.0,
-      "id": "8705265794749569342"
+      "id": "109779650469926170"
     },
     {
       "category": "tek",
@@ -226,7 +210,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "1380239086771009241"
+      "id": "5043434061667370"
     },
     {
       "category": "liv",
@@ -246,7 +230,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "2047811041441333570"
+      "id": "569871149116484588"
     },
     {
       "category": "pol",
@@ -262,7 +246,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "3550362577406787462"
+      "id": "6320131298447163153"
     },
     {
       "category": "int",
@@ -278,7 +262,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "1673953671144054307"
+      "id": "3931995549835732599"
     },
     {
       "category": "liv",
@@ -294,7 +278,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "4739323895546532708"
+      "id": "1068103184113006219"
     },
     {
       "category": "liv",
@@ -310,7 +294,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "4207436906879747895"
+      "id": "4092781624743015610"
     },
     {
       "category": "pol",
@@ -326,7 +310,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "8379380998659784309"
+      "id": "1748801099341756173"
     },
     {
       "category": "pol",
@@ -342,7 +326,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "1367175568760881810"
+      "id": "2931204765427690410"
     },
     {
       "category": "int",
@@ -362,7 +346,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6899989187233835289"
+      "id": "3401962845993702521"
     },
     {
       "category": "int",
@@ -378,7 +362,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7550859329820034252"
+      "id": "8519900364609304189"
     },
     {
       "category": "int",
@@ -394,7 +378,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "8222970492875305698"
+      "id": "1094014428722915436"
     },
     {
       "category": "tek",
@@ -410,7 +394,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "8204951358718322186"
+      "id": "674340709839126491"
     }
   ],
   "categories": [
@@ -432,7 +416,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 4
+      "count": 3
     },
     {
       "id": "int",
@@ -463,15 +447,15 @@
       "count": 3
     },
     {
+      "name": "Kompas.id",
+      "count": 1
+    },
+    {
       "name": "The Indian Express",
       "count": 1
     },
     {
       "name": "Tempo.co English",
-      "count": 1
-    },
-    {
-      "name": "VOI.ID",
       "count": 1
     },
     {
@@ -492,10 +476,6 @@
     },
     {
       "name": "India Today",
-      "count": 1
-    },
-    {
-      "name": "Voxeurop",
       "count": 1
     },
     {
@@ -531,6 +511,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-18 05:57:31",
+  "last_updated": "2026-10-18 10:21:26",
   "errors": {}
 }
