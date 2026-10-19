@@ -14,7 +14,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "281173712196911272"
+      "id": "1003609140148836500"
     },
     {
       "category": "car",
@@ -30,7 +30,7 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "8760314383958792608"
+      "id": "8881497603311955853"
     },
     {
       "category": "car",
@@ -46,7 +46,63 @@
       ],
       "published_at": "2026-10-19 07:55",
       "sort_key": 1792396500.0,
-      "id": "499547456516695199"
+      "id": "2403826707518501067"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "글로벌 시장: 다운그레이드 경고가 시장 경로를 트리거한 후 MSCI를 충족하기 위한 인도네시아 증권 거래소",
+      "summary": "인도네시아 증권 거래소는 월요일에 MSCI를 만나 신흥 시장 지위를 박탈할 수 있는 경고에 대해 명확히 할 것입니다. 이 위협은 금요일에 시가 총액에서 $ 650억을 없애는 급격한 매각을 촉발했습니다. 하향 조정은 외국인 자금 유출을 촉진하고 인도네시아 주식에 대한 투자자의 참여를 약화시킬 수 있습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms"
+        },
+        {
+          "name": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/markets/indonesias-stock-market-selloff-deepens-with-officials-set-for-msci-meeting-12205613"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/business/indonesian-stocks-slide-to-six-year-low-as-msci-warning-weighs"
+        }
+      ],
+      "published_at": "2026-10-19 07:45",
+      "sort_key": 1792395900.0,
+      "id": "7908962611136421680"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 주식, MSCI 경고에서 2020년 이후 최저 수준으로 부진 -- 업데이트",
+      "summary": "작성자: Amanda Lee\n인도네시아 주식은 2020년 이후 계속 부진하고 최저치를 기록했으며, 지수 제공업체인 MSCI Inc. 가 경고한 후 시장의 투자 가능성에 대한 우려로 인해...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-stocks-slump-to-lowest-level-since-2020-on-msci-warning-update-ce785cdbd98af42d"
+        }
+      ],
+      "published_at": "2026-10-19 07:37",
+      "sort_key": 1792395458.0,
+      "id": "6409809832632026854"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
+        }
+      ],
+      "published_at": "2026-10-19 07:18",
+      "sort_key": 1792394304.0,
+      "id": "7471724794272626761"
     },
     {
       "category": "car",
@@ -62,47 +118,7 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "4390762638372448806"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 주식, MSCI 경고로 6년 만에 최저치 기록",
-      "summary": "인도네시아 주식은 MSCI가 지수 퇴출 가능성에 대해 경고한 후 6년 만에 최저치를 기록했다. 자세한 내용은 straitstimes.com에서 확인하세요.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/indonesian-stocks-slide-to-six-year-low-as-msci-warning-weighs"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-stocks-suffer-worst-day-since-1998-on-msci-downgrade-warning-2nd-update-ce785cdadb8cf523"
-        },
-        {
-          "name": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/indonesia-stocks-rupiah-tumble-as-msci-weighs-market-downgrade/articleshow/134990424.cms"
-        }
-      ],
-      "published_at": "2026-10-19 03:36",
-      "sort_key": 1792381006.0,
-      "id": "6615305005245499893"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "자카르타의 경제적 압박과 갈수록 무모해지는 오토바이 절도",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Kompas.id",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9aU21oLW41dUhrUGloMGZOWkdlM3lRMnE4Y2JtNFp3enBiZVdoTkVWcFFSMUM1YzQtN2c3djNFV1VhVVI3Y0tZaWdPdHI2LUZFUEgwczlxeEs4TzhOTE9SUWpqX1NXd2dfZkpma2JuQzlmTWRiN1d3cGd6bGFTb0t6RlA1cS1LVFNhLUdqbGZZZ1R3MkIxMlFOMEFpY0FEbUY1WGFR?oc=5"
-        }
-      ],
-      "published_at": "2026-10-18 08:55",
-      "sort_key": 1792313722.0,
-      "id": "387664216071948337"
+      "id": "379252201429700757"
     },
     {
       "category": "eco",
@@ -118,7 +134,7 @@
       ],
       "published_at": "2026-10-17 14:27",
       "sort_key": 1792247273.0,
-      "id": "8518160718995014447"
+      "id": "5263142241337387656"
     },
     {
       "category": "int",
@@ -134,7 +150,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "680402776986101324"
+      "id": "7112330758966446595"
     },
     {
       "category": "eco",
@@ -150,23 +166,7 @@
       ],
       "published_at": "2026-10-16 12:00",
       "sort_key": 1792152000.0,
-      "id": "2141730543339188707"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "MSCI, 수개월의 경고 후 인도네시아 시장 재점화",
-      "summary": "주식 시장 인덱싱의 안정적이고 종종 예측 가능한 세계에서는 폭탄의 순간이었습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-16/msci-ignites-indonesia-market-reckoning-after-months-of-warnings"
-        }
-      ],
-      "published_at": "2026-10-16 09:39",
-      "sort_key": 1792143598.0,
-      "id": "332007111537801376"
+      "id": "3807713025147628680"
     },
     {
       "category": "pol",
@@ -186,7 +186,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "7315055707852243749"
+      "id": "4051834584864490031"
     },
     {
       "category": "pol",
@@ -202,7 +202,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "5194085151803351297"
+      "id": "5579760171230120931"
     },
     {
       "category": "tek",
@@ -230,7 +230,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "4026263943638569639"
+      "id": "3976852174868932383"
     },
     {
       "category": "liv",
@@ -250,7 +250,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "1911310637051734036"
+      "id": "3067270110448336973"
     },
     {
       "category": "pol",
@@ -266,7 +266,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "7717596695791486669"
+      "id": "1671964414841814343"
     },
     {
       "category": "int",
@@ -282,7 +282,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5622002697068741377"
+      "id": "4288511059872954272"
     },
     {
       "category": "liv",
@@ -298,7 +298,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "7335936526520828181"
+      "id": "3875283196878838151"
     },
     {
       "category": "liv",
@@ -314,7 +314,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "8588950960732809842"
+      "id": "8002290687514026122"
     },
     {
       "category": "pol",
@@ -330,7 +330,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "7534050811910553398"
+      "id": "1089735163831507487"
     },
     {
       "category": "pol",
@@ -346,7 +346,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "3009250376060945831"
+      "id": "3920613056848752221"
     },
     {
       "category": "int",
@@ -366,7 +366,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1603641009717222775"
+      "id": "4655123697438959592"
     },
     {
       "category": "int",
@@ -382,7 +382,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "14052583626883352"
+      "id": "2257461224318738267"
     },
     {
       "category": "int",
@@ -398,7 +398,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "1388494681402278794"
+      "id": "5308133304624240855"
     },
     {
       "category": "tek",
@@ -414,7 +414,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "8215029843318836812"
+      "id": "5002222358426812601"
     }
   ],
   "categories": [
@@ -483,15 +483,19 @@
       "count": 1
     },
     {
-      "name": "VOI.ID",
-      "count": 1
-    },
-    {
       "name": "The Economic Times",
       "count": 1
     },
     {
-      "name": "Kompas.id",
+      "name": "NDTV Profit",
+      "count": 1
+    },
+    {
+      "name": "파이낸셜뉴스",
+      "count": 1
+    },
+    {
+      "name": "VOI.ID",
       "count": 1
     },
     {
@@ -500,10 +504,6 @@
     },
     {
       "name": "Fortune",
-      "count": 1
-    },
-    {
-      "name": "Bloomberg",
       "count": 1
     },
     {
@@ -535,6 +535,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-19 15:39:49",
+  "last_updated": "2026-10-19 20:42:56",
   "errors": {}
 }
