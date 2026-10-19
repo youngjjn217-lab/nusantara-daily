@@ -3,6 +3,38 @@
     {
       "category": "car",
       "category_label": "자동차",
+      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
+        }
+      ],
+      "published_at": "2026-10-19 07:18",
+      "sort_key": 1792394304.0,
+      "id": "9161607074116784128"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "독점 동영상, PERIKLINDO Moeldoko 회장: 인도네시아 전기 자동차의 미래와 국가 산업 과제",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDYWlRaS1qdjNQSVVoR3RJcU0tR3dPSlZuMjBjSm9OLUczLUI2MGcwWmJzS05qUUdScHdFWG1IbjBqMVJzSE9vQg?oc=5"
+        }
+      ],
+      "published_at": "2026-10-19 07:13",
+      "sort_key": 1792394032.0,
+      "id": "4583513456436465582"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
       "title": "자카르타의 경제적 압박과 갈수록 무모해지는 오토바이 절도",
       "summary": "",
       "type": "news",
@@ -14,7 +46,7 @@
       ],
       "published_at": "2026-10-18 08:55",
       "sort_key": 1792313722.0,
-      "id": "5157077427375100359"
+      "id": "6602650318890045677"
     },
     {
       "category": "eco",
@@ -30,7 +62,23 @@
       ],
       "published_at": "2026-10-17 14:27",
       "sort_key": 1792247273.0,
-      "id": "8232481013019368715"
+      "id": "2343688702120666470"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "이 전기차 제조업체들은 인도네시아의 토착 삼림 지대를 파괴하고 있습니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "NewsBytes",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjBoSUpBNmQ0WE9makNmVGJQMng5enRvZFlpbjV6OEF4dVFvRjJ5aEl1b3ZMMmdYM1U5eXB0LXM0UFV4cVVCZEpNSnFVZk1VQlBGaXpmX0RXTExJN0Nrb0k3cHNzd1YyaGllWUhKYTRmNlRHZ1BtZ21ueFV4RG1pR2ZYdnlPUjF2QjRGYlJSczhGYWNVTWpyZUlzR09qSlU?oc=5"
+        }
+      ],
+      "published_at": "2026-10-17 12:21",
+      "sort_key": 1792239668.0,
+      "id": "393219962060778023"
     },
     {
       "category": "int",
@@ -46,7 +94,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "7607744708175401346"
+      "id": "3893456155235699732"
     },
     {
       "category": "eco",
@@ -62,7 +110,7 @@
       ],
       "published_at": "2026-10-16 12:00",
       "sort_key": 1792152000.0,
-      "id": "4484530611602197856"
+      "id": "3726880199565841509"
     },
     {
       "category": "eco",
@@ -82,7 +130,7 @@
       ],
       "published_at": "2026-10-16 10:27",
       "sort_key": 1792146443.0,
-      "id": "2698631302565032264"
+      "id": "5089151633439096906"
     },
     {
       "category": "eco",
@@ -98,7 +146,7 @@
       ],
       "published_at": "2026-10-16 09:39",
       "sort_key": 1792143598.0,
-      "id": "8880453018829624980"
+      "id": "7096142875328256235"
     },
     {
       "category": "pol",
@@ -118,7 +166,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "443507798606235255"
+      "id": "6117755202312427776"
     },
     {
       "category": "eco",
@@ -134,7 +182,7 @@
       ],
       "published_at": "2026-10-16 08:01",
       "sort_key": 1792137715.0,
-      "id": "2257207270210174029"
+      "id": "2468101251821636124"
     },
     {
       "category": "pol",
@@ -150,7 +198,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "5790892701007856524"
+      "id": "6267028835089987303"
     },
     {
       "category": "tek",
@@ -178,7 +226,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "360987507157871930"
+      "id": "1284257384860736581"
     },
     {
       "category": "liv",
@@ -198,7 +246,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "7417677941345285771"
+      "id": "829599000664094058"
     },
     {
       "category": "pol",
@@ -214,7 +262,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "7291052541083031620"
+      "id": "8200269672079791792"
     },
     {
       "category": "int",
@@ -230,7 +278,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "6211515479592615871"
+      "id": "5973617367011830104"
     },
     {
       "category": "liv",
@@ -246,7 +294,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "3083841807963948146"
+      "id": "1202814885858878196"
     },
     {
       "category": "liv",
@@ -262,7 +310,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6267370294635200058"
+      "id": "4918194889619783277"
     },
     {
       "category": "pol",
@@ -278,7 +326,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4452596240243437209"
+      "id": "1377030839748716060"
     },
     {
       "category": "pol",
@@ -294,7 +342,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "7896196275503212153"
+      "id": "534614305167096875"
     },
     {
       "category": "int",
@@ -314,7 +362,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1083612153939911466"
+      "id": "7008675593861819774"
     },
     {
       "category": "int",
@@ -330,7 +378,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4781493652309395158"
+      "id": "4982041148573280588"
     },
     {
       "category": "int",
@@ -346,7 +394,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6438142347619201484"
+      "id": "2965847857622005997"
     },
     {
       "category": "tek",
@@ -362,7 +410,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "3214521919515980225"
+      "id": "4497495882427858795"
     }
   ],
   "categories": [
@@ -384,7 +432,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 1
+      "count": 4
     },
     {
       "id": "int",
@@ -415,11 +463,23 @@
       "count": 3
     },
     {
+      "name": "파이낸셜뉴스",
+      "count": 1
+    },
+    {
+      "name": "VOI.ID",
+      "count": 1
+    },
+    {
       "name": "Kompas.id",
       "count": 1
     },
     {
       "name": "The Indian Express",
+      "count": 1
+    },
+    {
+      "name": "NewsBytes",
       "count": 1
     },
     {
@@ -471,6 +531,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-19 02:33:48",
+  "last_updated": "2026-10-19 08:04:04",
   "errors": {}
 }
