@@ -3,15 +3,15 @@
     {
       "id": "usdidr",
       "label": "USD/IDR",
-      "value": 17943.0,
-      "change": -0.42785340284627915,
+      "value": 18056.0,
+      "change": 0.19922415193711104,
       "decimals": 0
     },
     {
       "id": "idrkrw",
       "label": "1,000 IDR→KRW",
-      "value": 74.21947114212367,
-      "change": -0.26158233814825743,
+      "value": 73.68243432541468,
+      "change": -0.42486275826520364,
       "decimals": 2
     },
     {
@@ -29,6 +29,6 @@
       "decimals": 2
     }
   ],
-  "last_updated": "2026-10-19 20:25:29",
+  "last_updated": "2026-10-19 23:52:58",
   "error": null
 }
