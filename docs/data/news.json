@@ -14,7 +14,27 @@
       ],
       "published_at": "2026-10-20 11:00",
       "sort_key": 1792494000.0,
-      "id": "915878090617756206"
+      "id": "5642672052298845339"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아는 MSCI 축출 위협 이후 시장 안정화를 위해 싸운다.",
+      "summary": "Devdiscourse에 대한 MSCI 퇴출 위협 이후 시장 안정화를 위한 인도네시아 전투에 대해 자세히 알아보기",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3995113-indonesia-battles-to-stabilise-market-after-msci-expulsion-threat"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-stems-market-rout-ignited-by-msci-expulsion-threat-ce785cdbde8df22c"
+        }
+      ],
+      "published_at": "2026-10-20 09:03",
+      "sort_key": 1792487001.0,
+      "id": "1800478189598081106"
     },
     {
       "category": "eco",
@@ -46,27 +66,7 @@
       ],
       "published_at": "2026-10-20 06:14",
       "sort_key": 1792476858.0,
-      "id": "5264212952839583998"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아는 MSCI 추방 위협으로 점화 된 시장 경로를 억제합니다.",
-      "summary": "인도네시아 주식은 화요일 자카르타 당국이 지수 제공 업체 인 MSCI의 제거 가능성에 대한 경고에 의해 2 일간 $ 820 억 루트가 촉발 된 후 판매를 제한하는 조치를 도입함에 따라 상승했다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-stems-market-rout-ignited-by-msci-expulsion-threat-ce785cdbde8df22c"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3995065-indonesia-stems-market-rout-ignited-by-msci-expulsion-threat"
-        }
-      ],
-      "published_at": "2026-10-20 06:06",
-      "sort_key": 1792476371.0,
-      "id": "6683859805176013539"
+      "id": "4313475882334020385"
     },
     {
       "category": "eco",
@@ -82,7 +82,7 @@
       ],
       "published_at": "2026-10-20 03:59",
       "sort_key": 1792468775.0,
-      "id": "8538457324160728545"
+      "id": "335974241658331857"
     },
     {
       "category": "eco",
@@ -98,23 +98,7 @@
       ],
       "published_at": "2026-10-20 01:58",
       "sort_key": 1792461518.0,
-      "id": "3031190205053469159"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 증권거래소는 변동성을 식히기 위해 더 많은 주식에 대한 하한선을 줄입니다",
-      "summary": "인도네시아 증권거래소\n화요일에 자동 거부 하한을 1로 줄였습니다.\n11 루피아 대 14 루피아 가격의 주식에 대해 7% 에서 루피아\nmSCI가 매각을 위협한 후 매각을 길들이는 것을 목표로 하는 범위...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-stock-exchange-cuts-lower-limit-for-more-stocks-to-cool-volatility-ce785cdbde8bf12d"
-        }
-      ],
-      "published_at": "2026-10-20 01:32",
-      "sort_key": 1792459934.0,
-      "id": "2605718018410738133"
+      "id": "5917397918836219656"
     },
     {
       "category": "car",
@@ -130,7 +114,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "5937929926697473893"
+      "id": "1800777622591439479"
     },
     {
       "category": "car",
@@ -146,7 +130,7 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "7202067178132504634"
+      "id": "1382845930864466425"
     },
     {
       "category": "car",
@@ -162,7 +146,7 @@
       ],
       "published_at": "2026-10-19 07:18",
       "sort_key": 1792394304.0,
-      "id": "267568165541231111"
+      "id": "6183860743030086333"
     },
     {
       "category": "car",
@@ -178,7 +162,7 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "2541272314944767242"
+      "id": "2777471582856002984"
     },
     {
       "category": "int",
@@ -194,7 +178,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "9201290133044418433"
+      "id": "3460045115295831306"
     },
     {
       "category": "pol",
@@ -214,7 +198,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "7250451819925619362"
+      "id": "8504976280858120088"
     },
     {
       "category": "pol",
@@ -230,7 +214,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "5292714264138653931"
+      "id": "3515356589205882673"
     },
     {
       "category": "liv",
@@ -250,7 +234,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3010286495509215889"
+      "id": "5770313718209351899"
     },
     {
       "category": "pol",
@@ -266,7 +250,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "5919783813120400633"
+      "id": "2828711797435601790"
     },
     {
       "category": "int",
@@ -282,7 +266,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "8346735400289875614"
+      "id": "6468495243930530078"
     },
     {
       "category": "liv",
@@ -298,7 +282,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "872798536349638219"
+      "id": "8640874259171084212"
     },
     {
       "category": "liv",
@@ -314,7 +298,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "4176029425004798808"
+      "id": "9119294631353570896"
     },
     {
       "category": "pol",
@@ -330,7 +314,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "3003845898545806334"
+      "id": "4835353892073664605"
     },
     {
       "category": "pol",
@@ -346,7 +330,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "6747128161288389754"
+      "id": "7606230696011073065"
     },
     {
       "category": "int",
@@ -366,7 +350,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1431268619254359579"
+      "id": "2452319807467305324"
     },
     {
       "category": "int",
@@ -382,7 +366,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "822569833851918652"
+      "id": "5095049387320286274"
     },
     {
       "category": "int",
@@ -398,7 +382,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "7922868228292492823"
+      "id": "3889137046997118902"
     },
     {
       "category": "tek",
@@ -414,14 +398,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "1201379051484500832"
+      "id": "6689740646771903829"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 5
+      "count": 4
     },
     {
       "id": "pol",
@@ -451,10 +435,6 @@
   ],
   "sources": [
     {
-      "name": "MarketScreener",
-      "count": 4
-    },
-    {
       "name": "The Star",
       "count": 4
     },
@@ -463,11 +443,19 @@
       "count": 4
     },
     {
+      "name": "MarketScreener",
+      "count": 3
+    },
+    {
       "name": "CNA",
       "count": 3
     },
     {
       "name": "01net",
+      "count": 1
+    },
+    {
+      "name": "Devdiscourse",
       "count": 1
     },
     {
@@ -488,10 +476,6 @@
     },
     {
       "name": "Business Standard",
-      "count": 1
-    },
-    {
-      "name": "Devdiscourse",
       "count": 1
     },
     {
@@ -535,6 +519,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-20 18:41:46",
+  "last_updated": "2026-10-20 22:00:41",
   "errors": {}
 }
