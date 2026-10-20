@@ -8,13 +8,81 @@
       "type": "news",
       "sources": [
         {
-          "name": "STT Info",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQmUzNWJFN1Bra1dFTEZxcFBRQW5CTkVJS1gxMEFHbTdYekx3dnJfNy1hdmFoTFhhMlZKV2lXSXJkQjJuU2lXbE5lVVRnV0ljT3lGQVdTcy1WZ0dvRGRrcUFlSzRDTUc4azFMd1BWUS1CbWxRYlNqdVBpQ3JMazBUR3FueGdVVXp6Z2ZNd0IwRFhCbnhxSjk4VHlLS1M1VE5iczVYLThWV0tmZk9jWTFPUzd0OTN1VkhvbWpZb1g2UmgzODEycDdKb1M5RzVCdTZ1N1FSdVJBd3VkT0ZpOWFzQndwY0pRV0dVVUJkaGdoWTRsUQ?oc=5"
+          "name": "01net",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZWazZQenFsMUtkM3daSll6OXRmd3F0VVZFaTJDYnpUMG9Dam9xNTdhbS1GUFZtdy12eS1JcVdpQTQwaHZJTHZPY3JId0NBM3hxV0FxRXNFN2JhUE9PandqU1hBZkV6aEtmWlpCWTlodGw2LS1PMWpha0lqS1F3VTBPZG1jeFd5R0NuR1RGSm9JWENYM2xJMW9qWURWWTNtamtFd203R0tOY1FMRE1SNVdpOA?oc=5"
         }
       ],
-      "published_at": "2026-10-20 08:00",
-      "sort_key": 1792483200.0,
-      "id": "9215803165545206749"
+      "published_at": "2026-10-20 11:00",
+      "sort_key": 1792494000.0,
+      "id": "915878090617756206"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "시장 수정에 대한 의문이 지속되면서 인도네시아 주식이 반등하고 있습니다.",
+      "summary": "자카르타 종합 지수는 최대 4.3% 상승하여 1989년 이후 가장 가파른 약 15% 의 이틀간의 급락을 기록했습니다. 반등 후에도 인도네시아는 여전히 세계 최악의 주식 시장이다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/markets/indonesia-stocks-rebound-as-questions-persist-over-market-fix-14055917.html"
+        },
+        {
+          "name": "SFGATE",
+          "url": "https://www.sfgate.com/news/world/article/stocks-rebound-after-tech-sell-off-and-indonesia-22479734.php"
+        },
+        {
+          "name": "WDIV ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
+        },
+        {
+          "name": "U.S. News & World Report",
+          "url": "https://www.usnews.com/news/business/articles/2026-10-16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
+        }
+      ],
+      "published_at": "2026-10-20 06:14",
+      "sort_key": 1792476858.0,
+      "id": "5264212952839583998"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아는 MSCI 추방 위협으로 점화 된 시장 경로를 억제합니다.",
+      "summary": "인도네시아 주식은 화요일 자카르타 당국이 지수 제공 업체 인 MSCI의 제거 가능성에 대한 경고에 의해 2 일간 $ 820 억 루트가 촉발 된 후 판매를 제한하는 조치를 도입함에 따라 상승했다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-stems-market-rout-ignited-by-msci-expulsion-threat-ce785cdbde8df22c"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3995065-indonesia-stems-market-rout-ignited-by-msci-expulsion-threat"
+        }
+      ],
+      "published_at": "2026-10-20 06:06",
+      "sort_key": 1792476371.0,
+      "id": "6683859805176013539"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 은행은 MSCI 경보 압력이 루피아화됨에 따라 하이킹에 대한 압박에 직면해 있습니다.",
+      "summary": "인도네시아 은행은 MSCI가 자국 시장을 독립적 지위로 낮추겠다는 위협이 주식 루트를 촉발하고 루피아를 약화시킨 후 금리를 인상해야 한다는 압박에 직면해 있습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html"
+        }
+      ],
+      "published_at": "2026-10-20 03:59",
+      "sort_key": 1792468775.0,
+      "id": "8538457324160728545"
     },
     {
       "category": "eco",
@@ -30,7 +98,7 @@
       ],
       "published_at": "2026-10-20 01:58",
       "sort_key": 1792461518.0,
-      "id": "386504198978922634"
+      "id": "3031190205053469159"
     },
     {
       "category": "eco",
@@ -46,39 +114,7 @@
       ],
       "published_at": "2026-10-20 01:32",
       "sort_key": 1792459934.0,
-      "id": "5154801310300689992"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 시장, MSCI 강등 위협으로 2020년 수준으로 하락",
-      "summary": "10월 19일, 자카르타 — 인덱스 컴파일러 MSCI가 스트리핑을 고려함에 따라 자카르타의 주요 주가 지수는 지난 주 급격한 손실을 기록한 후 오늘 6년 만에 가장 낮은 수준으로 마감했습니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/money/2026/10/19/indonesia-market-sinks-to-2020-levels-on-threat-of-msci-demotion/239787"
-        }
-      ],
-      "published_at": "2026-10-19 12:04",
-      "sort_key": 1792411455.0,
-      "id": "8881952674189359716"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "NMDC는 인도네시아의 공급 둔화가 글로벌 시장 전망을 흐리게 함에 따라 니켈 계획을 보류합니다.",
-      "summary": "두 명의 NMDC 관계자는 로이터 통신에 광부가 전 세계 생산량의 60% 이상을 차지하는 인도네시아의 공급 과잉 우려에 대한 니켈 공급을 부분적으로 중단했다고 말했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/nmdc-puts-nickel-plans-on-hold-as-indonesia-s-supply-glut-clouds-global-market-outlook-14055617.html"
-        }
-      ],
-      "published_at": "2026-10-19 11:47",
-      "sort_key": 1792410420.0,
-      "id": "535484782597116239"
+      "id": "2605718018410738133"
     },
     {
       "category": "car",
@@ -94,23 +130,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "6231422557253018813"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아, 자카르타 주가지수에서 고농축 소유주 제외",
-      "summary": "인도네시아 증권거래소는 벤치마크인 자카르타 종합지수 (Jakarta Composite Index) 를 포함한 여러 지수에서 소수의 투자자가 보유한 주식의 비중이 큰 주식을 제외할 계획입니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-to-exclude-highly-concentrated-ownership-stocks-from-jakarta-s-stock-indices-ce785cdbd88af621"
-        }
-      ],
-      "published_at": "2026-10-19 10:20",
-      "sort_key": 1792405257.0,
-      "id": "1642394052457034139"
+      "id": "5937929926697473893"
     },
     {
       "category": "car",
@@ -126,23 +146,7 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "2324509403480808233"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 은행은 시장 혼란에도 불구하고 금리를 보유할 것으로 예상했다.",
-      "summary": "인도네시아 중앙은행은 수요일에 금리를 안정적으로 유지할 것이라고 로이터 통신의 여론 조사에서 인도네시아 주식에 대한 경고에 따라 루피아의 슬라이드를 말한 대다수의 경제학자들에 따르면...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/bank-indonesia-narrowly-expected-to-hold-interest-rates-despite-market-turmoil-ce785cdbd981f023"
-        }
-      ],
-      "published_at": "2026-10-19 09:12",
-      "sort_key": 1792401173.0,
-      "id": "3202856428050234067"
+      "id": "7202067178132504634"
     },
     {
       "category": "car",
@@ -158,7 +162,7 @@
       ],
       "published_at": "2026-10-19 07:18",
       "sort_key": 1792394304.0,
-      "id": "656464128716483608"
+      "id": "267568165541231111"
     },
     {
       "category": "car",
@@ -174,7 +178,7 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "9100701282921664371"
+      "id": "2541272314944767242"
     },
     {
       "category": "int",
@@ -190,7 +194,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "5619225696039563209"
+      "id": "9201290133044418433"
     },
     {
       "category": "pol",
@@ -210,7 +214,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "1943107421116167454"
+      "id": "7250451819925619362"
     },
     {
       "category": "pol",
@@ -226,35 +230,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "8878667921819910283"
-    },
-    {
-      "category": "tek",
-      "category_label": "테크·산업",
-      "title": "기술 매도 후 주가 반등 및 인도네시아 주식 시장 하향 조정 경고",
-      "summary": "아시아 주식은 대부분 월스트리트의 이익 이후 반등했고, 기술 매도세가 주가를 끌어 올린 지 하루 만에 반등했다. 지수 제공업체 MSCI가 경고한 후 인도네시아의 주식 시장은 금요일 급락했습니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "SFGATE",
-          "url": "https://www.sfgate.com/news/world/article/stocks-rebound-after-tech-sell-off-and-indonesia-22479734.php"
-        },
-        {
-          "name": "WDIV ClickOnDetroit",
-          "url": "https://www.clickondetroit.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
-        },
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/news/business/articles/2026-10-16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
-        }
-      ],
-      "published_at": "2026-10-16 06:08",
-      "sort_key": 1792130898.0,
-      "id": "2175999250682883483"
+      "id": "5292714264138653931"
     },
     {
       "category": "liv",
@@ -274,7 +250,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "940383131906485376"
+      "id": "3010286495509215889"
     },
     {
       "category": "pol",
@@ -290,7 +266,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "7733859540085007426"
+      "id": "5919783813120400633"
     },
     {
       "category": "int",
@@ -306,7 +282,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "254054446549235882"
+      "id": "8346735400289875614"
     },
     {
       "category": "liv",
@@ -322,7 +298,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "2379678617631972107"
+      "id": "872798536349638219"
     },
     {
       "category": "liv",
@@ -338,7 +314,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "1367506103587860477"
+      "id": "4176029425004798808"
     },
     {
       "category": "pol",
@@ -354,7 +330,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "6869424365800438286"
+      "id": "3003845898545806334"
     },
     {
       "category": "pol",
@@ -370,7 +346,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "7021589274693649402"
+      "id": "6747128161288389754"
     },
     {
       "category": "int",
@@ -390,7 +366,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "7116964771977682694"
+      "id": "1431268619254359579"
     },
     {
       "category": "int",
@@ -406,7 +382,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "5761537063494966532"
+      "id": "822569833851918652"
     },
     {
       "category": "int",
@@ -422,7 +398,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5104649233033670506"
+      "id": "7922868228292492823"
     },
     {
       "category": "tek",
@@ -438,14 +414,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "6271366295812598762"
+      "id": "1201379051484500832"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 6
+      "count": 5
     },
     {
       "id": "pol",
@@ -455,7 +431,7 @@
     {
       "id": "tek",
       "label": "테크·산업",
-      "count": 2
+      "count": 1
     },
     {
       "id": "car",
@@ -476,14 +452,14 @@
   "sources": [
     {
       "name": "MarketScreener",
-      "count": 5
-    },
-    {
-      "name": "Malay Mail",
-      "count": 5
+      "count": 4
     },
     {
       "name": "The Star",
+      "count": 4
+    },
+    {
+      "name": "Malay Mail",
       "count": 4
     },
     {
@@ -491,31 +467,11 @@
       "count": 3
     },
     {
-      "name": "STT Info",
-      "count": 1
-    },
-    {
-      "name": "Livemint",
+      "name": "01net",
       "count": 1
     },
     {
       "name": "Moneycontrol",
-      "count": 1
-    },
-    {
-      "name": "islnewstv.com",
-      "count": 1
-    },
-    {
-      "name": "Business in Cameroon",
-      "count": 1
-    },
-    {
-      "name": "파이낸셜뉴스",
-      "count": 1
-    },
-    {
-      "name": "VOI.ID",
       "count": 1
     },
     {
@@ -535,6 +491,34 @@
       "count": 1
     },
     {
+      "name": "Devdiscourse",
+      "count": 1
+    },
+    {
+      "name": "CNBC",
+      "count": 1
+    },
+    {
+      "name": "Livemint",
+      "count": 1
+    },
+    {
+      "name": "islnewstv.com",
+      "count": 1
+    },
+    {
+      "name": "Business in Cameroon",
+      "count": 1
+    },
+    {
+      "name": "파이낸셜뉴스",
+      "count": 1
+    },
+    {
+      "name": "VOI.ID",
+      "count": 1
+    },
+    {
       "name": "The Straits Times",
       "count": 1
     },
@@ -551,6 +535,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-20 14:35:39",
+  "last_updated": "2026-10-20 18:41:46",
   "errors": {}
 }
