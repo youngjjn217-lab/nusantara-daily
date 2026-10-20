@@ -3,6 +3,26 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
+      "title": "인도네시아 시장, MSCI 강등 위협으로 2020년 수준으로 하락",
+      "summary": "10월 19일, 자카르타 — 인덱스 컴파일러 MSCI가 스트리핑을 고려함에 따라 자카르타의 주요 주가 지수는 지난 주 급격한 손실을 기록한 후 오늘 6년 만에 가장 낮은 수준으로 마감했습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/money/2026/10/19/indonesia-market-sinks-to-2020-levels-on-threat-of-msci-demotion/239787"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-stocks-slump-to-lowest-level-since-2020-on-msci-warning-update-ce785cdbd98af42d"
+        }
+      ],
+      "published_at": "2026-10-19 12:04",
+      "sort_key": 1792411455.0,
+      "id": "8345829201022845052"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
       "title": "NMDC는 인도네시아의 공급 둔화가 글로벌 시장 전망을 흐리게 함에 따라 니켈 계획을 보류합니다.",
       "summary": "두 명의 NMDC 관계자는 로이터 통신에 광부가 전 세계 생산량의 60% 이상을 차지하는 인도네시아의 공급 과잉 우려에 대한 니켈 공급을 부분적으로 중단했다고 말했다.",
       "type": "news",
@@ -14,7 +34,7 @@
       ],
       "published_at": "2026-10-19 11:47",
       "sort_key": 1792410420.0,
-      "id": "1799463961461956688"
+      "id": "2770942036479314883"
     },
     {
       "category": "car",
@@ -30,7 +50,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "4425558390116176771"
+      "id": "7375494839345270567"
     },
     {
       "category": "eco",
@@ -46,7 +66,7 @@
       ],
       "published_at": "2026-10-19 10:20",
       "sort_key": 1792405257.0,
-      "id": "2649554742835181452"
+      "id": "1360237146447634614"
     },
     {
       "category": "car",
@@ -62,7 +82,7 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "6124181262379237597"
+      "id": "6649102642905233656"
     },
     {
       "category": "eco",
@@ -78,7 +98,7 @@
       ],
       "published_at": "2026-10-19 09:12",
       "sort_key": 1792401173.0,
-      "id": "2607266379983290667"
+      "id": "7528316280617790687"
     },
     {
       "category": "car",
@@ -94,7 +114,7 @@
       ],
       "published_at": "2026-10-19 07:55",
       "sort_key": 1792396500.0,
-      "id": "1379620557539557230"
+      "id": "5812690156816154275"
     },
     {
       "category": "eco",
@@ -106,31 +126,27 @@
         {
           "name": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms"
-        },
-        {
-          "name": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/markets/indonesias-stock-market-selloff-deepens-with-officials-set-for-msci-meeting-12205613"
         }
       ],
       "published_at": "2026-10-19 07:45",
       "sort_key": 1792395900.0,
-      "id": "482556528981674419"
+      "id": "3099825388652847486"
     },
     {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 주식, MSCI 경고에서 2020년 이후 최저 수준으로 부진 -- 업데이트",
-      "summary": "작성자: Amanda Lee\n인도네시아 주식은 2020년 이후 계속 부진하고 최저치를 기록했으며, 지수 제공업체인 MSCI Inc. 가 경고한 후 시장의 투자 가능성에 대한 우려로 인해...",
+      "category": "car",
+      "category_label": "자동차",
+      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
+      "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-stocks-slump-to-lowest-level-since-2020-on-msci-warning-update-ce785cdbd98af42d"
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
         }
       ],
-      "published_at": "2026-10-19 07:37",
-      "sort_key": 1792395458.0,
-      "id": "1198428119102913876"
+      "published_at": "2026-10-19 07:18",
+      "sort_key": 1792394304.0,
+      "id": "7803620380364633207"
     },
     {
       "category": "car",
@@ -146,23 +162,7 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "5087505885648409536"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "자카르타의 경제적 압박과 갈수록 무모해지는 오토바이 절도",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Kompas.id",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9aU21oLW41dUhrUGloMGZOWkdlM3lRMnE4Y2JtNFp3enBiZVdoTkVWcFFSMUM1YzQtN2c3djNFV1VhVVI3Y0tZaWdPdHI2LUZFUEgwczlxeEs4TzhOTE9SUWpqX1NXd2dfZkpma2JuQzlmTWRiN1d3cGd6bGFTb0t6RlA1cS1LVFNhLUdqbGZZZ1R3MkIxMlFOMEFpY0FEbUY1WGFR?oc=5"
-        }
-      ],
-      "published_at": "2026-10-18 08:55",
-      "sort_key": 1792313722.0,
-      "id": "1333122844866002467"
+      "id": "9084113819026794895"
     },
     {
       "category": "int",
@@ -178,7 +178,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "2547117273171769279"
+      "id": "4545852372799286427"
     },
     {
       "category": "pol",
@@ -198,7 +198,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "7903554035979660734"
+      "id": "8856419915687718812"
     },
     {
       "category": "pol",
@@ -214,7 +214,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "7859192364279970832"
+      "id": "1744157028576723561"
     },
     {
       "category": "tek",
@@ -242,7 +242,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7605451438975931217"
+      "id": "7519282410940691881"
     },
     {
       "category": "liv",
@@ -262,7 +262,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "4395749511583767323"
+      "id": "4154800012424656284"
     },
     {
       "category": "pol",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "4281409968833248560"
+      "id": "6889103950235319299"
     },
     {
       "category": "int",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "8607579398783659667"
+      "id": "5720714009161563076"
     },
     {
       "category": "liv",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "2603579444206459425"
+      "id": "8038897884925117229"
     },
     {
       "category": "liv",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "1022327364573244324"
+      "id": "795894187492578352"
     },
     {
       "category": "pol",
@@ -342,7 +342,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "6820467225911663896"
+      "id": "4684841896645724922"
     },
     {
       "category": "pol",
@@ -358,7 +358,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "4426340918151225077"
+      "id": "4263408308855265787"
     },
     {
       "category": "int",
@@ -378,7 +378,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6260802145711635711"
+      "id": "1305878178695664622"
     },
     {
       "category": "int",
@@ -394,7 +394,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3481407527969612725"
+      "id": "7373233131503899893"
     },
     {
       "category": "int",
@@ -410,7 +410,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5963703638852133615"
+      "id": "2054105729281587951"
     },
     {
       "category": "tek",
@@ -426,7 +426,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "6521605430282825281"
+      "id": "977116701807341532"
     }
   ],
   "categories": [
@@ -463,15 +463,15 @@
   ],
   "sources": [
     {
+      "name": "Malay Mail",
+      "count": 5
+    },
+    {
       "name": "MarketScreener",
       "count": 5
     },
     {
       "name": "The Star",
-      "count": 4
-    },
-    {
-      "name": "Malay Mail",
       "count": 4
     },
     {
@@ -499,15 +499,11 @@
       "count": 1
     },
     {
-      "name": "NDTV Profit",
+      "name": "파이낸셜뉴스",
       "count": 1
     },
     {
       "name": "VOI.ID",
-      "count": 1
-    },
-    {
-      "name": "Kompas.id",
       "count": 1
     },
     {
@@ -543,6 +539,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-20 00:03:36",
+  "last_updated": "2026-10-20 04:55:09",
   "errors": {}
 }
