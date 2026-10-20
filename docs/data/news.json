@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아 자동차 부문의 Infobip 및 Yamaha Power 대화형 고객 참여",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0o1S2J0ZUFSRmdTSDlQLVk0WkMtVjRMdWtFZ003WHVERC11WDJVeWxOZ0tFdzdrNGwtMWFYekFUb3Nvb0xPdlRqd2dkbTBPMFhLSjhqZ1dVZWM5RjdfeTUwQ21hYS1vLV9vYUhKTWgxZ1ZnY2lGa0RPdDkwSjV1Tm1sOXZzckNyZmtOcm05VmtOU1VNdVRYTjgyRWFhVFpVQ1NhVWZTNWwwM015V3QwQkstN2pNeUpaV05LUnhqTHpkdnozU1RWczg1RV80dTRVWFJxbUpEZDZwR0pRZFhrcTdR?oc=5"
+        }
+      ],
+      "published_at": "2026-10-20 08:00",
+      "sort_key": 1792483200.0,
+      "id": "3974935030750804792"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 시장, MSCI 강등 위협으로 2020년 수준으로 하락",
@@ -18,7 +34,7 @@
       ],
       "published_at": "2026-10-19 12:04",
       "sort_key": 1792411455.0,
-      "id": "8345829201022845052"
+      "id": "3914045616670129790"
     },
     {
       "category": "eco",
@@ -34,7 +50,7 @@
       ],
       "published_at": "2026-10-19 11:47",
       "sort_key": 1792410420.0,
-      "id": "2770942036479314883"
+      "id": "6559833846034354502"
     },
     {
       "category": "car",
@@ -50,7 +66,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "7375494839345270567"
+      "id": "1732230641071341836"
     },
     {
       "category": "eco",
@@ -66,7 +82,7 @@
       ],
       "published_at": "2026-10-19 10:20",
       "sort_key": 1792405257.0,
-      "id": "1360237146447634614"
+      "id": "2015645341417177297"
     },
     {
       "category": "car",
@@ -82,7 +98,7 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "6649102642905233656"
+      "id": "7769847889634770158"
     },
     {
       "category": "eco",
@@ -98,7 +114,7 @@
       ],
       "published_at": "2026-10-19 09:12",
       "sort_key": 1792401173.0,
-      "id": "7528316280617790687"
+      "id": "6861037434991291691"
     },
     {
       "category": "car",
@@ -114,7 +130,7 @@
       ],
       "published_at": "2026-10-19 07:55",
       "sort_key": 1792396500.0,
-      "id": "5812690156816154275"
+      "id": "3281689436776160420"
     },
     {
       "category": "eco",
@@ -130,23 +146,7 @@
       ],
       "published_at": "2026-10-19 07:45",
       "sort_key": 1792395900.0,
-      "id": "3099825388652847486"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
-        }
-      ],
-      "published_at": "2026-10-19 07:18",
-      "sort_key": 1792394304.0,
-      "id": "7803620380364633207"
+      "id": "5189682732969328069"
     },
     {
       "category": "car",
@@ -162,7 +162,7 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "9084113819026794895"
+      "id": "1901937333770222804"
     },
     {
       "category": "int",
@@ -178,7 +178,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "4545852372799286427"
+      "id": "8606448631792331016"
     },
     {
       "category": "pol",
@@ -198,7 +198,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "8856419915687718812"
+      "id": "4982184473605963654"
     },
     {
       "category": "pol",
@@ -214,7 +214,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "1744157028576723561"
+      "id": "8159300259324504109"
     },
     {
       "category": "tek",
@@ -242,7 +242,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7519282410940691881"
+      "id": "7126262152477300020"
     },
     {
       "category": "liv",
@@ -262,7 +262,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "4154800012424656284"
+      "id": "3206418779822899182"
     },
     {
       "category": "pol",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "6889103950235319299"
+      "id": "8636799795446567224"
     },
     {
       "category": "int",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5720714009161563076"
+      "id": "1056666552031569318"
     },
     {
       "category": "liv",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "8038897884925117229"
+      "id": "2781429467445834342"
     },
     {
       "category": "liv",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "795894187492578352"
+      "id": "3641106410889381376"
     },
     {
       "category": "pol",
@@ -342,7 +342,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "4684841896645724922"
+      "id": "3507185475549229337"
     },
     {
       "category": "pol",
@@ -358,7 +358,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "4263408308855265787"
+      "id": "139252770850925324"
     },
     {
       "category": "int",
@@ -378,7 +378,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1305878178695664622"
+      "id": "7456947235981623391"
     },
     {
       "category": "int",
@@ -394,7 +394,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7373233131503899893"
+      "id": "3016004146804669940"
     },
     {
       "category": "int",
@@ -410,7 +410,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "2054105729281587951"
+      "id": "6094780152468546429"
     },
     {
       "category": "tek",
@@ -426,7 +426,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "977116701807341532"
+      "id": "7817207204396978349"
     }
   ],
   "categories": [
@@ -479,6 +479,10 @@
       "count": 3
     },
     {
+      "name": "Business Wire",
+      "count": 1
+    },
+    {
       "name": "Moneycontrol",
       "count": 1
     },
@@ -496,10 +500,6 @@
     },
     {
       "name": "The Economic Times",
-      "count": 1
-    },
-    {
-      "name": "파이낸셜뉴스",
       "count": 1
     },
     {
@@ -539,6 +539,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-20 04:55:09",
+  "last_updated": "2026-10-20 09:44:38",
   "errors": {}
 }
