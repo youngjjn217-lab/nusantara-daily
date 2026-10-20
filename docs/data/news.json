@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "NMDC는 인도네시아의 공급 둔화가 글로벌 시장 전망을 흐리게 함에 따라 니켈 계획을 보류합니다.",
+      "summary": "두 명의 NMDC 관계자는 로이터 통신에 광부가 전 세계 생산량의 60% 이상을 차지하는 인도네시아의 공급 과잉 우려에 대한 니켈 공급을 부분적으로 중단했다고 말했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/nmdc-puts-nickel-plans-on-hold-as-indonesia-s-supply-glut-clouds-global-market-outlook-14055617.html"
+        }
+      ],
+      "published_at": "2026-10-19 11:47",
+      "sort_key": 1792410420.0,
+      "id": "1799463961461956688"
+    },
+    {
       "category": "car",
       "category_label": "자동차",
       "title": "IPCC는 2026년 만달리카 스피드 페스티벌에 경주용 차량을 배포할 수 있도록 지원합니다.",
@@ -14,7 +30,23 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "1003609140148836500"
+      "id": "4425558390116176771"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아, 자카르타 주가지수에서 고농축 소유주 제외",
+      "summary": "인도네시아 증권거래소는 벤치마크인 자카르타 종합지수 (Jakarta Composite Index) 를 포함한 여러 지수에서 소수의 투자자가 보유한 주식의 비중이 큰 주식을 제외할 계획입니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-to-exclude-highly-concentrated-ownership-stocks-from-jakarta-s-stock-indices-ce785cdbd88af621"
+        }
+      ],
+      "published_at": "2026-10-19 10:20",
+      "sort_key": 1792405257.0,
+      "id": "2649554742835181452"
     },
     {
       "category": "car",
@@ -30,7 +62,23 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "8881497603311955853"
+      "id": "6124181262379237597"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 은행은 시장 혼란에도 불구하고 금리를 보유할 것으로 예상했다.",
+      "summary": "인도네시아 중앙은행은 수요일에 금리를 안정적으로 유지할 것이라고 로이터 통신의 여론 조사에서 인도네시아 주식에 대한 경고에 따라 루피아의 슬라이드를 말한 대다수의 경제학자들에 따르면...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/bank-indonesia-narrowly-expected-to-hold-interest-rates-despite-market-turmoil-ce785cdbd981f023"
+        }
+      ],
+      "published_at": "2026-10-19 09:12",
+      "sort_key": 1792401173.0,
+      "id": "2607266379983290667"
     },
     {
       "category": "car",
@@ -46,7 +94,7 @@
       ],
       "published_at": "2026-10-19 07:55",
       "sort_key": 1792396500.0,
-      "id": "2403826707518501067"
+      "id": "1379620557539557230"
     },
     {
       "category": "eco",
@@ -62,15 +110,11 @@
         {
           "name": "NDTV Profit",
           "url": "https://www.ndtvprofit.com/markets/indonesias-stock-market-selloff-deepens-with-officials-set-for-msci-meeting-12205613"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/indonesian-stocks-slide-to-six-year-low-as-msci-warning-weighs"
         }
       ],
       "published_at": "2026-10-19 07:45",
       "sort_key": 1792395900.0,
-      "id": "7908962611136421680"
+      "id": "482556528981674419"
     },
     {
       "category": "eco",
@@ -86,23 +130,7 @@
       ],
       "published_at": "2026-10-19 07:37",
       "sort_key": 1792395458.0,
-      "id": "6409809832632026854"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
-        }
-      ],
-      "published_at": "2026-10-19 07:18",
-      "sort_key": 1792394304.0,
-      "id": "7471724794272626761"
+      "id": "1198428119102913876"
     },
     {
       "category": "car",
@@ -118,23 +146,23 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "379252201429700757"
+      "id": "5087505885648409536"
     },
     {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "투자자가 선호하는 것에서 투자 ‘백워터’ 로: 인도네시아 주식 시장이 추락하는 이유",
-      "summary": "인도네시아는 동남아시아에서 가장 큰 경제대국입니다. 얼마 전까지만 해도 투자자였다. 그러나 이제 글로벌 지수 제공 업체 인 MSCI는 주가 지수를 신흥 경제에서 짐바브웨와 같은 범주 인 '독립형' 으로 하향 조정할 계획입니다. 어떻게 이런 일이 일어났을까요?",
+      "category": "car",
+      "category_label": "자동차",
+      "title": "자카르타의 경제적 압박과 갈수록 무모해지는 오토바이 절도",
+      "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "The Indian Express",
-          "url": "https://indianexpress.com/article/explained/explained-economics/indonesia-stock-market-crash-msci-downgrade-explained-10925962/"
+          "name": "Kompas.id",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9aU21oLW41dUhrUGloMGZOWkdlM3lRMnE4Y2JtNFp3enBiZVdoTkVWcFFSMUM1YzQtN2c3djNFV1VhVVI3Y0tZaWdPdHI2LUZFUEgwczlxeEs4TzhOTE9SUWpqX1NXd2dfZkpma2JuQzlmTWRiN1d3cGd6bGFTb0t6RlA1cS1LVFNhLUdqbGZZZ1R3MkIxMlFOMEFpY0FEbUY1WGFR?oc=5"
         }
       ],
-      "published_at": "2026-10-17 14:27",
-      "sort_key": 1792247273.0,
-      "id": "5263142241337387656"
+      "published_at": "2026-10-18 08:55",
+      "sort_key": 1792313722.0,
+      "id": "1333122844866002467"
     },
     {
       "category": "int",
@@ -150,23 +178,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "7112330758966446595"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아의 다난타라 (Danantara) 는 시장 불확실성 속에서 자국 기업에 50억 달러 ($) 를 약속했다.",
-      "summary": "\"왜 우리는 구매자가 되지 않을까요?\"",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Fortune",
-          "url": "https://fortune.com/2026/10/16/danantara-5-billion-indonesia-stocks-msci/"
-        }
-      ],
-      "published_at": "2026-10-16 12:00",
-      "sort_key": 1792152000.0,
-      "id": "3807713025147628680"
+      "id": "2547117273171769279"
     },
     {
       "category": "pol",
@@ -186,7 +198,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "4051834584864490031"
+      "id": "7903554035979660734"
     },
     {
       "category": "pol",
@@ -202,7 +214,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "5579760171230120931"
+      "id": "7859192364279970832"
     },
     {
       "category": "tek",
@@ -230,7 +242,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "3976852174868932383"
+      "id": "7605451438975931217"
     },
     {
       "category": "liv",
@@ -250,7 +262,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3067270110448336973"
+      "id": "4395749511583767323"
     },
     {
       "category": "pol",
@@ -266,7 +278,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "1671964414841814343"
+      "id": "4281409968833248560"
     },
     {
       "category": "int",
@@ -282,7 +294,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "4288511059872954272"
+      "id": "8607579398783659667"
     },
     {
       "category": "liv",
@@ -298,7 +310,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "3875283196878838151"
+      "id": "2603579444206459425"
     },
     {
       "category": "liv",
@@ -314,7 +326,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "8002290687514026122"
+      "id": "1022327364573244324"
     },
     {
       "category": "pol",
@@ -330,7 +342,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "1089735163831507487"
+      "id": "6820467225911663896"
     },
     {
       "category": "pol",
@@ -346,7 +358,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "3920613056848752221"
+      "id": "4426340918151225077"
     },
     {
       "category": "int",
@@ -366,7 +378,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "4655123697438959592"
+      "id": "6260802145711635711"
     },
     {
       "category": "int",
@@ -382,7 +394,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "2257461224318738267"
+      "id": "3481407527969612725"
     },
     {
       "category": "int",
@@ -398,7 +410,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5308133304624240855"
+      "id": "5963703638852133615"
     },
     {
       "category": "tek",
@@ -414,14 +426,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "5002222358426812601"
+      "id": "6521605430282825281"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 4
+      "count": 5
     },
     {
       "id": "pol",
@@ -451,6 +463,10 @@
   ],
   "sources": [
     {
+      "name": "MarketScreener",
+      "count": 5
+    },
+    {
       "name": "The Star",
       "count": 4
     },
@@ -459,16 +475,12 @@
       "count": 4
     },
     {
-      "name": "MarketScreener",
-      "count": 3
-    },
-    {
       "name": "CNA",
       "count": 3
     },
     {
-      "name": "The Straits Times",
-      "count": 2
+      "name": "Moneycontrol",
+      "count": 1
     },
     {
       "name": "islnewstv.com",
@@ -491,19 +503,11 @@
       "count": 1
     },
     {
-      "name": "파이낸셜뉴스",
-      "count": 1
-    },
-    {
       "name": "VOI.ID",
       "count": 1
     },
     {
-      "name": "The Indian Express",
-      "count": 1
-    },
-    {
-      "name": "Fortune",
+      "name": "Kompas.id",
       "count": 1
     },
     {
@@ -523,6 +527,10 @@
       "count": 1
     },
     {
+      "name": "The Straits Times",
+      "count": 1
+    },
+    {
       "name": "Reuters",
       "count": 1
     },
@@ -535,6 +543,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-19 20:42:56",
+  "last_updated": "2026-10-20 00:03:36",
   "errors": {}
 }
