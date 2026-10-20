@@ -8,13 +8,45 @@
       "type": "news",
       "sources": [
         {
-          "name": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0o1S2J0ZUFSRmdTSDlQLVk0WkMtVjRMdWtFZ003WHVERC11WDJVeWxOZ0tFdzdrNGwtMWFYekFUb3Nvb0xPdlRqd2dkbTBPMFhLSjhqZ1dVZWM5RjdfeTUwQ21hYS1vLV9vYUhKTWgxZ1ZnY2lGa0RPdDkwSjV1Tm1sOXZzckNyZmtOcm05VmtOU1VNdVRYTjgyRWFhVFpVQ1NhVWZTNWwwM015V3QwQkstN2pNeUpaV05LUnhqTHpkdnozU1RWczg1RV80dTRVWFJxbUpEZDZwR0pRZFhrcTdR?oc=5"
+          "name": "STT Info",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQmUzNWJFN1Bra1dFTEZxcFBRQW5CTkVJS1gxMEFHbTdYekx3dnJfNy1hdmFoTFhhMlZKV2lXSXJkQjJuU2lXbE5lVVRnV0ljT3lGQVdTcy1WZ0dvRGRrcUFlSzRDTUc4azFMd1BWUS1CbWxRYlNqdVBpQ3JMazBUR3FueGdVVXp6Z2ZNd0IwRFhCbnhxSjk4VHlLS1M1VE5iczVYLThWV0tmZk9jWTFPUzd0OTN1VkhvbWpZb1g2UmgzODEycDdKb1M5RzVCdTZ1N1FSdVJBd3VkT0ZpOWFzQndwY0pRV0dVVUJkaGdoWTRsUQ?oc=5"
         }
       ],
       "published_at": "2026-10-20 08:00",
       "sort_key": 1792483200.0,
-      "id": "3974935030750804792"
+      "id": "9215803165545206749"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아, 주요 지수에서 꽉 잡힌 주식 제거",
+      "summary": "인도네시아는 소유권이 집중된 주식을 벤치마크 주식 지수에서 제거할 것이며, 이는 MSCI Inc. 가 시장 상태를 하향 조정하는 것을 막기 위한 최근의 노력입니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/market/indonesia-to-remove-tightly-held-stocks-from-key-index-11792461519157.html"
+        }
+      ],
+      "published_at": "2026-10-20 01:58",
+      "sort_key": 1792461518.0,
+      "id": "386504198978922634"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 증권거래소는 변동성을 식히기 위해 더 많은 주식에 대한 하한선을 줄입니다",
+      "summary": "인도네시아 증권거래소\n화요일에 자동 거부 하한을 1로 줄였습니다.\n11 루피아 대 14 루피아 가격의 주식에 대해 7% 에서 루피아\nmSCI가 매각을 위협한 후 매각을 길들이는 것을 목표로 하는 범위...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-stock-exchange-cuts-lower-limit-for-more-stocks-to-cool-volatility-ce785cdbde8bf12d"
+        }
+      ],
+      "published_at": "2026-10-20 01:32",
+      "sort_key": 1792459934.0,
+      "id": "5154801310300689992"
     },
     {
       "category": "eco",
@@ -26,15 +58,11 @@
         {
           "name": "Malay Mail",
           "url": "https://www.malaymail.com/news/money/2026/10/19/indonesia-market-sinks-to-2020-levels-on-threat-of-msci-demotion/239787"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-stocks-slump-to-lowest-level-since-2020-on-msci-warning-update-ce785cdbd98af42d"
         }
       ],
       "published_at": "2026-10-19 12:04",
       "sort_key": 1792411455.0,
-      "id": "3914045616670129790"
+      "id": "8881952674189359716"
     },
     {
       "category": "eco",
@@ -50,7 +78,7 @@
       ],
       "published_at": "2026-10-19 11:47",
       "sort_key": 1792410420.0,
-      "id": "6559833846034354502"
+      "id": "535484782597116239"
     },
     {
       "category": "car",
@@ -66,7 +94,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "1732230641071341836"
+      "id": "6231422557253018813"
     },
     {
       "category": "eco",
@@ -82,7 +110,7 @@
       ],
       "published_at": "2026-10-19 10:20",
       "sort_key": 1792405257.0,
-      "id": "2015645341417177297"
+      "id": "1642394052457034139"
     },
     {
       "category": "car",
@@ -98,7 +126,7 @@
       ],
       "published_at": "2026-10-19 09:48",
       "sort_key": 1792403292.0,
-      "id": "7769847889634770158"
+      "id": "2324509403480808233"
     },
     {
       "category": "eco",
@@ -114,39 +142,23 @@
       ],
       "published_at": "2026-10-19 09:12",
       "sort_key": 1792401173.0,
-      "id": "6861037434991291691"
+      "id": "3202856428050234067"
     },
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "BYD, 인도네시아에 '9분 충전' 생태계 수출, 현대차와 한국산 배터리를 동남아시아의 뒷발로 내딛다",
+      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
       "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcktBN09XRjhRUFBlc1ZoVFEzWmQ1U1EwTEl1M25nNU1xQXJ1dk55TXdoT3MyVFV5S0d1Rnh2Q2pnLTFUbFBWa1hhNkdpajBYc1FNU29fVFRycVdfQXlEa1M1LVdJcUxfWFNBaG5YNjZ3QW5qWXc?oc=5"
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
         }
       ],
-      "published_at": "2026-10-19 07:55",
-      "sort_key": 1792396500.0,
-      "id": "3281689436776160420"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "글로벌 시장: 다운그레이드 경고가 시장 경로를 트리거한 후 MSCI를 충족하기 위한 인도네시아 증권 거래소",
-      "summary": "인도네시아 증권 거래소는 월요일에 MSCI를 만나 신흥 시장 지위를 박탈할 수 있는 경고에 대해 명확히 할 것입니다. 이 위협은 금요일에 시가 총액에서 $ 650억을 없애는 급격한 매각을 촉발했습니다. 하향 조정은 외국인 자금 유출을 촉진하고 인도네시아 주식에 대한 투자자의 참여를 약화시킬 수 있습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms"
-        }
-      ],
-      "published_at": "2026-10-19 07:45",
-      "sort_key": 1792395900.0,
-      "id": "5189682732969328069"
+      "published_at": "2026-10-19 07:18",
+      "sort_key": 1792394304.0,
+      "id": "656464128716483608"
     },
     {
       "category": "car",
@@ -162,7 +174,7 @@
       ],
       "published_at": "2026-10-19 07:15",
       "sort_key": 1792394114.0,
-      "id": "1901937333770222804"
+      "id": "9100701282921664371"
     },
     {
       "category": "int",
@@ -178,7 +190,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "8606448631792331016"
+      "id": "5619225696039563209"
     },
     {
       "category": "pol",
@@ -198,7 +210,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "4982184473605963654"
+      "id": "1943107421116167454"
     },
     {
       "category": "pol",
@@ -214,7 +226,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "8159300259324504109"
+      "id": "8878667921819910283"
     },
     {
       "category": "tek",
@@ -242,7 +254,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7126262152477300020"
+      "id": "2175999250682883483"
     },
     {
       "category": "liv",
@@ -262,7 +274,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3206418779822899182"
+      "id": "940383131906485376"
     },
     {
       "category": "pol",
@@ -278,7 +290,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "8636799795446567224"
+      "id": "7733859540085007426"
     },
     {
       "category": "int",
@@ -294,7 +306,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "1056666552031569318"
+      "id": "254054446549235882"
     },
     {
       "category": "liv",
@@ -310,7 +322,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "2781429467445834342"
+      "id": "2379678617631972107"
     },
     {
       "category": "liv",
@@ -326,7 +338,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "3641106410889381376"
+      "id": "1367506103587860477"
     },
     {
       "category": "pol",
@@ -342,7 +354,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "3507185475549229337"
+      "id": "6869424365800438286"
     },
     {
       "category": "pol",
@@ -358,7 +370,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "139252770850925324"
+      "id": "7021589274693649402"
     },
     {
       "category": "int",
@@ -378,7 +390,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "7456947235981623391"
+      "id": "7116964771977682694"
     },
     {
       "category": "int",
@@ -394,7 +406,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "3016004146804669940"
+      "id": "5761537063494966532"
     },
     {
       "category": "int",
@@ -410,7 +422,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6094780152468546429"
+      "id": "5104649233033670506"
     },
     {
       "category": "tek",
@@ -426,14 +438,14 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "7817207204396978349"
+      "id": "6271366295812598762"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 5
+      "count": 6
     },
     {
       "id": "pol",
@@ -463,11 +475,11 @@
   ],
   "sources": [
     {
-      "name": "Malay Mail",
+      "name": "MarketScreener",
       "count": 5
     },
     {
-      "name": "MarketScreener",
+      "name": "Malay Mail",
       "count": 5
     },
     {
@@ -479,7 +491,11 @@
       "count": 3
     },
     {
-      "name": "Business Wire",
+      "name": "STT Info",
+      "count": 1
+    },
+    {
+      "name": "Livemint",
       "count": 1
     },
     {
@@ -495,11 +511,7 @@
       "count": 1
     },
     {
-      "name": "BigGo Finance",
-      "count": 1
-    },
-    {
-      "name": "The Economic Times",
+      "name": "파이낸셜뉴스",
       "count": 1
     },
     {
@@ -539,6 +551,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-20 09:44:38",
+  "last_updated": "2026-10-20 14:35:39",
   "errors": {}
 }
