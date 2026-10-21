@@ -1,56 +1,76 @@
 {
   "items": [
     {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 은행, 주택, 차량에 대한 계약금 제로 정책 2027년으로 확대",
-      "summary": "",
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "GIC, Temasek은 MSCI가 인도네시아 시장을 하향 조정하도록 압력을 가했다는 주장을 부인합니다.",
+      "summary": "인도네시아의 무하마드 루티 (Muhammad Lutfi) 전 무역장관은 이번 주에 싱가포르 주 투자자들이 인도네시아 주가를 하락시키려는 음모에 연루됐다고 주장했다.",
       "type": "news",
       "sources": [
         {
-          "name": "Jakarta Globe",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHlLTlJKNUc5aWZWZkdKU3dUMWszaDRXU3p3ZEpPSzVaNHBtel96NjY4R0h2ek90N2xKZWhtQUxkb3pURTQ3MUJNVFo1ZzdRcUZiMDlIUk51bXh1WnZZdWhqZHU5U1NBVEY4UXpVMFlEbXV5VTJ6cjgxVGZ4a1p6c2daSTRSQ21uOTV1UExydFY1d05tWDFtS01fNDFobUlFQkc5Vkk4dE5IYVE?oc=5"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/gic-indonesia-temasek-stock-market-msci-6478261"
         }
       ],
-      "published_at": "2026-10-21 12:00",
-      "sort_key": 1792584000.0,
-      "id": "1447323241286281732"
+      "published_at": "2026-10-21 09:46",
+      "sort_key": 1792575999.0,
+      "id": "3320853037398410617"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "Minesto는 인도네시아의 조력 에너지 개발을 가속화하기 위해 정부가 지원하는 스웨덴-인도네시아 지속가능성 파트너십에 선정되었습니다.",
+      "summary": "/PRNewswire/-- 선도적인 해양 에너지 개발업체인 Minesto가 스웨덴-인도네시아 지속가능성 파트너십 (SISP) 에 참여하도록 선정되었습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "PR Newswire UK",
+          "url": "https://www.prnewswire.co.uk/news-releases/minesto-selected-for-government-backed-swedenindonesia-sustainability-partnership-to-accelerate-tidal-energy-development-in-indonesia-302915192.html"
+        }
+      ],
+      "published_at": "2026-10-21 08:10",
+      "sort_key": 1792570200.0,
+      "id": "7521609863560326763"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 중앙은행은 주금리를 변동 없이 유지하며, 예금 금리를 인상합니다.",
-      "summary": "인도네시아 중앙은행은 수요일 4회 연속 정책 검토를 위해 주요 금리를 변경하지 않았지만, 예금 설비 금리를 인상했다. 인도네시아 주식 시장은...",
+      "summary": "자카르타: 인도네시아 중앙은행은 수요일에 네 번째 연속 정책 검토를 위해 주요 금리를 변경하지 않았지만, 예금 시설 금리를 인상했다. 왜냐하면 인도네시아의 주식 시장은 기록적인 이틀 루트를 보았고 루피아 통화는 사상 최저치를 기록했기 때문이다.",
       "type": "news",
       "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/10/21/indonesia039s-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate"
+        },
         {
           "name": "MarketScreener",
           "url": "https://www.marketscreener.com/news/indonesia-s-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate-ce785cd8de80f722"
         }
       ],
-      "published_at": "2026-10-21 07:00",
-      "sort_key": 1792566029.0,
-      "id": "2688614372827544020"
+      "published_at": "2026-10-21 07:42",
+      "sort_key": 1792568520.0,
+      "id": "1511279085538059762"
     },
     {
       "category": "car",
       "category_label": "자동차",
       "title": "인도네시아 자동차 부문의 Infobip 및 Yamaha Power 대화형 고객 참여",
-      "summary": "",
+      "summary": "자카르타 [인도네시아], 10월 21일: 글로벌 클라우드 커뮤니케이션 플랫폼 Infobip은 Yamaha Indonesia Motor Manufacturing (YIMM) 과의 협력을 강화하여 더 강력한 개인화와 더 빠른 고객 상호 작용을 유도하도록 설계된 WhatsApp 기반 대화 경험을 통해 고객 참여를 변화시킵니다.",
       "type": "news",
       "sources": [
         {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLVlEZzYtMnZaU1l6RzZmUHo1QmFXQW1rbWFtR1FSMDNnTFhZNXpVSGRTLUxBLXU2c0xnMGVCUmQwQVN6Sl9UX040QkRJbTFIY2ZKdWpzYnZLR0R0cVJuVlctdFB5N0ZXRGtSQldrSVhvSUU5b1Z1Y2VOZW9rREZuNFFSMUJhTFJWbWNJeWE0ZmhNOXZXOVJ1cWIzT2tXQ1pYOHVGWjRueGI2QmNhTlQ4ZUh0UTdnS3VRWGRHX1QxRkJWVjdrbXRkdzYzbWNSTU1IcE9KWDRSRWVOTV9EbVBYM1F4aHIxQTQ?oc=5"
+          "name": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/business/infobip-and-yamaha-power-conversational-customer-engagement-in-indonesias-automotive-sector/"
         },
         {
-          "name": "01net",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZWazZQenFsMUtkM3daSll6OXRmd3F0VVZFaTJDYnpUMG9Dam9xNTdhbS1GUFZtdy12eS1JcVdpQTQwaHZJTHZPY3JId0NBM3hxV0FxRXNFN2JhUE9PandqU1hBZkV6aEtmWlpCWTlodGw2LS1PMWpha0lqS1F3VTBPZG1jeFd5R0NuR1RGSm9JWENYM2xJMW9qWURWWTNtamtFd203R0tOY1FMRE1SNVdpOA?oc=5"
+          "name": "ANI (Asian News International)",
+          "url": "https://www.aninews.in/news/business/infobip-and-yamaha-power-conversational-customer-engagement-in-indonesias-automotive-sector20261021125526/"
         }
       ],
-      "published_at": "2026-10-21 07:00",
-      "sort_key": 1792566000.0,
-      "id": "2005974711263914211"
+      "published_at": "2026-10-21 07:29",
+      "sort_key": 1792567762.0,
+      "id": "488195977106899237"
     },
     {
       "category": "eco",
@@ -66,23 +86,7 @@
       ],
       "published_at": "2026-10-20 13:56",
       "sort_key": 1792504610.0,
-      "id": "3058136808645113093"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Chicho Lorenzo는 MotoGP 규정을 폭파하고 인도네시아 gp 이후 Jorge Martín의 타이틀 기회를 방어합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Motorcycle Sports",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWlJyMEhyc0FkVFZ1dUNuNkxQUTV4YW9NTF9HS3NBU2RSLU5vTHNwQTJ0MmR6SFhDYUMycUVlYmgtLXUxZUQ1YmJnakp4c0tWUnZaT0FKaFB6UnNQcjY3Qm9oSVRLWG1oWnU3ZzZyRmtlbVpmWFdHTTZIR1Y1S0ZvSHY2SkZaM1NWd2F2dV9LS2tNY1V0Qk5JMGlVTUpuVkJadko2QlFHSnN2UXZWUU9BMm5qOHdJYzdmLURUMzh0dmEwMGdnNUl1RQ?oc=5"
-        }
-      ],
-      "published_at": "2026-10-20 10:29",
-      "sort_key": 1792492189.0,
-      "id": "3086014093104879088"
+      "id": "2020066904001686977"
     },
     {
       "category": "eco",
@@ -98,7 +102,7 @@
       ],
       "published_at": "2026-10-20 10:26",
       "sort_key": 1792491962.0,
-      "id": "6499398558470022852"
+      "id": "367186762312461524"
     },
     {
       "category": "eco",
@@ -110,47 +114,11 @@
         {
           "name": "Devdiscourse",
           "url": "https://www.devdiscourse.com/article/international/3995113-indonesia-battles-to-stabilise-market-after-msci-expulsion-threat"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-stems-market-rout-ignited-by-msci-expulsion-threat-ce785cdbde8df22c"
         }
       ],
       "published_at": "2026-10-20 09:03",
       "sort_key": 1792487001.0,
-      "id": "21352819238262509"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "시장 수정에 대한 의문이 지속되면서 인도네시아 주식이 반등하고 있습니다.",
-      "summary": "자카르타 종합 지수는 최대 4.3% 상승하여 1989년 이후 가장 가파른 약 15% 의 이틀간의 급락을 기록했습니다. 반등 후에도 인도네시아는 여전히 세계 최악의 주식 시장이다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Moneycontrol",
-          "url": "https://www.moneycontrol.com/news/business/markets/indonesia-stocks-rebound-as-questions-persist-over-market-fix-14055917.html"
-        },
-        {
-          "name": "SFGATE",
-          "url": "https://www.sfgate.com/news/world/article/stocks-rebound-after-tech-sell-off-and-indonesia-22479734.php"
-        },
-        {
-          "name": "WDIV ClickOnDetroit",
-          "url": "https://www.clickondetroit.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
-        },
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/news/business/articles/2026-10-16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
-        }
-      ],
-      "published_at": "2026-10-20 06:14",
-      "sort_key": 1792476858.0,
-      "id": "2079448832404501173"
+      "id": "2648671875345197976"
     },
     {
       "category": "int",
@@ -166,7 +134,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "1314764599263294868"
+      "id": "3698348206245466177"
     },
     {
       "category": "pol",
@@ -186,7 +154,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "3799893208337534340"
+      "id": "3942827364890652001"
     },
     {
       "category": "pol",
@@ -202,7 +170,35 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "8288539399148135719"
+      "id": "1007884083533006328"
+    },
+    {
+      "category": "tek",
+      "category_label": "테크·산업",
+      "title": "기술 매도 후 주가 반등 및 인도네시아 주식 시장 하향 조정 경고",
+      "summary": "아시아 주식은 대부분 월스트리트의 이익 이후 반등했고, 기술 매도세가 주가를 끌어 올린 지 하루 만에 반등했다. 지수 제공업체 MSCI가 경고한 후 인도네시아의 주식 시장은 금요일 급락했습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "url": "https://www.sfgate.com/news/world/article/stocks-rebound-after-tech-sell-off-and-indonesia-22479734.php"
+        },
+        {
+          "name": "WDIV ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/business/2026/10/16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning/"
+        },
+        {
+          "name": "U.S. News & World Report",
+          "url": "https://www.usnews.com/news/business/articles/2026-10-16/stocks-rebound-after-tech-sell-off-and-indonesia-shares-sink-on-market-downgrade-warning"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html"
+        }
+      ],
+      "published_at": "2026-10-16 06:08",
+      "sort_key": 1792130898.0,
+      "id": "8462949608270828145"
     },
     {
       "category": "liv",
@@ -222,7 +218,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "7188718135747518002"
+      "id": "3203393000838420364"
     },
     {
       "category": "pol",
@@ -238,7 +234,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "3453162399361923224"
+      "id": "7922968255700112908"
     },
     {
       "category": "int",
@@ -254,7 +250,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5521784673273397407"
+      "id": "5329968229628970750"
     },
     {
       "category": "liv",
@@ -270,7 +266,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "2738071362301903734"
+      "id": "3505346222745200403"
     },
     {
       "category": "liv",
@@ -286,7 +282,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6420369038759752077"
+      "id": "8155843770537490656"
     },
     {
       "category": "pol",
@@ -302,23 +298,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "5649742326757316571"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 헌법재판소는 교육 자격에 대한 부통령의 도전을 기각합니다.",
-      "summary": "자카르타: 인도네시아 헌법재판소는 지브란 라카부밍 라카 (Gibran Rakabuming Raka) 부통령의 2024년 대선 후보자 교육 문서가 불완전했지만, 그의 공직 자격을 박탈하지 않았고 그의 자격에 대한 평가를 다른 기관에 맡겼다고 밝혔다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/07/indonesia039s-constitutional-court-dismisses-challenge-to-vice-president-over-education-credentials"
-        }
-      ],
-      "published_at": "2026-10-07 02:28",
-      "sort_key": 1791340080.0,
-      "id": "581232136969596372"
+      "id": "2409649061744662602"
     },
     {
       "category": "int",
@@ -338,7 +318,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "866826094346710767"
+      "id": "6206461771092709161"
     },
     {
       "category": "int",
@@ -354,7 +334,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "9135384640499430908"
+      "id": "4384302692503495177"
     },
     {
       "category": "int",
@@ -370,7 +350,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6164535175336555470"
+      "id": "5419010472263770192"
     },
     {
       "category": "tek",
@@ -386,7 +366,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "8571950947671235511"
+      "id": "8530417881519049283"
     }
   ],
   "categories": [
@@ -403,12 +383,12 @@
     {
       "id": "tek",
       "label": "테크·산업",
-      "count": 1
+      "count": 2
     },
     {
       "id": "car",
       "label": "자동차",
-      "count": 3
+      "count": 1
     },
     {
       "id": "int",
@@ -423,11 +403,15 @@
   ],
   "sources": [
     {
-      "name": "MarketScreener",
-      "count": 5
+      "name": "CNA",
+      "count": 4
     },
     {
       "name": "The Star",
+      "count": 4
+    },
+    {
+      "name": "MarketScreener",
       "count": 4
     },
     {
@@ -435,19 +419,15 @@
       "count": 4
     },
     {
-      "name": "CNA",
-      "count": 3
+      "name": "ANI (Asian News International)",
+      "count": 2
     },
     {
-      "name": "Jakarta Globe",
+      "name": "PR Newswire UK",
       "count": 1
     },
     {
-      "name": "PR Newswire",
-      "count": 1
-    },
-    {
-      "name": "01net",
+      "name": "The Tribune",
       "count": 1
     },
     {
@@ -455,15 +435,7 @@
       "count": 1
     },
     {
-      "name": "Motorcycle Sports",
-      "count": 1
-    },
-    {
       "name": "Devdiscourse",
-      "count": 1
-    },
-    {
-      "name": "Moneycontrol",
       "count": 1
     },
     {
@@ -493,12 +465,8 @@
     {
       "name": "Yardbarker",
       "count": 1
-    },
-    {
-      "name": "ANI (Asian News International)",
-      "count": 1
     }
   ],
-  "last_updated": "2026-10-21 19:21:30",
+  "last_updated": "2026-10-21 22:41:42",
   "errors": {}
 }
