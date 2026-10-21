@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아 자동차 부문의 Infobip 및 Yamaha Power 대화형 고객 참여",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLVlEZzYtMnZaU1l6RzZmUHo1QmFXQW1rbWFtR1FSMDNnTFhZNXpVSGRTLUxBLXU2c0xnMGVCUmQwQVN6Sl9UX040QkRJbTFIY2ZKdWpzYnZLR0R0cVJuVlctdFB5N0ZXRGtSQldrSVhvSUU5b1Z1Y2VOZW9rREZuNFFSMUJhTFJWbWNJeWE0ZmhNOXZXOVJ1cWIzT2tXQ1pYOHVGWjRueGI2QmNhTlQ4ZUh0UTdnS3VRWGRHX1QxRkJWVjdrbXRkdzYzbWNSTU1IcE9KWDRSRWVOTV9EbVBYM1F4aHIxQTQ?oc=5"
+        },
+        {
+          "name": "01net",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZWazZQenFsMUtkM3daSll6OXRmd3F0VVZFaTJDYnpUMG9Dam9xNTdhbS1GUFZtdy12eS1JcVdpQTQwaHZJTHZPY3JId0NBM3hxV0FxRXNFN2JhUE9PandqU1hBZkV6aEtmWlpCWTlodGw2LS1PMWpha0lqS1F3VTBPZG1jeFd5R0NuR1RGSm9JWENYM2xJMW9qWURWWTNtamtFd203R0tOY1FMRE1SNVdpOA?oc=5"
+        }
+      ],
+      "published_at": "2026-10-21 07:00",
+      "sort_key": 1792566000.0,
+      "id": "3121799184546580307"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "MSCI 촉발 사고로 인도네시아 경제를 뒤흔드는 숨겨진 위험 노출 | 그 이유",
@@ -14,23 +34,7 @@
       ],
       "published_at": "2026-10-20 13:56",
       "sort_key": 1792504610.0,
-      "id": "1000682383510832997"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 자동차 부문의 Infobip 및 Yamaha Power 대화형 고객 참여",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "01net",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZWazZQenFsMUtkM3daSll6OXRmd3F0VVZFaTJDYnpUMG9Dam9xNTdhbS1GUFZtdy12eS1JcVdpQTQwaHZJTHZPY3JId0NBM3hxV0FxRXNFN2JhUE9PandqU1hBZkV6aEtmWlpCWTlodGw2LS1PMWpha0lqS1F3VTBPZG1jeFd5R0NuR1RGSm9JWENYM2xJMW9qWURWWTNtamtFd203R0tOY1FMRE1SNVdpOA?oc=5"
-        }
-      ],
-      "published_at": "2026-10-20 11:00",
-      "sort_key": 1792494000.0,
-      "id": "4902924312015551959"
+      "id": "9102832985091542826"
     },
     {
       "category": "eco",
@@ -46,7 +50,7 @@
       ],
       "published_at": "2026-10-20 10:26",
       "sort_key": 1792491962.0,
-      "id": "3195190170090540298"
+      "id": "3540165131705714543"
     },
     {
       "category": "eco",
@@ -66,7 +70,7 @@
       ],
       "published_at": "2026-10-20 09:03",
       "sort_key": 1792487001.0,
-      "id": "2491565616856008434"
+      "id": "4468734911043612197"
     },
     {
       "category": "eco",
@@ -98,7 +102,7 @@
       ],
       "published_at": "2026-10-20 06:14",
       "sort_key": 1792476858.0,
-      "id": "4188535109958670592"
+      "id": "7884644521360503167"
     },
     {
       "category": "car",
@@ -114,55 +118,7 @@
       ],
       "published_at": "2026-10-19 10:42",
       "sort_key": 1792406520.0,
-      "id": "3217636622936492968"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아의 Marlip, Ingenium 파트너십을 통해 카메룬의 전기 자동차 시장 진출 계획",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Business in Cameroon",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY1Q4bTdjQ2c3MzJSZEp3SmdhR2Q1S3huS2VsYlNpMzVKczlJM1NnNzJaemRjTzdCSmNxV0hlODFpMEptY0JFODlqQ0oxWXlNNzVnQU11VkFsZXBDMU5ZTTRfYnNBR2hWWkhPZUlJMFplUDBuczdBVUZBQmlmdkpUMVQ0OHM4ZnYtRUM2WGFid2NaMkNiUk5OdzFraGVJSDBSY0dGVFIwVVNLaWxGWjZkcnBpaXVBdEUwS2t1Qmw4azIwSE40VEdxSWljWU9XLWFkNjhlRUxZaldKUUFWbjdqWmlRMVNFbFRvMjc0WnEtOFlWMkhJTFE?oc=5"
-        }
-      ],
-      "published_at": "2026-10-19 09:48",
-      "sort_key": 1792403292.0,
-      "id": "9079060659537273251"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "현대자동차의 인도네시아산 차량 수출은 29% 감소했고, 도요타를 포함한 일본 브랜드는 후발주자가 증가했다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IaEZCeU1LcEs3YnUyQ3hMbmE3MGdpYkpKU2QwWm5VU2RTcGhxN3JuUFFmMktfRi1KRWQ1OW4yMUlvaGpQYTl6SGtTeS1HLWFiTW9DVHZMeW0?oc=5"
-        }
-      ],
-      "published_at": "2026-10-19 07:18",
-      "sort_key": 1792394304.0,
-      "id": "2568116842739915499"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "독점 동영상, PERIKLINDO Moeldoko 회장: 인도네시아 전기 자동차의 미래와 국가 산업 과제",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQUXZZSERpZ0Nyc2poQ0VnbzZ4cDB2d0dhNjJxSlBxZUtEVG5HOUlFcEtxOG1xdkp1RUtrRFM0WlFMUQ?oc=5"
-        }
-      ],
-      "published_at": "2026-10-19 07:15",
-      "sort_key": 1792394114.0,
-      "id": "7422480087569605618"
+      "id": "4178836948137851549"
     },
     {
       "category": "int",
@@ -178,7 +134,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "2855371849621536597"
+      "id": "8121039083930538367"
     },
     {
       "category": "pol",
@@ -198,7 +154,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "112609294466318353"
+      "id": "8294884999411363671"
     },
     {
       "category": "pol",
@@ -214,7 +170,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "2679836342916732846"
+      "id": "2210303900558986092"
     },
     {
       "category": "liv",
@@ -234,7 +190,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "5639937049261254850"
+      "id": "8004976309766710155"
     },
     {
       "category": "pol",
@@ -250,7 +206,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "6773470279837902904"
+      "id": "8172904679933859395"
     },
     {
       "category": "int",
@@ -266,7 +222,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5740931322302478562"
+      "id": "4299503850390629785"
     },
     {
       "category": "liv",
@@ -282,7 +238,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "7507032813490503102"
+      "id": "142275624045414662"
     },
     {
       "category": "liv",
@@ -298,7 +254,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "1188730433673920478"
+      "id": "5898485932044912181"
     },
     {
       "category": "pol",
@@ -314,7 +270,7 @@
       ],
       "published_at": "2026-10-07 08:39",
       "sort_key": 1791362394.0,
-      "id": "8484169956891830377"
+      "id": "2431139874326594756"
     },
     {
       "category": "pol",
@@ -330,7 +286,7 @@
       ],
       "published_at": "2026-10-07 02:28",
       "sort_key": 1791340080.0,
-      "id": "8523568627775452532"
+      "id": "3279086577225776484"
     },
     {
       "category": "int",
@@ -350,7 +306,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "5522106396631550703"
+      "id": "7777972801789570980"
     },
     {
       "category": "int",
@@ -366,7 +322,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "768365584110011013"
+      "id": "2067561399146546358"
     },
     {
       "category": "int",
@@ -382,7 +338,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "8617187939277108262"
+      "id": "7332436192267887292"
     },
     {
       "category": "tek",
@@ -398,7 +354,7 @@
       ],
       "published_at": "2026-09-21 04:32",
       "sort_key": 1789965162.0,
-      "id": "3447013456518617353"
+      "id": "2802875684437763787"
     }
   ],
   "categories": [
@@ -420,7 +376,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 5
+      "count": 2
     },
     {
       "id": "int",
@@ -451,11 +407,15 @@
       "count": 3
     },
     {
-      "name": "NDTV Profit",
+      "name": "PR Newswire",
       "count": 1
     },
     {
       "name": "01net",
+      "count": 1
+    },
+    {
+      "name": "NDTV Profit",
       "count": 1
     },
     {
@@ -487,18 +447,6 @@
       "count": 1
     },
     {
-      "name": "Business in Cameroon",
-      "count": 1
-    },
-    {
-      "name": "파이낸셜뉴스",
-      "count": 1
-    },
-    {
-      "name": "VOI.ID",
-      "count": 1
-    },
-    {
       "name": "The Straits Times",
       "count": 1
     },
@@ -515,6 +463,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-21 05:15:05",
+  "last_updated": "2026-10-21 10:13:39",
   "errors": {}
 }
