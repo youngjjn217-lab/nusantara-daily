@@ -3,6 +3,30 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
+      "title": "글로벌 시장: 인도네시아, 주식 시장 위반에 대해 사상 최대 1억 1천 7백만 달러의 벌금 부과 ($ 117 million)",
+      "summary": "인도네시아 금융 규제 당국은 상장 회사 3곳과 관련된 거래 위반에 대해 2.1조 루피아 ($ 116.67 million) 의 사상 최대 벌금을 부과했습니다. 단속은 주가 조작 및 IPO 공개 위반을 목표로 하며, 신흥 시장 상태에서 인도네시아 주식의 잠재적 하향 조정에 대한 MSCI의 경고에 따라 시장 투명성에 대한 우려를 해결합니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-imposes-record-117-million-in-fines-for-stock-market-violations/articleshow/135105734.cms"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-issues-record-fines-companies-over-stock-market-violations-2026-10-22/"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3996060-indonesia-issues-record-fines-to-companies-over-stock-market-violations"
+        }
+      ],
+      "published_at": "2026-10-22 05:29",
+      "sort_key": 1792646940.0,
+      "id": "4215780976046148496"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
       "title": "Prabowo는 제안된 시장 하향 조정 중 인도네시아가 MSCI에 의해 위협받지 않을 것이라고 맹세합니다.",
       "summary": "자카르타; Prabowo Subianto 인도네시아 대통령은 인도네시아가 글로벌 지수 제공 업체 인 MSCI에 의해 위협받지 않을 것이라고 선언하고 그가 국가를 모욕하고 간섭했다고 비난 한 외국 권력에 매질했다. 지역적 안개 위기와 주식 시장 노선이 그의 대통령직에 2 년 동안 정부에 압력을 가했기 때문이다.",
       "type": "news",
@@ -10,15 +34,11 @@
         {
           "name": "The Star",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/22/prabowo-vows-indonesia-will-not-be-intimidated-by-msci-amid-proposed-market-downgrade"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade"
         }
       ],
       "published_at": "2026-10-22 03:09",
       "sort_key": 1792638540.0,
-      "id": "4804083714884489368"
+      "id": "3759925584303556120"
     },
     {
       "category": "eco",
@@ -34,27 +54,7 @@
       ],
       "published_at": "2026-10-22 02:07",
       "sort_key": 1792634820.0,
-      "id": "8297909717555920294"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아는 주식 시장 위반에 대해 기업에 기록적인 벌금을 부과합니다.",
-      "summary": "인도네시아의 금융 규제 당국은 상장된 세 회사의 거래 규칙을 위반한 것으로 밝혀진 당사자들에게 제재 서한을 전달했으며, 총 2조 1천억 루피아 ($ 116.67 million) 의 벌금이 부과되었다고 수요일 늦게 밝혔다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/indonesia-issues-record-fines-companies-over-stock-market-violations-2026-10-22/"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3996060-indonesia-issues-record-fines-to-companies-over-stock-market-violations"
-        }
-      ],
-      "published_at": "2026-10-22 01:23",
-      "sort_key": 1792632234.0,
-      "id": "2292012004446406263"
+      "id": "5084218425431523733"
     },
     {
       "category": "pol",
@@ -74,7 +74,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "2617373079453638389"
+      "id": "7406703928472860545"
     },
     {
       "category": "pol",
@@ -90,7 +90,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "4745455268259927501"
+      "id": "1107244327504653980"
     },
     {
       "category": "car",
@@ -110,7 +110,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "6611918695130205190"
+      "id": "3523906488137829552"
     },
     {
       "category": "int",
@@ -126,7 +126,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "5793037639972626761"
+      "id": "5184977516296825776"
     },
     {
       "category": "pol",
@@ -146,7 +146,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "8300414731517221356"
+      "id": "2364070265298364518"
     },
     {
       "category": "pol",
@@ -162,7 +162,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "5928173672630738077"
+      "id": "918975547346381039"
     },
     {
       "category": "tek",
@@ -190,7 +190,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "2187513224565735160"
+      "id": "7816257971776302791"
     },
     {
       "category": "liv",
@@ -210,7 +210,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3417286771469147923"
+      "id": "6354561232668466731"
     },
     {
       "category": "liv",
@@ -226,7 +226,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "4973143380349350664"
+      "id": "4609927239193423430"
     },
     {
       "category": "int",
@@ -242,7 +242,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "7083804263197341379"
+      "id": "5090375017546508763"
     },
     {
       "category": "liv",
@@ -258,7 +258,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "6770486210910300319"
+      "id": "24121934263838602"
     },
     {
       "category": "liv",
@@ -274,7 +274,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6863441542243773693"
+      "id": "5427282490715149726"
     },
     {
       "category": "int",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "2126336182455640519"
+      "id": "613189876566760948"
     },
     {
       "category": "int",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4561132489927924648"
+      "id": "5175502373690902723"
     },
     {
       "category": "int",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "2715065732630394869"
+      "id": "4969892201866176141"
     }
   ],
   "categories": [
@@ -375,16 +375,16 @@
       "count": 3
     },
     {
-      "name": "The Straits Times",
-      "count": 2
-    },
-    {
       "name": "Reuters",
       "count": 2
     },
     {
       "name": "MarketScreener",
       "count": 2
+    },
+    {
+      "name": "The Economic Times",
+      "count": 1
     },
     {
       "name": "Devdiscourse",
@@ -423,10 +423,14 @@
       "count": 1
     },
     {
+      "name": "The Straits Times",
+      "count": 1
+    },
+    {
       "name": "Yardbarker",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-22 16:37:16",
+  "last_updated": "2026-10-22 20:17:12",
   "errors": {}
 }
