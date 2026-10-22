@@ -3,6 +3,58 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
+      "title": "Prabowo는 제안된 시장 하향 조정 속에서 인도네시아가 MSCI에 의해 ‘겁먹지 않을 것' 이라고 맹세합니다.",
+      "summary": "MSCI의 경고는 인도네시아 주식의 급격한 이틀간의 주식 매도를 촉발했다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade"
+        },
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/money/2026/10/21/indonesias-prabowo-msci-is-trying-to-scare-us-over-market-downgrade-warning/240085"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/prabowo-accuses-msci-of-trying-to-intimidate-indonesia-after-market-rout-ce785cd9d98af32c"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3995724-prabowo-accuses-msci-of-trying-to-intimidate-indonesia-after-market-rout"
+        }
+      ],
+      "published_at": "2026-10-21 12:15",
+      "sort_key": 1792584900.0,
+      "id": "7230236038240611282"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "대통령은 독성 안개로 인도네시아를 ‘모욕’ 하는 국가들을 비난한다.",
+      "summary": "자카르타 - 인도네시아 대통령은 수요일 광활한 지역을 파괴한 산불로 국가를 모욕하고 이웃 국가에 유독한 연무를 분출한 \"모욕을 좋아하는 국가\" 를 상대로 맹공을 퍼부었다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/world/3341069/president-berates-countries-that-insult-indonesia-over-toxic-haze"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/president-prabowo-berates-countries-insult-indonesia-wildfires-haze-6478676"
+        }
+      ],
+      "published_at": "2026-10-21 10:45",
+      "sort_key": 1792579500.0,
+      "id": "3726962935668647051"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
       "title": "GIC, Temasek은 MSCI가 인도네시아 시장을 하향 조정하도록 압력을 가했다는 주장을 부인합니다.",
       "summary": "인도네시아의 무하마드 루티 (Muhammad Lutfi) 전 무역장관은 이번 주에 싱가포르 주 투자자들이 인도네시아 주가를 하락시키려는 음모에 연루됐다고 주장했다.",
       "type": "news",
@@ -14,7 +66,7 @@
       ],
       "published_at": "2026-10-21 09:46",
       "sort_key": 1792575999.0,
-      "id": "3320853037398410617"
+      "id": "8391248891000875441"
     },
     {
       "category": "pol",
@@ -30,27 +82,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "7521609863560326763"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 중앙은행은 주금리를 변동 없이 유지하며, 예금 금리를 인상합니다.",
-      "summary": "자카르타: 인도네시아 중앙은행은 수요일에 네 번째 연속 정책 검토를 위해 주요 금리를 변경하지 않았지만, 예금 시설 금리를 인상했다. 왜냐하면 인도네시아의 주식 시장은 기록적인 이틀 루트를 보았고 루피아 통화는 사상 최저치를 기록했기 때문이다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/business/business-news/2026/10/21/indonesia039s-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-s-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate-ce785cd8de80f722"
-        }
-      ],
-      "published_at": "2026-10-21 07:42",
-      "sort_key": 1792568520.0,
-      "id": "1511279085538059762"
+      "id": "8423451136501367477"
     },
     {
       "category": "car",
@@ -70,55 +102,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "488195977106899237"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "MSCI 촉발 사고로 인도네시아 경제를 뒤흔드는 숨겨진 위험 노출 | 그 이유",
-      "summary": "수년 동안 인도네시아는 젊은 인력, 꾸준한 경제 성장, 재정 규율에 대한 명성의 혜택을 누려 왔습니다. 이제 그 명성은 압박을 받고 있습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "NDTV Profit",
-          "url": "https://www.ndtvprofit.com/economy/msci-triggered-crash-exposes-hidden-risks-rattling-indonesias-economy-the-reason-why-12211468"
-        }
-      ],
-      "published_at": "2026-10-20 13:56",
-      "sort_key": 1792504610.0,
-      "id": "2020066904001686977"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "MSCI 인도네시아 지수의 주식",
-      "summary": "인덱스 제공 업체 인 MSCI는 내년에 인도네시아의 신흥 시장 지위를 박탈하고 독립형 분류로 옮길 수 있다고 경고했습니다. 독립형 분류는 9 개 회사에 직접적인 영향을 미칠 것입니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/stocks-in-the-msci-indonesia-index-ce785cd8d98df523"
-        }
-      ],
-      "published_at": "2026-10-20 10:26",
-      "sort_key": 1792491962.0,
-      "id": "367186762312461524"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아는 MSCI 축출 위협 이후 시장 안정화를 위해 싸운다.",
-      "summary": "Devdiscourse에 대한 MSCI 퇴출 위협 이후 시장 안정화를 위한 인도네시아 전투에 대해 자세히 알아보기",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3995113-indonesia-battles-to-stabilise-market-after-msci-expulsion-threat"
-        }
-      ],
-      "published_at": "2026-10-20 09:03",
-      "sort_key": 1792487001.0,
-      "id": "2648671875345197976"
+      "id": "1313661215175991778"
     },
     {
       "category": "int",
@@ -134,7 +118,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "3698348206245466177"
+      "id": "7331561412750835833"
     },
     {
       "category": "pol",
@@ -154,7 +138,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "3942827364890652001"
+      "id": "4397561444085946688"
     },
     {
       "category": "pol",
@@ -170,7 +154,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "1007884083533006328"
+      "id": "6633261211248486427"
     },
     {
       "category": "tek",
@@ -198,7 +182,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "8462949608270828145"
+      "id": "6619743297233032171"
     },
     {
       "category": "liv",
@@ -218,11 +202,11 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3203393000838420364"
+      "id": "2454396117512159813"
     },
     {
-      "category": "pol",
-      "category_label": "정치·사회",
+      "category": "liv",
+      "category_label": "생활·환경",
       "title": "인도네시아, Prabowo 대통령의 세 번째 개편에서 한 달 만에 새로운 재난 기관장 임명",
       "summary": "최근의 개편은 10월 1일에 새로운 외교 및 산업 장관과 다른 8명의 기관 및 경찰 고위 지도자의 임명을 본 개편에 따른 것입니다.",
       "type": "news",
@@ -234,7 +218,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "7922968255700112908"
+      "id": "2445747064258023579"
     },
     {
       "category": "int",
@@ -250,7 +234,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "5329968229628970750"
+      "id": "253095407983587102"
     },
     {
       "category": "liv",
@@ -266,7 +250,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "3505346222745200403"
+      "id": "4021772771783060150"
     },
     {
       "category": "liv",
@@ -282,23 +266,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "8155843770537490656"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 정부는 보르네오 안개에 대한 ‘중과실’ 소송에 직면해 있습니다.",
-      "summary": "폰티아낙, 10월 7일 — 인도네시아 정부가 오늘 대통령과 다른 관리들을 상대로 유독한 연무로 열린 법정에서 \"중과실\" 혐의로 기소되었습니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/world/2026/10/07/indonesia-government-faces-gross-negligence-lawsuit-over-borneo-haze/238115"
-        }
-      ],
-      "published_at": "2026-10-07 08:39",
-      "sort_key": 1791362394.0,
-      "id": "2409649061744662602"
+      "id": "5157191416261135242"
     },
     {
       "category": "int",
@@ -318,7 +286,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "6206461771092709161"
+      "id": "1749494257898828171"
     },
     {
       "category": "int",
@@ -334,7 +302,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4384302692503495177"
+      "id": "5256185047398252525"
     },
     {
       "category": "int",
@@ -350,40 +318,24 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "5419010472263770192"
-    },
-    {
-      "category": "tek",
-      "category_label": "테크·산업",
-      "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ANI (Asian News International)",
-          "url": "https://www.aninews.in/news/business/01f-group-announces-investment-in-dana-indonesias-leading-digital-financial-company-reinforcing-long-term-confidence-in-asias-fintech-opportunity20260921100242/"
-        }
-      ],
-      "published_at": "2026-09-21 04:32",
-      "sort_key": 1789965162.0,
-      "id": "8530417881519049283"
+      "id": "848638145892958542"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 5
+      "count": 2
     },
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 5
+      "count": 4
     },
     {
       "id": "tek",
       "label": "테크·산업",
-      "count": 2
+      "count": 1
     },
     {
       "id": "car",
@@ -398,29 +350,37 @@
     {
       "id": "liv",
       "label": "생활·환경",
-      "count": 3
+      "count": 4
     }
   ],
   "sources": [
     {
       "name": "CNA",
-      "count": 4
-    },
-    {
-      "name": "The Star",
-      "count": 4
-    },
-    {
-      "name": "MarketScreener",
-      "count": 4
+      "count": 6
     },
     {
       "name": "Malay Mail",
       "count": 4
     },
     {
-      "name": "ANI (Asian News International)",
+      "name": "MarketScreener",
+      "count": 3
+    },
+    {
+      "name": "The Star",
+      "count": 3
+    },
+    {
+      "name": "The Straits Times",
       "count": 2
+    },
+    {
+      "name": "Devdiscourse",
+      "count": 1
+    },
+    {
+      "name": "Bangkok Post",
+      "count": 1
     },
     {
       "name": "PR Newswire UK",
@@ -431,11 +391,7 @@
       "count": 1
     },
     {
-      "name": "NDTV Profit",
-      "count": 1
-    },
-    {
-      "name": "Devdiscourse",
+      "name": "ANI (Asian News International)",
       "count": 1
     },
     {
@@ -455,10 +411,6 @@
       "count": 1
     },
     {
-      "name": "The Straits Times",
-      "count": 1
-    },
-    {
       "name": "Reuters",
       "count": 1
     },
@@ -467,6 +419,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-21 22:41:42",
+  "last_updated": "2026-10-22 01:07:20",
   "errors": {}
 }
