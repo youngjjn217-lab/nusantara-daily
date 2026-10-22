@@ -3,38 +3,58 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "Prabowo는 제안된 시장 하향 조정 속에서 인도네시아가 MSCI에 의해 ‘겁먹지 않을 것' 이라고 맹세합니다.",
-      "summary": "자카르타: Prabowo Subianto 대통령은 인도네시아가 글로벌 지수 제공 업체 인 MSCI에 협박당하지 않을 것이라고 선언하고 그가 국가를 모욕하고 간섭한다고 비난 한 외국 권력에 매질했다. 지역적 안개 위기와 주식 시장 노선이 그의 대통령직에 2 년 동안 정부에 압력을 가했기 때문이다.",
+      "title": "Prabowo는 제안된 시장 하향 조정 중 인도네시아가 MSCI에 의해 위협받지 않을 것이라고 맹세합니다.",
+      "summary": "자카르타; Prabowo Subianto 인도네시아 대통령은 인도네시아가 글로벌 지수 제공 업체 인 MSCI에 의해 위협받지 않을 것이라고 선언하고 그가 국가를 모욕하고 간섭했다고 비난 한 외국 권력에 매질했다. 지역적 안개 위기와 주식 시장 노선이 그의 대통령직에 2 년 동안 정부에 압력을 가했기 때문이다.",
       "type": "news",
       "sources": [
         {
           "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/21/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade"
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/22/prabowo-vows-indonesia-will-not-be-intimidated-by-msci-amid-proposed-market-downgrade"
         },
         {
           "name": "The Straits Times",
           "url": "https://www.straitstimes.com/asia/se-asia/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade"
-        },
+        }
+      ],
+      "published_at": "2026-10-22 03:09",
+      "sort_key": 1792638540.0,
+      "id": "4804083714884489368"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "말레이시아는 인도네시아의 주식 시장 분류를 하향 조정하려는 MSCI의 움직임이 도움이 될 수 있다고 Johor exco man은 말합니다.",
+      "summary": "이스칸다르 푸테리 (ISKANDAR PUTERI): 글로벌 지수 제공업체인 MSCI가 인도네시아의 주식 시장 분류를 하향 조정하는 움직임은 조호르에게 큰 영향을 미치지 않을 것으로 예상된다고 리 팅 한 (Lee Ting Han) 주 집행위원장은 말한다.",
+      "type": "news",
+      "sources": [
         {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/money/2026/10/21/indonesias-prabowo-msci-is-trying-to-scare-us-over-market-downgrade-warning/240085"
-        },
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/news/nation/2026/10/22/malaysia-might-benefit-from-mscis-move-to-downgrade-indonesia039s-stock-market-classification-says-johor-exco-man"
+        }
+      ],
+      "published_at": "2026-10-22 02:07",
+      "sort_key": 1792634820.0,
+      "id": "8297909717555920294"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아는 주식 시장 위반에 대해 기업에 기록적인 벌금을 부과합니다.",
+      "summary": "인도네시아의 금융 규제 당국은 상장된 세 회사의 거래 규칙을 위반한 것으로 밝혀진 당사자들에게 제재 서한을 전달했으며, 총 2조 1천억 루피아 ($ 116.67 million) 의 벌금이 부과되었다고 수요일 늦게 밝혔다.",
+      "type": "news",
+      "sources": [
         {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/prabowo-accuses-msci-of-trying-to-intimidate-indonesia-after-market-rout-ce785cd9d98af32c"
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-issues-record-fines-companies-over-stock-market-violations-2026-10-22/"
         },
         {
           "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3995724-prabowo-accuses-msci-of-trying-to-intimidate-indonesia-after-market-rout"
+          "url": "https://www.devdiscourse.com/article/international/3996060-indonesia-issues-record-fines-to-companies-over-stock-market-violations"
         }
       ],
-      "published_at": "2026-10-21 13:26",
-      "sort_key": 1792589160.0,
-      "id": "1026495480241276876"
+      "published_at": "2026-10-22 01:23",
+      "sort_key": 1792632234.0,
+      "id": "2292012004446406263"
     },
     {
       "category": "pol",
@@ -54,7 +74,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "1795426283241159717"
+      "id": "2617373079453638389"
     },
     {
       "category": "pol",
@@ -70,7 +90,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "5457741802769508224"
+      "id": "4745455268259927501"
     },
     {
       "category": "car",
@@ -90,7 +110,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "3413960131111445738"
+      "id": "6611918695130205190"
     },
     {
       "category": "int",
@@ -106,7 +126,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "3477076671569558732"
+      "id": "5793037639972626761"
     },
     {
       "category": "pol",
@@ -126,7 +146,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "6397245203986314436"
+      "id": "8300414731517221356"
     },
     {
       "category": "pol",
@@ -142,7 +162,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "198435735431605789"
+      "id": "5928173672630738077"
     },
     {
       "category": "tek",
@@ -170,7 +190,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "1521570045908803742"
+      "id": "2187513224565735160"
     },
     {
       "category": "liv",
@@ -190,7 +210,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "6384037647608833009"
+      "id": "3417286771469147923"
     },
     {
       "category": "liv",
@@ -206,7 +226,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "8250275023721272883"
+      "id": "4973143380349350664"
     },
     {
       "category": "int",
@@ -222,7 +242,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "3691315920682422956"
+      "id": "7083804263197341379"
     },
     {
       "category": "liv",
@@ -238,7 +258,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "661111387264674230"
+      "id": "6770486210910300319"
     },
     {
       "category": "liv",
@@ -254,7 +274,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "3400334302381554026"
+      "id": "6863441542243773693"
     },
     {
       "category": "int",
@@ -274,7 +294,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8037765360884627723"
+      "id": "2126336182455640519"
     },
     {
       "category": "int",
@@ -290,7 +310,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "7140228200341397032"
+      "id": "4561132489927924648"
     },
     {
       "category": "int",
@@ -306,14 +326,14 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "6357391746045919666"
+      "id": "2715065732630394869"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 1
+      "count": 3
     },
     {
       "id": "pol",
@@ -343,23 +363,27 @@
   ],
   "sources": [
     {
-      "name": "CNA",
+      "name": "The Star",
       "count": 5
     },
     {
-      "name": "The Star",
+      "name": "CNA",
       "count": 4
     },
     {
       "name": "Malay Mail",
-      "count": 4
-    },
-    {
-      "name": "MarketScreener",
       "count": 3
     },
     {
       "name": "The Straits Times",
+      "count": 2
+    },
+    {
+      "name": "Reuters",
+      "count": 2
+    },
+    {
+      "name": "MarketScreener",
       "count": 2
     },
     {
@@ -399,14 +423,10 @@
       "count": 1
     },
     {
-      "name": "Reuters",
-      "count": 1
-    },
-    {
       "name": "Yardbarker",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-22 11:57:35",
+  "last_updated": "2026-10-22 16:37:16",
   "errors": {}
 }
