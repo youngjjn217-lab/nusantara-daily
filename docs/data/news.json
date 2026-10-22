@@ -4,9 +4,13 @@
       "category": "eco",
       "category_label": "경제·증시",
       "title": "Prabowo는 제안된 시장 하향 조정 속에서 인도네시아가 MSCI에 의해 ‘겁먹지 않을 것' 이라고 맹세합니다.",
-      "summary": "MSCI의 경고는 인도네시아 주식의 급격한 이틀간의 주식 매도를 촉발했다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "summary": "자카르타: Prabowo Subianto 대통령은 인도네시아가 글로벌 지수 제공 업체 인 MSCI에 협박당하지 않을 것이라고 선언하고 그가 국가를 모욕하고 간섭한다고 비난 한 외국 권력에 매질했다. 지역적 안개 위기와 주식 시장 노선이 그의 대통령직에 2 년 동안 정부에 압력을 가했기 때문이다.",
       "type": "news",
       "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/21/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade"
+        },
         {
           "name": "The Straits Times",
           "url": "https://www.straitstimes.com/asia/se-asia/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade"
@@ -28,9 +32,9 @@
           "url": "https://www.devdiscourse.com/article/international/3995724-prabowo-accuses-msci-of-trying-to-intimidate-indonesia-after-market-rout"
         }
       ],
-      "published_at": "2026-10-21 12:15",
-      "sort_key": 1792584900.0,
-      "id": "7230236038240611282"
+      "published_at": "2026-10-21 13:26",
+      "sort_key": 1792589160.0,
+      "id": "666701825521554075"
     },
     {
       "category": "pol",
@@ -50,23 +54,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "3726962935668647051"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "GIC, Temasek은 MSCI가 인도네시아 시장을 하향 조정하도록 압력을 가했다는 주장을 부인합니다.",
-      "summary": "인도네시아의 무하마드 루티 (Muhammad Lutfi) 전 무역장관은 이번 주에 싱가포르 주 투자자들이 인도네시아 주가를 하락시키려는 음모에 연루됐다고 주장했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/singapore/gic-indonesia-temasek-stock-market-msci-6478261"
-        }
-      ],
-      "published_at": "2026-10-21 09:46",
-      "sort_key": 1792575999.0,
-      "id": "8391248891000875441"
+      "id": "241489987463882053"
     },
     {
       "category": "pol",
@@ -82,7 +70,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "8423451136501367477"
+      "id": "235288731867516761"
     },
     {
       "category": "car",
@@ -102,7 +90,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "1313661215175991778"
+      "id": "8789969292194467010"
     },
     {
       "category": "int",
@@ -118,7 +106,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "7331561412750835833"
+      "id": "3562412368468455206"
     },
     {
       "category": "pol",
@@ -138,7 +126,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "4397561444085946688"
+      "id": "646994583264235404"
     },
     {
       "category": "pol",
@@ -154,7 +142,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "6633261211248486427"
+      "id": "8802251470170697427"
     },
     {
       "category": "tek",
@@ -182,7 +170,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "6619743297233032171"
+      "id": "4360295678137991825"
     },
     {
       "category": "liv",
@@ -202,7 +190,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "2454396117512159813"
+      "id": "7056726712084001660"
     },
     {
       "category": "liv",
@@ -218,7 +206,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "2445747064258023579"
+      "id": "1671696815352511755"
     },
     {
       "category": "int",
@@ -234,7 +222,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "253095407983587102"
+      "id": "2249035210719962048"
     },
     {
       "category": "liv",
@@ -250,7 +238,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "4021772771783060150"
+      "id": "3980931269498379934"
     },
     {
       "category": "liv",
@@ -266,7 +254,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "5157191416261135242"
+      "id": "4834222394793570302"
     },
     {
       "category": "int",
@@ -286,7 +274,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1749494257898828171"
+      "id": "1220563796718213413"
     },
     {
       "category": "int",
@@ -302,7 +290,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "5256185047398252525"
+      "id": "2588665263338723294"
     },
     {
       "category": "int",
@@ -318,14 +306,14 @@
       ],
       "published_at": "2026-09-29 05:37",
       "sort_key": 1790660222.0,
-      "id": "848638145892958542"
+      "id": "7263907471683492849"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 2
+      "count": 1
     },
     {
       "id": "pol",
@@ -356,7 +344,11 @@
   "sources": [
     {
       "name": "CNA",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "The Star",
+      "count": 4
     },
     {
       "name": "Malay Mail",
@@ -364,10 +356,6 @@
     },
     {
       "name": "MarketScreener",
-      "count": 3
-    },
-    {
-      "name": "The Star",
       "count": 3
     },
     {
@@ -419,6 +407,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-22 01:07:20",
+  "last_updated": "2026-10-22 06:08:36",
   "errors": {}
 }
