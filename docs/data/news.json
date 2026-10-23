@@ -3,6 +3,38 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
+      "title": "글로벌 시장: 인도네시아 은행, 시장 혼란 후 정책 믹스 방어",
+      "summary": "Bank Indonesia는 변하지 않는 기준금리, 더 높은 예금 시설 금리 및 준비금 요건 삭감을 결합한 최신 정책 패키지를 방어했습니다. 중앙은행은 이 조치가 통화 정책 전송을 개선하고, 은행 유동성을 높이고, 신용 성장을 지원하는 것을 목표로 한다고 말한다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-indonesia-defends-policy-mix-after-market-confusion/articleshow/135139934.cms"
+        }
+      ],
+      "published_at": "2026-10-23 08:07",
+      "sort_key": 1792742820.0,
+      "id": "4438457453558098539"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "인도네시아의 안개 위기는 아세안 정상회담을 앞두고 지역적 긴장을 불러일으킨다.",
+      "summary": "자카르타: 인도네시아의 통제되지 않은 산불로 인한 국경을 초월한 안개 위기는 인도네시아 공무원과 정치인, 그리고 말레이시아와 싱가포르 출신의 관계자들 사이에 타오르는 불꽃과 외국 기업 이익의 역할에 대한 책임에 대한 신선한 공개 분쟁을 촉발했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/indonesias-haze-crisis-sparks-regional-tensions-ahead-of-asean-summit"
+        }
+      ],
+      "published_at": "2026-10-23 06:37",
+      "sort_key": 1792737420.0,
+      "id": "5140013673835148416"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
       "title": "글로벌 시장: 인도네시아, 주식 시장 위반에 대해 사상 최대 1억 1천 7백만 달러의 벌금 부과 ($ 117 million)",
       "summary": "인도네시아 금융 규제 당국은 상장 회사 3곳과 관련된 거래 위반에 대해 2.1조 루피아 ($ 116.67 million) 의 사상 최대 벌금을 부과했습니다. 단속은 주가 조작 및 IPO 공개 위반을 목표로 하며, 신흥 시장 상태에서 인도네시아 주식의 잠재적 하향 조정에 대한 MSCI의 경고에 따라 시장 투명성에 대한 우려를 해결합니다.",
       "type": "news",
@@ -22,7 +54,7 @@
       ],
       "published_at": "2026-10-22 05:29",
       "sort_key": 1792646940.0,
-      "id": "3487706683092564143"
+      "id": "6759026725542802102"
     },
     {
       "category": "eco",
@@ -38,7 +70,7 @@
       ],
       "published_at": "2026-10-22 03:09",
       "sort_key": 1792638540.0,
-      "id": "583787452398733367"
+      "id": "7836734888070426570"
     },
     {
       "category": "eco",
@@ -54,7 +86,7 @@
       ],
       "published_at": "2026-10-22 02:07",
       "sort_key": 1792634820.0,
-      "id": "125538245475971221"
+      "id": "1185362412603365099"
     },
     {
       "category": "pol",
@@ -74,7 +106,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "1985560646787332849"
+      "id": "653706224951831977"
     },
     {
       "category": "pol",
@@ -90,7 +122,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "4410021086933677122"
+      "id": "5495163678418294185"
     },
     {
       "category": "car",
@@ -110,7 +142,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "5431906085755154119"
+      "id": "2114045067865202501"
     },
     {
       "category": "int",
@@ -126,7 +158,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "853368760249632490"
+      "id": "1867357006368920301"
     },
     {
       "category": "pol",
@@ -146,7 +178,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "7903165700754176678"
+      "id": "7501702066022352065"
     },
     {
       "category": "pol",
@@ -162,7 +194,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "8862640262540673727"
+      "id": "363252419919428000"
     },
     {
       "category": "tek",
@@ -190,7 +222,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "5547454783107903663"
+      "id": "7358942576116979232"
     },
     {
       "category": "liv",
@@ -210,7 +242,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "7122589982303504893"
+      "id": "2011450667154550595"
     },
     {
       "category": "liv",
@@ -226,7 +258,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "5139522734673027009"
+      "id": "5454136742322604524"
     },
     {
       "category": "int",
@@ -242,7 +274,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "4188400457819756482"
+      "id": "4557220958932382459"
     },
     {
       "category": "liv",
@@ -258,7 +290,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "2656517397745971744"
+      "id": "3244373904716628053"
     },
     {
       "category": "liv",
@@ -274,7 +306,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6631431470792373056"
+      "id": "3201304767298301338"
     },
     {
       "category": "int",
@@ -294,7 +326,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "7394912278793457113"
+      "id": "4741539796713187986"
     },
     {
       "category": "int",
@@ -310,30 +342,14 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "8588552851956522226"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "피파 아세안 컵: 쿨스는 말레이시아가 싱가포르 쇼다운에서 인도네시아 드로우를 구축하기를 원합니다.",
-      "summary": "9월 29일, 자카르타 — 말레이시아 주장 디온 쿨스는 하리마우 말라야가 겔로라 붕 카르노 (GBK) 스타디움을 3점차로 떠나지 못해 실망했다고 인정했다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/sports/2026/09/29/fifa-asean-cup-cools-wants-malaysia-to-build-on-indonesia-draw-in-singapore-showdown/236975"
-        }
-      ],
-      "published_at": "2026-09-29 05:37",
-      "sort_key": 1790660222.0,
-      "id": "3815849166379236839"
+      "id": "1367518463415444570"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 3
+      "count": 4
     },
     {
       "id": "pol",
@@ -364,15 +380,15 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 5
+      "count": 6
     },
     {
       "name": "CNA",
       "count": 4
     },
     {
-      "name": "Malay Mail",
-      "count": 3
+      "name": "The Economic Times",
+      "count": 2
     },
     {
       "name": "Reuters",
@@ -383,8 +399,8 @@
       "count": 2
     },
     {
-      "name": "The Economic Times",
-      "count": 1
+      "name": "Malay Mail",
+      "count": 2
     },
     {
       "name": "Devdiscourse",
@@ -431,6 +447,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-23 17:16:43",
+  "last_updated": "2026-10-23 20:29:56",
   "errors": {}
 }
