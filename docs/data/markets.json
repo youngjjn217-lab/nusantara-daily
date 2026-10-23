@@ -3,32 +3,32 @@
     {
       "id": "usdidr",
       "label": "USD/IDR",
-      "value": 18070.0,
-      "change": 0.3442914260328743,
+      "value": 18050.0,
+      "change": 0.23322967569968903,
       "decimals": 0
     },
     {
       "id": "idrkrw",
       "label": "1,000 IDR→KRW",
-      "value": 73.28942810295034,
-      "change": -0.4370842184821022,
+      "value": 73.37229889845914,
+      "change": -0.32450511604457694,
       "decimals": 2
     },
     {
       "id": "ihsg",
       "label": "IHSG",
-      "value": 5446.7412109375,
-      "change": 1.0920093826332111,
+      "value": 5439.2578125,
+      "change": 0.9531168309660609,
       "decimals": 2
     },
     {
       "id": "kospi",
       "label": "KOSPI",
-      "value": 5532.1298828125,
-      "change": -0.029638685976489703,
+      "value": 5550.2998046875,
+      "change": 0.29870748328731944,
       "decimals": 2
     }
   ],
-  "last_updated": "2026-10-23 06:31:02",
+  "last_updated": "2026-10-23 12:09:24",
   "error": null
 }
