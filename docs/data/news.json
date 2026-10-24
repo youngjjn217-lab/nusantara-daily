@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "category": "int",
+      "category_label": "국제",
+      "title": "아세안 안개 위기: 인도네시아가 나서야 하는 이유",
+      "summary": "아세안이 안개를 막기 위해 고군분투하는 이유와 인도네시아가 국경을 초월한 오염을 유발하는 화재를 막기 위해 나서야 하는 이유 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/askst-why-has-asean-struggled-to-tackle-haze-and-what-can-countries-do-about-it"
+        },
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/indonesias-haze-crisis-sparks-regional-tensions-ahead-of-asean-summit"
+        }
+      ],
+      "published_at": "2026-10-24 10:00",
+      "sort_key": 1792836000.0,
+      "id": "4212783234228264323"
+    },
+    {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아 대통령이 취임한 지 2년이 되면서 대중의 불만이 거리로 쏟아지고 있다.",
@@ -14,7 +34,7 @@
       ],
       "published_at": "2026-10-23 19:09",
       "sort_key": 1792782566.0,
-      "id": "532380146351740322"
+      "id": "1578475370143297373"
     },
     {
       "category": "eco",
@@ -30,7 +50,7 @@
       ],
       "published_at": "2026-10-23 11:44",
       "sort_key": 1792755882.0,
-      "id": "533056957361448730"
+      "id": "5611662850527212262"
     },
     {
       "category": "eco",
@@ -46,23 +66,7 @@
       ],
       "published_at": "2026-10-23 08:07",
       "sort_key": 1792742820.0,
-      "id": "6606903092660662258"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "인도네시아의 안개 위기는 아세안 정상회담을 앞두고 지역적 긴장을 불러일으킨다.",
-      "summary": "자카르타: 인도네시아의 통제되지 않은 산불로 인한 국경을 초월한 안개 위기는 인도네시아 공무원과 정치인, 그리고 말레이시아와 싱가포르 출신의 관계자들 사이에 타오르는 불꽃과 외국 기업 이익의 역할에 대한 책임에 대한 신선한 공개 분쟁을 촉발했습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/indonesias-haze-crisis-sparks-regional-tensions-ahead-of-asean-summit"
-        }
-      ],
-      "published_at": "2026-10-23 06:37",
-      "sort_key": 1792737420.0,
-      "id": "8317388286287793449"
+      "id": "1050455512901543440"
     },
     {
       "category": "eco",
@@ -82,7 +86,7 @@
       ],
       "published_at": "2026-10-22 05:29",
       "sort_key": 1792646940.0,
-      "id": "6490772248502628861"
+      "id": "3892790524081441421"
     },
     {
       "category": "eco",
@@ -98,7 +102,7 @@
       ],
       "published_at": "2026-10-22 03:09",
       "sort_key": 1792638540.0,
-      "id": "8064104738410158045"
+      "id": "7264337878936091704"
     },
     {
       "category": "eco",
@@ -114,7 +118,7 @@
       ],
       "published_at": "2026-10-22 02:07",
       "sort_key": 1792634820.0,
-      "id": "4791089559513704989"
+      "id": "219662321658357082"
     },
     {
       "category": "pol",
@@ -134,7 +138,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "6747559391695156478"
+      "id": "993582646409114804"
     },
     {
       "category": "pol",
@@ -150,7 +154,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "3609711492687304606"
+      "id": "2555412310795492471"
     },
     {
       "category": "car",
@@ -170,7 +174,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "1934495230764007260"
+      "id": "7248072493622413553"
     },
     {
       "category": "int",
@@ -186,7 +190,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "3249413861321977074"
+      "id": "4578929968648425771"
     },
     {
       "category": "pol",
@@ -202,7 +206,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "6312775117171653645"
+      "id": "695268005306106363"
     },
     {
       "category": "pol",
@@ -218,7 +222,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "6122933384877528396"
+      "id": "3226568193552526921"
     },
     {
       "category": "tek",
@@ -246,7 +250,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7966075324544975895"
+      "id": "201639294729200078"
     },
     {
       "category": "liv",
@@ -266,7 +270,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "6766747961236033748"
+      "id": "7322630553796628614"
     },
     {
       "category": "liv",
@@ -282,7 +286,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "3916546443088733708"
+      "id": "4295145101096928159"
     },
     {
       "category": "int",
@@ -298,7 +302,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "7838100967720272710"
+      "id": "7143039421128000488"
     },
     {
       "category": "liv",
@@ -314,7 +318,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "90608213824738482"
+      "id": "8887654917845016694"
     },
     {
       "category": "liv",
@@ -330,7 +334,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "1522359727641618329"
+      "id": "362956858260089189"
     },
     {
       "category": "int",
@@ -350,23 +354,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "4137624501638640136"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "ICJ? 아세안? 민사 소송? 인도네시아의 질식 연무에 대해 말레이시아, 다른 사람들은 무엇을 할 수 있습니까?",
-      "summary": "쿠알라룸푸르, 10월 1일 — 인도네시아 산불로 인한 안개가 말레이시아와 싱가포르 인근 지역을 한 달 이상 뒤덮고 학교를 폐쇄하고 호흡기 불만을 보내고 있습니다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/icj-asean-civil-suits-what-can-malaysia-others-do-about-indonesias-choking-haze/237242"
-        }
-      ],
-      "published_at": "2026-10-01 06:14",
-      "sort_key": 1790835282.0,
-      "id": "281781803988694263"
+      "id": "7772621948161747644"
     }
   ],
   "categories": [
@@ -393,7 +381,7 @@
     {
       "id": "int",
       "label": "국제",
-      "count": 5
+      "count": 4
     },
     {
       "id": "liv",
@@ -411,6 +399,10 @@
       "count": 4
     },
     {
+      "name": "The Straits Times",
+      "count": 2
+    },
+    {
       "name": "MarketScreener",
       "count": 2
     },
@@ -420,10 +412,6 @@
     },
     {
       "name": "Reuters",
-      "count": 2
-    },
-    {
-      "name": "Malay Mail",
       "count": 2
     },
     {
@@ -463,7 +451,7 @@
       "count": 1
     },
     {
-      "name": "The Straits Times",
+      "name": "Malay Mail",
       "count": 1
     },
     {
@@ -471,6 +459,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-24 20:53:02",
+  "last_updated": "2026-10-24 22:48:32",
   "errors": {}
 }
