@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아 대통령이 취임한 지 2년이 되면서 대중의 불만이 거리로 쏟아지고 있다.",
+      "summary": "인도네시아의 프라보우 수비안토 대통령이 취임 2년을 맞으면서 정부의 재난 처리와 높은 생활비로 인해 국민들의 불만이 커지고 있다. 이번 주에는 학생들과 시민단체 회원들이 거리로 나섰습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "ABC (Australian Broadcasting Corporation)",
+          "url": "https://www.abc.net.au/news/2026-10-24/prabowo-faces-recurring-protests-drop-in-support-indonesia/107297374"
+        }
+      ],
+      "published_at": "2026-10-23 19:09",
+      "sort_key": 1792782566.0,
+      "id": "7718990436848461872"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아의 주권 펀드는 시장 혼란 속에서 투자 전략을 고수합니다. -- 업데이트",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-23 11:44",
       "sort_key": 1792755882.0,
-      "id": "2604499358572618062"
+      "id": "1867014819535553349"
     },
     {
       "category": "eco",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-10-23 08:07",
       "sort_key": 1792742820.0,
-      "id": "8244156275372191105"
+      "id": "8351027676765205449"
     },
     {
       "category": "int",
@@ -46,7 +62,7 @@
       ],
       "published_at": "2026-10-23 06:37",
       "sort_key": 1792737420.0,
-      "id": "7409479794414185979"
+      "id": "6969720742871384814"
     },
     {
       "category": "eco",
@@ -66,7 +82,7 @@
       ],
       "published_at": "2026-10-22 05:29",
       "sort_key": 1792646940.0,
-      "id": "9076197052605658124"
+      "id": "3707248136607722296"
     },
     {
       "category": "eco",
@@ -82,7 +98,7 @@
       ],
       "published_at": "2026-10-22 03:09",
       "sort_key": 1792638540.0,
-      "id": "8557967498519384367"
+      "id": "6056667826269995997"
     },
     {
       "category": "eco",
@@ -98,7 +114,7 @@
       ],
       "published_at": "2026-10-22 02:07",
       "sort_key": 1792634820.0,
-      "id": "5328043859181137321"
+      "id": "6635603678950526763"
     },
     {
       "category": "pol",
@@ -118,7 +134,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "5130722880375937853"
+      "id": "4878236481956278389"
     },
     {
       "category": "pol",
@@ -134,7 +150,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "5587047459836833741"
+      "id": "5463654478399965183"
     },
     {
       "category": "car",
@@ -154,7 +170,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "557261597962156680"
+      "id": "8758838487009327373"
     },
     {
       "category": "int",
@@ -170,7 +186,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "3755436452416207659"
+      "id": "4250483488421106743"
     },
     {
       "category": "pol",
@@ -182,15 +198,11 @@
         {
           "name": "The Star",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/16/indonesia039s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says-ce785dd3d080f322"
         }
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "8974225003112189632"
+      "id": "7586180991076251336"
     },
     {
       "category": "pol",
@@ -206,7 +218,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "6461299941008472645"
+      "id": "5602614422432110673"
     },
     {
       "category": "tek",
@@ -234,7 +246,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "6768374952650668624"
+      "id": "7259523161625661231"
     },
     {
       "category": "liv",
@@ -254,7 +266,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "2124943609868672726"
+      "id": "8123395114427400979"
     },
     {
       "category": "liv",
@@ -270,7 +282,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "3628387732194084674"
+      "id": "7162075355518717128"
     },
     {
       "category": "int",
@@ -286,7 +298,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "4862233632080025439"
+      "id": "6704216346360942645"
     },
     {
       "category": "liv",
@@ -302,7 +314,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "9034496089672893490"
+      "id": "7150169114175634446"
     },
     {
       "category": "liv",
@@ -318,7 +330,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "78146801919726225"
+      "id": "5683689234460091815"
     },
     {
       "category": "int",
@@ -338,7 +350,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "1943997559058214824"
+      "id": "1934979355651553"
     },
     {
       "category": "int",
@@ -354,7 +366,7 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "4004721055236309416"
+      "id": "2140025481017543145"
     }
   ],
   "categories": [
@@ -366,7 +378,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tek",
@@ -400,7 +412,7 @@
     },
     {
       "name": "MarketScreener",
-      "count": 3
+      "count": 2
     },
     {
       "name": "The Economic Times",
@@ -413,6 +425,10 @@
     {
       "name": "Malay Mail",
       "count": 2
+    },
+    {
+      "name": "ABC (Australian Broadcasting Corporation)",
+      "count": 1
     },
     {
       "name": "Bangkok Post",
@@ -455,6 +471,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-24 06:47:02",
+  "last_updated": "2026-10-24 11:44:45",
   "errors": {}
 }
