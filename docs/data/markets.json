@@ -17,18 +17,18 @@
     {
       "id": "ihsg",
       "label": "IHSG",
-      "value": 5387.90478515625,
-      "change": 1.1175093913107386,
+      "value": 5439.2578125,
+      "change": 0.9531168309660609,
       "decimals": 2
     },
     {
       "id": "kospi",
       "label": "KOSPI",
-      "value": 5533.77001953125,
-      "change": -3.519911068977048,
+      "value": 5550.2998046875,
+      "change": 0.29870748328731944,
       "decimals": 2
     }
   ],
-  "last_updated": "2026-10-23 23:23:52",
+  "last_updated": "2026-10-24 01:50:45",
   "error": null
 }
