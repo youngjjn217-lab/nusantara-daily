@@ -3,6 +3,22 @@
     {
       "category": "eco",
       "category_label": "경제·증시",
+      "title": "인도네시아의 주권 펀드는 시장 혼란 속에서 투자 전략을 고수합니다. -- 업데이트",
+      "summary": "잉 시안 웡 (Ying Xian Wong) 과 아만다 리 (Am\n인도네시아의 국부 펀드는 지수 제공업체 MSCI의 다운그레이드 경고가 또 다른 경로를 촉발한 후에도 투자 전략에 자신감을 유지하고 있다고 말했습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-s-sovereign-fund-sticks-to-investment-strategy-amid-market-turmoil-update-ce785cdfd88ff423"
+        }
+      ],
+      "published_at": "2026-10-23 11:44",
+      "sort_key": 1792755882.0,
+      "id": "7440058703725064398"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
       "title": "글로벌 시장: 인도네시아 은행, 시장 혼란 후 정책 믹스 방어",
       "summary": "Bank Indonesia는 변하지 않는 기준금리, 더 높은 예금 시설 금리 및 준비금 요건 삭감을 결합한 최신 정책 패키지를 방어했습니다. 중앙은행은 이 조치가 통화 정책 전송을 개선하고, 은행 유동성을 높이고, 신용 성장을 지원하는 것을 목표로 한다고 말한다.",
       "type": "news",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-10-23 08:07",
       "sort_key": 1792742820.0,
-      "id": "2659178097903793512"
+      "id": "6858772110476425144"
     },
     {
       "category": "int",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-10-23 06:37",
       "sort_key": 1792737420.0,
-      "id": "4683192569445435667"
+      "id": "4854368020856929392"
     },
     {
       "category": "eco",
@@ -46,15 +62,11 @@
         {
           "name": "Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/indonesia-issues-record-fines-companies-over-stock-market-violations-2026-10-22/"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/3996060-indonesia-issues-record-fines-to-companies-over-stock-market-violations"
         }
       ],
       "published_at": "2026-10-22 05:29",
       "sort_key": 1792646940.0,
-      "id": "868968534434583565"
+      "id": "3023493045164749556"
     },
     {
       "category": "eco",
@@ -70,7 +82,7 @@
       ],
       "published_at": "2026-10-22 03:09",
       "sort_key": 1792638540.0,
-      "id": "2388836898446935238"
+      "id": "5219630270231224268"
     },
     {
       "category": "eco",
@@ -86,7 +98,7 @@
       ],
       "published_at": "2026-10-22 02:07",
       "sort_key": 1792634820.0,
-      "id": "8198672972146439891"
+      "id": "3681294643768312860"
     },
     {
       "category": "pol",
@@ -106,7 +118,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "5392743113267466191"
+      "id": "2216425093122194665"
     },
     {
       "category": "pol",
@@ -122,7 +134,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "7656825123998271785"
+      "id": "4779291125154082571"
     },
     {
       "category": "car",
@@ -142,7 +154,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "3588478353744201933"
+      "id": "3465980902664077183"
     },
     {
       "category": "int",
@@ -158,7 +170,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "1637219833018962504"
+      "id": "1422804136460508674"
     },
     {
       "category": "pol",
@@ -178,7 +190,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "3063957836028440887"
+      "id": "7181861642113042056"
     },
     {
       "category": "pol",
@@ -194,7 +206,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "1937853291951638620"
+      "id": "2331280905343950520"
     },
     {
       "category": "tek",
@@ -222,7 +234,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "3114566786588366762"
+      "id": "2162360563647012802"
     },
     {
       "category": "liv",
@@ -242,7 +254,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "8167379686755057475"
+      "id": "8626795953815327857"
     },
     {
       "category": "liv",
@@ -258,7 +270,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "2779372865600704823"
+      "id": "4210527343869209160"
     },
     {
       "category": "int",
@@ -274,7 +286,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "2254593616289603399"
+      "id": "6834442572349160261"
     },
     {
       "category": "liv",
@@ -290,7 +302,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "1937105336540067067"
+      "id": "5364556318136474267"
     },
     {
       "category": "liv",
@@ -306,7 +318,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6828456723649291319"
+      "id": "8958518330603490837"
     },
     {
       "category": "int",
@@ -326,7 +338,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8420275683444004576"
+      "id": "6387680863218437764"
     },
     {
       "category": "int",
@@ -342,14 +354,14 @@
       ],
       "published_at": "2026-10-01 06:14",
       "sort_key": 1790835282.0,
-      "id": "1746613876161886845"
+      "id": "2106208449837316862"
     }
   ],
   "categories": [
     {
       "id": "eco",
       "label": "경제·증시",
-      "count": 4
+      "count": 5
     },
     {
       "id": "pol",
@@ -387,6 +399,10 @@
       "count": 4
     },
     {
+      "name": "MarketScreener",
+      "count": 3
+    },
+    {
       "name": "The Economic Times",
       "count": 2
     },
@@ -395,16 +411,8 @@
       "count": 2
     },
     {
-      "name": "MarketScreener",
-      "count": 2
-    },
-    {
       "name": "Malay Mail",
       "count": 2
-    },
-    {
-      "name": "Devdiscourse",
-      "count": 1
     },
     {
       "name": "Bangkok Post",
@@ -447,6 +455,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-23 23:27:08",
+  "last_updated": "2026-10-24 01:56:19",
   "errors": {}
 }
