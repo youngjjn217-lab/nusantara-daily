@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "아시아 통화가 어려움에 처한 인도네시아의 루피아 3개월 최저치; 브라질 집중",
+      "summary": "대부분의 신흥 아시아 통화는 월요일에 견인력을 확보하기 위해 고군분투했습니다. 인도네시아의 루피아는 7 월 말 이후 가장 약한 수준으로 18,100 달러를 넘어서고 투자자들은 모니터링했습니다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-s-rupiah-at-3-month-low-as-asian-currencies-struggle-brazil-in-focus-ce785cdfd08ef623"
+        }
+      ],
+      "published_at": "2026-10-26 05:23",
+      "sort_key": 1792992214.0,
+      "id": "3828851218088994805"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아, MSCI로 촉발된 시장 루트 이후 주가 조작에 대한 조치 강화",
+      "summary": "쁘라보워 수비안토 인도네시아 대통령은 지난주 자신의 내각에 MSCI가 인도네시아를 \"위협\" 하려 한다고 말했지만, 인도네시아는 두려워하지 않을 것이라고 말했다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/business/indonesia-stock-manipulation-market-rout-msci-6492141"
+        }
+      ],
+      "published_at": "2026-10-26 04:56",
+      "sort_key": 1792990560.0,
+      "id": "7511770995459360267"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아는 고도로 집중된 소유권을 가진 주식을 결정하는 데 독립적 인 관찰자를 포함하도록 지시합니다.",
+      "summary": "자카르타 - 인도네시아의 증권 거래소에는 자카르타의 주요 지수에서 제외되도록 설정된 고도로 집중된 소유 구조를 가진 주식 목록을 결정하기 위해 설립된 위원회에 독립적인 관찰자가 포함될 것이라고 인도네시아의 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/business/general/3343790/indonesia-bourse-to-include-independent-observers-in-determining-stocks-with-highly-concentrated-ownership"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/indonesia-bourse-to-include-independent-observers-in-determining-stocks-with-highly-concentrated-own-ce785cdfd08af324"
+        }
+      ],
+      "published_at": "2026-10-26 02:56",
+      "sort_key": 1792983360.0,
+      "id": "2930757848042008324"
+    },
+    {
       "category": "int",
       "category_label": "국제",
       "title": "아세안 안개 위기: 인도네시아가 나서야 하는 이유",
@@ -18,7 +70,7 @@
       ],
       "published_at": "2026-10-24 10:00",
       "sort_key": 1792836000.0,
-      "id": "7272558817299438615"
+      "id": "2003577226268826285"
     },
     {
       "category": "pol",
@@ -34,7 +86,7 @@
       ],
       "published_at": "2026-10-23 19:09",
       "sort_key": 1792782566.0,
-      "id": "6513508235737279675"
+      "id": "8917612494169162597"
     },
     {
       "category": "eco",
@@ -50,7 +102,7 @@
       ],
       "published_at": "2026-10-23 11:44",
       "sort_key": 1792755882.0,
-      "id": "6897180333307024595"
+      "id": "5052553877765185118"
     },
     {
       "category": "eco",
@@ -66,59 +118,7 @@
       ],
       "published_at": "2026-10-23 08:07",
       "sort_key": 1792742820.0,
-      "id": "5568228789525524321"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "글로벌 시장: 인도네시아, 주식 시장 위반에 대해 사상 최대 1억 1천 7백만 달러의 벌금 부과 ($ 117 million)",
-      "summary": "인도네시아 금융 규제 당국은 상장 회사 3곳과 관련된 거래 위반에 대해 2.1조 루피아 ($ 116.67 million) 의 사상 최대 벌금을 부과했습니다. 단속은 주가 조작 및 IPO 공개 위반을 목표로 하며, 신흥 시장 상태에서 인도네시아 주식의 잠재적 하향 조정에 대한 MSCI의 경고에 따라 시장 투명성에 대한 우려를 해결합니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-imposes-record-117-million-in-fines-for-stock-market-violations/articleshow/135105734.cms"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/indonesia-issues-record-fines-companies-over-stock-market-violations-2026-10-22/"
-        }
-      ],
-      "published_at": "2026-10-22 05:29",
-      "sort_key": 1792646940.0,
-      "id": "3887227219513707271"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "Prabowo는 제안된 시장 하향 조정 중 인도네시아가 MSCI에 의해 위협받지 않을 것이라고 맹세합니다.",
-      "summary": "자카르타; Prabowo Subianto 인도네시아 대통령은 인도네시아가 글로벌 지수 제공 업체 인 MSCI에 의해 위협받지 않을 것이라고 선언하고 그가 국가를 모욕하고 간섭했다고 비난 한 외국 권력에 매질했다. 지역적 안개 위기와 주식 시장 노선이 그의 대통령직에 2 년 동안 정부에 압력을 가했기 때문이다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/22/prabowo-vows-indonesia-will-not-be-intimidated-by-msci-amid-proposed-market-downgrade"
-        }
-      ],
-      "published_at": "2026-10-22 03:09",
-      "sort_key": 1792638540.0,
-      "id": "9002043993900055429"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "말레이시아는 인도네시아의 주식 시장 분류를 하향 조정하려는 MSCI의 움직임이 도움이 될 수 있다고 Johor exco man은 말합니다.",
-      "summary": "이스칸다르 푸테리 (ISKANDAR PUTERI): 글로벌 지수 제공업체인 MSCI가 인도네시아의 주식 시장 분류를 하향 조정하는 움직임은 조호르에게 큰 영향을 미치지 않을 것으로 예상된다고 리 팅 한 (Lee Ting Han) 주 집행위원장은 말한다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/nation/2026/10/22/malaysia-might-benefit-from-mscis-move-to-downgrade-indonesia039s-stock-market-classification-says-johor-exco-man"
-        }
-      ],
-      "published_at": "2026-10-22 02:07",
-      "sort_key": 1792634820.0,
-      "id": "7034825045509309255"
+      "id": "6096164859184718235"
     },
     {
       "category": "pol",
@@ -138,7 +138,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "1915791966905788401"
+      "id": "1060572988628417643"
     },
     {
       "category": "pol",
@@ -154,7 +154,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "3330505916571457749"
+      "id": "6703778291902818390"
     },
     {
       "category": "car",
@@ -174,7 +174,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "915232514018288653"
+      "id": "5861838936237905792"
     },
     {
       "category": "int",
@@ -190,7 +190,7 @@
       ],
       "published_at": "2026-10-16 22:00",
       "sort_key": 1792188000.0,
-      "id": "6486811384321708327"
+      "id": "6531161897118750961"
     },
     {
       "category": "pol",
@@ -206,7 +206,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "6664076311870518673"
+      "id": "3195480147843595324"
     },
     {
       "category": "pol",
@@ -222,7 +222,7 @@
       ],
       "published_at": "2026-10-16 07:48",
       "sort_key": 1792136930.0,
-      "id": "1367669697267529956"
+      "id": "729749863663270877"
     },
     {
       "category": "tek",
@@ -250,7 +250,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "9168851220717525032"
+      "id": "7289085265133221203"
     },
     {
       "category": "liv",
@@ -270,7 +270,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "3382787535021374356"
+      "id": "6206104561048210512"
     },
     {
       "category": "liv",
@@ -286,7 +286,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "5408938695826114132"
+      "id": "1977094775307868410"
     },
     {
       "category": "int",
@@ -302,7 +302,7 @@
       ],
       "published_at": "2026-10-15 06:53",
       "sort_key": 1792047221.0,
-      "id": "6147598986707404959"
+      "id": "6141024626553500242"
     },
     {
       "category": "liv",
@@ -318,7 +318,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "577370452379564823"
+      "id": "5794614282005561078"
     },
     {
       "category": "liv",
@@ -334,7 +334,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "6502827583933664935"
+      "id": "2084214192004498926"
     },
     {
       "category": "int",
@@ -354,7 +354,7 @@
       ],
       "published_at": "2026-10-06 09:40",
       "sort_key": 1791279623.0,
-      "id": "8941436272997830591"
+      "id": "8943011220902684401"
     }
   ],
   "categories": [
@@ -391,27 +391,23 @@
   ],
   "sources": [
     {
-      "name": "The Star",
-      "count": 6
-    },
-    {
       "name": "CNA",
-      "count": 4
-    },
-    {
-      "name": "The Straits Times",
-      "count": 2
+      "count": 5
     },
     {
       "name": "MarketScreener",
+      "count": 4
+    },
+    {
+      "name": "The Star",
+      "count": 4
+    },
+    {
+      "name": "Bangkok Post",
       "count": 2
     },
     {
-      "name": "The Economic Times",
-      "count": 2
-    },
-    {
-      "name": "Reuters",
+      "name": "The Straits Times",
       "count": 2
     },
     {
@@ -419,7 +415,7 @@
       "count": 1
     },
     {
-      "name": "Bangkok Post",
+      "name": "The Economic Times",
       "count": 1
     },
     {
@@ -455,10 +451,14 @@
       "count": 1
     },
     {
+      "name": "Reuters",
+      "count": 1
+    },
+    {
       "name": "Yardbarker",
       "count": 1
     }
   ],
-  "last_updated": "2026-10-26 11:31:24",
+  "last_updated": "2026-10-26 17:37:53",
   "errors": {}
 }
