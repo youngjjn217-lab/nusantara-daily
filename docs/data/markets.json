@@ -10,25 +10,25 @@
     {
       "id": "idrkrw",
       "label": "1,000 IDR→KRW",
-      "value": 73.78156701341128,
-      "change": 1.0509546679664832,
+      "value": 73.85034280433287,
+      "change": 1.1451497306629428,
       "decimals": 2
     },
     {
       "id": "ihsg",
       "label": "IHSG",
-      "value": 5282.31201171875,
-      "change": 0.3072869311306761,
+      "value": 5266.1298828125,
+      "change": -1.9907403578867036,
       "decimals": 2
     },
     {
       "id": "kospi",
       "label": "KOSPI",
-      "value": 6012.43994140625,
-      "change": 6.634933473741094,
+      "value": 5638.33984375,
+      "change": 3.0874951736266874,
       "decimals": 2
     }
   ],
-  "last_updated": "2026-10-28 12:56:49",
+  "last_updated": "2026-10-28 18:44:49",
   "error": null
 }
