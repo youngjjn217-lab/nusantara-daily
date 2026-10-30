@@ -4,17 +4,21 @@
       "category": "int",
       "category_label": "국제",
       "title": "인도네시아 장관은 싱가포르가 양국간 긴장 완화를 촉구하는 가운데 LNG를 재판매했다고 비난합니다.",
-      "summary": "인도네시아 장관은 다른 관리들과 비즈니스 리더들이 에너지 공급과 국경을 초월한 안개로 인한 긴장 속에서 평온을 요구했음에도 불구하고 싱가포르가 인도네시아에서 수입하는 LNG의 일부를 다른 나라에 재판매했다고 비난했다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "summary": "자카르타: 인도네시아의 한 고위 장관은 싱가포르가 인도네시아에서 수입하는 액화 천연 가스 (LNG) 의 일부를 다른 국가에 재판매했다고 비난했습니다. 에너지 공급과 국경을 초월한 안개로 인한 긴장 속에서 다른 관리들과 비즈니스 리더들이 침착을 요구했음에도 불구하고 말이죠.",
       "type": "news",
       "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/indonesia-minister-accuses-singapore-of-reselling-lng-amid-calls-to-ease-bilateral-tensions"
+        },
         {
           "name": "The Straits Times",
           "url": "https://www.straitstimes.com/asia/se-asia/indonesia-minister-accuses-singapore-of-reselling-lng-amid-calls-to-ease-bilateral-tensions"
         }
       ],
-      "published_at": "2026-10-30 02:00",
-      "sort_key": 1793325600.0,
-      "id": "933446808712178170"
+      "published_at": "2026-10-30 02:32",
+      "sort_key": 1793327520.0,
+      "id": "5020441969812683727"
     },
     {
       "category": "int",
@@ -38,7 +42,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "801978603716269617"
+      "id": "8147858168742460483"
     },
     {
       "category": "pol",
@@ -54,7 +58,7 @@
       ],
       "published_at": "2026-10-28 12:29",
       "sort_key": 1793190543.0,
-      "id": "1843437556494780520"
+      "id": "6932459519438051992"
     },
     {
       "category": "eco",
@@ -70,7 +74,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "6502391991868886741"
+      "id": "3294937347895774153"
     },
     {
       "category": "eco",
@@ -86,7 +90,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "8853673148706286266"
+      "id": "3392218087784275533"
     },
     {
       "category": "eco",
@@ -102,7 +106,7 @@
       ],
       "published_at": "2026-10-26 04:56",
       "sort_key": 1792990560.0,
-      "id": "4422298721174101944"
+      "id": "6251370703060561034"
     },
     {
       "category": "eco",
@@ -122,7 +126,7 @@
       ],
       "published_at": "2026-10-26 02:56",
       "sort_key": 1792983360.0,
-      "id": "1918528370505130052"
+      "id": "7126124808085240356"
     },
     {
       "category": "int",
@@ -134,15 +138,11 @@
         {
           "name": "The Straits Times",
           "url": "https://www.straitstimes.com/asia/se-asia/askst-why-has-asean-struggled-to-tackle-haze-and-what-can-countries-do-about-it"
-        },
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/indonesias-haze-crisis-sparks-regional-tensions-ahead-of-asean-summit"
         }
       ],
       "published_at": "2026-10-24 10:00",
       "sort_key": 1792836000.0,
-      "id": "9086409757819216282"
+      "id": "4414530877424007158"
     },
     {
       "category": "pol",
@@ -158,7 +158,7 @@
       ],
       "published_at": "2026-10-23 19:09",
       "sort_key": 1792782566.0,
-      "id": "4741802940167420085"
+      "id": "4886329687198606571"
     },
     {
       "category": "pol",
@@ -178,7 +178,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "7494301057882010997"
+      "id": "6186701585852148332"
     },
     {
       "category": "pol",
@@ -194,7 +194,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "3033896266668120187"
+      "id": "4808361811496584674"
     },
     {
       "category": "car",
@@ -214,7 +214,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "562915463887258060"
+      "id": "2058563904720210416"
     },
     {
       "category": "pol",
@@ -230,7 +230,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "1305817060927582822"
+      "id": "3049874486202672202"
     },
     {
       "category": "tek",
@@ -258,7 +258,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7773439524999142569"
+      "id": "6050917511128066105"
     },
     {
       "category": "liv",
@@ -278,7 +278,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "7170633990275387706"
+      "id": "881256768905185175"
     },
     {
       "category": "liv",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "7404119442818824149"
+      "id": "7140012026367034113"
     },
     {
       "category": "liv",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "4767797699557526690"
+      "id": "2740525401698861843"
     },
     {
       "category": "liv",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-10-14 06:55",
       "sort_key": 1791960900.0,
-      "id": "5760349227103287617"
+      "id": "4040134874472676634"
     }
   ],
   "categories": [
@@ -431,6 +431,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-10-30 14:13:32",
+  "last_updated": "2026-10-30 19:26:34",
   "errors": {}
 }
