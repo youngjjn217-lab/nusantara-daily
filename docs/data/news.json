@@ -3,38 +3,54 @@
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아, 쁘라보워 대통령의 휴대전화 도청 혐의로 경찰총장 등 3명 체포",
-      "summary": "자카르타, 11월 3일 — 인도네시아 당국이 쁘라보우 수비안토 대통령의 전화를 도청한 혐의로 3명을 체포했다고 경찰이 어제 밝혔다.",
+      "title": "인도네시아 정부는 전직 경찰서장이 대통령 도청으로 '반역' 을 저질렀을 수 있다고 밝혔습니다.",
+      "summary": "자카르타 (인도네시아) - 인도네시아의 전 경찰청장이 쁘라보우 수비안토 대통령의 전화 도청에 개입한 혐의로 \"반역\" 을 저질렀을 수 있다고 정부가 수요일 밝혔다.",
       "type": "news",
       "sources": [
         {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/world/2026/11/04/indonesia-arrests-three-including-police-general-over-alleged-tapping-of-president-prabowos-phone/241902"
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/world/3348600/indonesia-govt-says-expolice-chief-may-have-committed-treason-by-wiretapping-president"
         },
         {
-          "name": "PerthNow",
-          "url": "https://www.perthnow.com.au/news/crime/indonesia-arrests-for-alleged-wiretapping-of-president-c-23114583"
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/news/world/2026/11/04/indonesia-president-sacks-his-chief-of-staff-for-alleged-wiretapping"
         },
         {
-          "name": "The Japan Times ",
-          "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-listyo-sigit-prabowo-treason-wiretapping-6521676"
         },
         {
-          "name": "The Canberra Times",
-          "url": "https://www.canberratimes.com.au/story/9385826/indonesia-arrests-for-alleged-wiretapping-of-president/"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/indonesia-arrests-ex-police-chief-over-alleged-illegal-wiretapping-of-president-officials/article71664234.ece"
         },
         {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/news/world/articles/2026-11-03/indonesia-arrests-chief-of-staff-top-policemen-for-alleged-wiretapping-of-president"
-        },
-        {
-          "name": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/indonesia-arrests-chief-of-staff-top-policemen-for-alleged-wiretapping-of-president-101793756600650.html"
+          "name": "The News Minute",
+          "url": "https://www.thenewsminute.com/news/indonesia-detains-3-police-generals-suspected-of-wiretapping-president-prabowo"
         }
       ],
-      "published_at": "2026-11-04 02:33",
-      "sort_key": 1793759610.0,
-      "id": "2932660963766968105"
+      "published_at": "2026-11-04 07:45",
+      "sort_key": 1793778300.0,
+      "id": "8233179914856751435"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 규제 당국이 주식 시장 위반 혐의에 대한 제재를 발표",
+      "summary": "자카르타: 인도네시아의 금융 규제 당국은 수요일 (11월 4일) 글로벌 지수 제공업체인 MSCI의 최근 잠재적인 하향 조정에 대한 경고에 따라 진행 중인 시장 개혁의 일환인 주식 시장 위반 혐의에 대한 새로운 제재를 발표했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/04/indonesia-regulator-announces-sanctions-for-alleged-stock-market-violations"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-regulator-announces-sanctions-for-alleged-stock-market-violations"
+        }
+      ],
+      "published_at": "2026-11-04 05:36",
+      "sort_key": 1793770560.0,
+      "id": "5182852411513008383"
     },
     {
       "category": "liv",
@@ -54,7 +70,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "2388206341453645992"
+      "id": "1339847934156473387"
     },
     {
       "category": "int",
@@ -70,7 +86,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "7403708359033340736"
+      "id": "1316643318153865672"
     },
     {
       "category": "liv",
@@ -86,7 +102,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "2394545697879497791"
+      "id": "5072764608243054210"
     },
     {
       "category": "int",
@@ -106,7 +122,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "6545832037871428249"
+      "id": "2126940229192663527"
     },
     {
       "category": "int",
@@ -130,7 +146,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "1423706974561665850"
+      "id": "6692933904706355858"
     },
     {
       "category": "eco",
@@ -146,7 +162,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "3569769899003307930"
+      "id": "2012811065103021172"
     },
     {
       "category": "eco",
@@ -162,7 +178,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "2601254794335911058"
+      "id": "3117923863779534868"
     },
     {
       "category": "eco",
@@ -178,27 +194,7 @@
       ],
       "published_at": "2026-10-26 04:56",
       "sort_key": 1792990560.0,
-      "id": "1799551252477787232"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아는 고도로 집중된 소유권을 가진 주식을 결정하는 데 독립적 인 관찰자를 포함하도록 지시합니다.",
-      "summary": "자카르타 - 인도네시아의 증권 거래소에는 자카르타의 주요 지수에서 제외되도록 설정된 고도로 집중된 소유 구조를 가진 주식 목록을 결정하기 위해 설립된 위원회에 독립적인 관찰자가 포함될 것이라고 인도네시아의 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석 수석",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/business/general/3343790/indonesia-bourse-to-include-independent-observers-in-determining-stocks-with-highly-concentrated-ownership"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/indonesia-bourse-to-include-independent-observers-in-determining-stocks-with-highly-concentrated-own-ce785cdfd08af324"
-        }
-      ],
-      "published_at": "2026-10-26 02:56",
-      "sort_key": 1792983360.0,
-      "id": "109621896626720780"
+      "id": "1873728401812499239"
     },
     {
       "category": "car",
@@ -218,7 +214,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "4008074304321697964"
+      "id": "4557905625948533699"
     },
     {
       "category": "tek",
@@ -246,7 +242,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "6306736914068718640"
+      "id": "5710111534751811918"
     },
     {
       "category": "liv",
@@ -262,7 +258,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "903968397166873846"
+      "id": "3542752775079414209"
     },
     {
       "category": "liv",
@@ -278,7 +274,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "2354339790715840477"
+      "id": "4236289151965970808"
     },
     {
       "category": "liv",
@@ -294,7 +290,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "2802650094611133284"
+      "id": "7065354065991157874"
     }
   ],
   "categories": [
@@ -332,42 +328,26 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 5
-    },
-    {
-      "name": "Malay Mail",
-      "count": 2
-    },
-    {
-      "name": "U.S. News & World Report",
-      "count": 2
-    },
-    {
-      "name": "The Straits Times",
-      "count": 2
-    },
-    {
-      "name": "MarketScreener",
-      "count": 2
+      "count": 7
     },
     {
       "name": "CNA",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "PerthNow",
+      "name": "The Straits Times",
+      "count": 3
+    },
+    {
+      "name": "Bangkok Post",
       "count": 1
     },
     {
-      "name": "The Japan Times ",
+      "name": "The Hindu",
       "count": 1
     },
     {
-      "name": "The Canberra Times",
-      "count": 1
-    },
-    {
-      "name": "Hindustan Times",
+      "name": "The News Minute",
       "count": 1
     },
     {
@@ -379,11 +359,15 @@
       "count": 1
     },
     {
+      "name": "Malay Mail",
+      "count": 1
+    },
+    {
       "name": "Firstpost",
       "count": 1
     },
     {
-      "name": "Bangkok Post",
+      "name": "MarketScreener",
       "count": 1
     },
     {
@@ -403,6 +387,10 @@
       "count": 1
     },
     {
+      "name": "U.S. News & World Report",
+      "count": 1
+    },
+    {
       "name": "Business Standard",
       "count": 1
     },
@@ -411,6 +399,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-04 16:32:20",
+  "last_updated": "2026-11-04 22:09:06",
   "errors": {}
 }
