@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아, 프라보보 대통령 도청 용의자 경찰 장군 3명 구금",
+      "summary": "인도네시아 경찰은 프라보우 수비안토 대통령과 다른 유명 인사들을 도청한 혐의로 3명의 고위 경찰 장군을 구금했습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "WDIV ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/news/world/2026/11/03/indonesia-detains-3-police-generals-suspected-of-wiretapping-president-prabowo/"
+        }
+      ],
+      "published_at": "2026-11-03 17:19",
+      "sort_key": 1793726347.0,
+      "id": "2566228957061131045"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아, 대통령 휴대전화 도청 혐의로 3명 체포",
+      "summary": "경찰은 화요일 (11월 3일) 인도네시아 당국이 프라보우 수비안토 대통령의 전화를 도청한 혐의로 3명을 체포했으며, 언론 보도에 따르면 용의자 중 한 명은 고위 관료일 가능성이 있다고 밝혔다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/03/indonesia-arrests-three-for-tapping-president039s-phone"
+        }
+      ],
+      "published_at": "2026-11-03 14:42",
+      "sort_key": 1793716920.0,
+      "id": "9164895510526932122"
+    },
+    {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
@@ -18,7 +50,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "8207157033822180067"
+      "id": "43677873571410165"
     },
     {
       "category": "int",
@@ -34,7 +66,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "4097557024592626907"
+      "id": "7877870032368367516"
     },
     {
       "category": "liv",
@@ -50,7 +82,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "8496971727616077126"
+      "id": "3506722404833423076"
     },
     {
       "category": "int",
@@ -70,7 +102,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "3249704023365795892"
+      "id": "7148094176724699230"
     },
     {
       "category": "int",
@@ -94,7 +126,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "9039540363044459008"
+      "id": "6822742559202721157"
     },
     {
       "category": "pol",
@@ -110,7 +142,7 @@
       ],
       "published_at": "2026-10-28 12:29",
       "sort_key": 1793190543.0,
-      "id": "2542282805966696535"
+      "id": "3355134732220884010"
     },
     {
       "category": "eco",
@@ -126,7 +158,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "6778891167861558937"
+      "id": "7641980391102662648"
     },
     {
       "category": "eco",
@@ -142,7 +174,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "1252129934591584033"
+      "id": "9221968264534185103"
     },
     {
       "category": "eco",
@@ -158,7 +190,7 @@
       ],
       "published_at": "2026-10-26 04:56",
       "sort_key": 1792990560.0,
-      "id": "8804515896998750653"
+      "id": "7622684035044632026"
     },
     {
       "category": "eco",
@@ -178,7 +210,7 @@
       ],
       "published_at": "2026-10-26 02:56",
       "sort_key": 1792983360.0,
-      "id": "8169167186374950049"
+      "id": "6670376803211307104"
     },
     {
       "category": "pol",
@@ -194,7 +226,7 @@
       ],
       "published_at": "2026-10-23 19:09",
       "sort_key": 1792782566.0,
-      "id": "3006181851560741493"
+      "id": "1199993971352751183"
     },
     {
       "category": "pol",
@@ -214,23 +246,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "4496458402068419596"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "Minesto는 인도네시아의 조력 에너지 개발을 가속화하기 위해 정부가 지원하는 스웨덴-인도네시아 지속가능성 파트너십에 선정되었습니다.",
-      "summary": "/PRNewswire/-- 선도적인 해양 에너지 개발업체인 Minesto가 스웨덴-인도네시아 지속가능성 파트너십 (SISP) 에 참여하도록 선정되었습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "PR Newswire UK",
-          "url": "https://www.prnewswire.co.uk/news-releases/minesto-selected-for-government-backed-swedenindonesia-sustainability-partnership-to-accelerate-tidal-energy-development-in-indonesia-302915192.html"
-        }
-      ],
-      "published_at": "2026-10-21 08:10",
-      "sort_key": 1792570200.0,
-      "id": "6369861312361158745"
+      "id": "4225562842541631865"
     },
     {
       "category": "car",
@@ -250,23 +266,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "8895629842257341274"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 대통령이 화재 진압을 위한 대외 지원을 받아들일 준비가 되어 있다고 외무장관이 말했습니다.",
-      "summary": "자카르타: 인도네시아의 Prabowo Subianto 대통령은 10 년 넘게 최악의 산불에 대처하기 위해 이웃 국가의 지원을 받기로 합의했다고 인도네시아 외무 장관이 말했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/16/indonesia039s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says"
-        }
-      ],
-      "published_at": "2026-10-16 09:13",
-      "sort_key": 1792141980.0,
-      "id": "4902318385909248554"
+      "id": "91513140618068522"
     },
     {
       "category": "tek",
@@ -294,7 +294,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "8815794716696319414"
+      "id": "1223009765726502664"
     },
     {
       "category": "liv",
@@ -310,7 +310,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "6911523369355688375"
+      "id": "9179145191011779994"
     },
     {
       "category": "liv",
@@ -326,7 +326,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "2293510000461212637"
+      "id": "4523622874942712223"
     },
     {
       "category": "liv",
@@ -342,7 +342,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "5823324455885530169"
+      "id": "741050820034274889"
     }
   ],
   "categories": [
@@ -387,6 +387,10 @@
       "count": 3
     },
     {
+      "name": "WDIV ClickOnDetroit",
+      "count": 2
+    },
+    {
       "name": "The Straits Times",
       "count": 2
     },
@@ -423,10 +427,6 @@
       "count": 1
     },
     {
-      "name": "PR Newswire UK",
-      "count": 1
-    },
-    {
       "name": "The Tribune",
       "count": 1
     },
@@ -436,10 +436,6 @@
     },
     {
       "name": "SFGATE",
-      "count": 1
-    },
-    {
-      "name": "WDIV ClickOnDetroit",
       "count": 1
     },
     {
@@ -455,6 +451,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-04 01:52:02",
+  "last_updated": "2026-11-04 08:21:35",
   "errors": {}
 }
