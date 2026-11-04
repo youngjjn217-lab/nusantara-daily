@@ -3,18 +3,22 @@
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "목표에서 프로젝트까지: Solar & Storage Live 및 EVCharge Live Indonesia 2026은 인프라 제공에 중점을 둡니다.",
-      "summary": "두 개의 공동 개최 행사에는 5,000명 이상의 참석자, 120명 이상의 연사, 100명 이상의 스폰서 및 전시자가 이번 달 탕게랑에서 모여 인도네시아의 차세대 태양광, 에너지 저장, 전기 자동차 충전 및 인프라 개발을 모색할 예정입니다.",
+      "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "summary": "",
       "type": "news",
       "sources": [
+        {
+          "name": "pv magazine",
+          "url": "https://www.pv-magazine.com/press-releases/from-targets-to-projects-solar-storage-live-and-evcharge-live-indonesia-2026-focus-on-infrastructure-delivery/"
+        },
         {
           "name": "The Manila Times",
           "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/pr-newswire/from-targets-to-projects-solar-storage-live-and-evcharge-live-indonesia-2026-focus-on-infrastructure-delivery/2460190"
         }
       ],
-      "published_at": "2026-11-03 02:36",
-      "sort_key": 1793673404.0,
-      "id": "6269001822273968561"
+      "published_at": "2026-11-03 10:17",
+      "sort_key": 1793701070.0,
+      "id": "8207157033822180067"
     },
     {
       "category": "int",
@@ -30,7 +34,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "2986633176644159509"
+      "id": "4097557024592626907"
     },
     {
       "category": "liv",
@@ -46,7 +50,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "3566436176271699420"
+      "id": "8496971727616077126"
     },
     {
       "category": "int",
@@ -66,7 +70,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "1735047401509056112"
+      "id": "3249704023365795892"
     },
     {
       "category": "int",
@@ -90,7 +94,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "4606579478223731733"
+      "id": "9039540363044459008"
     },
     {
       "category": "pol",
@@ -106,7 +110,7 @@
       ],
       "published_at": "2026-10-28 12:29",
       "sort_key": 1793190543.0,
-      "id": "6028440653152670908"
+      "id": "2542282805966696535"
     },
     {
       "category": "eco",
@@ -122,7 +126,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "2938178910238255589"
+      "id": "6778891167861558937"
     },
     {
       "category": "eco",
@@ -138,7 +142,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "3740441324752401483"
+      "id": "1252129934591584033"
     },
     {
       "category": "eco",
@@ -154,7 +158,7 @@
       ],
       "published_at": "2026-10-26 04:56",
       "sort_key": 1792990560.0,
-      "id": "3408026375797027382"
+      "id": "8804515896998750653"
     },
     {
       "category": "eco",
@@ -174,7 +178,7 @@
       ],
       "published_at": "2026-10-26 02:56",
       "sort_key": 1792983360.0,
-      "id": "1345966192106309780"
+      "id": "8169167186374950049"
     },
     {
       "category": "pol",
@@ -190,7 +194,7 @@
       ],
       "published_at": "2026-10-23 19:09",
       "sort_key": 1792782566.0,
-      "id": "3302546156486340902"
+      "id": "3006181851560741493"
     },
     {
       "category": "pol",
@@ -210,7 +214,7 @@
       ],
       "published_at": "2026-10-21 10:45",
       "sort_key": 1792579500.0,
-      "id": "5012257704774978598"
+      "id": "4496458402068419596"
     },
     {
       "category": "pol",
@@ -226,7 +230,7 @@
       ],
       "published_at": "2026-10-21 08:10",
       "sort_key": 1792570200.0,
-      "id": "1916691212009990596"
+      "id": "6369861312361158745"
     },
     {
       "category": "car",
@@ -246,7 +250,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "1242214439130413226"
+      "id": "8895629842257341274"
     },
     {
       "category": "pol",
@@ -262,7 +266,7 @@
       ],
       "published_at": "2026-10-16 09:13",
       "sort_key": 1792141980.0,
-      "id": "9100287340511599231"
+      "id": "4902318385909248554"
     },
     {
       "category": "tek",
@@ -290,7 +294,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7439028508687242648"
+      "id": "8815794716696319414"
     },
     {
       "category": "liv",
@@ -306,7 +310,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "7020925834563270310"
+      "id": "6911523369355688375"
     },
     {
       "category": "liv",
@@ -322,7 +326,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "1170317860977698113"
+      "id": "2293510000461212637"
     },
     {
       "category": "liv",
@@ -338,7 +342,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "4754515209493247842"
+      "id": "5823324455885530169"
     }
   ],
   "categories": [
@@ -395,6 +399,10 @@
       "count": 2
     },
     {
+      "name": "pv magazine",
+      "count": 1
+    },
+    {
       "name": "The Manila Times",
       "count": 1
     },
@@ -447,6 +455,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-03 21:57:06",
+  "last_updated": "2026-11-04 01:52:02",
   "errors": {}
 }
