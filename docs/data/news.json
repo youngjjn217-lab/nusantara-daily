@@ -3,34 +3,38 @@
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아, 프라보보 대통령 도청 용의자 경찰 장군 3명 구금",
-      "summary": "인도네시아 경찰은 프라보우 수비안토 대통령과 다른 유명 인사들을 도청한 혐의로 3명의 고위 경찰 장군을 구금했습니다.",
+      "title": "인도네시아, 쁘라보워 대통령의 휴대전화 도청 혐의로 경찰총장 등 3명 체포",
+      "summary": "자카르타, 11월 3일 — 인도네시아 당국이 쁘라보우 수비안토 대통령의 전화를 도청한 혐의로 3명을 체포했다고 경찰이 어제 밝혔다.",
       "type": "news",
       "sources": [
         {
-          "name": "WDIV ClickOnDetroit",
-          "url": "https://www.clickondetroit.com/news/world/2026/11/03/indonesia-detains-3-police-generals-suspected-of-wiretapping-president-prabowo/"
-        }
-      ],
-      "published_at": "2026-11-03 17:19",
-      "sort_key": 1793726347.0,
-      "id": "2566228957061131045"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아, 대통령 휴대전화 도청 혐의로 3명 체포",
-      "summary": "경찰은 화요일 (11월 3일) 인도네시아 당국이 프라보우 수비안토 대통령의 전화를 도청한 혐의로 3명을 체포했으며, 언론 보도에 따르면 용의자 중 한 명은 고위 관료일 가능성이 있다고 밝혔다.",
-      "type": "news",
-      "sources": [
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/11/04/indonesia-arrests-three-including-police-general-over-alleged-tapping-of-president-prabowos-phone/241902"
+        },
         {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/03/indonesia-arrests-three-for-tapping-president039s-phone"
+          "name": "PerthNow",
+          "url": "https://www.perthnow.com.au/news/crime/indonesia-arrests-for-alleged-wiretapping-of-president-c-23114583"
+        },
+        {
+          "name": "The Japan Times ",
+          "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/"
+        },
+        {
+          "name": "The Canberra Times",
+          "url": "https://www.canberratimes.com.au/story/9385826/indonesia-arrests-for-alleged-wiretapping-of-president/"
+        },
+        {
+          "name": "U.S. News & World Report",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-03/indonesia-arrests-chief-of-staff-top-policemen-for-alleged-wiretapping-of-president"
+        },
+        {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/indonesia-arrests-chief-of-staff-top-policemen-for-alleged-wiretapping-of-president-101793756600650.html"
         }
       ],
-      "published_at": "2026-11-03 14:42",
-      "sort_key": 1793716920.0,
-      "id": "9164895510526932122"
+      "published_at": "2026-11-04 02:33",
+      "sort_key": 1793759610.0,
+      "id": "2932660963766968105"
     },
     {
       "category": "liv",
@@ -50,7 +54,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "43677873571410165"
+      "id": "2388206341453645992"
     },
     {
       "category": "int",
@@ -66,7 +70,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "7877870032368367516"
+      "id": "7403708359033340736"
     },
     {
       "category": "liv",
@@ -82,7 +86,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "3506722404833423076"
+      "id": "2394545697879497791"
     },
     {
       "category": "int",
@@ -102,7 +106,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "7148094176724699230"
+      "id": "6545832037871428249"
     },
     {
       "category": "int",
@@ -126,23 +130,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "6822742559202721157"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아에서 산불, 안개 및 위기 악화에 대한 정부의 대응에 대한 수백 명의 시위",
-      "summary": "일부 시위자들은 '우리가 불타면 당신도 우리와 함께 불타오른다' 는 표지판을 들고 항의의 세 손가락 표지판을 들고 있었다. '헝거게임' 영화는 전 세계적으로 많은 청소년 항의 운동에 의해 상징으로 채택되었다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Telegraph India",
-          "url": "https://www.telegraphindia.com/gallery/hundreds-protest-in-indonesia-over-forest-fires-haze-and-government-response-to-worsening-crisis-photogallery/cid/2186717"
-        }
-      ],
-      "published_at": "2026-10-28 12:29",
-      "sort_key": 1793190543.0,
-      "id": "3355134732220884010"
+      "id": "1423706974561665850"
     },
     {
       "category": "eco",
@@ -158,7 +146,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "7641980391102662648"
+      "id": "3569769899003307930"
     },
     {
       "category": "eco",
@@ -174,7 +162,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "9221968264534185103"
+      "id": "2601254794335911058"
     },
     {
       "category": "eco",
@@ -190,7 +178,7 @@
       ],
       "published_at": "2026-10-26 04:56",
       "sort_key": 1792990560.0,
-      "id": "7622684035044632026"
+      "id": "1799551252477787232"
     },
     {
       "category": "eco",
@@ -210,43 +198,7 @@
       ],
       "published_at": "2026-10-26 02:56",
       "sort_key": 1792983360.0,
-      "id": "6670376803211307104"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 대통령이 취임한 지 2년이 되면서 대중의 불만이 거리로 쏟아지고 있다.",
-      "summary": "인도네시아의 프라보우 수비안토 대통령이 취임 2년을 맞으면서 정부의 재난 처리와 높은 생활비로 인해 국민들의 불만이 커지고 있다. 이번 주에는 학생들과 시민단체 회원들이 거리로 나섰습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ABC (Australian Broadcasting Corporation)",
-          "url": "https://www.abc.net.au/news/2026-10-24/prabowo-faces-recurring-protests-drop-in-support-indonesia/107297374"
-        }
-      ],
-      "published_at": "2026-10-23 19:09",
-      "sort_key": 1792782566.0,
-      "id": "1199993971352751183"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "대통령은 독성 안개로 인도네시아를 ‘모욕’ 하는 국가들을 비난한다.",
-      "summary": "자카르타 - 인도네시아 대통령은 수요일 광활한 지역을 파괴한 산불로 국가를 모욕하고 이웃 국가에 유독한 연무를 분출한 \"모욕을 좋아하는 국가\" 를 상대로 맹공을 퍼부었다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/world/3341069/president-berates-countries-that-insult-indonesia-over-toxic-haze"
-        },
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/president-prabowo-berates-countries-insult-indonesia-wildfires-haze-6478676"
-        }
-      ],
-      "published_at": "2026-10-21 10:45",
-      "sort_key": 1792579500.0,
-      "id": "4225562842541631865"
+      "id": "109621896626720780"
     },
     {
       "category": "car",
@@ -266,7 +218,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "91513140618068522"
+      "id": "4008074304321697964"
     },
     {
       "category": "tek",
@@ -294,7 +246,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "1223009765726502664"
+      "id": "6306736914068718640"
     },
     {
       "category": "liv",
@@ -310,7 +262,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "9179145191011779994"
+      "id": "903968397166873846"
     },
     {
       "category": "liv",
@@ -326,7 +278,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "4523622874942712223"
+      "id": "2354339790715840477"
     },
     {
       "category": "liv",
@@ -342,7 +294,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "741050820034274889"
+      "id": "2802650094611133284"
     }
   ],
   "categories": [
@@ -354,7 +306,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 5
+      "count": 1
     },
     {
       "id": "tek",
@@ -380,14 +332,14 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "CNA",
-      "count": 3
+      "name": "Malay Mail",
+      "count": 2
     },
     {
-      "name": "WDIV ClickOnDetroit",
+      "name": "U.S. News & World Report",
       "count": 2
     },
     {
@@ -399,8 +351,24 @@
       "count": 2
     },
     {
-      "name": "Bangkok Post",
+      "name": "CNA",
       "count": 2
+    },
+    {
+      "name": "PerthNow",
+      "count": 1
+    },
+    {
+      "name": "The Japan Times ",
+      "count": 1
+    },
+    {
+      "name": "The Canberra Times",
+      "count": 1
+    },
+    {
+      "name": "Hindustan Times",
+      "count": 1
     },
     {
       "name": "pv magazine",
@@ -411,19 +379,11 @@
       "count": 1
     },
     {
-      "name": "Malay Mail",
-      "count": 1
-    },
-    {
-      "name": "Telegraph India",
-      "count": 1
-    },
-    {
       "name": "Firstpost",
       "count": 1
     },
     {
-      "name": "ABC (Australian Broadcasting Corporation)",
+      "name": "Bangkok Post",
       "count": 1
     },
     {
@@ -439,7 +399,7 @@
       "count": 1
     },
     {
-      "name": "U.S. News & World Report",
+      "name": "WDIV ClickOnDetroit",
       "count": 1
     },
     {
@@ -451,6 +411,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-04 08:21:35",
+  "last_updated": "2026-11-04 16:32:20",
   "errors": {}
 }
