@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "인도네시아는 도청 스캔들이 커지는 가운데 전직 대통령의 재판을 위해 자카르타에 수천 명의 군대를 파병합니다.",
+      "summary": "인도네시아는 3명의 장군을 구금한 도청 스캔들에서 조코 위도도의 명예훼손 청문회를 위해 6,770명의 경찰과 군대를 배치했습니다. | 세계 뉴스",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/indonesia-deploys-thousands-of-troops-in-jakarta-for-former-presidents-trial-amid-escalating-wiretap-scandal-101793861664648.html"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-president-removes-chief-of-staff-after-wiretapping-scandal-military-deployed-in-jakarta/articleshow/135545929.cms"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/4001659-update-2-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
+        },
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/world/3348584/indonesia-president-sacks-his-chief-of-staff-for-alleged-wiretapping"
+        }
+      ],
+      "published_at": "2026-11-05 08:15",
+      "sort_key": 1793866539.0,
+      "id": "8813944553910588179"
+    },
+    {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "재난 기관은 호주가 인도네시아의 산불 폭격 작전에 동참하기 위해",
@@ -14,7 +42,7 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "7400100138183663347"
+      "id": "477234523222091433"
     },
     {
       "category": "eco",
@@ -34,51 +62,7 @@
       ],
       "published_at": "2026-11-05 01:49",
       "sort_key": 1793843340.0,
-      "id": "810274200551102016"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "인도네시아 대통령, 도청 스캔들 후 참모총장 퇴진, 자카르타에 군인 파병",
-      "summary": "인도네시아의 Prabowo Subianto 대통령은 수요일에 다른 고위 경찰관 2 명과 함께 구금 된 지 하루 만에 참모장을 해임했습니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-president-removes-chief-of-staff-after-wiretapping-scandal-military-deployed-in-jakarta/articleshow/135545929.cms"
-        },
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/4001657-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
-        },
-        {
-          "name": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/world/3348584/indonesia-president-sacks-his-chief-of-staff-for-alleged-wiretapping"
-        },
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/world/2026/11/04/indonesia-president-sacks-his-chief-of-staff-for-alleged-wiretapping"
-        }
-      ],
-      "published_at": "2026-11-04 16:54",
-      "sort_key": 1793811240.0,
-      "id": "4999049963144030180"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "업데이트 2-도청 혐의로 기소된 대통령 포대 보좌관으로 인도네시아에 배치된 부대",
-      "summary": "Devdiscourse 도청 혐의로 기소된 대통령 포대 보좌관으로 인도네시아에 배치된 2부대 업데이트에 대해 자세히 알아보기",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/4001659-update-2-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
-        }
-      ],
-      "published_at": "2026-11-04 14:21",
-      "sort_key": 1793802095.0,
-      "id": "105506875913140077"
+      "id": "3869710812464276813"
     },
     {
       "category": "pol",
@@ -94,7 +78,7 @@
       ],
       "published_at": "2026-11-04 07:45",
       "sort_key": 1793778300.0,
-      "id": "3823189204623462833"
+      "id": "5399550720344365511"
     },
     {
       "category": "eco",
@@ -110,7 +94,7 @@
       ],
       "published_at": "2026-11-04 05:36",
       "sort_key": 1793770560.0,
-      "id": "5633781594116505435"
+      "id": "4731731420001134986"
     },
     {
       "category": "liv",
@@ -130,7 +114,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "263362166665303850"
+      "id": "1233420730446312325"
     },
     {
       "category": "int",
@@ -146,7 +130,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "8474315964490240034"
+      "id": "8468091526879205745"
     },
     {
       "category": "liv",
@@ -162,7 +146,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "231559980225613718"
+      "id": "3898906037772768292"
     },
     {
       "category": "int",
@@ -182,7 +166,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "5198190915781346573"
+      "id": "7932047618304696038"
     },
     {
       "category": "int",
@@ -206,7 +190,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "4018263986596636699"
+      "id": "7120562116985310063"
     },
     {
       "category": "eco",
@@ -222,7 +206,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "647627291662848439"
+      "id": "4748630170267194072"
     },
     {
       "category": "eco",
@@ -238,7 +222,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "1345872156110569243"
+      "id": "6789313150496433231"
     },
     {
       "category": "car",
@@ -258,7 +242,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "2844324778230474511"
+      "id": "7072981348499228019"
     },
     {
       "category": "tek",
@@ -286,7 +270,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7302118263338253516"
+      "id": "7388544182254681895"
     },
     {
       "category": "liv",
@@ -302,7 +286,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "6538100024349345990"
+      "id": "7240297390722364240"
     },
     {
       "category": "liv",
@@ -318,7 +302,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "3058056168975574447"
+      "id": "5366622369669604169"
     }
   ],
   "categories": [
@@ -330,7 +314,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 3
+      "count": 2
     },
     {
       "id": "tek",
@@ -356,26 +340,30 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 8
+      "count": 7
     },
     {
       "name": "The Straits Times",
       "count": 3
     },
     {
-      "name": "U.S. News & World Report",
-      "count": 2
-    },
-    {
-      "name": "Devdiscourse",
-      "count": 2
-    },
-    {
       "name": "Bangkok Post",
       "count": 2
     },
     {
+      "name": "U.S. News & World Report",
+      "count": 2
+    },
+    {
+      "name": "Hindustan Times",
+      "count": 1
+    },
+    {
       "name": "Times of India",
+      "count": 1
+    },
+    {
+      "name": "Devdiscourse",
       "count": 1
     },
     {
@@ -423,6 +411,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-05 17:46:42",
+  "last_updated": "2026-11-05 23:04:37",
   "errors": {}
 }
