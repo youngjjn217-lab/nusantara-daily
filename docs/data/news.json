@@ -3,13 +3,17 @@
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "업데이트 2-도청 혐의로 기소된 대통령 포대 보좌관으로 인도네시아에 배치된 부대",
-      "summary": "Devdiscourse 도청 혐의로 기소된 대통령 포대 보좌관으로 인도네시아에 배치된 2부대 업데이트에 대해 자세히 알아보기",
+      "title": "인도네시아 대통령, 도청 스캔들 이후 비서실장 해임 및 자카르타에 군 배치&#10; ---&#10; 인도네시아의 프라보워 수비안토 대통령은 수요일, 비서실장이 다른 고위 경찰관 두 명과 함께 구금된 지 하루 만에 그를 해임했습니다.",
+      "summary": "",
       "type": "news",
       "sources": [
         {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-president-removes-chief-of-staff-after-wiretapping-scandal-military-deployed-in-jakarta/articleshow/135545929.cms"
+        },
+        {
           "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/4001659-update-2-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
+          "url": "https://www.devdiscourse.com/article/international/4001657-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
         },
         {
           "name": "Bangkok Post",
@@ -20,9 +24,25 @@
           "url": "https://www.thestar.com.my/news/world/2026/11/04/indonesia-president-sacks-his-chief-of-staff-for-alleged-wiretapping"
         }
       ],
+      "published_at": "2026-11-04 16:54",
+      "sort_key": 1793811240.0,
+      "id": "1386431735720439060"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "업데이트 2-도청 혐의로 기소된 대통령 포대 보좌관으로 인도네시아에 배치된 부대",
+      "summary": "Devdiscourse 도청 혐의로 기소된 대통령 포대 보좌관으로 인도네시아에 배치된 2부대 업데이트에 대해 자세히 알아보기",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/4001659-update-2-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
+        }
+      ],
       "published_at": "2026-11-04 14:21",
       "sort_key": 1793802095.0,
-      "id": "6860190617608093547"
+      "id": "4107074590350219317"
     },
     {
       "category": "pol",
@@ -34,15 +54,11 @@
         {
           "name": "Bangkok Post",
           "url": "https://www.bangkokpost.com/world/3348600/indonesia-govt-says-expolice-chief-may-have-committed-treason-by-wiretapping-president"
-        },
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-listyo-sigit-prabowo-treason-wiretapping-6521676"
         }
       ],
       "published_at": "2026-11-04 07:45",
       "sort_key": 1793778300.0,
-      "id": "180509713402237651"
+      "id": "6915378728801120685"
     },
     {
       "category": "eco",
@@ -62,7 +78,7 @@
       ],
       "published_at": "2026-11-04 05:36",
       "sort_key": 1793770560.0,
-      "id": "4353923398152078086"
+      "id": "1713661168083750744"
     },
     {
       "category": "liv",
@@ -82,7 +98,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "6442887798319207573"
+      "id": "5852262491873277108"
     },
     {
       "category": "int",
@@ -98,7 +114,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "3023245663563705978"
+      "id": "6720821830399832937"
     },
     {
       "category": "liv",
@@ -114,7 +130,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "4802966774455719064"
+      "id": "1308291532348802938"
     },
     {
       "category": "int",
@@ -134,7 +150,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "5109330940585859641"
+      "id": "3676646190551100786"
     },
     {
       "category": "int",
@@ -158,7 +174,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "5767283328493031139"
+      "id": "2285789021905096972"
     },
     {
       "category": "eco",
@@ -174,7 +190,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "8030154182768045828"
+      "id": "2848324606400653375"
     },
     {
       "category": "eco",
@@ -190,7 +206,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "1606060792646567133"
+      "id": "5822997461266487443"
     },
     {
       "category": "eco",
@@ -206,7 +222,7 @@
       ],
       "published_at": "2026-10-26 04:56",
       "sort_key": 1792990560.0,
-      "id": "2998499392698164055"
+      "id": "8503757615995842076"
     },
     {
       "category": "car",
@@ -226,7 +242,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "3901324235339108842"
+      "id": "5257546359201405643"
     },
     {
       "category": "tek",
@@ -254,7 +270,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "6484338989268665663"
+      "id": "93031937108796836"
     },
     {
       "category": "liv",
@@ -270,7 +286,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "9054641078409720340"
+      "id": "5857569336699268786"
     },
     {
       "category": "liv",
@@ -286,7 +302,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "5186354094472371189"
+      "id": "6438246063966738767"
     },
     {
       "category": "liv",
@@ -302,7 +318,7 @@
       ],
       "published_at": "2026-10-15 05:51",
       "sort_key": 1792043508.0,
-      "id": "1284140233175159511"
+      "id": "8938227721162334020"
     }
   ],
   "categories": [
@@ -314,7 +330,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 2
+      "count": 3
     },
     {
       "id": "tek",
@@ -343,19 +359,23 @@
       "count": 7
     },
     {
-      "name": "CNA",
+      "name": "The Straits Times",
       "count": 3
     },
     {
-      "name": "The Straits Times",
-      "count": 3
+      "name": "Devdiscourse",
+      "count": 2
     },
     {
       "name": "Bangkok Post",
       "count": 2
     },
     {
-      "name": "Devdiscourse",
+      "name": "CNA",
+      "count": 2
+    },
+    {
+      "name": "Times of India",
       "count": 1
     },
     {
@@ -407,6 +427,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-05 02:29:35",
+  "last_updated": "2026-11-05 09:48:53",
   "errors": {}
 }
