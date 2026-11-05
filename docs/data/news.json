@@ -1,10 +1,46 @@
 {
   "items": [
     {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "재난 기관은 호주가 인도네시아의 산불 폭격 작전에 동참하기 위해",
+      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위에서 인정받는 리더입니다. 선출직 공무원을 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육에서 사용할 수있는 뉴스를 찾으십시오.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "U.S. News & World Report",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-04/australia-to-join-indonesias-wildfire-waterbombing-operations-disaster-agency-says"
+        }
+      ],
+      "published_at": "2026-11-05 03:44",
+      "sort_key": 1793850240.0,
+      "id": "7400100138183663347"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 주식 시장, 회사 주식 보유에 대한 자세한 정보 게시",
+      "summary": "자카르타: 인도네시아의 주식 시장은 상장 기업의 1% 이상을 소유한 주주가 지배주주인지 또는 지배주주의 계열사인지에 대한 세부 정보를 게시하기 시작할 것이라고 당국이 밝혔다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/05/indonesia-stock-market-to-publish-more-details-on-company-shareholding-"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-regulator-announces-sanctions-for-alleged-stock-market-violations"
+        }
+      ],
+      "published_at": "2026-11-05 01:49",
+      "sort_key": 1793843340.0,
+      "id": "810274200551102016"
+    },
+    {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아 대통령, 도청 스캔들 이후 비서실장 해임 및 자카르타에 군 배치&#10; ---&#10; 인도네시아의 프라보워 수비안토 대통령은 수요일, 비서실장이 다른 고위 경찰관 두 명과 함께 구금된 지 하루 만에 그를 해임했습니다.",
-      "summary": "",
+      "title": "인도네시아 대통령, 도청 스캔들 후 참모총장 퇴진, 자카르타에 군인 파병",
+      "summary": "인도네시아의 Prabowo Subianto 대통령은 수요일에 다른 고위 경찰관 2 명과 함께 구금 된 지 하루 만에 참모장을 해임했습니다.",
       "type": "news",
       "sources": [
         {
@@ -26,7 +62,7 @@
       ],
       "published_at": "2026-11-04 16:54",
       "sort_key": 1793811240.0,
-      "id": "1386431735720439060"
+      "id": "4999049963144030180"
     },
     {
       "category": "pol",
@@ -42,7 +78,7 @@
       ],
       "published_at": "2026-11-04 14:21",
       "sort_key": 1793802095.0,
-      "id": "4107074590350219317"
+      "id": "105506875913140077"
     },
     {
       "category": "pol",
@@ -58,7 +94,7 @@
       ],
       "published_at": "2026-11-04 07:45",
       "sort_key": 1793778300.0,
-      "id": "6915378728801120685"
+      "id": "3823189204623462833"
     },
     {
       "category": "eco",
@@ -70,15 +106,11 @@
         {
           "name": "The Star",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/04/indonesia-regulator-announces-sanctions-for-alleged-stock-market-violations"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/indonesia-regulator-announces-sanctions-for-alleged-stock-market-violations"
         }
       ],
       "published_at": "2026-11-04 05:36",
       "sort_key": 1793770560.0,
-      "id": "1713661168083750744"
+      "id": "5633781594116505435"
     },
     {
       "category": "liv",
@@ -98,7 +130,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "5852262491873277108"
+      "id": "263362166665303850"
     },
     {
       "category": "int",
@@ -114,7 +146,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "6720821830399832937"
+      "id": "8474315964490240034"
     },
     {
       "category": "liv",
@@ -130,7 +162,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "1308291532348802938"
+      "id": "231559980225613718"
     },
     {
       "category": "int",
@@ -150,7 +182,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "3676646190551100786"
+      "id": "5198190915781346573"
     },
     {
       "category": "int",
@@ -174,7 +206,7 @@
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "2285789021905096972"
+      "id": "4018263986596636699"
     },
     {
       "category": "eco",
@@ -190,7 +222,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "2848324606400653375"
+      "id": "647627291662848439"
     },
     {
       "category": "eco",
@@ -206,23 +238,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "5822997461266487443"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아, MSCI로 촉발된 시장 루트 이후 주가 조작에 대한 조치 강화",
-      "summary": "쁘라보워 수비안토 인도네시아 대통령은 지난주 자신의 내각에 MSCI가 인도네시아를 \"위협\" 하려 한다고 말했지만, 인도네시아는 두려워하지 않을 것이라고 말했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/business/indonesia-stock-manipulation-market-rout-msci-6492141"
-        }
-      ],
-      "published_at": "2026-10-26 04:56",
-      "sort_key": 1792990560.0,
-      "id": "8503757615995842076"
+      "id": "1345872156110569243"
     },
     {
       "category": "car",
@@ -242,7 +258,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "5257546359201405643"
+      "id": "2844324778230474511"
     },
     {
       "category": "tek",
@@ -270,7 +286,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "93031937108796836"
+      "id": "7302118263338253516"
     },
     {
       "category": "liv",
@@ -286,7 +302,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "5857569336699268786"
+      "id": "6538100024349345990"
     },
     {
       "category": "liv",
@@ -302,23 +318,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "6438246063966738767"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아의 새로운 재난 완화 책임자는 산불 해결을 위한 대외 원조를 평가할 계획입니다.",
-      "summary": "인도네시아 당국은 목요일 프라보우 수비안토 대통령이 새로운 재난 관리 지도자를 지명한 후 10여 년 만에 인도네시아 최대 산불에 대처하기 위한 대외 지원 제안을 고려할 것이라고 밝혔다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/environment/indonesia-blames-peatland-degradation-raging-fires-vows-restoration-2026-10-15/"
-        }
-      ],
-      "published_at": "2026-10-15 05:51",
-      "sort_key": 1792043508.0,
-      "id": "8938227721162334020"
+      "id": "3058056168975574447"
     }
   ],
   "categories": [
@@ -356,11 +356,15 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 7
+      "count": 8
     },
     {
       "name": "The Straits Times",
       "count": 3
+    },
+    {
+      "name": "U.S. News & World Report",
+      "count": 2
     },
     {
       "name": "Devdiscourse",
@@ -368,10 +372,6 @@
     },
     {
       "name": "Bangkok Post",
-      "count": 2
-    },
-    {
-      "name": "CNA",
       "count": 2
     },
     {
@@ -415,18 +415,14 @@
       "count": 1
     },
     {
-      "name": "U.S. News & World Report",
-      "count": 1
-    },
-    {
       "name": "Business Standard",
       "count": 1
     },
     {
-      "name": "Reuters",
+      "name": "CNA",
       "count": 1
     }
   ],
-  "last_updated": "2026-11-05 09:48:53",
+  "last_updated": "2026-11-05 17:46:42",
   "errors": {}
 }
