@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "category": "int",
+      "category_label": "국제",
+      "title": "아세안 원자력 발전 프로그램의 베트남과 인도네시아 개척자 - 셰리파 누어 캄세아 알이디드 시드 아마드 이디드",
+      "summary": "11월 6일 — 기후 변화, 에너지 안보가 여러 아세안 회원국의 투자에 기인한 설득력 있는 요인 중 하나이며, 원자력 발전소에 투자하고 원자력 발전소를 가동하는 것을 고려할 때...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/what-you-think/2026/11/06/vietnam-and-indonesia-trailblazers-in-asean-nuclear-power-programme-sheriffah-noor-khamseah-al-idid-syed-ahmad-idid/242225"
+        }
+      ],
+      "published_at": "2026-11-06 08:57",
+      "sort_key": 1793955465.0,
+      "id": "6971044657999835459"
+    },
+    {
+      "category": "pol",
+      "category_label": "정치·사회",
+      "title": "EXPLAINER-인도네시아의 대통령과 그의 인기있는 전임자 사이의 분열",
+      "summary": "EXPLAINER에 대해 자세히 알아보기 - Devdiscourse에 대한 인도네시아 대통령과 그의 인기있는 전임자 간의 분열",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/4002603-explainer-the-schisms-between-indonesias-president-and-his-popular-predecessor"
+        }
+      ],
+      "published_at": "2026-11-06 08:47",
+      "sort_key": 1793954878.0,
+      "id": "434482208964447134"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 경제, 3분기 주춤",
@@ -14,7 +46,7 @@
       ],
       "published_at": "2026-11-06 03:16",
       "sort_key": 1793934960.0,
-      "id": "3584138518511480825"
+      "id": "7804414746361792463"
     },
     {
       "category": "pol",
@@ -34,15 +66,11 @@
         {
           "name": "Devdiscourse",
           "url": "https://www.devdiscourse.com/article/international/4001659-update-2-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping"
-        },
-        {
-          "name": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/world/3348584/indonesia-president-sacks-his-chief-of-staff-for-alleged-wiretapping"
         }
       ],
       "published_at": "2026-11-05 08:15",
       "sort_key": 1793866539.0,
-      "id": "8782365903252607783"
+      "id": "6801697955308799682"
     },
     {
       "category": "liv",
@@ -58,7 +86,7 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "2731519545998441138"
+      "id": "5241412924856568852"
     },
     {
       "category": "eco",
@@ -78,7 +106,7 @@
       ],
       "published_at": "2026-11-05 01:49",
       "sort_key": 1793843340.0,
-      "id": "476459386424351699"
+      "id": "5553925576097638896"
     },
     {
       "category": "pol",
@@ -94,7 +122,7 @@
       ],
       "published_at": "2026-11-04 07:45",
       "sort_key": 1793778300.0,
-      "id": "1673419346131751029"
+      "id": "2854720021481005090"
     },
     {
       "category": "eco",
@@ -110,7 +138,7 @@
       ],
       "published_at": "2026-11-04 05:36",
       "sort_key": 1793770560.0,
-      "id": "9088489383739647996"
+      "id": "2106561981226430404"
     },
     {
       "category": "liv",
@@ -130,7 +158,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "4220644001689740447"
+      "id": "7745886317529903003"
     },
     {
       "category": "int",
@@ -146,7 +174,7 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "6424961893178632485"
+      "id": "9190085952058036541"
     },
     {
       "category": "liv",
@@ -162,7 +190,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "1415772531132470830"
+      "id": "7014562358963646333"
     },
     {
       "category": "int",
@@ -182,7 +210,7 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "3247199472454741096"
+      "id": "1270677778886884336"
     },
     {
       "category": "int",
@@ -194,19 +222,11 @@
         {
           "name": "Malay Mail",
           "url": "https://www.malaymail.com/news/singapore/2026/10/29/singapore-indonesia-leaders-hold-top-level-talks-to-resolve-bilateral-tensions-says-vivian/241077"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/singapore/singapore-indonesia-committed-at-highest-level-to-resolving-bilateral-issues-vivian-balakrishnan"
-        },
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/28/singapore-indonesia-committed-at-highest-level-to-resolving-bilateral-issues-vivian-balakrishnan"
         }
       ],
       "published_at": "2026-10-29 02:20",
       "sort_key": 1793240408.0,
-      "id": "135575041888195127"
+      "id": "5761483066274604540"
     },
     {
       "category": "eco",
@@ -222,7 +242,7 @@
       ],
       "published_at": "2026-10-27 17:41",
       "sort_key": 1793122900.0,
-      "id": "4753234959420864330"
+      "id": "4437568840190175292"
     },
     {
       "category": "eco",
@@ -238,7 +258,7 @@
       ],
       "published_at": "2026-10-26 07:53",
       "sort_key": 1793001221.0,
-      "id": "1838721357305241391"
+      "id": "19888665564609538"
     },
     {
       "category": "car",
@@ -258,7 +278,7 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "8014826568880387687"
+      "id": "1130726744145612871"
     },
     {
       "category": "tek",
@@ -286,7 +306,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "1409614942994710059"
+      "id": "6213764285881230980"
     },
     {
       "category": "liv",
@@ -302,7 +322,7 @@
       ],
       "published_at": "2026-10-15 09:08",
       "sort_key": 1792055280.0,
-      "id": "4379663402793147864"
+      "id": "4858877341380352028"
     },
     {
       "category": "liv",
@@ -318,7 +338,7 @@
       ],
       "published_at": "2026-10-15 08:39",
       "sort_key": 1792053540.0,
-      "id": "571567636879745411"
+      "id": "3985323551886152913"
     }
   ],
   "categories": [
@@ -330,7 +350,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 2
+      "count": 3
     },
     {
       "id": "tek",
@@ -345,7 +365,7 @@
     {
       "id": "int",
       "label": "국제",
-      "count": 3
+      "count": 4
     },
     {
       "id": "liv",
@@ -356,18 +376,22 @@
   "sources": [
     {
       "name": "The Star",
-      "count": 8
+      "count": 7
     },
     {
-      "name": "The Straits Times",
-      "count": 3
+      "name": "Malay Mail",
+      "count": 2
     },
     {
-      "name": "Bangkok Post",
+      "name": "Devdiscourse",
       "count": 2
     },
     {
       "name": "U.S. News & World Report",
+      "count": 2
+    },
+    {
+      "name": "The Straits Times",
       "count": 2
     },
     {
@@ -379,7 +403,7 @@
       "count": 1
     },
     {
-      "name": "Devdiscourse",
+      "name": "Bangkok Post",
       "count": 1
     },
     {
@@ -388,10 +412,6 @@
     },
     {
       "name": "The Manila Times",
-      "count": 1
-    },
-    {
-      "name": "Malay Mail",
       "count": 1
     },
     {
@@ -427,6 +447,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-06 18:22:53",
+  "last_updated": "2026-11-06 23:29:20",
   "errors": {}
 }
