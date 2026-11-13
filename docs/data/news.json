@@ -3,22 +3,46 @@
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "자격 요건과 학력에 대한 의혹이 제기되자 인도네시아 부통령이 사임하다",
-      "summary": "조코 위도도 전 대통령의 39세 아들인 기브란 라카부밍 라카는 수도 자카르타의 국회의사당에서 인도네시아 최고 입법 기관인 국민자문회의 지도부에 사직서를 제출했다.",
+      "title": "자격 요건과 학력에 대한 의혹이 제기되자 인도네시아 부통령이 사임했다",
+      "summary": "인도네시아 자카르타 — 최근 법원 판결에서 학력 증명서가 문제가 된 후 부통령직 적격성에 대한 의문이 커지자 인도네시아 부통령이 목요일에 사임했다.",
       "type": "news",
       "sources": [
         {
-          "name": "Los Angeles Times",
-          "url": "https://www.latimes.com/world-nation/story/2026-11-12/indonesias-vice-president-resigns-as-his-eligibility-academic-credentials-are-questioned"
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/indonesia/indonesias-president-resigns-eligibility-academic-credentials-are-ques-rcna609103"
         },
         {
           "name": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/world/asia/gibran-rakabuming-raka-indonesias-vice-president-resigns-as-his-eligibility-and-academic-credentials-are-questioned-2003714"
+          "url": "https://www.deccanchronicle.com/world/indonesias-vice-president-resigns-as-his-eligibility-and-academic-credentials-are-questioned-2003965"
+        },
+        {
+          "name": "Los Angeles Times",
+          "url": "https://www.latimes.com/world-nation/story/2026-11-12/indonesias-vice-president-resigns-as-his-eligibility-academic-credentials-are-questioned"
         }
       ],
-      "published_at": "2026-11-12 17:48",
-      "sort_key": 1794505719.0,
-      "id": "7232299264509388891"
+      "published_at": "2026-11-13 03:05",
+      "sort_key": 1794539105.0,
+      "id": "5076567601598445766"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다는 연구 결과가 발표되었습니다.",
+      "summary": "수년 만에 최악의 산불이 발생한 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Japan Times ",
+          "url": "https://www.japantimes.co.jp/environment/2026/11/13/el-nino-climate-change-indonesia-fires/"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/climate-changes-heat-and-el-ninos-drought-worsened-indonesia-haze-study"
+        }
+      ],
+      "published_at": "2026-11-13 03:01",
+      "sort_key": 1794538871.0,
+      "id": "4294031775951679400"
     },
     {
       "category": "pol",
@@ -34,7 +58,7 @@
       ],
       "published_at": "2026-11-12 14:40",
       "sort_key": 1794494432.0,
-      "id": "623681410926775756"
+      "id": "902233315797475399"
     },
     {
       "category": "pol",
@@ -50,13 +74,13 @@
       ],
       "published_at": "2026-11-12 11:10",
       "sort_key": 1794481800.0,
-      "id": "1071424500177955696"
+      "id": "1207906594934815279"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "설명-인도네시아 대통령과 그의 인기 있는 전임자 사이의 복잡한 관계",
-      "summary": "Devdiscourse에서 인도네시아 대통령과 그의 인기 있는 전임자 사이의 복잡한 관계에 대한 설명 기사를 더 읽어보세요.",
+      "summary": "Devdiscourse에서 인도네시아 대통령과 그의 인기 있는 전임자 사이의 복잡한 관계에 대한 설명 기사를 자세히 읽어보세요.",
       "type": "news",
       "sources": [
         {
@@ -66,28 +90,12 @@
       ],
       "published_at": "2026-11-12 10:11",
       "sort_key": 1794478301.0,
-      "id": "2021125887535064905"
-    },
-    {
-      "category": "pol",
-      "category_label": "정치·사회",
-      "title": "조코위 대통령이 프라보워 후보를 지지하자 인도네시아 부통령이 의회에 사직서를 제출하다",
-      "summary": "조코위 대통령이 프라보워 후보를 지지하는 가운데 인도네시아 부통령이 의회에 사직서를 제출한 소식을 Devdiscourse에서 자세히 알아보세요.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "url": "https://www.devdiscourse.com/article/international/4005705-indonesia-vp-hands-resignation-to-parliament-as-jokowi-backs-prabowo"
-        }
-      ],
-      "published_at": "2026-11-12 09:05",
-      "sort_key": 1794474300.0,
-      "id": "8773408187072658511"
+      "id": "636461729440149717"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "인도와 인도네시아가 양국 간 방위 협력을 강화하고자 하는 가운데, 인도 육군 대표단이 인도네시아 TNI 센터를 방문했다.",
+      "title": "인도와 인도네시아가 양국 간 국방 협력 강화를 모색하는 가운데, 인도 육군 대표단이 인도네시아 TNI 센터를 방문했다",
       "summary": "제55차 육군 고위 지휘관 과정에 참여한 인도 육군 대표단이 인도네시아를 방문했다.",
       "type": "news",
       "sources": [
@@ -98,7 +106,7 @@
       ],
       "published_at": "2026-11-12 07:13",
       "sort_key": 1794467627.0,
-      "id": "361767660773005406"
+      "id": "3756901610866969042"
     },
     {
       "category": "eco",
@@ -118,12 +126,12 @@
       ],
       "published_at": "2026-11-12 04:58",
       "sort_key": 1794459480.0,
-      "id": "3418181781410566088"
+      "id": "534855521122707584"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "Meta, Google, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
+      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶어하지 않습니다. 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
       "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, 타임스 나우",
       "type": "news",
       "sources": [
@@ -134,13 +142,13 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "4715705447342793672"
+      "id": "6316776902583798441"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다.",
-      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안에 대한 재고를 촉구했습니다. 이 개정안은 디지털 플랫폼이 다음과 같은 비용을 지불하도록 요구하는 내용입니다...",
+      "title": "빅테크 기업들이 인도네시아의 AI 저작권법 개정안에 대한 주요 변경 사항에 반발하다",
+      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼에 다음과 같은 비용을 지불하도록 요구하는 내용입니다...",
       "type": "news",
       "sources": [
         {
@@ -150,13 +158,13 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "5535915821018420026"
+      "id": "5824015285443073370"
     },
     {
       "category": "int",
       "category_label": "국제",
       "title": "아세안 원자력 발전 프로그램의 선구자 베트남과 인도네시아 - 셰리파 누르 함세아 알-이디드 사이드 아흐마드 이디드",
-      "summary": "11월 6일 — 기후 변화와 에너지 안보는 여러 아세안 회원국이 원자력에 투자하고, 투자를 고려하며, 원자력 프로그램을 시작하는 데 영향을 미치는 중요한 요인 중 하나입니다...",
+      "summary": "11월 6일 — 기후 변화와 에너지 안보는 여러 아세안 회원국이 원자력에 투자하고, 투자를 고려하며, 원자력 발전소를 가동하는 데 영향을 미치는 중요한 요인 중 하나입니다...",
       "type": "news",
       "sources": [
         {
@@ -166,13 +174,13 @@
       ],
       "published_at": "2026-11-06 08:57",
       "sort_key": 1793955465.0,
-      "id": "7848984517373842430"
+      "id": "9055644219209236028"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 경제, 3분기에 성장세 가속화",
-      "summary": "자카르타: 5일(목) 발표된 공식 통계에 따르면, 인도네시아의 경제 성장률이 가속화되며 3분기 전망치를 상회한 것으로 나타났다. 이는 가계 지출과 투자가 견조한 덕분이다.",
+      "summary": "자카르타: 5일(목) 발표된 공식 통계에 따르면, 인도네시아의 경제 성장률이 가속화되며 3분기 전망치를 상회한 것으로 나타났다. 이는 가계 지출과 투자가 견조했기 때문으로 풀이된다.",
       "type": "news",
       "sources": [
         {
@@ -182,13 +190,13 @@
       ],
       "published_at": "2026-11-06 03:16",
       "sort_key": 1793934960.0,
-      "id": "7998144158407100300"
+      "id": "2865987835856944690"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "호주, 인도네시아 산불 진압을 위한 소방 헬기 투하 작전에 참여 예정 - 재난관리청 발표",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도 매체입니다. 선출직 공무원을 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
+      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
       "type": "news",
       "sources": [
         {
@@ -198,13 +206,13 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "8638868361344714935"
+      "id": "2943307709263491143"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "인도네시아 증권 시장, 기업 지분 구조에 대한 더 자세한 정보 공개 예정",
-      "summary": "자카르타: 인도네시아 당국은 상장사의 지분 1% 이상을 보유한 주주가 지배주주인지, 아니면 지배주주의 계열사인지에 대한 세부 정보를 인도네시아 증권거래소가 공개하기 시작할 것이라고 밝혔다.",
+      "title": "인도네시아 증권 시장, 기업 지분에 대한 더 많은 세부 정보 공개 예정",
+      "summary": "자카르타: 인도네시아 당국은 상장사의 지분 1% 이상을 보유한 주주가 지배주주인지, 아니면 지배주주의 계열사인지에 대한 세부 정보를 인도네시아 증권시장에서 공개하기 시작할 것이라고 밝혔다.",
       "type": "news",
       "sources": [
         {
@@ -218,12 +226,12 @@
       ],
       "published_at": "2026-11-05 01:49",
       "sort_key": 1793843340.0,
-      "id": "8041664112706097716"
+      "id": "7294463409649975943"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "인도네시아 규제 당국, 주식 시장 위반 혐의에 대한 제재 발표",
+      "title": "인도네시아 금융감독원, 주식시장 위반 혐의에 대한 제재 조치 발표",
       "summary": "자카르타: 인도네시아 금융감독원은 글로벌 지수 제공업체 MSCI가 최근 등급 하향 가능성을 경고한 데 따른 시장 개혁의 일환으로 지난 4일(수) 주식시장 위반 혐의에 대한 새로운 제재를 발표했다.",
       "type": "news",
       "sources": [
@@ -234,7 +242,7 @@
       ],
       "published_at": "2026-11-04 05:36",
       "sort_key": 1793770560.0,
-      "id": "2062061135398644243"
+      "id": "5748887935251836435"
     },
     {
       "category": "liv",
@@ -254,13 +262,13 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "3905907604049181561"
+      "id": "3696109869740014441"
     },
     {
       "category": "int",
       "category_label": "국제",
       "title": "동티모르, 인도네시아 및 아세안 가입의 의미: 논평",
-      "summary": "자카르타: 2025년 10월 동티모르의 아세안 가입은 2011년 가입 신청과 함께 시작된 오랜 기다림에 마침표를 찍었다. 그러나 인도네시아와 동티모르에게는 가입 그 자체 이상의 의미가 있다.",
+      "summary": "자카르타: 2025년 10월 동티모르의 아세안 가입은 2011년 가입 신청과 함께 시작된 오랜 기다림에 마침표를 찍었다. 그러나 인도네시아와 동티모르에게는 가입 그 자체 이상의 의미가 있습니다.",
       "type": "news",
       "sources": [
         {
@@ -270,13 +278,13 @@
       ],
       "published_at": "2026-11-02 03:03",
       "sort_key": 1793588580.0,
-      "id": "1706707344479621372"
+      "id": "7054923911946976451"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "UN 기후 정상회의를 앞두고 인도네시아의 생태 위기가 주목받고 있다",
-      "summary": "자카르타: 인도네시아는 유엔 기후 회담을 앞두고 더욱 과감한 기후 약속을 요구받고 있습니다. 인도네시아는 여러 차례의 생태 재난으로 인해 국민의 불만과 지역적 고통을 야기하며 전 세계적인 환경 위기의 최전선에 서 있기 때문입니다.",
+      "summary": "자카르타: 인도네시아는 유엔 기후 회담을 앞두고 더욱 과감한 기후 대응 약속을 요구받고 있습니다. 인도네시아는 여러 차례의 생태적 재난으로 인해 국민의 불만과 지역적 고통을 야기하며 전 세계적인 환경 위기의 최전선에 서 있기 때문입니다.",
       "type": "news",
       "sources": [
         {
@@ -286,7 +294,7 @@
       ],
       "published_at": "2026-11-01 06:33",
       "sort_key": 1793514780.0,
-      "id": "73271896112830779"
+      "id": "6841554326026247674"
     },
     {
       "category": "int",
@@ -306,13 +314,13 @@
       ],
       "published_at": "2026-10-30 02:32",
       "sort_key": 1793327520.0,
-      "id": "3166347751813865049"
+      "id": "6013982509086727133"
     },
     {
       "category": "car",
       "category_label": "자동차",
       "title": "Infobip과 Yamaha, 인도네시아 자동차 부문에서 대화형 고객 참여 강화",
-      "summary": "자카르타[인도네시아], 10월 21일: 글로벌 클라우드 커뮤니케이션 플랫폼인 Infobip이 Yamaha Indonesia Motor Manufacturing(YIMM)과의 협력을 강화하여 WhatsApp 기반의 대화형 경험을 통해 고객 참여를 혁신합니다. 이 경험은 더욱 강력한 개인화와 더 빠른 고객 상호작용을 이끌어내도록 설계되었습니다.",
+      "summary": "자카르타 [인도네시아], 10월 21일: 글로벌 클라우드 커뮤니케이션 플랫폼인 Infobip이 Yamaha Indonesia Motor Manufacturing(YIMM)과의 협력을 강화하여 WhatsApp 기반의 대화형 경험을 통해 고객 참여를 혁신합니다. 이 경험은 더욱 강력한 개인화와 더 빠른 고객 상호작용을 이끌어내도록 설계되었습니다.",
       "type": "news",
       "sources": [
         {
@@ -326,13 +334,13 @@
       ],
       "published_at": "2026-10-21 07:29",
       "sort_key": 1792567762.0,
-      "id": "9050297647415089357"
+      "id": "7352869874147026788"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
       "title": "기술주 매도세 이후 주가 반등, 인도네시아 주가는 시장 하향 조정 경고로 하락",
-      "summary": "아시아 증시는 기술주 매도세로 인해 주가가 하락한 지 하루 만에 월스트리트의 상승세에 힘입어 대부분 반등했습니다. 인도네시아 증시는 지수 제공사인 MSCI가 다음과 같은 경고를 한 후 금요일에 급락했습니다...",
+      "summary": "아시아 증시는 기술주 매도세로 인해 주가가 하락한 지 하루 만에 월스트리트의 상승세에 힘입어 대부분 반등했습니다. 인도네시아 주식시장은 지수 제공사인 MSCI가 다음과 같은 경고를 한 후 금요일에 급락했습니다...",
       "type": "news",
       "sources": [
         {
@@ -354,39 +362,7 @@
       ],
       "published_at": "2026-10-16 06:08",
       "sort_key": 1792130898.0,
-      "id": "7507636554382727166"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "자금 조달 우려 속 인도네시아 재난청에서 부패 혐의로 5명 체포",
-      "summary": "자카르타: 부패척결위원회(KPK)가 지난 수요일 국가재난관리청(BNPB)의 조달 프로젝트에서 발생한 부패 혐의로 용의자 5명을 체포했다. 이 스캔들은 인도네시아의 재난 대응에 대한 우려를 불러일으키고 있다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/15/five-arrested-over-alleged-corruption-at-indonesia-disaster-agency-amid-funding-concerns"
-        }
-      ],
-      "published_at": "2026-10-15 09:08",
-      "sort_key": 1792055280.0,
-      "id": "952847255615156716"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "프라보워 대통령이 한 달 만에 세 번째로 단행한 개각에서 인도네시아가 새로운 재난청장을 임명했다.",
-      "summary": "이번 개각은 지난 10월 1일 개각에 이은 것으로, 당시에는 신임 외교부 장관과 산업부 장관, 그리고 8명의 다른 기관 및 경찰 고위 인사가 임명되었다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-disaster-agency-head-cabinet-reshuffle-prabowo-6461641"
-        }
-      ],
-      "published_at": "2026-10-15 08:39",
-      "sort_key": 1792053540.0,
-      "id": "6286075380298515901"
+      "id": "20046343056126453"
     }
   ],
   "categories": [
@@ -398,7 +374,7 @@
     {
       "id": "pol",
       "label": "정치·사회",
-      "count": 5
+      "count": 4
     },
     {
       "id": "tek",
@@ -418,28 +394,24 @@
     {
       "id": "liv",
       "label": "생활·환경",
-      "count": 5
+      "count": 4
     }
   ],
   "sources": [
     {
       "name": "The Star",
-      "count": 8
+      "count": 7
     },
     {
       "name": "The Straits Times",
-      "count": 4
-    },
-    {
-      "name": "Devdiscourse",
-      "count": 2
+      "count": 5
     },
     {
       "name": "U.S. News & World Report",
       "count": 2
     },
     {
-      "name": "Los Angeles Times",
+      "name": "NBC News",
       "count": 1
     },
     {
@@ -447,7 +419,19 @@
       "count": 1
     },
     {
+      "name": "Los Angeles Times",
+      "count": 1
+    },
+    {
+      "name": "The Japan Times ",
+      "count": 1
+    },
+    {
       "name": "NewsBytes",
+      "count": 1
+    },
+    {
+      "name": "Devdiscourse",
       "count": 1
     },
     {
@@ -493,12 +477,8 @@
     {
       "name": "Business Standard",
       "count": 1
-    },
-    {
-      "name": "CNA",
-      "count": 1
     }
   ],
-  "last_updated": "2026-11-13 07:29:48",
+  "last_updated": "2026-11-13 15:40:07",
   "errors": {}
 }
