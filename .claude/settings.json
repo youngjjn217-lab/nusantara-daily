@@ -1,0 +1,26 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-plugins-official": {
+      "source": { "source": "github", "repo": "anthropics/claude-plugins-official" }
+    },
+    "addy-agent-skills": {
+      "source": { "source": "github", "repo": "addyosmani/agent-skills" }
+    },
+    "claude-hud": {
+      "source": { "source": "github", "repo": "jarrodwatts/claude-hud" }
+    },
+    "thedotmack": {
+      "source": { "source": "github", "repo": "thedotmack/claude-mem" }
+    }
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "playwright@claude-plugins-official": true,
+    "claude-code-setup@claude-plugins-official": true,
+    "claude-hud@claude-hud": true,
+    "claude-mem@thedotmack": true,
+    "agent-skills@addy-agent-skills": true
+  }
+}
