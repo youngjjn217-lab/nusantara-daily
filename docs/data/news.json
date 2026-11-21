@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "스마트시티부터 나투나까지, 중국과의 관계를 심화하는 인도네시아의 행보가 인도네시아 경제에 미치는 영향",
+      "summary": "인도네시아와 중국은 기업의 비용 부담을 줄이고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/other/4009899-from-smart-cities-to-natuna-what-indonesias-deepening-ties-with-china-mean-for-its-economy"
+        }
+      ],
+      "published_at": "2026-11-21 04:13",
+      "sort_key": 1795234398.0,
+      "id": "1058285342866930125"
+    },
+    {
       "category": "car",
       "category_label": "자동차",
       "title": "빈패스트와 연계된 Green SM, 인도네시아 전기 오토바이 서비스 종료",
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-11-21 01:38",
       "sort_key": 1795225080.0,
-      "id": "7954286244147289504"
+      "id": "5500908481392452650"
     },
     {
       "category": "car",
@@ -30,61 +46,13 @@
       ],
       "published_at": "2026-11-20 14:57",
       "sort_key": 1795186672.0,
-      "id": "7019559774282490901"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "미쓰비시모터스, 인도네시아 GAIKINDO 오토 위크 2026에 참가 Xforce HEV 모델, GridOto 어워드에서 2026년 올해의 차(Car of the Year 2026) 수상",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "三菱自動車",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2ZxVHJaSlJMWmVOWWRUQUFtYk05Wk5veXJaeDJnMTJCUDJYWFR6Q1R4anJhTGlzWGZoM1ZzTXVWT1hBQ3poYi1XQk5GMjBRUkZwVjlUejdvTTU0VjNfcEt2N3lIQ0lvUFF3eUlCX3lHWnh2c1pMREtKMVhVa1B2TVRkY1U?oc=5"
-        }
-      ],
-      "published_at": "2026-11-20 07:57",
-      "sort_key": 1795161445.0,
-      "id": "7778294372169437968"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아, 대형 자동차 판매에 대한 세제 혜택 확대",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ET Auto",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmVoSFNuZFFyNUgzclpLVE1wLXJ6V2xjYUNCa0luSjBQbmdGdkFxMVJsaVNmVklZY0x4TGR2RFBQQTJnQTZSc1JjM3M0a3hKVjRDWXpnVmM4Tnd5aTVIU1YyWWI4anRER1doWFF3V2J3TG10LVpWaUc0YjhicWFoTHo5N19MREx1dC14Uld1bzZKdEZ2NmhVcHlmRmpZTWp3MmxMdUtxb0ducmJFRFBHLVhibmRvWDTSAbIBQVVfeXFMTjNnOVdPRWs1UHl2WXYzenFnUzF2eFhqcXdvazRkUWlYS3o0MTdrZm03STdYRXZkRVlxSjJTZ3d5dEpodDFad1NVZGNtNm55b0k3RUR6bXo5LXkzRlVGakhXRGZVLWZZSG0yenBkN3VMRXo2Rkt1TFdLU1NFTnpkUDNmU0JzcU5mSVp0Nk9vdS1CQ0wyTG9mVlFnSVViS2xEbVUxZlV6ZUdQUEhtYjI3azVXUQ?oc=5"
-        }
-      ],
-      "published_at": "2026-11-19 16:32",
-      "sort_key": 1795105953.0,
-      "id": "1906815905605685152"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아 하원, 정부에 온라인 오토바이 택시 요금 규제 신속 처리를 촉구",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Kompas.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGdRa1JNVFBnZ1NpUlFxd1FzcHM1N054Y1gtcFVPdkx6QjQzUC1XbTJyZlliVlFuVkNvZV9PS21WSjYwZUppN09QRk9Xbno0RGRLdXh3MGMtd0JjSVNjYjA0TjZid2s2dTRRUnoyX2VuUFRRd3BkdHBFYTJFUmk2aXNQb1IzVW5vYmJ6Z0RTM1c5UU1nZm5aUi1rZHlZeTQ1UjR6bWJ4Mld6dElCbWhSRXBlTWVhTHNuR1d3WldpWUtoUkZvNnc?oc=5"
-        }
-      ],
-      "published_at": "2026-11-19 12:25",
-      "sort_key": 1795091120.0,
-      "id": "2357610066705122602"
+      "id": "7598885140837625428"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "YouTube가 인도네시아 정부 지지 채널 19,000개 이상을 삭제한 이유",
-      "summary": "Google은 2026년 7월부터 9월까지 인도네시아와 연관된 19,372개의 YouTube 채널을 삭제했습니다. 이 채널들은 프라보워 수비안토 대통령 정부를 지지하는 콘텐츠를 공유한 것으로 확인되었습니다.",
+      "summary": "Google은 2026년 7월부터 9월까지 인도네시아와 연관된 유튜브 채널 19,372개를 삭제했습니다. 이들 채널은 프라보워 수비안토 대통령 정부를 지지하는 콘텐츠를 공유한 혐의를 받았습니다.",
       "type": "news",
       "sources": [
         {
@@ -102,12 +70,12 @@
       ],
       "published_at": "2026-11-19 10:18",
       "sort_key": 1795083529.0,
-      "id": "2004976090065319304"
+      "id": "8478644193281736396"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "EU 정부, 트럼프 관세를 상쇄하기 위해 인도네시아와의 무역 협정 승인",
+      "title": "EU 정부, 트럼프 관세 상쇄를 위한 인도네시아와의 무역 협정 승인",
       "summary": "당초 2025년에 체결될 예정이었던 이 협정에 따라 양측은 제품의 90% 이상에 대한 수입관세를 철폐하게 된다.",
       "type": "news",
       "sources": [
@@ -122,13 +90,13 @@
       ],
       "published_at": "2026-11-19 00:11",
       "sort_key": 1795047100.0,
-      "id": "3514860174716637858"
+      "id": "232326988332304895"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아, 약세를 보이는 루피아를 부양하기 위해 기준금리를 6%로 인상",
-      "summary": "자카르타, 11월 18일 — 인도네시아 중앙은행이 기준금리를 25bp 인상하여 6%로 상향 조정했다. 이는 약세를 보이는... 를 안정시키기 위한 선제적 조치이다.",
+      "summary": "자카르타, 11월 18일 — 인도네시아 중앙은행이 기준금리를 25bp(기준금리 1bp=0.01%) 인상하여 6%로 상향 조정했다. 이는 약세를 보이는 통화 가치를 안정시키기 위한 선제적 조치이다...",
       "type": "news",
       "sources": [
         {
@@ -138,13 +106,13 @@
       ],
       "published_at": "2026-11-18 09:47",
       "sort_key": 1794995220.0,
-      "id": "4461751386389840147"
+      "id": "4630076622918837209"
     },
     {
       "category": "int",
       "category_label": "국제",
       "title": "EU, 10년에 걸친 협상 끝에 인도네시아와 무역 협정 체결 추진",
-      "summary": "이 협정은 인도네시아로 수출되는 EU 상품의 98.5%에 대한 관세를 인하할 것으로 예상된다.",
+      "summary": "이 협정은 인도네시아로 수출되는 EU 상품의 98.5%에 대한 관세를 인하할 것으로 예상됩니다.",
       "type": "news",
       "sources": [
         {
@@ -154,13 +122,13 @@
       ],
       "published_at": "2026-11-18 09:31",
       "sort_key": 1794994315.0,
-      "id": "6248012642085803882"
+      "id": "8956986117931115138"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 중앙은행, 루피아 지원을 위해 금리 인상",
-      "summary": "자카르타: 인도네시아 중앙은행은 지난주 국내 정치적 혼란 속에서 루피아가 여러 차례 사상 최저치를 기록한 후, 루피아의 하락을 막기 위한 긴축 사이클을 재개하며 수요일에 정책 금리를 25bp 인상했다.",
+      "summary": "자카르타: 인도네시아 중앙은행은 지난주 국내 정치적 혼란 속에서 루피아가 여러 차례 사상 최저치를 기록한 후 루피아의 하락을 막기 위한 긴축 사이클을 재개하며 수요일에 정책 금리를 25bp 인상했다.",
       "type": "news",
       "sources": [
         {
@@ -174,13 +142,13 @@
       ],
       "published_at": "2026-11-18 08:08",
       "sort_key": 1794989280.0,
-      "id": "5893288771602538676"
+      "id": "9013671534965400821"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아 경찰, 대통령 도청 혐의를 받는 공무원 해임",
-      "summary": "인도네시아 경찰이 화요일 프라보워 수비안토 대통령과 다른 공무원, 활동가, 언론인의 휴대전화를 감시하는 계획과 관련해 범죄 용의자로 지목된 공무원을 해임했다고 대변인이 윤리 심의 후 밝혔다.",
+      "summary": "인도네시아 경찰이 화요일, 프라보워 수비안토 대통령과 다른 공무원, 활동가, 언론인의 휴대전화를 도청하려는 계획과 관련해 범죄 용의자로 지목된 공무원을 해임했다고 대변인이 윤리 심의 후 밝혔다.",
       "type": "news",
       "sources": [
         {
@@ -198,7 +166,7 @@
       ],
       "published_at": "2026-11-17 14:52",
       "sort_key": 1794927120.0,
-      "id": "3104356418840253121"
+      "id": "2238320962632429889"
     },
     {
       "category": "eco",
@@ -214,13 +182,13 @@
       ],
       "published_at": "2026-11-17 07:53",
       "sort_key": 1794901980.0,
-      "id": "7008336544938610110"
+      "id": "3109953107465372080"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "인도네시아의 프라보워 대통령, 아세안 정상회의에서 '안개는 우리의 잘못이 아니다'라고 말하면서도 말레이시아와 싱가포르에 사과",
-      "summary": "자카르타, 11월 16일 — 인도네시아의 프라보워 수비안토 대통령이 자국에서 걷잡을 수 없이 확산된 산불로 인한 유독성 연무가...를 오염시킨 데 대해 말레이시아와 싱가포르에 사과했다.",
+      "title": "인도네시아의 프라보워 대통령, 아세안 정상회의에서 연무 사태는 '우리 탓이 아니다'라고 말하면서도 말레이시아와 싱가포르에 사과",
+      "summary": "자카르타, 11월 16일 — 인도네시아의 프라보워 수비안토 대통령이 자국에서 기승을 부리는 산불로 인해 발생한 유독성 연무가... 오염시킨 데 대해 말레이시아와 싱가포르에 사과했다.",
       "type": "news",
       "sources": [
         {
@@ -230,13 +198,13 @@
       ],
       "published_at": "2026-11-16 03:28",
       "sort_key": 1794799711.0,
-      "id": "3195636590863581713"
+      "id": "2991066514632576686"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "싱가포르-인도네시아 연무 태스크포스가 아세안 전역의 플랫폼이 되어야 한다고 싱가포르 총리 언급",
-      "summary": "그는 또한 태국-캄보디아 국경 긴장에 대해 자제를 촉구했으며, 미얀마가 지역 블록에 완전히 복귀하기 전에 \"구체적인 조치\"를 보여줘야 한다고 말했다.",
+      "title": "싱가포르-인도네시아 스모그 태스크포스가 아세안 전역을 아우르는 플랫폼이 되어야 한다고 싱가포르 총리 언급",
+      "summary": "그는 또한 태국-캄보디아 국경 긴장에 대해 자제를 촉구했으며, 미얀마가 지역 블록에 완전히 복귀하기 전에 \"구체적인 조치\"를 보여주어야 한다고 말했다.",
       "type": "news",
       "sources": [
         {
@@ -246,13 +214,13 @@
       ],
       "published_at": "2026-11-15 10:44",
       "sort_key": 1794739440.0,
-      "id": "1729974740412270253"
+      "id": "7741140273303138453"
     },
     {
       "category": "int",
       "category_label": "국제",
       "title": "선전 APEC 정상회의, 인도네시아 통화 정책, 아세안 외교",
-      "summary": "'당신의 아시아 주간'에 오신 것을 환영합니다. 올해 APEC 정상회의가 열리는 가운데 시진핑 중국 국가주석은 자국의 성장하는 기술력을 과시하고자 할 것입니다.",
+      "summary": "아시아 주간 소식에 오신 것을 환영합니다. 올해 APEC 정상회의가 열리는 가운데, 시진핑 중국 국가주석은 자국의 기술 역량이 성장하고 있음을 과시하고자 할 것입니다.",
       "type": "news",
       "sources": [
         {
@@ -262,7 +230,7 @@
       ],
       "published_at": "2026-11-15 05:00",
       "sort_key": 1794718827.0,
-      "id": "6025727492196367983"
+      "id": "298536521106291842"
     },
     {
       "category": "liv",
@@ -278,23 +246,7 @@
       ],
       "published_at": "2026-11-14 15:41",
       "sort_key": 1794670872.0,
-      "id": "859067191815338333"
-    },
-    {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "동남아시아 최대 경제 전망 - 인도네시아의 프라보워 대통령, 아들의 퇴진으로 조코위 시대의 종말을 서두르다",
-      "summary": "프라보워 수비안토 대통령이 인도네시아 정계 고위층에서 단행한 인사 개편의 궁극적인 목표는 10년간 국가를 이끈 후 그가 집권하는 데 도움을 준 인물, 즉 조코 위도도 전 대통령일 수 있다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/south-east-asia039s-largest-economy-outlook---indonesias-prabowo-rushes-end-of-jokowi-era-with-sons-exit"
-        }
-      ],
-      "published_at": "2026-11-14 13:31",
-      "sort_key": 1794663060.0,
-      "id": "1940125221009746487"
+      "id": "7013722647029177308"
     },
     {
       "category": "liv",
@@ -310,13 +262,13 @@
       ],
       "published_at": "2026-11-14 03:05",
       "sort_key": 1794625518.0,
-      "id": "344959758557360483"
+      "id": "446772389194176624"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다고 연구 결과 밝혀져",
-      "summary": "수년 만에 최악의 산불이 발생한 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
+      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다는 연구 결과",
+      "summary": "수년 만에 최악의 산불 시즌을 맞은 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
       "type": "news",
       "sources": [
         {
@@ -330,12 +282,12 @@
       ],
       "published_at": "2026-11-13 03:01",
       "sort_key": 1794538871.0,
-      "id": "4870240803693102916"
+      "id": "4819515986613974495"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶지 않아 함: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장하게 만드는 이유",
+      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶지 않아 함: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
       "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, Times Now",
       "type": "news",
       "sources": [
@@ -346,12 +298,12 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "4064772199479639781"
+      "id": "11097326197198203"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다.",
+      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 대한 주요 변경 사항에 반발하고 나섰다.",
       "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안에 대한 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이...을 지불하도록 요구하는 내용입니다.",
       "type": "news",
       "sources": [
@@ -362,13 +314,13 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "1599457665694170390"
+      "id": "2715015933561541925"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "재난관리청, 호주가 인도네시아 산불 진압을 위한 물 투하 작전에 참여할 것이라고 밝힘",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적인 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하며, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
+      "title": "호주, 인도네시아 산불 진압을 위한 소방 헬기 투하 작전에 참여 예정이라고 재난관리청이 밝혔습니다.",
+      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하며, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
       "type": "news",
       "sources": [
         {
@@ -378,7 +330,7 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "894454589688264482"
+      "id": "6807608642128206359"
     },
     {
       "category": "liv",
@@ -394,7 +346,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "6603424827745857995"
+      "id": "283131392490188174"
     }
   ],
   "categories": [
@@ -416,7 +368,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 5
+      "count": 2
     },
     {
       "id": "int",
@@ -431,12 +383,12 @@
   ],
   "sources": [
     {
-      "name": "The Star",
+      "name": "The Straits Times",
       "count": 4
     },
     {
-      "name": "The Straits Times",
-      "count": 4
+      "name": "The Star",
+      "count": 3
     },
     {
       "name": "Malay Mail",
@@ -447,23 +399,15 @@
       "count": 2
     },
     {
+      "name": "Devdiscourse",
+      "count": 1
+    },
+    {
       "name": "Tech in Asia",
       "count": 1
     },
     {
       "name": "Indonesia Business Post",
-      "count": 1
-    },
-    {
-      "name": "三菱自動車",
-      "count": 1
-    },
-    {
-      "name": "ET Auto",
-      "count": 1
-    },
-    {
-      "name": "Kompas.com",
       "count": 1
     },
     {
@@ -519,6 +463,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-21 10:29:32",
+  "last_updated": "2026-11-21 17:45:37",
   "errors": {}
 }
