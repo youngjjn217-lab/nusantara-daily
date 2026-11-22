@@ -1,10 +1,50 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "EU 무역 협정으로 5년 이내에 유럽산 자동차에 대한 인도네시아 관세가 철폐될 예정입니다.",
+      "summary": "EU와 인도네시아가 10년간의 협상 끝에 무역 협정에 서명하고 제품의 90% 이상에 대한 관세를 인하합니다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Indonesia Business Post",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWRxWnN0TVhfLURqSU9fTXBrbTdQTXNQV3hGQmtSWXJrYlIzckFQSEJLbVRaZHFnQVE2dFZuWkRQc3BhQTFFMFZ5dTVlc3c2eHFPNE5nUkM0MWwxY0liZHlCaHFkVU56dTVuQmlYTS1Nek51eFVjckVfOXV5T3dfeXhzYVg5SE9LaDNObUh5VWZVMDA3SFJUWjdwb0VXQkFmVGVrNjQ2NkFyWGRoNGNkbW8zTEZ2cGx5TXlsRXU4LXY2OE9VN09EdElES2Z1aHcxZldEMlVPZFY?oc=5"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/eu-and-indonesia-sign-trade-deal-after-10-years-of-negotiations"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696"
+        },
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/eu-and-indonesia-officially-sign-039ambitious039-trade-deal"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/eu-and-indonesia-sign-trade-deal-after-10-years-of-negotiations-ce785ed3de8afe20"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs"
+        }
+      ],
+      "published_at": "2026-11-21 14:10",
+      "sort_key": 1795270200.0,
+      "id": "2357163995796046590"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "스마트시티부터 나투나까지, 중국과의 관계를 심화하는 인도네시아의 행보가 인도네시아 경제에 미치는 영향",
-      "summary": "인도네시아와 중국은 기업의 비용 부담을 줄이고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했습니다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
+      "summary": "인도네시아와 중국은 기업의 비용 부담을 줄이고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
       "type": "news",
       "sources": [
         {
@@ -14,7 +54,7 @@
       ],
       "published_at": "2026-11-21 04:13",
       "sort_key": 1795234398.0,
-      "id": "8816263817549322395"
+      "id": "5463570228179144165"
     },
     {
       "category": "car",
@@ -30,29 +70,13 @@
       ],
       "published_at": "2026-11-21 01:38",
       "sort_key": 1795225080.0,
-      "id": "4998097472395416766"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "EU 무역 협정으로 5년 내 인도네시아의 유럽산 자동차 관세가 철폐될 예정입니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Indonesia Business Post",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWRxWnN0TVhfLURqSU9fTXBrbTdQTXNQV3hGQmtSWXJrYlIzckFQSEJLbVRaZHFnQVE2dFZuWkRQc3BhQTFFMFZ5dTVlc3c2eHFPNE5nUkM0MWwxY0liZHlCaHFkVU56dTVuQmlYTS1Nek51eFVjckVfOXV5T3dfeXhzYVg5SE9LaDNObUh5VWZVMDA3SFJUWjdwb0VXQkFmVGVrNjQ2NkFyWGRoNGNkbW8zTEZ2cGx5TXlsRXU4LXY2OE9VN09EdElES2Z1aHcxZldEMlVPZFY?oc=5"
-        }
-      ],
-      "published_at": "2026-11-20 14:57",
-      "sort_key": 1795186672.0,
-      "id": "8320989152754056159"
+      "id": "1898918212788650021"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "YouTube가 인도네시아 정부 지지 채널 19,000개 이상을 삭제한 이유",
-      "summary": "Google은 2026년 7월부터 9월까지 인도네시아와 연관된 19,372개의 YouTube 채널을 삭제했습니다. 이들 채널은 프라보워 수비안토 대통령 정부를 지지하는 콘텐츠를 공유한 혐의를 받았습니다.",
+      "summary": "Google은 2026년 7월부터 9월까지 인도네시아와 연관된 유튜브 채널 19,372개를 삭제했습니다. 이들 채널은 프라보워 수비안토 대통령 정부를 지지하는 콘텐츠를 공유한 혐의를 받았습니다.",
       "type": "news",
       "sources": [
         {
@@ -70,27 +94,7 @@
       ],
       "published_at": "2026-11-19 10:18",
       "sort_key": 1795083529.0,
-      "id": "6080198912389556490"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "EU 정부, 트럼프 관세를 상쇄하기 위해 인도네시아와의 무역 협정 승인",
-      "summary": "당초 2025년에 체결될 예정이었던 이 협정에 따라 양측은 제품의 90% 이상에 대한 수입관세를 철폐하게 된다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs"
-        },
-        {
-          "name": "RTE.ie",
-          "url": "https://www.rte.ie/news/business/2026/1118/1599646-eu-agrees-new-trade-deal-with-indonesia/"
-        }
-      ],
-      "published_at": "2026-11-19 00:11",
-      "sort_key": 1795047100.0,
-      "id": "2392081086345108886"
+      "id": "144554066962819091"
     },
     {
       "category": "eco",
@@ -106,23 +110,7 @@
       ],
       "published_at": "2026-11-18 09:47",
       "sort_key": 1794995220.0,
-      "id": "2402968812998297405"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "EU, 10년에 걸친 협상 끝에 인도네시아와 무역 협정 체결 추진",
-      "summary": "이 협정은 인도네시아로 수출되는 EU 상품의 98.5%에 대한 관세를 인하할 것으로 예상된다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Irish Times",
-          "url": "https://www.irishtimes.com/business/2026/11/18/eu-moves-to-sign-indonesia-trade-deal-after-decade-of-talks/"
-        }
-      ],
-      "published_at": "2026-11-18 09:31",
-      "sort_key": 1794994315.0,
-      "id": "8125650051158579772"
+      "id": "444163097190506047"
     },
     {
       "category": "eco",
@@ -142,7 +130,7 @@
       ],
       "published_at": "2026-11-18 08:08",
       "sort_key": 1794989280.0,
-      "id": "2469928031605415526"
+      "id": "272971528306962736"
     },
     {
       "category": "pol",
@@ -166,13 +154,13 @@
       ],
       "published_at": "2026-11-17 14:52",
       "sort_key": 1794927120.0,
-      "id": "4054831224727796887"
+      "id": "421649748434647076"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "정치적 불확실성이 투자자들을 불안하게 하면서 인도네시아 시장의 혼란이 심화되고 있다",
-      "summary": "인도네시아 금융시장은 정치적 불확실성, 루피아 약세, MSCI 등급 하향 조정 위험으로 인해 커지는 압력에 직면해 있다. 외국인 투자자의 대규모 자금 유출, 주가 하락, 채권 수익률 상승이 동남아시아 최대 경제국에 대한 신뢰를 더욱 떨어뜨리고 있습니다.",
+      "title": "정치적 불확실성이 투자자들을 불안하게 하면서 인도네시아 시장의 혼란이 심화되고 있습니다.",
+      "summary": "인도네시아 금융 시장은 정치적 불확실성, 루피아 약세, MSCI 등급 하향 조정 위험으로 인해 커져가는 압력에 직면해 있다. 외국인 투자자의 대규모 자금 유출, 주가 하락, 채권 수익률 상승이 동남아시아 최대 경제국에 대한 신뢰를 더욱 떨어뜨리고 있습니다.",
       "type": "news",
       "sources": [
         {
@@ -182,61 +170,13 @@
       ],
       "published_at": "2026-11-17 07:53",
       "sort_key": 1794901980.0,
-      "id": "1030370399064753677"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "인도네시아의 프라보워 대통령, 아세안 정상회의에서 연무 사태는 '우리 탓이 아니다'라고 말하면서도 말레이시아와 싱가포르에 사과",
-      "summary": "자카르타, 11월 16일 — 인도네시아의 프라보워 수비안토 대통령이 자국에서 걷잡을 수 없이 확산된 산불로 인해 발생한 유독성 연무가... 오염시킨 데 대해 말레이시아와 싱가포르에 사과했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/world/2026/11/16/indonesias-prabowo-tells-asean-summit-haze-not-our-fault-but-apologises-to-malaysia-singapore/243447"
-        }
-      ],
-      "published_at": "2026-11-16 03:28",
-      "sort_key": 1794799711.0,
-      "id": "5139018641888859451"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "싱가포르-인도네시아 연무 태스크포스가 아세안 전역의 플랫폼이 되어야 한다고 말한 총리 웡",
-      "summary": "그는 또한 태국-캄보디아 국경 긴장에 대해 자제를 촉구하며 미얀마가 지역 블록에 완전히 복귀하기 전에 \"구체적인 조치\"를 보여줘야 한다고 말했다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-haze-indonesia-6552421"
-        }
-      ],
-      "published_at": "2026-11-15 10:44",
-      "sort_key": 1794739440.0,
-      "id": "8871806140217547341"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "선전 APEC 정상회의, 인도네시아 통화 정책, 아세안 외교",
-      "summary": "아시아 주간 뉴스에 오신 것을 환영합니다. 올해 APEC 정상회의가 열리는 가운데 시진핑 중국 국가주석은 자국의 기술 역량이 성장하고 있음을 과시하고자 할 것입니다.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/apec-summit-in-shenzhen-indonesia-monetary-policy-asean-diplomacy"
-        }
-      ],
-      "published_at": "2026-11-15 05:00",
-      "sort_key": 1794718827.0,
-      "id": "9205749801984916447"
+      "id": "6594133541493021022"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "인도네시아 대통령: 호르무즈 사태가 기후 행동의 경제학을 바꿨다",
-      "summary": "COP 기후 정상회의는 결코 야심이 부족하지 않았습니다. 하지만 실행은 미흡했습니다. 선진국에서 재정적 압박이 가중됨에 따라, 많은 국가들이",
+      "summary": "COP 기후 정상회의는 결코 야심이 부족하지 않았습니다. 하지만 실행은 미흡했습니다. 선진국에서 재정적 압박이 가중됨에 따라 많은 국가가",
       "type": "news",
       "sources": [
         {
@@ -246,12 +186,12 @@
       ],
       "published_at": "2026-11-14 15:41",
       "sort_key": 1794670872.0,
-      "id": "3245953069486278627"
+      "id": "5964543840248189584"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "연구자들이 인도네시아에서 플라스틱 폐기물 소각이 건강에 미치는 영향을 조사하다",
+      "title": "연구자들이 인도네시아에서 플라스틱 폐기물 소각이 건강에 미치는 영향을 조사합니다.",
       "summary": "수십 년 동안 인도네시아 동자바의 주민들은 플라스틱 폐기물을 소각해 왔지만 건강에 미치는 영향에 대해 잘 모르고 있었을 수 있습니다.",
       "type": "news",
       "sources": [
@@ -262,12 +202,12 @@
       ],
       "published_at": "2026-11-14 03:05",
       "sort_key": 1794625518.0,
-      "id": "8226320924580107577"
+      "id": "7240016716253866491"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다는 연구 결과",
+      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다고 연구 결과 밝혀져",
       "summary": "수년 만에 최악의 산불이 발생한 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
       "type": "news",
       "sources": [
@@ -282,13 +222,13 @@
       ],
       "published_at": "2026-11-13 03:01",
       "sort_key": 1794538871.0,
-      "id": "8215668342381354707"
+      "id": "3047713525626715135"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "Meta, Google, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업을 긴장시키는 이유",
-      "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 지급해야 할 가능성이 있습니다. , 기술 및 과학, Times Now",
+      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶어하지 않습니다. 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장하게 만드는 이유",
+      "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, Times Now",
       "type": "news",
       "sources": [
         {
@@ -298,13 +238,13 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "1478568408617656047"
+      "id": "2677330632458969972"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다.",
-      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이 다음과 같은 비용을 지불하도록 요구하는 내용입니다...",
+      "title": "빅테크 기업들이 인도네시아의 AI 저작권법 개정안에 대한 주요 변경 사항에 반발하다",
+      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이...을 지불하도록 요구하는 내용입니다.",
       "type": "news",
       "sources": [
         {
@@ -314,13 +254,13 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "7847719568928405776"
+      "id": "8298178365315969833"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "호주, 인도네시아 산불 진압을 위한 소방 헬기 투하 작전에 참여 예정 - 재난관리청 발표",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하며, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
+      "title": "재난관리청, 호주가 인도네시아 산불 진압을 위한 소방헬기 투하 작전에 참여할 것이라고 밝힘",
+      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강 및 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
       "type": "news",
       "sources": [
         {
@@ -330,7 +270,7 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "5322641671050703667"
+      "id": "7798671282845328405"
     },
     {
       "category": "liv",
@@ -346,7 +286,7 @@
       ],
       "published_at": "2026-11-03 10:17",
       "sort_key": 1793701070.0,
-      "id": "3953179743388182268"
+      "id": "7689319732609784252"
     }
   ],
   "categories": [
@@ -373,7 +313,7 @@
     {
       "id": "int",
       "label": "국제",
-      "count": 5
+      "count": 0
     },
     {
       "id": "liv",
@@ -384,19 +324,31 @@
   "sources": [
     {
       "name": "The Straits Times",
-      "count": 4
+      "count": 5
     },
     {
       "name": "The Star",
-      "count": 3
-    },
-    {
-      "name": "Malay Mail",
-      "count": 2
+      "count": 4
     },
     {
       "name": "CNA",
       "count": 2
+    },
+    {
+      "name": "Indonesia Business Post",
+      "count": 1
+    },
+    {
+      "name": "MarketScreener",
+      "count": 1
+    },
+    {
+      "name": "Euronews",
+      "count": 1
+    },
+    {
+      "name": "Al Jazeera",
+      "count": 1
     },
     {
       "name": "Devdiscourse",
@@ -407,31 +359,15 @@
       "count": 1
     },
     {
-      "name": "Indonesia Business Post",
-      "count": 1
-    },
-    {
       "name": "News18",
       "count": 1
     },
     {
-      "name": "Al Jazeera",
-      "count": 1
-    },
-    {
-      "name": "RTE.ie",
-      "count": 1
-    },
-    {
-      "name": "The Irish Times",
+      "name": "Malay Mail",
       "count": 1
     },
     {
       "name": "The Economic Times",
-      "count": 1
-    },
-    {
-      "name": "Nikkei Asia",
       "count": 1
     },
     {
@@ -463,6 +399,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-21 22:38:19",
+  "last_updated": "2026-11-22 02:38:19",
   "errors": {}
 }
