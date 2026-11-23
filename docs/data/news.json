@@ -3,58 +3,14 @@
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "인도네시아, 연말연시를 맞아 무료 오토바이 교통편 준비",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "ANTARA News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjVMNS1fSHdMZ0g0NmhyM1ZBcEZULWk5Y09JZjA2WGNPOVpBMHYwVWRsLUwzLVB4RzdkcXJmT0hON3gyRGxIR09fNUdnWURXemlCakpHV2k0cWk0ZEdpdVpxODBDdzVEU0tWaHozNDlPMWg0MFIxZDA2aGpIdFM0bGdkd2hVNkx1Q3lsSDkxVmV4TzFBQ2ZGX1RKQkFXYThKeUkzOEViONIBrAFBVV95cUxPU21HaXJVZ0d1eVVFM0ZPS2N2NEdNRGdGQ1F3UkFGRE0wVl81OUR3ZjBQU2JHWHAwVmxaQkhvSEJYN3Z2ekU4LVVUVnV3VGloVFVieWNDVjRBSXJETHJrVmd0NG9xMlFINzZvdm54Nk9QRHFjcGowcjJUWjlpb3oxMnB3MG5hWDZ1QVNrYm4zWDdUMVVjNTY3OUpkNC1CWnZyVmFTcG1RcE8yNDVG?oc=5"
-        }
-      ],
-      "published_at": "2026-11-22 09:45",
-      "sort_key": 1795340753.0,
-      "id": "2664334017753718030"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Green SM, 인도네시아에서 오토바이 차량 호출 서비스 중단",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORjFqZDdmZ3RLTGxmc2lHWU5WUzJQUWhldGNJeWo5MnM1SXZvdFNKS1JtVXZNV1YzSEg2VjlmY0l0OGtleGlSV3VFN0ltaVBsVkVuZ0R4NUJKNWYzWDZlSVRzVGxLdnAxcFcyejRVZjNWR3ZERkZkUW82RDUtdGJRTXROYVpneEllMk5nWjREeXU4LV9mMjBlaXB6RENva2VJ?oc=5"
-        }
-      ],
-      "published_at": "2026-11-22 07:47",
-      "sort_key": 1795333664.0,
-      "id": "2960650600605952077"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아의 오토바이 수출, 81개국에 달함",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "JournalArta",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHN4YzF6ZUFIZ0xMMGJfYzYzalhLYml6MFFSc1l0eEpKb1BxOUlKTEdMSDlab3htdEc5cUF2TTIzZ1Fhclc3WTJTTXgybkdpM09WZFcxTHo5cTBJQ0NHOU00LVJoRWM3M3RhdDU5M1NwMDB4cl9lSGY5eWxjSXBRckhkRTNXeUR0c0doYXFR?oc=5"
-        }
-      ],
-      "published_at": "2026-11-22 01:58",
-      "sort_key": 1795312727.0,
-      "id": "1152566498451830091"
-    },
-    {
-      "category": "int",
-      "category_label": "국제",
-      "title": "EU와 인도네시아, 10년간의 협상 끝에 획기적인 자유무역협정 체결",
+      "title": "EU와 인도네시아, 자동차 관세 인하를 위한 자유무역협정 체결에 합의",
       "summary": "유럽연합(EU)과 인도네시아가 브뤼셀에서 획기적인 포괄적 경제 동반자 협정(CEPA)과 투자 보호 협정(IPA)에 공식 서명함으로써 거의 10년에 걸친...",
       "type": "news",
       "sources": [
+        {
+          "name": "electrive.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5"
+        },
         {
           "name": "The News International",
           "url": "https://www.thenews.com.pk/latest/1424540-eu-and-indonesia-sign-landmark-free-trade-deal-after-10-year-talks"
@@ -80,15 +36,115 @@
           "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
         }
       ],
-      "published_at": "2026-11-21 17:57",
-      "sort_key": 1795283820.0,
-      "id": "1296027459645386082"
+      "published_at": "2026-11-23 13:30",
+      "sort_key": 1795440600.0,
+      "id": "6252403127469459322"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "2026년 10월까지 인도네시아 자동차 판매량 20% 증가",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "IDNFinancials",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG1OLWdNZm9meHZ5V01hUTFjMVJFaTBJWlJhbTlGX3F0TUhOcGFTOEVBZFN5ekFhUTFxSGtqM2dNMVpleF9ibkt6dUFLZzBFZ3ljbDVJemN2eFU5eE5FVHp6cWR4OWFnSG5WdEplcVI2OXI0NGZLd1A3cWFwZUIxTlRJdC1US3dBeXJJSlZ5emVrQ1o3?oc=5"
+        }
+      ],
+      "published_at": "2026-11-23 12:20",
+      "sort_key": 1795436400.0,
+      "id": "4710426158041598887"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "Green SM, 2개월 만에 인도네시아 오토바이 차량 호출 시장에서 철수",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Jakarta Post",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTR5WHFvcWFLS2MyTWRVU1ZDYXp5bFR1d0I4cE5CMGZ1MHZ1eW9hOXhiRkZMbm5BLXR2R1IwZXdJTEFNVGN1TTU3RlpCSGVhSTNCSjM4QVJuVjhpUThNVUJzZlpBRjk3bzFPam9CWXZhR3Z4QUNBUDQ3bHY4cGtJSmx3aFFTSlNkWjZwT2M0alVVWEpfWU1MZWJWVVRESnIwNFFPVGgwVDZaVC0yeWVfUnZWcnViRUVWaFBKeTRSNjJMZw?oc=5"
+        },
+        {
+          "name": "Tempo.co English",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORjFqZDdmZ3RLTGxmc2lHWU5WUzJQUWhldGNJeWo5MnM1SXZvdFNKS1JtVXZNV1YzSEg2VjlmY0l0OGtleGlSV3VFN0ltaVBsVkVuZ0R4NUJKNWYzWDZlSVRzVGxLdnAxcFcyejRVZjNWR3ZERkZkUW82RDUtdGJRTXROYVpneEllMk5nWjREeXU4LV9mMjBlaXB6RENva2VJ?oc=5"
+        }
+      ],
+      "published_at": "2026-11-23 08:08",
+      "sort_key": 1795421317.0,
+      "id": "4962443739324755117"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "현대차 네이라, 인도네시아에서 사전 예약 시작 – 현지 생산 비율 80%의 CKD 전기 SUV, 3가지 트림, 가격은 RM88,000부터",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Paul Tan's Automotive News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUtfWjJ6bUpZS0JFOGpVYWJ1TDJ0R1dfQ0JFSG1SdXg2T1AyZFd1WFVmaWk1ZnJHWExZQjZsbkhvU2EzMVhmdFZFNk1qWTRIMk9wOGFySk9na1ZFUlpkM3hhUXpuazdvU3NVNUpvUTVRS1ZBcGN4b2lnNGlTV1pmbXR0WGt3QQ?oc=5"
+        }
+      ],
+      "published_at": "2026-11-23 06:50",
+      "sort_key": 1795416621.0,
+      "id": "1335901948128042663"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아에서 최근 출시된 기아 카렌스 EV를 자세히 살펴보면 가격은 5억 3,500만 루피아부터 시작합니다.",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXp3WUdGb1FDa3RRMjRiNU53bXlfNF9tWlJxSXVPam85Z0gyaXFlTW9xcW1yaXpKOEg0WXlOeDJ5S2hwdHhrSFF0WjZIRjlGd181OXR1d1JENDJLbEQ2d1RQblJsRjM0NFo5cmlTQ3BSeDdIY25qSURhREozXzExRUU0eFZjRXVLdEMyMmxScTMyX09qMEtmMlZ5UQ?oc=5"
+        }
+      ],
+      "published_at": "2026-11-23 06:29",
+      "sort_key": 1795415390.0,
+      "id": "4087901111852644399"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아의 51Talk 학생이 COP31 무대에 올라 기후 변화에 대해 연설하다",
+      "summary": "아타르(Athar)는 터키 안탈야에서 열린 유엔 기후변화 회의에서 기후변화에 대한 자신의 견해를 밝히며 6개국에서 온 청소년 참가자들과 함께 세계 무대에 섰습니다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/51talk-student-from-indonesia-takes-the-stage-at-cop31-to-speak-on-climate-change/2475802"
+        }
+      ],
+      "published_at": "2026-11-23 01:26",
+      "sort_key": 1795397216.0,
+      "id": "4160488220290348782"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아, 연말연시를 맞아 무료 오토바이 교통편 준비",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjVMNS1fSHdMZ0g0NmhyM1ZBcEZULWk5Y09JZjA2WGNPOVpBMHYwVWRsLUwzLVB4RzdkcXJmT0hON3gyRGxIR09fNUdnWURXemlCakpHV2k0cWk0ZEdpdVpxODBDdzVEU0tWaHozNDlPMWg0MFIxZDA2aGpIdFM0bGdkd2hVNkx1Q3lsSDkxVmV4TzFBQ2ZGX1RKQkFXYThKeUkzOEViONIBrAFBVV95cUxPU21HaXJVZ0d1eVVFM0ZPS2N2NEdNRGdGQ1F3UkFGRE0wVl81OUR3ZjBQU2JHWHAwVmxaQkhvSEJYN3Z2ekU4LVVUVnV3VGloVFVieWNDVjRBSXJETHJrVmd0NG9xMlFINzZvdm54Nk9QRHFjcGowcjJUWjlpb3oxMnB3MG5hWDZ1QVNrYm4zWDdUMVVjNTY3OUpkNC1CWnZyVmFTcG1RcE8yNDVG?oc=5"
+        }
+      ],
+      "published_at": "2026-11-22 09:45",
+      "sort_key": 1795340753.0,
+      "id": "4335512783712196997"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "스마트시티부터 나투나까지, 중국과의 관계를 심화하는 인도네시아의 행보가 인도네시아 경제에 미치는 영향",
-      "summary": "인도네시아와 중국은 기업의 비용 부담을 덜고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
+      "title": "스마트시티에서 나투나까지, 중국과의 관계를 심화하는 인도네시아의 행보가 인도네시아 경제에 미치는 영향",
+      "summary": "인도네시아와 중국은 기업의 비용 부담을 줄이고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
       "type": "news",
       "sources": [
         {
@@ -98,13 +154,13 @@
       ],
       "published_at": "2026-11-21 04:13",
       "sort_key": 1795234398.0,
-      "id": "1959045687206883581"
+      "id": "3317268698936286105"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "YouTube가 인도네시아 정부 지지 채널 19,000개 이상을 삭제한 이유",
-      "summary": "Google은 2026년 7월부터 9월까지 인도네시아와 연관된 유튜브 채널 19,372개를 삭제했습니다. 이들 채널은 프라보워 수비안토 대통령의 정부를 지지하는 콘텐츠를 공유한 혐의로 삭제되었습니다.",
+      "summary": "Google은 2026년 7월부터 9월까지 인도네시아와 연관된 19,372개의 YouTube 채널을 삭제했습니다. 이 채널들은 프라보워 수비안토 대통령의 정부를 지지하는 콘텐츠를 공유한 것으로 확인되었습니다.",
       "type": "news",
       "sources": [
         {
@@ -122,7 +178,7 @@
       ],
       "published_at": "2026-11-19 10:18",
       "sort_key": 1795083529.0,
-      "id": "2843130149784744734"
+      "id": "6802113723158183045"
     },
     {
       "category": "eco",
@@ -138,13 +194,13 @@
       ],
       "published_at": "2026-11-18 09:47",
       "sort_key": 1794995220.0,
-      "id": "6626673261979681221"
+      "id": "7889717419276967366"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 중앙은행, 루피아 지원을 위해 금리 인상",
-      "summary": "자카르타: 인도네시아 중앙은행은 지난주 국내 정치적 혼란 속에서 루피아가 여러 차례 사상 최저치를 기록한 후 루피아의 하락을 막기 위한 긴축 사이클을 재개하며 수요일에 정책 금리를 25베이시스포인트 인상했다.",
+      "summary": "자카르타: 인도네시아 중앙은행은 지난주 국내 정치적 혼란 속에서 루피아가 여러 차례 사상 최저치를 기록한 후, 루피아의 하락을 막기 위한 긴축 사이클을 재개하며 수요일에 정책 금리를 25bp 인상했다.",
       "type": "news",
       "sources": [
         {
@@ -158,13 +214,13 @@
       ],
       "published_at": "2026-11-18 08:08",
       "sort_key": 1794989280.0,
-      "id": "7604875686120469120"
+      "id": "7293764164430420818"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아 경찰, 대통령 도청 혐의를 받는 공무원 해임",
-      "summary": "인도네시아 경찰이 화요일, 프라보워 수비안토 대통령과 다른 공무원, 활동가, 언론인의 휴대전화를 도청하려는 계획에 연루된 혐의로 피의자로 지목된 공무원을 해임했다고 대변인이 윤리 심의 후 밝혔다.",
+      "summary": "인도네시아 경찰이 프라보워 수비안토 대통령과 다른 공무원, 활동가, 언론인의 휴대전화를 도청하려는 계획과 관련해 범죄 용의자로 지목된 공무원을 화요일에 해임했다고 대변인이 윤리 심의 후 밝혔다.",
       "type": "news",
       "sources": [
         {
@@ -182,12 +238,12 @@
       ],
       "published_at": "2026-11-17 14:52",
       "sort_key": 1794927120.0,
-      "id": "5482630365643425885"
+      "id": "1993005322529281200"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "정치적 불확실성이 투자자들을 불안하게 하면서 인도네시아 시장의 혼란이 심화되고 있습니다.",
+      "title": "정치적 불확실성이 투자자들을 불안하게 하면서 인도네시아 시장의 혼란이 심화되고 있다",
       "summary": "인도네시아 금융시장은 정치적 불확실성, 루피아 약세, MSCI 등급 하향 조정 위험으로 인해 커져가는 압력에 직면해 있다. 외국인 투자자의 대규모 자금 유출, 주가 하락, 채권 수익률 상승이 동남아시아 최대 경제국에 대한 신뢰를 더욱 떨어뜨리고 있습니다.",
       "type": "news",
       "sources": [
@@ -198,7 +254,7 @@
       ],
       "published_at": "2026-11-17 07:53",
       "sort_key": 1794901980.0,
-      "id": "5664110667228642782"
+      "id": "3217730041631084329"
     },
     {
       "category": "liv",
@@ -214,7 +270,7 @@
       ],
       "published_at": "2026-11-14 15:41",
       "sort_key": 1794670872.0,
-      "id": "2647770243087672477"
+      "id": "4354718226712388544"
     },
     {
       "category": "liv",
@@ -230,12 +286,12 @@
       ],
       "published_at": "2026-11-14 03:05",
       "sort_key": 1794625518.0,
-      "id": "642757975986959769"
+      "id": "4797905824790518449"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다고 연구 결과 밝혀",
+      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다는 연구 결과",
       "summary": "수년 만에 최악의 산불이 발생한 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
       "type": "news",
       "sources": [
@@ -250,12 +306,12 @@
       ],
       "published_at": "2026-11-13 03:01",
       "sort_key": 1794538871.0,
-      "id": "867366374279691533"
+      "id": "6743722036435109710"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶지 않다: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
+      "title": "Meta, Google, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
       "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, Times Now",
       "type": "news",
       "sources": [
@@ -266,13 +322,13 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "781508340979824481"
+      "id": "4493566124343134717"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
       "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다",
-      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이 다음과 같은 비용을 지불하도록 요구하는 내용입니다...",
+      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안에 대한 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이...을 지불하도록 요구하는 내용입니다.",
       "type": "news",
       "sources": [
         {
@@ -282,12 +338,12 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "1158074374278296612"
+      "id": "7122458449868223098"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "호주, 인도네시아 산불 진압을 위한 소방용수 투하 작전에 참여 예정 - 재난관리청 발표",
+      "title": "호주, 인도네시아 산불 진압을 위한 소방 헬기 투하 작전에 참여 예정이라고 재난관리청이 밝혔습니다.",
       "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하며, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
       "type": "news",
       "sources": [
@@ -298,23 +354,7 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "1278965002985549720"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "pv magazine",
-          "url": "https://www.pv-magazine.com/press-releases/from-targets-to-projects-solar-storage-live-and-evcharge-live-indonesia-2026-focus-on-infrastructure-delivery/"
-        }
-      ],
-      "published_at": "2026-11-03 10:17",
-      "sort_key": 1793701070.0,
-      "id": "3391856707943928671"
+      "id": "550428498780943659"
     }
   ],
   "categories": [
@@ -336,12 +376,12 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 3
+      "count": 6
     },
     {
       "id": "int",
       "label": "국제",
-      "count": 1
+      "count": 0
     },
     {
       "id": "liv",
@@ -367,15 +407,7 @@
       "count": 2
     },
     {
-      "name": "ANTARA News",
-      "count": 1
-    },
-    {
-      "name": "Tempo.co English",
-      "count": 1
-    },
-    {
-      "name": "JournalArta",
+      "name": "electrive.com",
       "count": 1
     },
     {
@@ -384,6 +416,34 @@
     },
     {
       "name": "Euronews",
+      "count": 1
+    },
+    {
+      "name": "IDNFinancials",
+      "count": 1
+    },
+    {
+      "name": "The Jakarta Post",
+      "count": 1
+    },
+    {
+      "name": "Tempo.co English",
+      "count": 1
+    },
+    {
+      "name": "Paul Tan's Automotive News",
+      "count": 1
+    },
+    {
+      "name": "Vietnam.vn",
+      "count": 1
+    },
+    {
+      "name": "The Manila Times",
+      "count": 1
+    },
+    {
+      "name": "ANTARA News",
       "count": 1
     },
     {
@@ -421,12 +481,8 @@
     {
       "name": "U.S. News & World Report",
       "count": 1
-    },
-    {
-      "name": "pv magazine",
-      "count": 1
     }
   ],
-  "last_updated": "2026-11-23 03:44:12",
+  "last_updated": "2026-11-23 13:54:24",
   "errors": {}
 }
