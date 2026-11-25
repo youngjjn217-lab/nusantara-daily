@@ -3,18 +3,26 @@
     {
       "category": "car",
       "category_label": "자동차",
-      "title": "아시아 자동차 어워드, 2027년 인도네시아에서 말레이시아 자동차 산업의 위상을 높일 예정",
+      "title": "제6회 아시아 자동차 어워드, 국경을 넘어 자동차 부문의 탁월성을 기념하기 위해 인도네시아로 향하다",
       "summary": "",
       "type": "news",
       "sources": [
         {
+          "name": "SME & Entrepreneurship Magazine",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDRIWXlDRGZwNEM5YldMSmpWWmJqSmljNFFReWk4SXJvWDJwME1tb29lU3ZZalZZcUJ2TmJ5b2tSZUZtRmx0b1R6TTRLUG5UY1JZZklaTnhwS3k3dXNJZ2JmTUNxbXAyUDVHOXZ0ZFVsa1cxdnZ6X2owclEyUldfeHRaem5iUmJqMWJGYnhCa2dZN0N4bld4OEdDLXhPWlR0bVdwTWtOeHNIdkVxSlMwbg?oc=5"
+        },
+        {
           "name": "BusinessToday Malaysia",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmFPRnk0ZzBCeU1Qb3VrM3Rsa2xDMHVuN3drSUdTUEwwcjJTTUJqcWZHN1QxU0R3MGZHWFZ0aWVSUXZSRjB6NFFsVlJGN2xTOFZscUdZWGpQbGJZM25DREhfQmlrREpsc1UzMUxrRjkxWXFZQ1RPOVFUN1ZjRzlvZGk4RlVueE9NaWM2c0JnSy1ENXpqQVJYTi1FcHZjUW1keWxqcTU1YllfLVY5MnZ0RGFEdlI4ZjhaWGttOWljcjQyam5IYnc?oc=5"
+        },
+        {
+          "name": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXo4UGtlX1VmdVk2RWw4NVRpTVNMUnJveGxNUTJYTkNjckpINFptcUtWcWtKVlV5U2hDejBudVliV2dqa0NyZUpjaTVkQ0VnZElmSGhXMEhweHBITXZQckpqZ2lwYzFZall6Y3JPa1N3bEtvUU10blZxd1Z3LWpJWlFpT3ZlNHFCR3VqX3BMdHNFeFU?oc=5"
         }
       ],
-      "published_at": "2026-11-25 03:03",
-      "sort_key": 1795575812.0,
-      "id": "4297257020317761499"
+      "published_at": "2026-11-25 08:12",
+      "sort_key": 1795594378.0,
+      "id": "4011627030123449992"
     },
     {
       "category": "car",
@@ -26,36 +34,16 @@
         {
           "name": "International Council on Clean Transportation",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zMmFQMTJpeURZbFM2QVRLSDZnRGdzaUNMLTlRZnZPblpiSWdGMGJxQUliR1lIeXlSOUtCRFlnUnlMX0p1bVExX0tWc3ZLV0hIdEYwaWFveHk2UFE4T19xbVp4S0I1c3hvYi0yQw?oc=5"
-        },
-        {
-          "name": "autoevolution",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVVZbXhJaWtxTUtTSzFYSTk1OWpKQWg1TXY4Yi1RaTJJNWczUzN2dGtVRlZ0dE9KWW9wdlBPYmdmZEtaWkxvdWQ0RTNVdEhJNjEzXzNlM3FFVGIwbWdtVzVqakxNRGlHVHpQUDlUOUpNR2VUTGJfUHYySWdfNnpOeWlWQXByMWlmT2E3WWFPT2twbE8xOWo5VEpOSUtEMjRENTRualhkRERINENTZjB4T3ZoR1hPbDBkRUl4bTNjRl9iSVZqVUhjWGZoYURER3MtaHdkQw?oc=5"
         }
       ],
       "published_at": "2026-11-24 18:43",
       "sort_key": 1795545814.0,
-      "id": "8833003750706695850"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아에서 제조된 토요타 차량은 E20 바이오에탄올 연료를 사용할 수 있습니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEktSDNZSDdTNlJ6eGZCeExNVXhSREpfMGplcE16QmQ4d0phN2p5YXBnYzJYYTBlb2ZfdkhsMjlxMmFyaFdLSjRvRmZIa2sxc013MXh5a0N6czdpcmtKelM2cWQ5YnNyUTI4U3lmX0tYSG02bl9YMEhrN0Zkb2lLdGRaSVpudHJfSnlQV3FVOWpKLWxSdEE?oc=5"
-        }
-      ],
-      "published_at": "2026-11-24 10:22",
-      "sort_key": 1795515771.0,
-      "id": "6523704500533677761"
+      "id": "730054612661644462"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "태국과 인도네시아의 4개 프로젝트가 Steel Architectural Awards ASEAN 2026에서 수상의 영예를 안았습니다.",
+      "title": "태국과 인도네시아의 4개 프로젝트가 Steel Architectural Awards ASEAN 2026에서 수상",
       "summary": "코팅강을 사용한 태국과 인도네시아의 혁신적인 디자인을 선보이는 Steel Architectural Awards ASEAN 2026 수상작을 만나보세요.",
       "type": "news",
       "sources": [
@@ -66,13 +54,13 @@
       ],
       "published_at": "2026-11-24 06:45",
       "sort_key": 1795502700.0,
-      "id": "4279543651155282328"
+      "id": "1623004054333882298"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아, 전 경찰청장을 대통령 약화 시도를 목적으로 한 반역죄로 기소했다고 관계자가 밝혔다",
-      "summary": "데브디스토스(Devdiscourse)에서 '인도네시아, 전 경찰청장을 대통령 약화 시도를 위한 반역 혐의로 기소'에 대한 자세한 내용을 읽어보세요.",
+      "title": "인도네시아, 전 경찰청장을 대통령을 약화시키려는 목적으로 한 반역죄로 기소했다고 관계자가 밝혔다",
+      "summary": "데브디스-코스(Devdiscourse)에서 '인도네시아, 전 경찰서장을 대통령 약화 음모를 위한 반역 혐의로 기소'에 대한 자세한 내용을 읽어보세요.",
       "type": "news",
       "sources": [
         {
@@ -94,13 +82,13 @@
       ],
       "published_at": "2026-11-24 04:19",
       "sort_key": 1795493998.0,
-      "id": "8762694873543349293"
+      "id": "861115877434737185"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "자히드 부총리: 말레이시아와 인도네시아, 농촌 기업 육성 및 시장 접근성 향상을 위한 '자매 마을' 프로그램 추진 계획",
-      "summary": "발리, 11월 24일 — 말레이시아와 인도네시아는 농촌 기업가 정신을 강화하고, 시장 접근성을 확대하며, 비즈니스 협력을 촉진하기 위해 자매 마을 프로그램을 개발하고자 합니다...",
+      "summary": "발리, 11월 24일 — 말레이시아와 인도네시아는 농촌 기업가 정신을 강화하고, 시장 접근성을 확대하며, 비즈니스 협력을 촉진하기 위해 자매 마을 프로그램을 개발하고자 한다...",
       "type": "news",
       "sources": [
         {
@@ -110,12 +98,12 @@
       ],
       "published_at": "2026-11-24 01:30",
       "sort_key": 1795483800.0,
-      "id": "8643549975527739549"
+      "id": "2820353254219600150"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아: 전 경찰청장이 대통령 암살 음모 혐의로 기소된 6명의 용의자 중 한 명으로 지목됨",
+      "title": "인도네시아: 전직 경찰청장이 대통령에 대한 음모 혐의로 기소된 6명의 용의자 중 한 명으로 지목됨",
       "summary": "인도네시아: 대통령 암살 음모 혐의로 전직 경찰청장을 포함한 6명이 용의자로 지목됨 - 자카르타, 11월 23일 – 인도네시아 당국이 전직 국가경찰청장 리스티오 시기트 프라보원을 포함한 6명을... 국제 뉴스 최신 소식은 lokmattimes.com에서만 확인하실 수 있습니다.",
       "type": "news",
       "sources": [
@@ -126,59 +114,7 @@
       ],
       "published_at": "2026-11-23 17:57",
       "sort_key": 1795456665.0,
-      "id": "4669248783863395676"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "EU와 인도네시아, 자동차 관세 인하를 위한 자유무역협정 체결에 합의",
-      "summary": "유럽연합(EU)과 인도네시아가 브뤼셀에서 획기적인 포괄적 경제 동반자 협정(CEPA)과 투자 보호 협정(IPA)에 공식 서명함으로써 거의 10년에 걸친...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "electrive.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5"
-        },
-        {
-          "name": "The News International",
-          "url": "https://www.thenews.com.pk/latest/1424540-eu-and-indonesia-sign-landmark-free-trade-deal-after-10-year-talks"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/eu-and-indonesia-sign-trade-deal-after-10-years-of-negotiations"
-        },
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696"
-        },
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/eu-and-indonesia-officially-sign-039ambitious039-trade-deal"
-        },
-        {
-          "name": "MarketScreener",
-          "url": "https://www.marketscreener.com/news/eu-and-indonesia-sign-trade-deal-after-10-years-of-negotiations-ce785ed3de8afe20"
-        }
-      ],
-      "published_at": "2026-11-23 13:30",
-      "sort_key": 1795440600.0,
-      "id": "3332850403181002933"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "2026년 10월까지 인도네시아 자동차 판매량 20% 증가",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "IDNFinancials",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG1OLWdNZm9meHZ5V01hUTFjMVJFaTBJWlJhbTlGX3F0TUhOcGFTOEVBZFN5ekFhUTFxSGtqM2dNMVpleF9ibkt6dUFLZzBFZ3ljbDVJemN2eFU5eE5FVHp6cWR4OWFnSG5WdEplcVI2OXI0NGZLd1A3cWFwZUIxTlRJdC1US3dBeXJJSlZ5emVrQ1o3?oc=5"
-        }
-      ],
-      "published_at": "2026-11-23 12:20",
-      "sort_key": 1795436400.0,
-      "id": "1245678864413680165"
+      "id": "7064914758866186144"
     },
     {
       "category": "eco",
@@ -202,61 +138,13 @@
       ],
       "published_at": "2026-11-23 07:54",
       "sort_key": 1795420493.0,
-      "id": "5476952365374239806"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "현대차 네이라, 인도네시아에서 사전 예약 시작 – 현지화율 80%의 CKD 전기 SUV, 3가지 트림, 가격은 8,800만 루피아부터",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Paul Tan's Automotive News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUtfWjJ6bUpZS0JFOGpVYWJ1TDJ0R1dfQ0JFSG1SdXg2T1AyZFd1WFVmaWk1ZnJHWExZQjZsbkhvU2EzMVhmdFZFNk1qWTRIMk9wOGFySk9na1ZFUlpkM3hhUXpuazdvU3NVNUpvUTVRS1ZBcGN4b2lnNGlTV1pmbXR0WGt3QQ?oc=5"
-        }
-      ],
-      "published_at": "2026-11-23 06:50",
-      "sort_key": 1795416621.0,
-      "id": "6818700578348065111"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아에서 최근 출시된 기아 카렌스 EV를 자세히 살펴보면 가격은 5억 3,500만 루피아부터 시작합니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXp3WUdGb1FDa3RRMjRiNU53bXlfNF9tWlJxSXVPam85Z0gyaXFlTW9xcW1yaXpKOEg0WXlOeDJ5S2hwdHhrSFF0WjZIRjlGd181OXR1d1JENDJLbEQ2d1RQblJsRjM0NFo5cmlTQ3BSeDdIY25qSURhREozXzExRUU0eFZjRXVLdEMyMmxScTMyX09qMEtmMlZ5UQ?oc=5"
-        }
-      ],
-      "published_at": "2026-11-23 06:29",
-      "sort_key": 1795415390.0,
-      "id": "6688507680406041308"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "Green SM, 2개월 만에 인도네시아 오토바이 호출 서비스 시장에서 철수",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "The Jakarta Post",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTR5WHFvcWFLS2MyTWRVU1ZDYXp5bFR1d0I4cE5CMGZ1MHZ1eW9hOXhiRkZMbm5BLXR2R1IwZXdJTEFNVGN1TTU3RlpCSGVhSTNCSjM4QVJuVjhpUThNVUJzZlpBRjk3bzFPam9CWXZhR3Z4QUNBUDQ3bHY4cGtJSmx3aFFTSlNkWjZwT2M0alVVWEpfWU1MZWJWVVRESnIwNFFPVGgwVDZaVC0yeWVfUnZWcnViRUVWaFBKeTRSNjJMZw?oc=5"
-        }
-      ],
-      "published_at": "2026-11-23 06:12",
-      "sort_key": 1795414336.0,
-      "id": "3814986188092150136"
+      "id": "3611062913088944659"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "인도네시아의 51Talk 학생이 COP31에서 기후 변화에 대해 연설하다",
-      "summary": "아타르(Athar)는 튀르키예 안탈리아에서 열린 UN 기후변화 회의에서 기후변화에 대한 자신의 견해를 밝히며 6개국에서 온 청소년 참가자들과 함께 세계 무대에 섰습니다.",
+      "summary": "아타르(Athar)는 튀르키예 안탈리아에서 열린 유엔 기후변화 회의에서 기후변화에 대한 자신의 견해를 밝히며 6개국에서 온 청소년 참가자들과 함께 세계 무대에 섰습니다.",
       "type": "news",
       "sources": [
         {
@@ -266,7 +154,39 @@
       ],
       "published_at": "2026-11-23 01:26",
       "sort_key": 1795397216.0,
-      "id": "1075701643066838673"
+      "id": "3164776845813662405"
+    },
+    {
+      "category": "int",
+      "category_label": "국제",
+      "title": "EU와 인도네시아, 10년간의 협상 끝에 획기적인 자유무역협정 체결",
+      "summary": "유럽연합(EU)과 인도네시아가 브뤼셀에서 획기적인 포괄적 경제 동반자 협정(CEPA)과 투자 보호 협정(IPA)에 공식 서명함으로써 거의 10년에 걸친...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1424540-eu-and-indonesia-sign-landmark-free-trade-deal-after-10-year-talks"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/eu-and-indonesia-sign-trade-deal-after-10-years-of-negotiations"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696"
+        },
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/eu-and-indonesia-officially-sign-039ambitious039-trade-deal"
+        },
+        {
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com/news/eu-and-indonesia-sign-trade-deal-after-10-years-of-negotiations-ce785ed3de8afe20"
+        }
+      ],
+      "published_at": "2026-11-21 17:57",
+      "sort_key": 1795283820.0,
+      "id": "7559975144116198156"
     },
     {
       "category": "eco",
@@ -282,7 +202,7 @@
       ],
       "published_at": "2026-11-21 04:13",
       "sort_key": 1795234398.0,
-      "id": "4634842867224779491"
+      "id": "7850058086360272109"
     },
     {
       "category": "eco",
@@ -298,7 +218,7 @@
       ],
       "published_at": "2026-11-18 09:47",
       "sort_key": 1794995220.0,
-      "id": "5543681670890394691"
+      "id": "1116494007281256142"
     },
     {
       "category": "liv",
@@ -314,7 +234,7 @@
       ],
       "published_at": "2026-11-14 15:41",
       "sort_key": 1794670872.0,
-      "id": "2440272688166418988"
+      "id": "1081104543846905444"
     },
     {
       "category": "liv",
@@ -330,12 +250,12 @@
       ],
       "published_at": "2026-11-14 03:05",
       "sort_key": 1794625518.0,
-      "id": "6371966747738612739"
+      "id": "98894158291704374"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다는 연구 결과",
+      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 격화시켰다고 연구 결과 밝혀",
       "summary": "수년 만에 최악의 산불이 발생한 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
       "type": "news",
       "sources": [
@@ -350,13 +270,13 @@
       ],
       "published_at": "2026-11-13 03:01",
       "sort_key": 1794538871.0,
-      "id": "4529179073629730420"
+      "id": "8287088254282505659"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "메타와 구글, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
-      "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 지급해야 할 가능성이 있습니다. , 기술 및 과학, 타임스 나우",
+      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶지 않아 한다: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
+      "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, Times Now",
       "type": "news",
       "sources": [
         {
@@ -366,13 +286,13 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "966427294836782571"
+      "id": "4038593988837957517"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다",
-      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안에 대한 재고를 촉구했습니다. 이 개정안은 디지털 플랫폼이...을 지불하도록 요구하는 내용입니다.",
+      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 담긴 주요 변경 사항에 반발하고 나섰다.",
+      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안에 대한 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이...을 지불하도록 요구하는 내용입니다.",
       "type": "news",
       "sources": [
         {
@@ -382,13 +302,13 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "8705318392895874796"
+      "id": "6557930862355611228"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "호주, 인도네시아 산불 진압을 위한 소방 헬기 투하 작전에 참여 예정 - 재난관리청 발표",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
+      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적인 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
       "type": "news",
       "sources": [
         {
@@ -398,7 +318,7 @@
       ],
       "published_at": "2026-11-05 03:44",
       "sort_key": 1793850240.0,
-      "id": "6463001632809658994"
+      "id": "1914929302526464582"
     }
   ],
   "categories": [
@@ -420,12 +340,12 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 8
+      "count": 2
     },
     {
       "id": "int",
       "label": "국제",
-      "count": 1
+      "count": 2
     },
     {
       "id": "liv",
@@ -447,10 +367,6 @@
       "count": 3
     },
     {
-      "name": "Vietnam.vn",
-      "count": 2
-    },
-    {
       "name": "CNA",
       "count": 2
     },
@@ -467,15 +383,19 @@
       "count": 2
     },
     {
+      "name": "SME & Entrepreneurship Magazine",
+      "count": 1
+    },
+    {
       "name": "BusinessToday Malaysia",
       "count": 1
     },
     {
-      "name": "International Council on Clean Transportation",
+      "name": "Wisevoter",
       "count": 1
     },
     {
-      "name": "autoevolution",
+      "name": "International Council on Clean Transportation",
       "count": 1
     },
     {
@@ -487,27 +407,11 @@
       "count": 1
     },
     {
-      "name": "electrive.com",
+      "name": "The Manila Times",
       "count": 1
     },
     {
       "name": "MarketScreener",
-      "count": 1
-    },
-    {
-      "name": "IDNFinancials",
-      "count": 1
-    },
-    {
-      "name": "Paul Tan's Automotive News",
-      "count": 1
-    },
-    {
-      "name": "The Jakarta Post",
-      "count": 1
-    },
-    {
-      "name": "The Manila Times",
       "count": 1
     },
     {
@@ -527,6 +431,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-25 04:32:44",
+  "last_updated": "2026-11-25 14:52:52",
   "errors": {}
 }
