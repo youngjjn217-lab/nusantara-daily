@@ -1,20 +1,72 @@
 {
   "items": [
     {
-      "category": "eco",
-      "category_label": "경제·증시",
-      "title": "인도네시아 중앙은행, 2027년 기준금리 6% 유지",
-      "summary": "인도네시아 중앙은행은 루피아와 경제 성장을 뒷받침하기 위해 2027년 기준금리를 6%로 유지할 것으로 예상합니다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "category": "car",
+      "category_label": "자동차",
+      "title": "우링, 인도네시아 서플라이 체인 2026에서 에어박스 EV를 통해 전기차 혁신 선보여",
+      "summary": "",
       "type": "news",
       "sources": [
         {
-          "name": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/indonesia-central-bank-expects-to-keep-benchmark-rate-at-6-in-2027-governor-says"
+          "name": "Wuling",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFdDSkdMZUYtb2tQLTFDVFV0SmF3b1ZBZVhHaGlOS05lWFJKUUxsV0pFZnZ1VUZkLVVEaFRWaHkzZFFjSmVMX0l2S3BJX2Z5WmVMQlk5VTFmR1ZZZW9EZkFXbGxfNzRvUk0tbHZYQ3AybnFwanpLa21Vc0MwRFZUQnE5RHZZdWJiS2pRNmpOOTFmMXpVLWh0TDNrTmVLVUV2cElaQkM1UWIwZmJqVW5oZy1pRzd0UkFEUklQVlE5UmNSRktoSEZqeFFsYkRiQQ?oc=5"
+        },
+        {
+          "name": "International Council on Clean Transportation",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zMmFQMTJpeURZbFM2QVRLSDZnRGdzaUNMLTlRZnZPblpiSWdGMGJxQUliR1lIeXlSOUtCRFlnUnlMX0p1bVExX0tWc3ZLV0hIdEYwaWFveHk2UFE4T19xbVp4S0I1c3hvYi0yQw?oc=5"
         }
       ],
-      "published_at": "2026-11-25 07:35",
-      "sort_key": 1795592100.0,
-      "id": "4612958011354840467"
+      "published_at": "2026-11-26 06:27",
+      "sort_key": 1795674445.0,
+      "id": "2462770564961768916"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아 광산 사고: 범람한 강물로 인해 100m 깊이의 갱도가 침수되고 광부 13명이 사망함",
+      "summary": "자카르타, 11월 26일 — 폭우로 인해 인도네시아 자바섬의 불법 금광이 침수되면서 사망자가 13명으로 늘어났으며, 12명 이상이 여전히 실종 상태이다...",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/11/26/indonesia-mining-disaster-100m-deep-shaft-flooded-by-overflowing-river-13-miners-dead/244825"
+        }
+      ],
+      "published_at": "2026-11-26 03:03",
+      "sort_key": 1795662180.0,
+      "id": "906425177655089849"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "모든 브랜드와 호환되는 BRIN 및 PT Volex Indonesia의 전기 오토바이 고속 충전 플러그 및 소켓 개발",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Badan Riset dan Inovasi Nasional",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHBlMVhnNTJYeFAxSUVSYUQ5dk01RUJSNzlNaVR4R3N4eTFjYmNfY3lmOHRkNUdTbnVSMWZwX3dzdVVrQXlCTVVTSXFfRkRfd0xRckI4Q0VzN0ZMTW1sY0dxejBGS2RUR21XUENhS2cyMnBqSXRRZk9VMkR2b1pGdE1HcGhrRmk0SzR6R0xraE9GMVRKajVmWmpUVzBrUG5KTjJKRUVMVF85SHNWbk5JMk1EUnMyTUFrc2lJZGlJQVNmbEh4S1dJV3NtY0VJUUppeUFMNEswQjZmYTJHMnNDcEZPZE5yUjg?oc=5"
+        }
+      ],
+      "published_at": "2026-11-26 00:26",
+      "sort_key": 1795652760.0,
+      "id": "4547981854220735985"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "11개 자동차 브랜드가 Permata Bank GAIKINDO Auto Week Bali 2026에 연말 자동차 특가 상품을 선보입니다",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Indo Bali News",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUlvNUJWbjByQ2Q3N0RyVGlNVld3Mml0X2I0ZnFrUmpOMXh3dGMwM0JlNk9wOTRac05mdnRaQTc0VlUza0YtWFJmZ0RBNlFDSDhrbTVSMjlKc2FycWJBZ0wtT0ZHX0U4UVFSZTlZQUxwMi02VWhlNjk0ZFNLSjJZVWZiZklGMmtUcFlpS2VndktxYkxDVTdHT0JIZWpnUWJxZ000SkVJVGNuMkx5SVlROFk0THJ4cDFQLVNzclFDWWFfcmRLVHV0YUdxWm1yNS1PTVdxRk1mOWpUSkFVOUpoUmFKUHowV21IWlRHNUVIZ0I?oc=5"
+        }
+      ],
+      "published_at": "2026-11-25 13:02",
+      "sort_key": 1795611756.0,
+      "id": "5978100837558745909"
     },
     {
       "category": "car",
@@ -30,17 +82,37 @@
         {
           "name": "BusinessToday Malaysia",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVmFPRnk0ZzBCeU1Qb3VrM3Rsa2xDMHVuN3drSUdTUEwwcjJTTUJqcWZHN1QxU0R3MGZHWFZ0aWVSUXZSRjB6NFFsVlJGN2xTOFZscUdZWGpQbGJZM25DREhfQmlrREpsc1UzMUxrRjkxWXFZQ1RPOVFUN1ZjRzlvZGk4RlVueE9NaWM2c0JnSy1ENXpqQVJYTi1FcHZjUW1keWxqcTU1YllfLVY5MnZ0RGFEdlI4ZjhaWGttOWljcjQyam5IYnc?oc=5"
+        },
+        {
+          "name": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXo4UGtlX1VmdVk2RWw4NVRpTVNMUnJveGxNUTJYTkNjckpINFptcUtWcWtKVlV5U2hDejBudVliV2dqa0NyZUpjaTVkQ0VnZElmSGhXMEhweHBITXZQckpqZ2lwYzFZall6Y3JPa1N3bEtvUU10blZxd1Z3LWpJWlFpT3ZlNHFCR3VqX3BMdHNFeFU?oc=5"
         }
       ],
-      "published_at": "2026-11-25 06:19",
-      "sort_key": 1795587553.0,
-      "id": "1955004913696264944"
+      "published_at": "2026-11-25 08:12",
+      "sort_key": 1795594378.0,
+      "id": "6570309090970022694"
+    },
+    {
+      "category": "eco",
+      "category_label": "경제·증시",
+      "title": "인도네시아 중앙은행, 2027년 기준금리 6% 유지",
+      "summary": "인도네시아 중앙은행은 루피아와 경제 성장을 뒷받침하기 위해 2027년 기준금리를 6%로 유지할 것으로 예상하고 있습니다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/business/indonesia-central-bank-expects-to-keep-benchmark-rate-at-6-in-2027-governor-says"
+        }
+      ],
+      "published_at": "2026-11-25 07:35",
+      "sort_key": 1795592100.0,
+      "id": "3024351943530191798"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아, 프라보워 정부에 대한 음모 혐의로 대테러 요원 2명 해임",
-      "summary": "자카르타: 인도네시아 경찰은 11월 24일(화) 프라보워 수비안토 대통령 정부를 약화시키려는 반역 음모 혐의로 인도네시아의 정예 대테러 부대 소속 고위 간부 2명을 해임했다.",
+      "summary": "자카르타: 인도네시아 경찰은 11월 24일 화요일, 프라보워 수비안토 대통령 정부를 약화시키려는 반역 음모 혐의로 인도네시아의 정예 대테러 부대 소속 고위 간부 2명을 해임했다.",
       "type": "news",
       "sources": [
         {
@@ -50,44 +122,12 @@
       ],
       "published_at": "2026-11-25 03:14",
       "sort_key": 1795576440.0,
-      "id": "8104099125770978184"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "2025년 인도네시아 전기차 시장",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "International Council on Clean Transportation",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zMmFQMTJpeURZbFM2QVRLSDZnRGdzaUNMLTlRZnZPblpiSWdGMGJxQUliR1lIeXlSOUtCRFlnUnlMX0p1bVExX0tWc3ZLV0hIdEYwaWFveHk2UFE4T19xbVp4S0I1c3hvYi0yQw?oc=5"
-        }
-      ],
-      "published_at": "2026-11-24 18:43",
-      "sort_key": 1795545814.0,
-      "id": "58540669282491854"
-    },
-    {
-      "category": "car",
-      "category_label": "자동차",
-      "title": "인도네시아에서 생산된 토요타 차량은 E20 바이오에탄올 연료를 사용할 수 있습니다.",
-      "summary": "",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEktSDNZSDdTNlJ6eGZCeExNVXhSREpfMGplcE16QmQ4d0phN2p5YXBnYzJYYTBlb2ZfdkhsMjlxMmFyaFdLSjRvRmZIa2sxc013MXh5a0N6czdpcmtKelM2cWQ5YnNyUTI4U3lmX0tYSG02bl9YMEhrN0Zkb2lLdGRaSVpudHJfSnlQV3FVOWpKLWxSdEE?oc=5"
-        }
-      ],
-      "published_at": "2026-11-24 10:22",
-      "sort_key": 1795515771.0,
-      "id": "5993577722514195230"
+      "id": "4810799454510323632"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "태국과 인도네시아의 4개 프로젝트가 Steel Architectural Awards ASEAN 2026에서 수상",
+      "title": "태국과 인도네시아의 4개 프로젝트가 Steel Architectural Awards ASEAN 2026에서 수상의 영예를 안았습니다.",
       "summary": "코팅강을 사용한 태국과 인도네시아의 혁신적인 디자인을 선보이는 Steel Architectural Awards ASEAN 2026 수상작을 만나보세요.",
       "type": "news",
       "sources": [
@@ -98,13 +138,13 @@
       ],
       "published_at": "2026-11-24 06:45",
       "sort_key": 1795502700.0,
-      "id": "4981516802449732446"
+      "id": "7428210373793020819"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아, 전 경찰청장을 대통령 약화 시도를 목적으로 한 반역죄로 기소했다고 관계자가 밝혔다",
-      "summary": "데브디스토스(Devdiscourse)에서 '인도네시아, 전 경찰청장을 대통령 약화 목적의 반역죄로 기소'에 대한 자세한 내용을 읽어보세요.",
+      "title": "인도네시아, 전 경찰청장을 대통령 약화 음모 혐의로 기소했다고 관계자가 밝혔다",
+      "summary": "데브디스-코스(Devdiscourse)에서 '인도네시아, 전 경찰청장을 대통령 약화 시도를 목적으로 한 반역죄로 기소'에 대한 자세한 내용을 읽어보세요.",
       "type": "news",
       "sources": [
         {
@@ -126,12 +166,12 @@
       ],
       "published_at": "2026-11-24 04:19",
       "sort_key": 1795493998.0,
-      "id": "7330097327080880990"
+      "id": "411965454154845323"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "자히드 부총리: 말레이시아와 인도네시아, 농촌 기업 육성 및 시장 접근성 향상을 위한 '자매 마을' 프로그램 추진 계획",
+      "title": "자히드 부총리: 말레이시아와 인도네시아, 농촌 기업 활성화 및 시장 접근성 향상을 위한 '자매 마을' 프로그램 추진 계획",
       "summary": "발리, 11월 24일 — 말레이시아와 인도네시아는 농촌 기업가 정신을 강화하고, 시장 접근성을 확대하며, 비즈니스 협력을 촉진하기 위해 자매 마을 프로그램을 개발하고자 한다...",
       "type": "news",
       "sources": [
@@ -142,7 +182,7 @@
       ],
       "published_at": "2026-11-24 01:30",
       "sort_key": 1795483800.0,
-      "id": "5903441851225193583"
+      "id": "2018330303471341999"
     },
     {
       "category": "eco",
@@ -162,13 +202,13 @@
       ],
       "published_at": "2026-11-23 07:54",
       "sort_key": 1795420493.0,
-      "id": "6084934235979939428"
+      "id": "1629731363227170486"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "인도네시아의 51Talk 학생이 COP31에서 기후 변화에 대해 연설하다",
-      "summary": "아타르(Athar)는 튀르키예 안탈야에서 열린 유엔 기후변화 회의에서 기후변화에 대한 자신의 견해를 공유했으며, 이 자리에는 6개국에서 온 청소년 참가자들이 함께해 글로벌 무대를 빛냈습니다.",
+      "summary": "아타르(Athar)는 터키 안탈리아에서 열린 유엔 기후변화 회의에서 기후변화에 대한 자신의 견해를 밝히며 6개국에서 온 청소년 참가자들과 함께 세계 무대에 섰습니다.",
       "type": "news",
       "sources": [
         {
@@ -178,7 +218,7 @@
       ],
       "published_at": "2026-11-23 01:26",
       "sort_key": 1795397216.0,
-      "id": "5876783932949138608"
+      "id": "3043390086392520804"
     },
     {
       "category": "int",
@@ -210,13 +250,13 @@
       ],
       "published_at": "2026-11-21 17:57",
       "sort_key": 1795283820.0,
-      "id": "1922800722931145094"
+      "id": "7404756254741250451"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "스마트시티부터 나투나까지, 중국과의 관계를 심화하는 인도네시아의 행보가 인도네시아 경제에 미치는 영향",
-      "summary": "인도네시아와 중국은 기업의 비용 부담을 줄이고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했습니다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
+      "summary": "인도네시아와 중국은 기업의 비용 부담을 덜고 소비자 선택의 폭을 넓힐 수 있는 718억 달러 규모의 투자 및 금융 지원 제안을 발표한 후 무역 협상을 시작했다. 남중국해에서의 잠재적인 공동 개발은 어업 접근권과 자카르타가 나투나 제도 인근의 해양 자원 권리를 어떻게 보호할 것인지에 대한 의문을 제기합니다.",
       "type": "news",
       "sources": [
         {
@@ -226,13 +266,13 @@
       ],
       "published_at": "2026-11-21 04:13",
       "sort_key": 1795234398.0,
-      "id": "3164893707769942633"
+      "id": "1343010681280272850"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아, 약세를 보이는 루피아를 부양하기 위해 기준금리를 6%로 인상",
-      "summary": "자카르타, 11월 18일 — 인도네시아 중앙은행이 기준금리를 25bp 인상하여 6%로 상향 조정했다. 이는 약세를 보이는... 를 안정시키기 위한 선제적 조치이다.",
+      "summary": "자카르타, 11월 18일 — 인도네시아 중앙은행이 기준금리를 25bp 인상하여 6%로 상향 조정했다. 이는 약세를 보이는 통화 가치를 안정시키기 위한 선제적 조치이다...",
       "type": "news",
       "sources": [
         {
@@ -242,13 +282,13 @@
       ],
       "published_at": "2026-11-18 09:47",
       "sort_key": 1794995220.0,
-      "id": "5446987624189144334"
+      "id": "3506161306833939235"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "인도네시아 대통령: 호르무즈 사태가 기후 행동의 경제학을 바꿨다",
-      "summary": "COP 기후 정상회의는 결코 야심이 부족하지 않았습니다. 하지만 실행은 미흡했습니다. 선진국에서 재정적 압박이 가중됨에 따라 많은 국가들이",
+      "summary": "COP 기후 정상회의는 결코 야심이 부족하지 않았습니다. 하지만 실행은 미흡했습니다. 선진국에서 재정적 압박이 가중됨에 따라 많은 국가가",
       "type": "news",
       "sources": [
         {
@@ -258,7 +298,7 @@
       ],
       "published_at": "2026-11-14 15:41",
       "sort_key": 1794670872.0,
-      "id": "1370702173778992287"
+      "id": "6838320540450194103"
     },
     {
       "category": "liv",
@@ -274,12 +314,12 @@
       ],
       "published_at": "2026-11-14 03:05",
       "sort_key": 1794625518.0,
-      "id": "886804617823479533"
+      "id": "1206367152584030016"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
-      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 격화시켰다고 연구 결과 밝혀져",
+      "title": "엘니뇨와 기후 변화가 인도네시아 산불을 더욱 악화시켰다고 연구 결과 밝혀져",
       "summary": "수년 만에 최악의 산불이 발생한 인도네시아는 현지 도시와 싱가포르, 말레이시아 등 이웃 국가를 유독성 스모그로 뒤덮었습니다.",
       "type": "news",
       "sources": [
@@ -294,12 +334,12 @@
       ],
       "published_at": "2026-11-13 03:01",
       "sort_key": 1794538871.0,
-      "id": "683048302758675211"
+      "id": "5649009751827206901"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "메타와 구글, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
+      "title": "메타, 구글은 출판사에 보상금을 지급하고 싶지 않아 합니다. 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장하게 만드는 이유",
       "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, 타임스 나우",
       "type": "news",
       "sources": [
@@ -310,12 +350,12 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "2117413724470908748"
+      "id": "6153429736767537270"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다.",
+      "title": "빅테크 기업들이 인도네시아의 AI 저작권법 개정안에 반발하다",
       "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이 다음과 같은 비용을 지불하도록 요구하는 내용입니다...",
       "type": "news",
       "sources": [
@@ -326,23 +366,7 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "2375301407382894450"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "재난관리청, 호주가 인도네시아의 산불 진압을 위한 소방헬기 투하 작전에 참여할 것이라고 밝힘",
-      "summary": "US News는 대학, 대학원, 병원, 뮤추얼 펀드 및 자동차 순위 분야에서 인정받는 선도적 매체입니다. 선출직 공직자를 추적하고, 건강 상태를 조사하고, 정치, 비즈니스, 건강, 교육 분야에서 활용할 수 있는 뉴스를 찾아보세요.",
-      "type": "news",
-      "sources": [
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/news/world/articles/2026-11-04/australia-to-join-indonesias-wildfire-waterbombing-operations-disaster-agency-says"
-        }
-      ],
-      "published_at": "2026-11-05 03:44",
-      "sort_key": 1793850240.0,
-      "id": "9061819037460524618"
+      "id": "745713687941469264"
     }
   ],
   "categories": [
@@ -364,7 +388,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 3
+      "count": 4
     },
     {
       "id": "int",
@@ -383,6 +407,10 @@
       "count": 4
     },
     {
+      "name": "Malay Mail",
+      "count": 3
+    },
+    {
       "name": "The Straits Times",
       "count": 3
     },
@@ -399,12 +427,24 @@
       "count": 2
     },
     {
-      "name": "Malay Mail",
+      "name": "The News International",
       "count": 2
     },
     {
-      "name": "The News International",
-      "count": 2
+      "name": "Wuling",
+      "count": 1
+    },
+    {
+      "name": "International Council on Clean Transportation",
+      "count": 1
+    },
+    {
+      "name": "Badan Riset dan Inovasi Nasional",
+      "count": 1
+    },
+    {
+      "name": "Indo Bali News",
+      "count": 1
     },
     {
       "name": "SME & Entrepreneurship Magazine",
@@ -415,11 +455,7 @@
       "count": 1
     },
     {
-      "name": "International Council on Clean Transportation",
-      "count": 1
-    },
-    {
-      "name": "Vietnam.vn",
+      "name": "Wisevoter",
       "count": 1
     },
     {
@@ -445,12 +481,8 @@
     {
       "name": "Times Now",
       "count": 1
-    },
-    {
-      "name": "U.S. News & World Report",
-      "count": 1
     }
   ],
-  "last_updated": "2026-11-26 05:24:24",
+  "last_updated": "2026-11-26 15:42:32",
   "errors": {}
 }
