@@ -1,9 +1,25 @@
 {
   "items": [
     {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "GAW 2026: 현대자동차 인도네시아, 공식 출시를 앞두고 현지 생산 네이라 EV 사전 예약 개시",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Automotive Industry Portal MarkLines",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MZHYtRThyeEZ2Z2RlbjhVOFhYamdTY2ZlUHpva19RZDN3b2doYktCR0syY2t0OW8wckZ5Mi1WbmJORGJiOFNMMEI0ZHc4dExPMmc?oc=5"
+        }
+      ],
+      "published_at": "2026-11-27 02:40",
+      "sort_key": 1795747200.0,
+      "id": "2802120907505191349"
+    },
+    {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "인도네시아, 투명성, 감독 및 법 집행 강화로 자본시장 개혁 추진",
+      "title": "인도네시아, 투명성, 감독 및 법 집행 강화를 통한 자본시장 개혁 강화",
       "summary": "인도네시아 자카르타, 2026년 11월 27일 /PRNewswire/ -- 2026년 초, 인도네시아 금융감독원(OJK)은 자율규제기구(SRO)와 함께 청렴성, 투명성, 규율 및 투자자 보호에 중점을 둔 인도네시아 자본시장 개혁을 위한 실행 계획을 발표했다.",
       "type": "news",
       "sources": [
@@ -14,7 +30,7 @@
       ],
       "published_at": "2026-11-26 23:49",
       "sort_key": 1795736974.0,
-      "id": "4578812398922980435"
+      "id": "758645884196935096"
     },
     {
       "category": "liv",
@@ -30,7 +46,7 @@
       ],
       "published_at": "2026-11-26 08:20",
       "sort_key": 1795681200.0,
-      "id": "6376232607881484262"
+      "id": "3458058022117414903"
     },
     {
       "category": "car",
@@ -46,23 +62,7 @@
       ],
       "published_at": "2026-11-26 06:27",
       "sort_key": 1795674445.0,
-      "id": "480263066106153828"
-    },
-    {
-      "category": "liv",
-      "category_label": "생활·환경",
-      "title": "인도네시아 광산 사고: 범람한 강물로 인해 100m 깊이의 갱도가 침수되고 광부 13명이 사망함",
-      "summary": "자카르타, 11월 26일 — 폭우로 인해 인도네시아 자바섬의 불법 금광에서 발생한 홍수로 인한 사망자 수가 13명으로 증가했으며, 12명 이상이 여전히 실종 상태이다...",
-      "type": "news",
-      "sources": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/world/2026/11/26/indonesia-mining-disaster-100m-deep-shaft-flooded-by-overflowing-river-13-miners-dead/244825"
-        }
-      ],
-      "published_at": "2026-11-26 03:03",
-      "sort_key": 1795662180.0,
-      "id": "2744867030439563088"
+      "id": "2066633484190784079"
     },
     {
       "category": "car",
@@ -73,18 +73,50 @@
       "sources": [
         {
           "name": "Badan Riset dan Inovasi Nasional",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOHBlMVhnNTJYeFAxSUVSYUQ5dk01RUJSNzlNaVR4R3N4eTFjYmNfY3lmOHRkNUdTbnVSMWZwX3dzdVVrQXlCTVVTSXFfRkRfd0xRckI4Q0VzN0ZMTW1sY0dxejBGS2RUR21XUENhS2cyMnBqSXRRZk9VMkR2b1pGdE1HcGhrRmk0SzR6R0xraE9GMVRKajVmWmpUVzBrUG5KTjJKRUVMVF85SHNWbk5JMk1EUnMyTUFrc2lJZGlJQVNmbEh4S1dJV3NtY0VJUUppeUFMNEswQjZmYTJHMnNDcEZPZE5yUjg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR1dTSGJDOTJEXzVVUjVTTDBGWlQ0QXBrQ0w3b3RBVzRyTGthMEZTTEMtY2l3TU5JNXRZZ0x3SVFaaWFxUnc3Y21NM1A5cldJWnNvTTdXZ2kwWDk2cktpX28wRThEa3NHNmZ2MThpNzUzc2NjMVhxcklVOFBYQmRxS2tkYkhFNkp0VDZRVFh1cEIybUhOWUpCaENDaVVERkdOMGpYXy1ydjlFS3FoY25JUG9scEtOczlzdmRDbGtlTFh2VEZFU3JHbTZVM1FCN0tqX3RwZ1pacDhLWGhRSGc?oc=5"
         }
       ],
-      "published_at": "2026-11-26 00:26",
-      "sort_key": 1795652760.0,
-      "id": "3091907063331248077"
+      "published_at": "2026-11-26 05:26",
+      "sort_key": 1795670761.0,
+      "id": "5033300152512395249"
+    },
+    {
+      "category": "liv",
+      "category_label": "생활·환경",
+      "title": "인도네시아 광산 사고: 범람한 강물로 인해 100m 깊이의 갱도가 침수되어 광부 13명 사망",
+      "summary": "자카르타, 11월 26일 — 폭우로 인해 인도네시아 자바섬의 불법 금광에서 발생한 홍수로 인한 사망자 수가 13명으로 증가했으며, 12명 이상이 여전히 실종된 상태이다.",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/11/26/indonesia-mining-disaster-100m-deep-shaft-flooded-by-overflowing-river-13-miners-dead/244825"
+        }
+      ],
+      "published_at": "2026-11-26 03:03",
+      "sort_key": 1795662180.0,
+      "id": "6676886339988899421"
+    },
+    {
+      "category": "car",
+      "category_label": "자동차",
+      "title": "인도네시아 BSKDN, 친환경 모빌리티 정책 논의 개최 및 현실적인 전기차 도입과 지역 간 시너지 촉구",
+      "summary": "",
+      "type": "news",
+      "sources": [
+        {
+          "name": "Voice of ASIA",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1lfcjVtNW5yWXZ1MEtNTDFkbEIzVmZyeTBBQy00Y1Q4VVAwcTVFV2R0anlsTlVNUlJCR0ljRDdIMk9NZ2owd3NicEtrSDNDUVNIVUdiRlhicDQxbUJfZ2lzM0ltMlhzRGJ2ZlVoX2RnWmJCaElkZHRfanZXdGRYbUFXcm1ieER1cExqbnEwcnh6ZmlpZk5wNlctckxrZHgtQ1Jsb1lXNzNFbk5naXZxNlEwcHhKYVhxczZoUGFaVnBVclFqcm1IUEdlQ2lUVHZqRFpqdEs1WmNGN1lQ?oc=5"
+        }
+      ],
+      "published_at": "2026-11-26 02:03",
+      "sort_key": 1795658612.0,
+      "id": "8857376854769707005"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
       "title": "인도네시아 중앙은행, 2027년 기준금리 6% 유지",
-      "summary": "인도네시아 중앙은행은 루피아와 경제 성장을 뒷받침하기 위해 2027년 기준금리를 6%로 유지할 것으로 전망하고 있습니다. 자세한 내용은 straitstimes.com에서 확인하세요.",
+      "summary": "인도네시아 중앙은행은 루피아와 경제 성장을 뒷받침하기 위해 2027년 기준금리를 6%로 유지할 것으로 예상하고 있습니다. 자세한 내용은 straitstimes.com에서 확인하세요.",
       "type": "news",
       "sources": [
         {
@@ -94,13 +126,13 @@
       ],
       "published_at": "2026-11-25 07:35",
       "sort_key": 1795592100.0,
-      "id": "4375702840026245970"
+      "id": "4551233195062614905"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
       "title": "인도네시아, 프라보워 정부에 대한 음모 혐의로 대테러 요원 2명 해임",
-      "summary": "자카르타: 인도네시아 경찰은 11월 24일(화) 프라보워 수비안토 대통령 정부를 약화시키려는 반역 음모 혐의로 인도네시아의 정예 대테러 부대 소속 고위 간부 2명을 해임했다.",
+      "summary": "자카르타: 인도네시아 경찰은 11월 24일 화요일, 프라보워 수비안토 대통령 정부를 약화시키려는 반역 음모 혐의로 인도네시아의 정예 대테러 부대 소속 고위 간부 2명을 해임했다.",
       "type": "news",
       "sources": [
         {
@@ -110,7 +142,7 @@
       ],
       "published_at": "2026-11-25 03:14",
       "sort_key": 1795576440.0,
-      "id": "8926084567886870649"
+      "id": "6744623755699388724"
     },
     {
       "category": "int",
@@ -126,13 +158,13 @@
       ],
       "published_at": "2026-11-24 06:45",
       "sort_key": 1795502700.0,
-      "id": "4857590205695824263"
+      "id": "5351311389008153175"
     },
     {
       "category": "pol",
       "category_label": "정치·사회",
-      "title": "인도네시아, 전 경찰서장을 대통령 약화 음모 혐의로 기소했다고 관계자가 밝혔다",
-      "summary": "데브디스-코스(Devdiscourse)에서 '인도네시아, 전 경찰서장을 대통령 약화 시도를 위한 반역죄로 기소'에 대한 자세한 내용을 읽어보세요.",
+      "title": "인도네시아, 전 경찰청장을 대통령 약화 음모를 꾸민 반역죄로 기소했다고 관계자가 밝혔다",
+      "summary": "데브디스-코스(Devdiscourse)에서 '인도네시아, 전 경찰청장을 대통령 약화 목적의 반역 혐의로 기소'에 대한 자세한 내용을 읽어보세요.",
       "type": "news",
       "sources": [
         {
@@ -154,13 +186,13 @@
       ],
       "published_at": "2026-11-24 04:19",
       "sort_key": 1795493998.0,
-      "id": "308436614415704506"
+      "id": "2968847305101341272"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "자히드 부총리: 말레이시아와 인도네시아, 농촌 기업 육성 및 시장 접근성 향상을 위한 '자매 마을' 프로그램 추진 계획",
-      "summary": "발리, 11월 24일 — 말레이시아와 인도네시아는 농촌 기업가 정신을 강화하고, 시장 접근성을 확대하며, 비즈니스 협력을 촉진하기 위해 자매 마을 프로그램을 개발하고자 합니다...",
+      "title": "자히드 부총리: 말레이시아와 인도네시아, 농촌 기업 활성화 및 시장 접근성 향상을 위한 '자매 마을' 프로그램 추진 계획",
+      "summary": "발리, 11월 24일 — 말레이시아와 인도네시아는 농촌 기업가 정신을 강화하고, 시장 접근성을 확대하며, 비즈니스 협력을 촉진하기 위해 자매 마을 프로그램을 개발하고자 한다...",
       "type": "news",
       "sources": [
         {
@@ -170,13 +202,13 @@
       ],
       "published_at": "2026-11-24 01:30",
       "sort_key": 1795483800.0,
-      "id": "6314659738280065193"
+      "id": "6550666003431701019"
     },
     {
       "category": "eco",
       "category_label": "경제·증시",
-      "title": "인도네시아 중앙은행, MSCI가 프라보워와 논의한 결과 루피아화에 긍정적이라고 밝혀",
-      "summary": "인도네시아 중앙은행이 MSCI가 프라보워와 루피아 지원에 대해 논의하고 있다고 밝힌 내용에 대해 Devdiscourse에서 자세히 알아보세요.",
+      "title": "인도네시아 중앙은행, MSCI가 프라보워와 논의한 결과 루피아에 긍정적이라고 밝혀",
+      "summary": "인도네시아 중앙은행이 MSCI가 프라보워와 루피아 지원에 대해 논의하고 있다고 밝힌 소식에 대해 Devdiscourse에서 자세히 알아보세요.",
       "type": "news",
       "sources": [
         {
@@ -186,13 +218,13 @@
       ],
       "published_at": "2026-11-23 07:54",
       "sort_key": 1795420493.0,
-      "id": "1400751393330007679"
+      "id": "4969537244766833709"
     },
     {
       "category": "liv",
       "category_label": "생활·환경",
       "title": "인도네시아의 51Talk 학생이 COP31에서 기후 변화에 대해 연설하다",
-      "summary": "아타르(Athar)는 터키 안탈야에서 열린 유엔 기후변화 회의에서 기후변화에 대한 자신의 견해를 밝히며 6개국에서 온 청소년 참가자들과 함께 세계 무대에 섰습니다.",
+      "summary": "아타르(Athar)는 터키 안탈리아에서 열린 유엔 기후변화 회의에서 기후변화에 대한 자신의 견해를 밝히며 6개국에서 온 청소년 참가자들과 함께 세계 무대에 섰습니다.",
       "type": "news",
       "sources": [
         {
@@ -202,12 +234,12 @@
       ],
       "published_at": "2026-11-23 01:26",
       "sort_key": 1795397216.0,
-      "id": "6031497965227799122"
+      "id": "2684109652589287112"
     },
     {
       "category": "int",
       "category_label": "국제",
-      "title": "EU와 인도네시아, 10년에 걸친 협상 끝에 획기적인 자유무역협정 체결",
+      "title": "EU와 인도네시아, 10년간의 협상 끝에 획기적인 자유무역협정 체결",
       "summary": "유럽연합(EU)과 인도네시아가 브뤼셀에서 획기적인 포괄적 경제 동반자 협정(CEPA)과 투자 보호 협정(IPA)에 공식 서명함으로써 거의 10년에 걸친...",
       "type": "news",
       "sources": [
@@ -234,7 +266,7 @@
       ],
       "published_at": "2026-11-21 17:57",
       "sort_key": 1795283820.0,
-      "id": "1019719827617178412"
+      "id": "5958269868447356526"
     },
     {
       "category": "eco",
@@ -250,7 +282,7 @@
       ],
       "published_at": "2026-11-21 04:13",
       "sort_key": 1795234398.0,
-      "id": "4813901784171692510"
+      "id": "5271671407402483486"
     },
     {
       "category": "eco",
@@ -266,7 +298,7 @@
       ],
       "published_at": "2026-11-18 09:47",
       "sort_key": 1794995220.0,
-      "id": "2323047378381894441"
+      "id": "4361468235489345501"
     },
     {
       "category": "liv",
@@ -282,7 +314,7 @@
       ],
       "published_at": "2026-11-14 15:41",
       "sort_key": 1794670872.0,
-      "id": "873141836861195932"
+      "id": "5964526885469076180"
     },
     {
       "category": "liv",
@@ -298,7 +330,7 @@
       ],
       "published_at": "2026-11-14 03:05",
       "sort_key": 1794625518.0,
-      "id": "2163305434296403182"
+      "id": "7801290871020999241"
     },
     {
       "category": "liv",
@@ -314,13 +346,13 @@
       ],
       "published_at": "2026-11-13 03:01",
       "sort_key": 1794538871.0,
-      "id": "3885676433609212181"
+      "id": "1153170619003091969"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "Meta, Google, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업을 긴장시키는 이유",
-      "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, Times Now",
+      "title": "메타와 구글, 출판사에 보상금 지급을 원하지 않아: 인도네시아의 AI 저작권 계획이 빅테크 기업들을 긴장시키는 이유",
+      "summary": "인도네시아는 저작권법 개정을 검토하고 있으며, 이에 따라 Meta, Google, TikTok과 같은 빅테크 기업들이 출판사의 콘텐츠를 사용하는 대가로 보상을 해야 할 가능성이 있습니다. , 기술 및 과학, 타임스 나우",
       "type": "news",
       "sources": [
         {
@@ -330,13 +362,13 @@
       ],
       "published_at": "2026-11-11 13:53",
       "sort_key": 1794405216.0,
-      "id": "1724021837132150838"
+      "id": "6860704589159720462"
     },
     {
       "category": "tek",
       "category_label": "테크·산업",
-      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 담긴 주요 변경 사항에 반발하고 나섰습니다.",
-      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이 다음과 같은 비용을 지불하도록 요구하는 내용입니다...",
+      "title": "빅테크 기업들이 인도네시아의 인공지능(AI) 저작권법 개정안에 반발하고 나섰다",
+      "summary": "수요일, 디지털 플랫폼인 Meta와 TikTok이 Google과 함께 인도네시아 저작권법 개정안의 재검토를 촉구했습니다. 이 개정안은 디지털 플랫폼이...을 지불하도록 요구하는 내용입니다.",
       "type": "news",
       "sources": [
         {
@@ -346,7 +378,7 @@
       ],
       "published_at": "2026-11-11 13:20",
       "sort_key": 1794403244.0,
-      "id": "2754536714032471204"
+      "id": "5282235810842432814"
     }
   ],
   "categories": [
@@ -368,7 +400,7 @@
     {
       "id": "car",
       "label": "자동차",
-      "count": 2
+      "count": 4
     },
     {
       "id": "int",
@@ -415,6 +447,10 @@
       "count": 2
     },
     {
+      "name": "Automotive Industry Portal MarkLines",
+      "count": 1
+    },
+    {
       "name": "Times of India",
       "count": 1
     },
@@ -424,6 +460,10 @@
     },
     {
       "name": "Badan Riset dan Inovasi Nasional",
+      "count": 1
+    },
+    {
+      "name": "Voice of ASIA",
       "count": 1
     },
     {
@@ -447,6 +487,6 @@
       "count": 1
     }
   ],
-  "last_updated": "2026-11-27 18:27:01",
+  "last_updated": "2026-11-28 01:38:43",
   "errors": {}
 }
